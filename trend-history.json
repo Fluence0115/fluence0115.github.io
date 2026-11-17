@@ -50,8 +50,7 @@
       "date": "2026-01-15",
       "dateBasis": "start",
       "topics": [
-        "radiographer",
-        "sonographer"
+        "radiographer"
       ],
       "category": "private",
       "regions": [
@@ -62,7 +61,11 @@
       "source": {
         "label": "확인 출처·원문",
         "url": "https://www.paik.ac.kr/recruit/user/job/view.do?jobId=1657&menuNo=2400004"
-      }
+      },
+      "relatedTopics": [
+        "radiographer",
+        "sonographer"
+      ]
     },
     {
       "id": "history-dirams-297302",
@@ -71,7 +74,6 @@
       "date": "2026-02-27",
       "dateBasis": "posted",
       "topics": [
-        "radiographer",
         "sonographer"
       ],
       "category": "public",
@@ -83,7 +85,11 @@
       "source": {
         "label": "확인 출처·원문",
         "url": "https://job.alio.go.kr/mobile2021/recruit/recruitView.do?idx=297302"
-      }
+      },
+      "relatedTopics": [
+        "radiographer",
+        "sonographer"
+      ]
     },
     {
       "id": "history-paik-1723",
@@ -372,7 +378,6 @@
       "date": "2026-07-10",
       "dateBasis": "posted",
       "topics": [
-        "radiographer",
         "sonographer"
       ],
       "category": "public",
@@ -384,7 +389,11 @@
       "source": {
         "label": "확인 출처·원문",
         "url": "https://job.alio.go.kr/recruitview.do?idx=302622"
-      }
+      },
+      "relatedTopics": [
+        "radiographer",
+        "sonographer"
+      ]
     },
     {
       "id": "history-navy-57982",
@@ -393,7 +402,7 @@
       "date": "2026-08-25",
       "dateBasis": "association_posted",
       "topics": [
-        "safety"
+        "ndt"
       ],
       "category": "public",
       "regions": [
@@ -404,7 +413,10 @@
       "source": {
         "label": "확인 출처·원문",
         "url": "https://www.kans.re.kr/bbs/board.php?bo_table=s2_4&page=1&wr_id=57982"
-      }
+      },
+      "relatedTopics": [
+        "safety"
+      ]
     },
     {
       "id": "history-ilsan-303898",
@@ -453,7 +465,6 @@
       "date": "2026-09-10",
       "dateBasis": "posted",
       "topics": [
-        "radiographer",
         "sonographer"
       ],
       "category": "public",
@@ -465,7 +476,11 @@
       "source": {
         "label": "확인 출처·원문",
         "url": "https://job.alio.go.kr/recruitview.do?idx=304825"
-      }
+      },
+      "relatedTopics": [
+        "radiographer",
+        "sonographer"
+      ]
     },
     {
       "id": "history-kriss-11002",
@@ -514,7 +529,6 @@
       "date": "2026-09-07",
       "dateBasis": "posted",
       "topics": [
-        "safety",
         "ic"
       ],
       "category": "public",
@@ -526,7 +540,11 @@
       "source": {
         "label": "확인 출처·원문",
         "url": "https://job.alio.go.kr/recruitview.do?idx=304678"
-      }
+      },
+      "relatedTopics": [
+        "safety",
+        "ic"
+      ]
     },
     {
       "id": "history-nmc-305638",
@@ -555,7 +573,7 @@
       "date": "2026-10-29",
       "dateBasis": "posted",
       "topics": [
-        "research"
+        "accelerator"
       ],
       "category": "public",
       "regions": [
@@ -566,7 +584,10 @@
       "source": {
         "label": "확인 출처·원문",
         "url": "https://job.alio.go.kr/mobile2021/recruit/recruitView.do?idx=306356"
-      }
+      },
+      "relatedTopics": [
+        "research"
+      ]
     },
     {
       "id": "history-ibs-306356-safety",

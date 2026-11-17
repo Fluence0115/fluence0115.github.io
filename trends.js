@@ -1,16 +1,29 @@
 (function(root){
   'use strict';
   const validDate=s=>typeof s==='string'&&/^\d{4}-\d{2}-\d{2}$/.test(s)&&!isNaN(Date.parse(s+'T00:00:00Z'))&&new Date(s+'T00:00:00Z').toISOString().slice(0,10)===s;
-  function topics(j){
-    const list=[...new Set(j.topics||[])], text=[j.title,j.duties].filter(Boolean).join(' ');
+  const topicOrder=['safety','nuclear_safety','accelerator','research','ic','ndt','radiographer','sonographer','other','faculty'];
+  function primaryTopic(j){
+    const declared=[...new Set((j.topics||[]).filter(t=>topicOrder.includes(t)))];
+    // A reviewed single field is authoritative. Infer only for legacy/imported records.
+    if(declared.length===1)return declared[0];
+    const title=j.title||'',text=[title,j.duties].filter(Boolean).join(' ');
+    if(declared.includes('faculty')||/교수|교원.*초빙/.test(title))return 'faculty';
+    const industrial=/비파괴|위상배열|PAUT|\bUT\b|탐상/i.test(text);
+    const equipment=/생산직|제조직|품질검사|SQA|신호.?영상처리|SW.?개발|소프트웨어.*개발|펌웨어|기구.?개발|Mechanical Engineer|Production Supervisor|기구설계/i.test(title);
     const ultrasound=/초음파|소노[그노]래?퍼|소노그레퍼|sonograph(?:er|y)?|ultrasound|ultrasonograph/i.test(text);
-    const industrial=/비파괴|위상배열|PAUT|\bUT\b|용접|탐상/i.test(text);
     const clinical=/의료|진단|임상|병원|검진|심장|산부인과|혈관|복부|유방/i.test(text);
     const ultrasoundRole=/초음파사|소노|sonograph|초음파.*(?:검사|임상|어플)|ultrasound.*(?:application|clinical)/i.test(text);
-    const equipment=/생산직|제조직|품질검사|SQA|신호.?영상처리|SW.?개발|소프트웨어.*개발|펌웨어|기구.?개발|Mechanical Engineer|Production Supervisor|기구설계/i.test(j.title||'');
-    if(ultrasound&&(clinical||ultrasoundRole)&&!equipment&&!list.includes('faculty')&&(!industrial||clinical)&&!list.includes('sonographer'))list.push('sonographer');
-    return list;
+    if(ultrasound&&(clinical||ultrasoundRole)&&!equipment&&!industrial&&!/해외영업|해영|영업이사/.test(title))return 'sonographer';
+    const safetyAt=title.search(/방사선\s*안전|방사선방호|선량평가|피폭관리/),ndtAt=title.search(/비파괴|탐상|PAUT/i);
+    if(safetyAt>=0&&(ndtAt<0||safetyAt<ndtAt))return 'safety';
+    if(ndtAt>=0)return 'ndt';
+    if(declared.includes('accelerator')||/가속기|사이클로트론|가속관|cyclotron|LINAC|synchrotron/i.test(title))return 'accelerator';
+    if(/방사선사/.test(title)&&!equipment&&!/영업|검증/.test(title))return 'radiographer';
+    if(/계측|제어|펌웨어|SW|소프트웨어|HW|하드웨어|회로|V&V|사이버보안/i.test(title))return 'ic';
+    if(/연구|R&D|개발|CFD/i.test(title)&&declared.includes('research'))return 'research';
+    return ['nuclear_safety','safety','ic','research','radiographer','sonographer','ndt',...topicOrder].find(t=>declared.includes(t))||'other';
   }
+  const topics=j=>[primaryTopic(j)];
   const number=n=>Number.isInteger(n)&&n>0?n:null;
   function records(jobs,history){
     const map=new Map();
@@ -46,5 +59,5 @@
     }
     return {start,end:asOf,months,undated,ads:months.reduce((n,m)=>n+m.ads,0),headcount:months.reduce((n,m)=>n+m.headcount,0),known:months.reduce((n,m)=>n+m.known,0),unknown:months.reduce((n,m)=>n+m.unknown,0),covered:months.filter(m=>m.ads).length};
   }
-  const api={validDate,topics,records,aggregate};if(typeof module==='object')module.exports=api;else root.FluenceTrends=api;
+  const api={validDate,primaryTopic,topicOrder,topics,records,aggregate};if(typeof module==='object')module.exports=api;else root.FluenceTrends=api;
 })(typeof globalThis==='object'?globalThis:this);

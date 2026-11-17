@@ -1,6 +1,6 @@
 (function(root){
   'use strict';
-  function matches(job,selected={},topics=job.topics||[]){
+  function matches(job,selected={},topics=[(job.topics||[])[0]||'other']){
     const {fields=[],regions=[],licenses=[],requiredOnly=false,workspaceLicense=''}=selected;
     if(fields.length&&!fields.some(value=>topics.includes(value)))return false;
     if(regions.length&&!regions.some(value=>(job.regions||[]).includes(value)))return false;
