@@ -28,17 +28,19 @@
     const start=first.toISOString().slice(0,10), months=[];
     const cursor=new Date(Date.UTC(first.getUTCFullYear(),first.getUTCMonth(),1));
     while(cursor<=end){const key=cursor.toISOString().slice(0,7);months.push({key,records:[],ads:0,headcount:0,known:0,unknown:0,repeats:0,partial:key===start.slice(0,7)&&start.slice(8)!=='01'||key===asOf.slice(0,7)&&new Date(Date.UTC(end.getUTCFullYear(),end.getUTCMonth()+1,0)).getUTCDate()!==end.getUTCDate()});cursor.setUTCMonth(cursor.getUTCMonth()+1);}
+    const selectedTopics=options.topics??(options.topic?[options.topic]:[]),selectedRegions=options.regions??(options.region?[options.region]:[]);
     const byMonth=new Map(months.map(m=>[m.key,m]));let undated=0;const ids=new Set(),vacancies=new Set();
     // Recognize earlier campaigns before the window so reposts do not add the same TO again.
     const sorted=[...input].sort((a,b)=>(a.date||'').localeCompare(b.date||''));
     for(const j of sorted){
-      if(options.topic&&!topics(j).includes(options.topic)||options.category&&options.category!=='all'&&j.category!==options.category||options.region&&!(j.regions||[]).includes(options.region))continue;
+      if(selectedTopics.length&&!selectedTopics.some(t=>topics(j).includes(t))||options.category&&options.category!=='all'&&j.category!==options.category||selectedRegions.length&&!selectedRegions.some(r=>(j.regions||[]).includes(r)))continue;
       if(ids.has(j.id))continue;ids.add(j.id);
       if(!validDate(j.date)){undated++;continue;}
       const vacancy=j.vacancyKey||j.id, repeat=vacancies.has(vacancy);vacancies.add(vacancy);
       if(j.date<start||j.date>asOf)continue;
       const m=byMonth.get(j.date.slice(0,7));
-      const n=number(options.topic&&j.openingsByTopic?j.openingsByTopic[options.topic]:j.openings);
+      // Per-topic totals may overlap; a combined selection uses only the verified overall total.
+      const n=number(selectedTopics.length===1&&j.openingsByTopic?j.openingsByTopic[selectedTopics[0]]:j.openings);
       const entry={...j,trendOpenings:n,repeat};m.records.push(entry);m.ads++;
       if(n===null)m.unknown++;else if(repeat)m.repeats++;else {m.headcount+=n;m.known++;}
     }

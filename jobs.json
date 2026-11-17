@@ -784,7 +784,8 @@
       ],
       "relationType": "관련 분야 직접 직무",
       "topics": [
-        "ic"
+        "ic",
+        "accelerator"
       ],
       "openings": null
     },
@@ -4291,7 +4292,8 @@
         "radiographer"
       ],
       "topics": [
-        "radiographer"
+        "radiographer",
+        "accelerator"
       ],
       "relationType": "방사선사 실무",
       "openings": 2
@@ -9519,7 +9521,8 @@
         "research"
       ],
       "topics": [
-        "research"
+        "research",
+        "accelerator"
       ],
       "relationType": "관련 분야 직접 직무",
       "status": "open",
@@ -9561,7 +9564,8 @@
         "research"
       ],
       "topics": [
-        "research"
+        "research",
+        "accelerator"
       ],
       "relationType": "관련 분야 직접 직무",
       "status": "open",
@@ -9938,7 +9942,8 @@
         "research"
       ],
       "topics": [
-        "research"
+        "research",
+        "accelerator"
       ],
       "relationType": "관련 분야 직접 직무",
       "status": "open",
@@ -9981,7 +9986,8 @@
       ],
       "topics": [
         "research",
-        "ic"
+        "ic",
+        "accelerator"
       ],
       "relationType": "관련 분야 직접 직무",
       "status": "open",
@@ -10024,7 +10030,8 @@
       ],
       "topics": [
         "research",
-        "ic"
+        "ic",
+        "accelerator"
       ],
       "relationType": "관련 분야 직접 직무",
       "status": "open",
@@ -10065,7 +10072,8 @@
         "research"
       ],
       "topics": [
-        "research"
+        "research",
+        "accelerator"
       ],
       "relationType": "관련 분야 직접 직무",
       "status": "open",
@@ -15564,7 +15572,8 @@
         "ic"
       ],
       "topics": [
-        "ic"
+        "ic",
+        "accelerator"
       ],
       "relationType": "가속기 전자석 검사·전기시험·측정",
       "status": "open",
@@ -15605,7 +15614,9 @@
         "fusion",
         "maintenance"
       ],
-      "topics": [],
+      "topics": [
+        "accelerator"
+      ],
       "relationType": "가속기 진공·조립 현장지원 · 연구소 직접고용 아님",
       "status": "open",
       "openings": 6,
@@ -15729,7 +15740,9 @@
         "fusion",
         "maintenance"
       ],
-      "topics": [],
+      "topics": [
+        "accelerator"
+      ],
       "relationType": "가속기 조립·진공 현장지원 · 연구소 직접고용 아님",
       "status": "open",
       "openings": null,
