@@ -1,0 +1,3865 @@
+{
+  "version": 4,
+  "asOf": "2026-11-17",
+  "scope": "전국 · 방사선·원자력·연구직·관련 학과 교수 · 임상 방사선사 제외",
+  "updateMode": "2026-11-17 수동 확인 · 자동 갱신 미연결",
+  "jobs": [
+    {
+      "id": "kfe-19898",
+      "company": "한국핵융합에너지연구원",
+      "title": "2026년 제2차 정규직 · 10분야 11명",
+      "category": "public",
+      "regions": [
+        "대전",
+        "전북"
+      ],
+      "location": "대전 10명 · 군산 1명",
+      "education": "분야별 석사 이상 / 박사",
+      "experience": "신입·경력, 분야별 경력 우대",
+      "employment": "정규직",
+      "salary": "연구원 내부 규정",
+      "posted": "2026-11-17",
+      "start": "2026-11-17",
+      "end": "2026-12-02T16:00:00+09:00",
+      "duties": "핵융합 설계·삼중수소 공정·진단제어·원격유지보수 등",
+      "qualifications": "분야별 관련 전공. 보훈·장애인·여성과학기술인 가점. SRI·RI 필수 명시 없음.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "공식 공고·첨부",
+          "url": "https://www.kfe.re.kr/board.es?mid=a10304010000&bid=0013&act=view&list_no=19898"
+        },
+        {
+          "label": "지원 사이트",
+          "url": "https://kfe.fairy.im/"
+        }
+      ],
+      "notes": "공식 공고문은 11/17 접수 시작이지만 지원 사이트는 진행 중 0건으로 표시됩니다. 임용예정일 2027/2/1. 접수 가능 여부 문의: 042-879-6055 / recruit@kfe.re.kr.",
+      "grade": "선임급 이하",
+      "status": "check",
+      "detail": [
+        "대전 · AI 기반 가상 핵융합로 설계통합·최적화 2명 — 박사, 물리·핵융합·원자력 등",
+        "대전 · 디버터 시험시설 구축 1명 — 석사 이상, 물리·재료·기계·원자력 등",
+        "대전 · 디버터 설계·공학해석 1명 — 박사, 기계·원자력·재료·물리 등",
+        "대전 · 원격제어로봇 개발 1명 — 박사, 컴퓨터·기계·메카트로닉스 등",
+        "대전 · 삼중수소 플랜트 공정 설계·최적화 1명 — 박사, 화공·원자력 등",
+        "대전 · KSTAR 내벽·경계플라즈마 진단제어 1명 — 박사, 물리·광학·전기전자·기계 등",
+        "대전 · 핵융합연료 가스 공정 연구·검증 1명 — 석사 이상, 화학·화공·에너지·원자력·기계 등",
+        "대전 · ITER 지식 플랫폼·AI 활용 1명 — 석사 이상, 전산·컴퓨터·소프트웨어 등",
+        "대전 · 원격유지보수 설계 엔지니어링 1명 — 석사 이상, 기계·메카트로닉스·로봇 등",
+        "군산 · 핵융합 PFC 보수·복원·표면처리 1명 — 박사, 재료·기계 등"
+      ],
+      "checked": "2026-11-17",
+      "verification": "공식 공고·첨부 확인",
+      "jobType": "public",
+      "fields": [
+        "nuclear",
+        "fusion",
+        "research"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "kps-307112",
+      "company": "한전KPS",
+      "title": "한빛5호기 OH · 계측분야 38명",
+      "category": "public",
+      "regions": [
+        "영광"
+      ],
+      "location": "영광군 홍농읍 한빛3사업처",
+      "education": "학력무관",
+      "experience": "직무별 경력·자격",
+      "employment": "단기 계약직",
+      "salary": "일급 협의 · 금액 미공개",
+      "posted": "2026-11-17",
+      "start": "2026-11-17",
+      "end": "2026-11-23T15:00:00+09:00",
+      "duties": "ICI 10명, 전원공급기 9명, 정비보조 12명, 비계 5명, 사무보조 2명",
+      "qualifications": "ICI: 고방사능구역 출입 가능 및 노내계측기 교체·인출·설치 경험 모두 필수. 전원공급기는 지정 자격·기술등급 중 요건 충족, 비계 자격 필수.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "공식 원문·첨부",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=307112"
+        }
+      ],
+      "notes": "공사기간 2027/1/14~4/30, 개인별 근무기간 상이. 접수: 82850@kps.co.kr 또는 방문. 숙식 미제공, 광주 통근버스 운영.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "공식 공고·첨부 확인",
+      "jobType": "public",
+      "fields": [
+        "ic",
+        "maintenance"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "kps-307102",
+      "company": "한전KPS",
+      "title": "한빛5호기 OH · 기전분야 150명",
+      "category": "public",
+      "regions": [
+        "영광"
+      ],
+      "location": "영광군 홍농읍 한빛3사업처",
+      "education": "학력무관",
+      "experience": "직무별 경력·자격",
+      "employment": "단기 계약직",
+      "salary": "일급 협의 · 금액 미공개",
+      "posted": "2026-11-17",
+      "start": "2026-11-17",
+      "end": "2026-11-23T15:00:00+09:00",
+      "duties": "정비보조 127명, 안전패트롤 3명, ECT 보조 10명, OCC 1명, FME 3명, 사무보조 6명",
+      "qualifications": "안전패트롤: 산업안전기사 필수. ECT: 열교환기 신호수집 보조 2회 이상 우대. OCC·FME: 해당 업무 2회 이상 또는 지정 발전소 경력.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "공식 원문·첨부",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=307102"
+        }
+      ],
+      "notes": "공사기간 2027/1/14~4/30, 개인별 상이. 접수: 82850@kps.co.kr 또는 방문. 숙식 미제공.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "공식 공고·첨부 확인",
+      "jobType": "public",
+      "fields": [
+        "maintenance"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "kps-307053",
+      "company": "한전KPS",
+      "title": "신한울2호기 OH · 단기노무원 2차 51명",
+      "category": "public",
+      "regions": [
+        "경북"
+      ],
+      "location": "경북 울진군 북면",
+      "education": "학력무관",
+      "experience": "신입·경력, 직무별 필수경력",
+      "employment": "단기 계약직",
+      "salary": "일급 내부 단가 · 금액 미공개",
+      "posted": "2026-11-16",
+      "start": "2026-11-16T13:00:00+09:00",
+      "end": "2026-11-20T13:00:00+09:00",
+      "duties": "비파괴 1명, 안전패트롤 5명, 정비보조 32명, 원자력기계설치 2명, 중기 3명, 사무보조 8명",
+      "qualifications": "비파괴검사 국가자격 기사 이상 필수. 기계설치: 발전설비 정비경력, 중기: 천장크레인운전기능사. 안전패트롤은 안전 자격 또는 지정 경력.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "공식 원문·첨부",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=307053"
+        }
+      ],
+      "notes": "근무기간 2026/12/20~2027/2/27 예정. ALIO 요약은 만 18세 이상·건설업 기초안전보건교육 이수예정자, 첨부 공고문은 연령 제한 없음으로 상충. 접수: biz01005431@kps.co.kr.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "공식 공고·첨부 확인",
+      "jobType": "public",
+      "fields": [
+        "nuclear",
+        "radiation",
+        "maintenance",
+        "ndt"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "nssc-46302",
+      "company": "원자력안전위원회",
+      "title": "생활방사선안전과장 · 공모직위 1명",
+      "category": "public",
+      "regions": [
+        "서울",
+        "세종"
+      ],
+      "location": "서울 · 2027년 상반기 세종 이전 예정",
+      "education": "직위 관련 학력·경력·실적",
+      "experience": "현직 공무원 직급 요건 필수",
+      "employment": "공무원 보직 공모",
+      "salary": "연봉 미공개 · 조건부 수당 별도",
+      "posted": "2026-11-16",
+      "start": "2026-11-16",
+      "end": "2026-11-23T18:00:00+09:00",
+      "duties": "생활주변방사선 정책, 원료물질·공정부산물 관리, 우주방사선, 공항·항만 감시기, 검사·교육",
+      "qualifications": "4급 또는 이에 상응하는 경력직공무원, 승진소요 최저연수 3년 이상 5급 등. 관련 분야는 원자력·방사선안전·방사선방재. 면허만으로 응시 가능한 공고가 아닙니다.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "공식 공고·첨부",
+          "url": "https://www.nssc.go.kr/ko/cms/FR_BBS_CON/BoardView.do?BBS_SEQ=46302&BOARD_SEQ=4&CONTENTS_NO=1&MENU_ID=180&SITE_NO=2"
+        },
+        {
+          "label": "인크루트 · 중복 공고",
+          "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000632"
+        }
+      ],
+      "notes": "최소 2년 보직. 등기우편 또는 방문 접수, 마감일 소인 기준. 타부처 임용 조건 충족 시 월 10만원 보전수당+60만원 가산금. 포털의 경력무관·계약직·홈페이지지원 요약과 다릅니다. 인크루트는 경력무관·계약직으로 요약하지만 공식 공모직위의 현직 공무원 요건이 우선합니다.",
+      "grade": "서기관 또는 과학기술서기관",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "공식 공고·첨부 확인",
+      "jobType": "public",
+      "fields": [
+        "nuclear",
+        "radiation",
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sean-55592660",
+      "company": "세안에너텍",
+      "title": "원자력·방사선 분야 책임자",
+      "category": "private",
+      "regions": [
+        "대전",
+        "서울"
+      ],
+      "location": "대전 유성구 / 서울 금천구 기재, 배치 확인 필요",
+      "education": "전문대 이상 · 관련 전공",
+      "experience": "요약 10년↑ / 상세 15년↑ 상충",
+      "employment": "정규직",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-17T09:00:00+09:00",
+      "end": "2026-11-30T23:59:00+09:00",
+      "duties": "원자력·방사선 안전관리 총괄, 인허가·규제기관 대응, 국책과제",
+      "qualifications": "조직·기술책임자 경험 등. RI·SRI·원자력기사 우대.",
+      "licenses": [
+        {
+          "name": "SRI",
+          "level": "우대"
+        },
+        {
+          "name": "RI",
+          "level": "우대"
+        }
+      ],
+      "links": [
+        {
+          "label": "공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55592660"
+        }
+      ],
+      "notes": "동일 직무 재공고. 경력 요건과 실제 배치 근무지를 확인해야 합니다.",
+      "grade": "책임자급 · 세부 직급 협의",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 확인",
+      "jobType": "safety",
+      "fields": [
+        "nuclear",
+        "radiation",
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "hojin-55582492",
+      "company": "호진산업기연",
+      "title": "방사선안전관리 · RI 필수 1명",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 안성시 원곡면",
+      "education": "전문대 이상 · 졸업예정 가능",
+      "experience": "신입 또는 경력 1~5년",
+      "employment": "정규직 · 수습 3개월",
+      "salary": "면접 후 결정",
+      "posted": "2026-11-16",
+      "start": "2026-11-16T12:00:00+09:00",
+      "end": "2027-01-15T23:59:00+09:00",
+      "duties": "안전 관리·점검, 방사성동위원소 운반·판매, 장비 운영·품질관리",
+      "qualifications": "RI 일반면허 필수, 운전·문서작성 역량. 관련 전공·Excel·CAD 등 우대.",
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "필수"
+        }
+      ],
+      "links": [
+        {
+          "label": "공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55582492"
+        }
+      ],
+      "notes": "기존 SRI 모집과 구분되는 RI 일반면허 필수 모집입니다.",
+      "grade": "사원·주임",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 확인",
+      "jobType": "safety",
+      "fields": [
+        "radiation",
+        "safety",
+        "quality",
+        "isotope"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "gscop-50370626",
+      "company": "지스콥",
+      "title": "전국 정규직 비파괴검사원",
+      "category": "private",
+      "regions": [
+        "대전",
+        "경기",
+        "전국"
+      ],
+      "location": "전국 지점 · 세부 지역은 상세 참조",
+      "education": "고졸 이상",
+      "experience": "신입·경력 · 초보 가능",
+      "employment": "정규직",
+      "salary": "연봉 지역별 상이 · 평택 3,600~4,000만원 등",
+      "posted": null,
+      "start": "2026-11-16",
+      "end": "2026-11-28",
+      "duties": "RT·UT·MT·PT 등 비파괴검사",
+      "qualifications": "직무교육 후 입사. SRI·RI 필수 명시 없음.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "공고·지원",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50370626"
+        }
+      ],
+      "notes": "재공고. 교육 11/28~2027/1/10. 본문 연봉: 평택 3,600~4,000만, 의왕 3,400~3,500만, 화성 3,700~4,000만원. 울산·창원·거제·인천·부산·서산·건천·목포·여수·김해·통영·대구·함안·경주·천안·청주도 기재. 대전 본문 연봉 3,800~4,000만원.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 확인",
+      "jobType": "safety",
+      "fields": [
+        "radiation",
+        "quality",
+        "ndt"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "kies-55592166",
+      "company": "한국공업엔지니어링",
+      "title": "본사 비파괴검사원 · 방사선안전관리",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 송파구 오금로 471",
+      "education": "고졸 이상",
+      "experience": "경력무관 · 신입 가능",
+      "employment": "정규직",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-17T09:00:00+09:00",
+      "end": "2027-01-16T23:59:00+09:00",
+      "duties": "비파괴검사 현장 업무 및 안전관리",
+      "qualifications": "RI 일반면허·운전·관련 경험 우대. 제목 RI 표기와 달리 본문은 우대 조건.",
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "우대"
+        }
+      ],
+      "links": [
+        {
+          "label": "공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55592166"
+        }
+      ],
+      "notes": "재공고. 이전 공고의 연봉 금액은 이번 공고에 적용하지 않았습니다.",
+      "grade": "면접 후 결정",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 확인",
+      "jobType": "safety",
+      "fields": [
+        "radiation",
+        "safety",
+        "quality",
+        "ndt"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "hana-55583915",
+      "company": "하나원자력기술",
+      "title": "원전 방사선안전관리원 · 2명",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 기장군 · 고리3호기 업무 기재",
+      "education": "전문대 이상",
+      "experience": "신입·경력 · 연수무관",
+      "employment": "정규직",
+      "salary": "연봉 3,640만원",
+      "posted": null,
+      "start": "2026-11-16T14:00:00+09:00",
+      "end": "2026-12-16T23:59:00+09:00",
+      "duties": "방사선방호·방사성폐기물·보건물리 등 원전 방사선관리",
+      "qualifications": "관련 전공 또는 RI·SRI·원자력기사 등 관련 면허·자격 요건. 대체 인정 범위 확인 필요.",
+      "licenses": [
+        {
+          "name": "SRI",
+          "level": "대체·우대"
+        },
+        {
+          "name": "RI",
+          "level": "대체·우대"
+        }
+      ],
+      "links": [
+        {
+          "label": "공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55583915"
+        }
+      ],
+      "notes": "근무조건 주 5일과 복리후생 주 4일 표기가 상충합니다. 담당 070-4035-1436.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 확인",
+      "jobType": "safety",
+      "fields": [
+        "nuclear",
+        "radiation",
+        "safety",
+        "waste"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "hanil-55579485",
+      "company": "한일원자력",
+      "title": "한울 원전 방사선관리 · 2명",
+      "category": "private",
+      "regions": [
+        "경북"
+      ],
+      "location": "경북 울진군 북면",
+      "education": "학사 이상 · 졸업예정 가능",
+      "experience": "신입 또는 경력 1년 이상",
+      "employment": "정규직 · 수습 3개월",
+      "salary": "면접 후 결정",
+      "posted": "2026-11-16",
+      "start": "2026-11-16T09:00:00+09:00",
+      "end": "2026-12-16T23:59:00+09:00",
+      "duties": "한울 원자력발전소 방사선관리",
+      "qualifications": "에너지·원자력·물리·방사선 전공. RI가 자격요건 및 우대 양쪽에 기재되어 필수 여부 확인 필요.",
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "필수 여부 확인"
+        }
+      ],
+      "links": [
+        {
+          "label": "공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55579485"
+        }
+      ],
+      "notes": "",
+      "grade": "사원",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 확인",
+      "jobType": "safety",
+      "fields": [
+        "nuclear",
+        "radiation"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "apn-55585627",
+      "company": "에이피엔",
+      "title": "창원출장소 비파괴검사 · 일반 1명",
+      "category": "private",
+      "regions": [
+        "경남"
+      ],
+      "location": "경남 창원 성산구 · S&T에너지 내 출장소",
+      "education": "학력무관",
+      "experience": "경력무관 · 신입 가능",
+      "employment": "정규직",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-16T16:00:00+09:00",
+      "end": "2026-12-16T23:59:00+09:00",
+      "duties": "검사장비 운영·관리, 안전절차, 검사 결과보고",
+      "qualifications": "MT/PT 경력 우대. 방사선·침투 비파괴검사기능사 및 관련 3년 이상 경력 우대.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55585627"
+        }
+      ],
+      "notes": "제목·주소는 창원이나 상세 부서명은 울산출장소로 기재됩니다. 근무지 확인 필요.",
+      "grade": "팀원 · 세부 직급 면접 협의",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 확인",
+      "jobType": "safety",
+      "fields": [
+        "radiation",
+        "ndt"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "apn-55585743",
+      "company": "에이피엔",
+      "title": "창원출장소 비파괴검사 · PAUT 1명",
+      "category": "private",
+      "regions": [
+        "경남"
+      ],
+      "location": "경남 창원 성산구 · S&T에너지 내 출장소",
+      "education": "학력무관",
+      "experience": "경력무관 · 신입 가능",
+      "employment": "정규직",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-16T16:00:00+09:00",
+      "end": "2026-12-16T23:59:00+09:00",
+      "duties": "검사장비 운영·관리, 안전절차, 검사 결과보고",
+      "qualifications": "PAUT ISO Level 2 우대. 방사선·침투 비파괴검사기능사 및 관련 3년 이상 경력 우대.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55585743"
+        }
+      ],
+      "notes": "제목·주소는 창원이나 상세 부서명은 울산출장소로 기재됩니다. 근무지 확인 필요.",
+      "grade": "팀원 · 세부 직급 면접 협의",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 확인",
+      "jobType": "safety",
+      "fields": [
+        "radiation",
+        "ndt"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "koryo-55587688",
+      "company": "고려공업검사",
+      "title": "여수사업소 비파괴검사 · 방사선안전관리",
+      "category": "private",
+      "regions": [
+        "여수"
+      ],
+      "location": "여수시 성산로 24",
+      "education": "고졸 이상",
+      "experience": "신입·경력 · 연수무관",
+      "employment": "정규직",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-16T18:00:00+09:00",
+      "end": "2027-01-15T23:59:00+09:00",
+      "duties": "비파괴검사 실무 / 방사선안전관리",
+      "qualifications": "확인한 본문에 필수 면허 별도 명시 없음.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55587688"
+        }
+      ],
+      "notes": "기술부 소속. 담당 061-692-5141.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 확인",
+      "jobType": "safety",
+      "fields": [
+        "radiation",
+        "safety",
+        "ndt"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "hct-55584435",
+      "company": "에이치시티",
+      "title": "원전검사원 · 성능검증·품질검증(CGID)",
+      "category": "private",
+      "regions": [
+        "경기",
+        "대구"
+      ],
+      "location": "경기 이천·의왕, 대구 기재",
+      "education": "학사 이상",
+      "experience": "원자력 품질검사 또는 지정 검증시험 1년 이상",
+      "employment": "정규직 · 수습 3개월",
+      "salary": "면접 후 결정",
+      "posted": "2026-11-16",
+      "start": "2026-11-16T14:00:00+09:00",
+      "end": null,
+      "duties": "입회검사, NCR·NOA 후속조치, 원자력 품질시스템 관리",
+      "qualifications": "내진·내환경·CGID·전자파 검증시험 경력 등 요건. 관련 엔지니어링협회 기술자·영어 우대.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "모집 원문",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55584435"
+        },
+        {
+          "label": "공식 지원",
+          "url": "https://hct.recruiter.co.kr/"
+        }
+      ],
+      "notes": "재등록·요건 변경. 이전 NISP 경력 4~6년과 이번 모집 이미지 1년 이상이 다릅니다. 요약 근무지 이천, 이미지에는 의왕·대구도 기재. 공식 지원 목록은 화면 구성으로 상세 확인 제한.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 확인",
+      "jobType": "other",
+      "fields": [
+        "nuclear",
+        "quality"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "powerhr-55591402",
+      "company": "파워에이치알 중개",
+      "title": "계측제어 시스템 엔지니어 · 기업 비공개",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 마포구 상암동",
+      "education": "학사 이상 · 전기·전자·원자력 관련",
+      "experience": "경력 5~10년",
+      "employment": "정규직",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-17T08:00:00+09:00",
+      "end": null,
+      "duties": "시스템 설계·제작·성능검증·설치·시운전",
+      "qualifications": "2종 보통 이상·운전 가능. 관련 자격·원자력 계측제어 경험 우대.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55591402"
+        }
+      ],
+      "notes": "원자력 계측제어 경험 우대 공고이나 채용기업명과 원자력 사업 범위는 비공개입니다.",
+      "grade": "대리·과장",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 확인",
+      "jobType": "other",
+      "fields": [
+        "quality",
+        "ic"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "duc-50364930",
+      "company": "듀켐바이오",
+      "title": "기술사업부 엔지니어 · 핵의학 장비",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 마포구 · 현장 출장",
+      "education": "학사 · 전기·전자·기계 관련",
+      "experience": "해당 직무 5년 이상",
+      "employment": "정규직 · 수습 3개월",
+      "salary": "면접 후 결정",
+      "posted": "2026-11-13",
+      "start": "2026-11-13",
+      "end": "2026-12-18",
+      "duties": "사이클로트론·합성모듈·PET/CT·감마카메라 수리·예방점검, 방사성의약품 생산시설 기술지원",
+      "qualifications": "출장 가능·영어 기술문서 해독. 관련 장비 유지보수 경험 우대.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "잡코리아 공고·지원",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50364930"
+        },
+        {
+          "label": "사람인 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55569769"
+        }
+      ],
+      "notes": "11/13 시작 공고 추가 발견. 잡코리아 12/18·사람인 12/13 23:59로 마감일 상충, 채용 시 조기 마감. 방사성의약품 제조·판매 기업의 장비 직무.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 확인",
+      "jobType": "other",
+      "fields": [
+        "radiation",
+        "isotope"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "duc-50377075",
+      "company": "듀켐바이오",
+      "title": "방사성의약품 품질관리 QC · 재등록",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 서구 동아대학교병원 내 사업장",
+      "education": "전문대 이상",
+      "experience": "경력무관 · 신입 가능",
+      "employment": "정규직 · 수습 3개월",
+      "salary": "면접 후 결정",
+      "posted": "2026-11-16",
+      "start": "2026-11-16",
+      "end": "2026-12-16",
+      "duties": "방사성의약품 품질관리. 기존 사람인에는 품질시험·기기관리·GMP 문서관리 기재",
+      "qualifications": "관련 전공·분석 경험·야간근무 가능자 등 우대.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "재등록 공고·지원",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50377075"
+        },
+        {
+          "label": "기존 사람인 공고",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55406160"
+        }
+      ],
+      "notes": "잡코리아 담당업무 칸은 미작성 문구가 남아 있어 세부업무는 기존 사람인 기준. 기존 사람인 10/27~11/30, 새 잡코리아 11/16~12/16. 08~17시/02~11시 격주 순환.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 확인",
+      "jobType": "other",
+      "fields": [
+        "radiation",
+        "quality",
+        "isotope"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "duc-50360465",
+      "company": "듀켐바이오",
+      "title": "경영관리본부 인사총무팀 · 경력",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 마포구 와우산로 81",
+      "education": "학사 이상",
+      "experience": "관련 경력 10년 이상 · 팀 리딩 필수",
+      "employment": "정규직 · 수습 3개월",
+      "salary": "면접 후 결정",
+      "posted": "2026-11-13",
+      "start": "2026-11-13",
+      "end": "2026-12-13",
+      "duties": "평가·보상·채용 제도, 인건비·노무·법무, 팀 운영",
+      "qualifications": "평가·보상 실무 필수. HRIS·ATS·노무사·HR 분석 등 우대.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "공고·지원",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50360465"
+        }
+      ],
+      "notes": "방사성의약품 제조·판매 기업의 인사 직무이며, 방사선 업무 자체를 수행하는 직무는 아닙니다. 11/13 시작 공고 추가 발견.",
+      "grade": "리더·팀장급 경험 요구 · 세부 직급 미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 확인",
+      "jobType": "other",
+      "fields": [
+        "support"
+      ],
+      "relationType": "관련 기업의 기타 직무"
+    },
+    {
+      "id": "duc-50364434",
+      "company": "듀켐바이오",
+      "title": "임원 수행기사 · 경력",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 마포구 와우산로 81",
+      "education": "고졸 이상",
+      "experience": "해당 직무 10년 이상",
+      "employment": "정규직 · 수습 3개월",
+      "salary": "면접 후 결정",
+      "posted": "2026-11-13",
+      "start": "2026-11-13",
+      "end": "2026-12-18",
+      "duties": "임원 차량 운전·차량관리",
+      "qualifications": "안전운전·시간 준수·장기근무 가능자 우대.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "공고·지원",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50364434"
+        }
+      ],
+      "notes": "방사성의약품 기업의 기타 직무이며 방사성의약품 운반기사와 다른 채용입니다. 기본 08~17시, 일정에 따라 변동. 채용 시 조기 마감. 11/13 시작 공고 추가 발견.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 확인",
+      "jobType": "other",
+      "fields": [
+        "support"
+      ],
+      "relationType": "관련 기업의 기타 직무"
+    },
+    {
+      "id": "daeun-55557038",
+      "company": "대운가스프랜트",
+      "title": "방사선 안전관리자 · SRI",
+      "category": "private",
+      "regions": [
+        "울산"
+      ],
+      "location": "울산 남구",
+      "education": "학력무관",
+      "experience": "경력무관 · 신입 포함",
+      "employment": "정규직 · 수습 3개월",
+      "salary": "연봉 6,000만원",
+      "posted": null,
+      "start": "2026-11-12T15:00:00+09:00",
+      "end": "2026-12-12T23:59:00+09:00",
+      "duties": "방사선취급감독자 면허를 활용한 사업장 방사선 안전관리",
+      "qualifications": "SRI 및 운전면허 등 자격조건은 원문 확인.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55557038"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "SRI",
+          "level": "필수"
+        }
+      ],
+      "notes": "",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 · 접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "daehan-55231754",
+      "company": "대한검사기술",
+      "title": "방사선안전관리자 · SRI 2명",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 하남시 미사강변중앙로 25",
+      "education": "학력무관",
+      "experience": "사람인 경력무관 · 신입 포함",
+      "employment": "정규직",
+      "salary": "연봉 5,000만원 이상 · 협의 가능",
+      "posted": null,
+      "start": "2026-10-07",
+      "end": null,
+      "duties": "비파괴검사 선원의 안전관리와 방사선 관련 서류 업무",
+      "qualifications": "SRI 필수. 선원 운반 운전 가능자 우대, 면허·운전 수당 별도.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55231754"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "SRI",
+          "level": "필수"
+        }
+      ],
+      "notes": "포털 자격 목록에는 RI 일반·특수 표기가 있으나 상세 직무내용은 SRI 필수로 명시합니다. 별도 일자리박람회 공고와 혼동하지 않도록 이 원문의 채용 시 마감 조건으로 수록했습니다.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 · 접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "safety",
+        "ndt"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "hdx-55569825",
+      "company": "에이치디엑스(HDX)",
+      "title": "방사선안전관리자 · SRI 1명",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 안양시 동안구 · HDX 평촌지점",
+      "education": "학력무관",
+      "experience": "신입·경력",
+      "employment": "정규직",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-16",
+      "end": "2026-11-30T23:59:00+09:00",
+      "duties": "방사성동위원소 생산·판매와 인허가 업무대행 관련 안전관리",
+      "qualifications": "SRI 필수. 방사선 관련 전공 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55569825"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "SRI",
+          "level": "필수"
+        }
+      ],
+      "notes": "",
+      "grade": "면접 시 협의",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 · 접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "safety",
+        "isotope"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "hojin-sri-55376769",
+      "company": "호진산업기연",
+      "title": "방사선 안전관리 · SRI 필수",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 안성시",
+      "education": "전문대 이상 · 졸업예정 가능",
+      "experience": "신입 또는 경력 1~5년",
+      "employment": "정규직 · 수습 3개월",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-23T14:00:00+09:00",
+      "end": "2026-11-22T23:59:00+09:00",
+      "duties": "방사선취급감독자 선임·안전관리",
+      "qualifications": "SRI, 운전 가능, 문서작성 능력. 물리·방사선 등 관련 전공과 CAD·경험 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55376769"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "SRI",
+          "level": "필수"
+        }
+      ],
+      "notes": "같은 회사의 RI 필수 공고(11/16 등록)와 별도 면허·마감의 모집입니다.",
+      "grade": "사원·주임",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 · 접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "hyundai-55577226",
+      "company": "현대기술검사",
+      "title": "양산 비파괴검사 · 신입·경력",
+      "category": "private",
+      "regions": [
+        "경남"
+      ],
+      "location": "경남 양산시",
+      "education": "학력무관",
+      "experience": "신입·경력 · 연수무관",
+      "employment": "정규직",
+      "salary": "연봉 3,000만원 이상(고용24)",
+      "posted": null,
+      "start": "2026-11-16T08:00:00+09:00",
+      "end": "2026-11-30T23:59:00+09:00",
+      "duties": "산업 설비 비파괴검사 · UT·MT 등",
+      "qualifications": "UT·MT 자격 소지자 우대. 방사선사 직무가 아닌 산업 검사원 모집.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55577226"
+        },
+        {
+          "label": "고용24 · 공고·지원",
+          "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet&wantedAuthNo=K131612611050016"
+        }
+      ],
+      "licenses": [],
+      "notes": "사람인 연봉 3,000만원, 고용24 3,000만원 이상. 고용24 등록 11/5, 사람인 재등록 접수 시작 11/16. 고용24 마감 11/30 24:00, 사람인 23:59.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 · 접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "ndt"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "koryo-busan-55566409",
+      "company": "고려검사",
+      "title": "비파괴검사원 및 RI 면허자",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 사상구",
+      "education": "고졸 이상",
+      "experience": "신입",
+      "employment": "정규직 · 수습 3개월",
+      "salary": "연봉 3,000만원",
+      "posted": null,
+      "start": "2026-11-13T13:00:00+09:00",
+      "end": "2026-12-13T23:59:00+09:00",
+      "duties": "방사선 등 산업 비파괴검사와 RI 면허 관련 업무",
+      "qualifications": "공고 제목에 RI 면허자 모집. 상세 직무별 필수 여부는 채용처 확인.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55566409"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "직무별 확인"
+        }
+      ],
+      "notes": "",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 · 접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "quality",
+        "ndt"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "gts-20261112",
+      "company": "지.티.에스(GTS)",
+      "title": "비파괴검사 · 안산·평택 통합 안내",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 안산시 단원구 / 평택시 포승읍",
+      "education": "학력무관",
+      "experience": "신입·경력 · OJT 후 업무",
+      "employment": "정규직",
+      "salary": "연봉 2,800~3,100만원 · 고용24 기준",
+      "posted": "2026-11-12",
+      "start": "2026-11-12T09:54:33+09:00",
+      "end": "2026-11-30",
+      "duties": "산업 구조물 내부·표면 결함 검사와 결과 기록",
+      "qualifications": "RI·PAUT 및 비파괴검사 자격증 우대.",
+      "links": [
+        {
+          "label": "고용24 · 공고·지원",
+          "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet&wantedAuthNo=KJKP002611120002"
+        },
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55553078"
+        },
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55553106"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "우대"
+        }
+      ],
+      "notes": "안산·평택의 사람인 공고를 고용24의 두 사업소 통합 채용과 한 항목으로 묶었습니다. 고용24 연봉 2,800~3,100만원·마감 11/30, 사람인은 면접 후 결정·마감 12/12로 상충합니다. 사업소별 시간도 다르므로 지원 원문 확인. 목록 마감은 더 이른 고용24 기준.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 · 접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "ndt"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "godo-55535003",
+      "company": "고도기술",
+      "title": "신한울 1·2호기 방사선관리 · 3명",
+      "category": "private",
+      "regions": [
+        "경북"
+      ],
+      "location": "경북 울진군 북면 울진북로 2040",
+      "education": "학사 이상 · 원자력·방사선·물리 관련",
+      "experience": "신입",
+      "employment": "정규직 · 수습 1개월",
+      "salary": "연봉 3,540만원",
+      "posted": null,
+      "start": "2026-11-10T15:00:00+09:00",
+      "end": "2026-11-30T23:59:00+09:00",
+      "duties": "원자력발전소 현장 방사선 관리",
+      "qualifications": "원자력·물리·방사선 전공 및 RI 자격 조건 표기. RI 보유자 면허수당·숙소비 지원.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55535003"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "자격조건 명시"
+        }
+      ],
+      "notes": "",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 · 접수기간·상세 확인",
+      "fields": [
+        "nuclear",
+        "radiation"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "drgem-55548252",
+      "company": "디알젬",
+      "title": "방사선안전관리(RI)·인허가",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 광명시 소하동 광명테크노파크",
+      "education": "학사 이상 · 졸업예정 가능",
+      "experience": "신입 또는 경력 1~20년",
+      "employment": "정규직 · 수습 3개월",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-11T18:00:00+09:00",
+      "end": "2026-12-11T23:59:00+09:00",
+      "duties": "방사선 장치 제조기업의 안전관리 및 인허가 업무",
+      "qualifications": "RI 일반면허. 공학·방사선·자연계열 및 관련 직무 경험 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55548252"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "필수"
+        }
+      ],
+      "notes": "포털 검색 대상 지역은 넓게 설정되어 있으나 모집 사업장 주소는 경기 광명입니다.",
+      "grade": "사원·대리·과장",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 · 접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "enviro-55469210",
+      "company": "엔바이로코리아",
+      "title": "방사성의약품 생산",
+      "category": "private",
+      "regions": [
+        "대전"
+      ],
+      "location": "대전 유성구",
+      "education": "고졸 이상",
+      "experience": "경력무관 · 신입 포함",
+      "employment": "정규직 · 수습 6개월",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-03T13:00:00+09:00",
+      "end": "2026-12-03T23:59:00+09:00",
+      "duties": "방사성의약품 생산 업무",
+      "qualifications": "생산 시간 변동 근무 가능자. RI·운전면허·원자력·방사화학 등 전공 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55469210"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "우대"
+        }
+      ],
+      "notes": "포털 출퇴근 시간이 09:00~06:00으로 표기되어 있어 실제 근무표를 확인해야 합니다.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 · 접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "isotope"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "people-incruit-2611130003021",
+      "company": "피플스카우트 중개 · 채용기업 비공개",
+      "title": "방사선 계측장비 기술영업",
+      "category": "private",
+      "regions": [
+        "서울",
+        "대전"
+      ],
+      "location": "서울 구로구 / 대전 유성구 선택 · 본문 기준",
+      "education": "학사 이상",
+      "experience": "기술영업 8~15년",
+      "employment": "정규직",
+      "salary": "연봉 4,000~7,500만원 · 경력별 협의",
+      "posted": null,
+      "start": "2026-11-13T00:00:00+09:00",
+      "end": "2026-12-13T23:59:00+09:00",
+      "duties": "방사선·방사능 및 화학 측정장비의 영업·기술지원·유지보수",
+      "qualifications": "이공계 학사 또는 기사 등 엔지니어링협회 등록 가능 요건. 계측·LSC 분석 경험, 원자력 등 전공 우대.",
+      "links": [
+        {
+          "label": "인크루트 · 공고·지원",
+          "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611130003021"
+        }
+      ],
+      "licenses": [],
+      "notes": "인크루트 요약란은 서울·회사내규, 상세 본문은 서울/대전 선택·연봉 4,000~7,500만원으로 명시합니다. 본문은 채용 시 조기마감 안내. 채용기업명은 공개되지 않았습니다.",
+      "grade": "과장·차장 / 팀원",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 · 접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "isotope",
+        "support"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sensor-incruit-2610210004160",
+      "company": "센서테크",
+      "title": "방사선취급감독자 · SRI 소지자",
+      "category": "private",
+      "regions": [
+        "대전"
+      ],
+      "location": "대전 유성구 죽동로 171",
+      "education": "학력무관",
+      "experience": "경력무관 · 신입 포함",
+      "employment": "정규직",
+      "salary": "연봉 협의 · 금액 미공개",
+      "posted": "2026-10-21",
+      "start": "2026-10-21",
+      "end": null,
+      "duties": "방사선 안전관리·감독 및 개발 연구소 설계 관련 업무",
+      "qualifications": "SRI 소지자 모집. 상세 본문에 CAD·회로·펌웨어 등 개발 업무도 기재.",
+      "links": [
+        {
+          "label": "인크루트 · 공고·지원",
+          "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610210004160"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "SRI",
+          "level": "필수"
+        }
+      ],
+      "notes": "상시채용. 매월 원하는 날짜의 탄력 근무 가능 문구가 있으므로 실제 근무일·감독 업무와 개발업무 범위를 확인하세요. 기업 평균연봉은 이 직무의 제시연봉이 아니므로 목록에 사용하지 않았습니다.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 · 접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "medical-incruit-2610200002287",
+      "company": "메디칼스탠다드",
+      "title": "방사선종양학·핵의학 장비 Applicator",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 송파구 문정동",
+      "education": "전문대 이상",
+      "experience": "경력무관 · 신입 포함",
+      "employment": "정규직 · 수습 3개월",
+      "salary": "회사 내규 · 금액 미공개",
+      "posted": null,
+      "start": "2026-10-20T00:00:00+09:00",
+      "end": "2026-11-19T23:59:00+09:00",
+      "duties": "선량·핵의학 관련 소프트웨어·장비 사용자 교육, 예방점검·기술지원·영업",
+      "qualifications": "의·약학 계열, 운전·차량·인근 거주 우대. Q-Dose·MIM·SGRT 분야.",
+      "links": [
+        {
+          "label": "인크루트 · 공고·지원",
+          "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610200002287"
+        }
+      ],
+      "licenses": [],
+      "notes": "의료기관의 방사선사 채용이 아니라 의료기기 기업의 장비 교육·지원·영업 직무입니다. 요약 직급은 차장·이사지만 본문 자격은 경력무관으로 표시되어 확인이 필요합니다.",
+      "grade": "차장·이사 표기 · 경력무관 본문과 차이",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고 · 접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "isotope",
+        "support"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "dongwha-r1453",
+      "company": "동화기업",
+      "title": "아산 방사선 RI 안전관리",
+      "category": "private",
+      "regions": [
+        "충남"
+      ],
+      "location": "충남 아산시",
+      "education": "학사 이상",
+      "experience": "신입~경력 3년",
+      "employment": "계약직 1년 · 평가 후 정규직 전환 가능",
+      "salary": "미공개",
+      "posted": "2026-11-11",
+      "start": "2026-11-11",
+      "end": "2026-11-27",
+      "duties": "제조사업장의 동위원소·방사선발생장치 관리, 인허가·종사자 교육 및 안전관리 보조",
+      "qualifications": "RI 선임 가능자 필수. 산업안전기사 우대.",
+      "links": [
+        {
+          "label": "공식 채용·지원",
+          "url": "https://dongwha.wd3.myworkdayjobs.com/ko-KR/DongwhaCareers/job/XMLNAME-------RI--_R1453"
+        },
+        {
+          "label": "인크루트 · 공고·지원",
+          "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611110003010"
+        },
+        {
+          "label": "잡코리아 · 교차 공고",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50343808"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "필수"
+        }
+      ],
+      "notes": "인크루트 본문은 AI 요약이므로 공식 채용 사이트의 직무·자격과 대조했습니다. 잡코리아의 상시채용 표기와 달리 공식 사이트는 11/27 마감입니다. 기업 평균연봉은 모집 연봉과 다르므로 제외했습니다.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "공식 채용 원문·인크루트·잡코리아 교차 확인",
+      "fields": [
+        "radiation",
+        "safety",
+        "isotope"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "cnuh-sri-306357",
+      "company": "전남대학교병원",
+      "title": "방사선취급감독자 · 정규직 1명",
+      "category": "public",
+      "regions": [
+        "광주",
+        "전남"
+      ],
+      "location": "광주·전남 · 배치기관 확인",
+      "education": "학력무관",
+      "experience": "신입",
+      "employment": "정규직",
+      "salary": "미공개",
+      "posted": "2026-10-27",
+      "start": "2026-10-27T08:30:00+09:00",
+      "end": "2027-12-31T17:00:00+09:00",
+      "duties": "병원의 방사선취급감독자 모집 · 임상 방사선사 직무 제외 기준에 해당하는 안전관리 직무",
+      "qualifications": "SRI 필수. 의료기관 경험·생산허가기관 안전관리 선임경력 등 우대.",
+      "links": [
+        {
+          "label": "공식 채용 사이트",
+          "url": "https://cnuh.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=270421&systemKindCode=MRS2"
+        },
+        {
+          "label": "JOB-ALIO · 상세",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=306357"
+        },
+        {
+          "label": "인크루트 · 공고·지원",
+          "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610280000083"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "SRI",
+          "level": "필수"
+        }
+      ],
+      "notes": "JOB-ALIO·인크루트는 접수기간을 표시하지만 공식 상세 URL 직접 접속은 목록으로 이동해 첨부 공고문·직무소개서를 확인하지 못했습니다. 접수 가능 여부와 실제 근무지는 공식 채용처에 재확인 필요. 오래된 유사 상시채용 공고와 구별해 공고번호 306357로 수록했습니다.",
+      "grade": "미공개",
+      "status": "check",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "JOB-ALIO·인크루트 확인 / 공식 상세·첨부 확인 제한",
+      "fields": [
+        "radiation",
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55326821",
+      "company": "뉴클리어엔지니어링",
+      "title": "원자력발전소 안전해석·안전성평가 · 3명",
+      "category": "private",
+      "regions": [
+        "대전"
+      ],
+      "location": "대전 유성구 국제과학22로 36",
+      "education": "대졸(4년) 이상",
+      "experience": "신입/경력 5년 ↑",
+      "employment": "정규직",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-19T11:00:00+09:00",
+      "end": "2026-12-18T23:59:00+09:00",
+      "duties": "원전 안전해석 및 열수력·안전성평가",
+      "qualifications": "원자력·에너지 등 관련 학사. 신입 또는 경력 5년 이상 / 관련 안전해석·열수력 석사 이상 조건. 석사 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55326821"
+        }
+      ],
+      "licenses": [],
+      "notes": "",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "nuclear",
+        "design"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55496289",
+      "company": "아나스",
+      "title": "원전 화재위험성 평가·안전계통 분석",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 금정구 · 부산대학교 교내",
+      "education": "대졸(4년) 이상 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "salary": "대졸신입 연봉 3,200만원 이상 · 경력 협의",
+      "posted": null,
+      "start": "2026-11-05T17:00:00+09:00",
+      "end": "2026-11-18T23:59:00+09:00",
+      "duties": "원자력시설 화재방호·소방 위험평가, 안전계통·기기·케이블 분석 및 인허가 지원",
+      "qualifications": "공학·자연과학 학사 이상 또는 졸업예정자. 관련 기사·FDS/CFAST·CAD·코딩 경험 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55496289"
+        }
+      ],
+      "licenses": [],
+      "notes": "요약 급여는 연봉 3,200만원, 상세 본문은 대졸신입 3,200만원 이상·경력 협의·성과급 별도입니다.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "nuclear",
+        "design",
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55566953",
+      "company": "안국엔지니어링",
+      "title": "원자력 품질보증(QAP·감사)",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 시흥시 매화산단로 105",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력 3년 ↑",
+      "employment": "정규직",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-13T14:00:00+09:00",
+      "end": "2026-11-21T23:59:00+09:00",
+      "duties": "QAP·절차서 관리, 내외부 품질감사 및 부적합·시정조치 관리",
+      "qualifications": "전문대 이상, 관련 경력 3년 이상. KEPIC·ASME 인증 유지 경험 및 영어 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55566953"
+        }
+      ],
+      "licenses": [],
+      "notes": "",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "nuclear",
+        "quality"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55547051",
+      "company": "라온이앤티",
+      "title": "원자력 성능검증·CGID",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 화성시 동탄구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "신입/경력 2년~7년",
+      "employment": "정규직 (수습기간) 3개월",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-12T15:00:00+09:00",
+      "end": null,
+      "duties": "원자력 기기 성능검증·품질검증 분야 모집",
+      "qualifications": "전문대 이상. 원자력 전공 조건, 전기·전자·공학 및 TOEIC 700·전기기사·운전 등 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55547051"
+        }
+      ],
+      "licenses": [],
+      "notes": "요약 경력 신입/경력 2~7년. 상세 본문에 세부 업무가 미작성되어 시험 범위·필수 경력을 채용처 확인해야 합니다.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "nuclear",
+        "quality"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55553811",
+      "company": "태성에스엔이",
+      "title": "CFD·지화학 반응 해석 엔지니어",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 성동구 성수이로7길 27",
+      "education": "석사졸업 이상",
+      "experience": "경력 3년~6년",
+      "employment": "정규직 (수습기간) 3개월",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-12T10:00:00+09:00",
+      "end": "2026-12-27T23:59:00+09:00",
+      "duties": "Fluent·PHREEQC 기술지원, 열유동·반응·다공성매질 모델링 및 THMC 연계해석",
+      "qualifications": "관련 석사, 경력 3년 이상. Fluent·PHREEQC 경험. 방폐물 처분·벤토나이트·시멘트 과제 및 Python/C++ 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55553811"
+        }
+      ],
+      "licenses": [],
+      "notes": "원자력 전담직은 아니며 방사성폐기물 처분 과제 경험을 우대하는 해석 직무입니다. 요약 경력 3~6년, 본문 3년 이상. 본문 공통 고용조건은 신입~2년 미만 계약직 문구도 있어 지원 직급 확인 필요.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "nuclear",
+        "design",
+        "waste",
+        "research"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55478386",
+      "company": "한국에스지에스(SGS)",
+      "title": "원자력 기기검증(EQ) 시험원 · 신입",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 화성시 동탄 사무소",
+      "education": "대졸(4년) 이상",
+      "experience": "신입",
+      "employment": "정규직",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-04T08:00:00+09:00",
+      "end": "2026-12-06T23:59:00+09:00",
+      "duties": "원전 전기·전자 기기의 내환경·노화·성능검증 시험, 데이터 분석·보고서 작성",
+      "qualifications": "공학 학사 이상. 원자력·EQ 경험 없이 지원 가능. 전기·전자 기사, 계측기·영어·운전 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55478386"
+        }
+      ],
+      "licenses": [],
+      "notes": "포털 마감은 12/6, 상세 본문은 채용 시 마감으로 상이합니다. 원문 상태를 확인하세요.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "nuclear",
+        "quality"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55506640",
+      "company": "포멀웍스",
+      "title": "원전 임베디드 C 소프트웨어 검증",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 서초구 반포대로 110",
+      "education": "대졸(4년) 이상 (예정자가능)",
+      "experience": "신입/경력 3년 ↑",
+      "employment": "정규직 (수습기간) 3개월",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-06T16:00:00+09:00",
+      "end": "2026-12-06T23:59:00+09:00",
+      "duties": "원자력발전소 산업용 컴퓨터 SW의 단위·시스템 시험 및 요구사항 검증",
+      "qualifications": "학사 이상·졸업예정 가능. 신입 또는 경력 3년 이상, C 코드·제어구조 이해. 정보처리기사·석박사 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55506640"
+        }
+      ],
+      "licenses": [],
+      "notes": "",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "nuclear",
+        "ic"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55210091",
+      "company": "코어로보틱스",
+      "title": "원자력·특수목적 로봇 QA · 분야별",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 기장군 장안읍 의과학6로 17",
+      "education": "대졸(4년) 이상 (예정자가능)",
+      "experience": "신입/경력 (년수무관)",
+      "employment": "정규직 병역특례",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-06T11:00:00+09:00",
+      "end": "2026-12-05T23:59:00+09:00",
+      "duties": "원전 로봇의 SW V&V, 전장·EQ 검증, 안전등급 제작 품질보증",
+      "qualifications": "학사 이상·졸업예정 가능, 신입·경력. 해당 업무 경험 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55210091"
+        }
+      ],
+      "licenses": [],
+      "notes": "",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [
+        "소프트웨어 QA: V&V·SIL 체계·품질절차",
+        "전기·전자 QA: 전장품·EQ·EMC 시험 대응",
+        "안전등급 제작 QA: KEPIC-MN·ASME 문서·검사"
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "nuclear",
+        "quality",
+        "ic"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55406413",
+      "company": "오르비텍",
+      "title": "방사성폐기물 시료채취·전처리",
+      "category": "private",
+      "regions": [
+        "울산"
+      ],
+      "location": "울산 남구 두왕로22번길 17-19 · 발전소 출장",
+      "education": "대졸(2,3년) 이상 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-27T16:00:00+09:00",
+      "end": "2026-11-26T23:59:00+09:00",
+      "duties": "원전 방폐물 대표시료 채취·균질화·보관 기록 및 핵종분석 전처리",
+      "qualifications": "전문대 이상·신입 가능. 원자력 전공, RI, 운전·초급기술자 이상 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55406413"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "우대"
+        }
+      ],
+      "notes": "",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "nuclear",
+        "radiation",
+        "waste"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55271969",
+      "company": "디티앤씨",
+      "title": "원자력센터 내진검증 해석원",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 용인시 처인구 백령로20번길 28",
+      "education": "대졸(4년) 이상 (예정자가능)",
+      "experience": "신입/경력 (년수무관)",
+      "employment": "정규직 계약직",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-13T11:00:00+09:00",
+      "end": null,
+      "duties": "원전 기기 IEEE 344 내진해석, 구조해석 및 분석 보고서",
+      "qualifications": "학사 이상·졸업예정 가능. 신입·경력. 세부 전공·도구는 원문 및 채용처 확인.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55271969"
+        }
+      ],
+      "licenses": [],
+      "notes": "",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "nuclear",
+        "design",
+        "quality"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55187068",
+      "company": "다온기술",
+      "title": "원자력·방사선 R&D·폐기물 인허가",
+      "category": "private",
+      "regions": [
+        "세종"
+      ],
+      "location": "세종 집현중앙로 20",
+      "education": "대졸(4년) 이상",
+      "experience": "신입/경력 (년수무관)",
+      "employment": "정규직",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-02T11:00:00+09:00",
+      "end": "2026-12-01T23:59:00+09:00",
+      "duties": "국가 R&D, 방사선 계측, 원전 기술지원 및 방폐물 처리·처분 인허가",
+      "qualifications": "학사 이상 신입·경력. 관련 전공·TOEIC 700·CAD·원자력기사·RI 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55187068"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "우대"
+        },
+        {
+          "name": "원자력기사",
+          "level": "우대"
+        }
+      ],
+      "notes": "",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "nuclear",
+        "radiation",
+        "waste",
+        "ic",
+        "research"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55091731",
+      "company": "비즈",
+      "title": "원자력 전공 엔지니어",
+      "category": "private",
+      "regions": [
+        "세종"
+      ],
+      "location": "세종특별자치시",
+      "education": "대졸(4년) 이상 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-09-21T15:00:00+09:00",
+      "end": null,
+      "duties": "원자력 관련 엔지니어 모집 · 구체적 배치 업무 확인 필요",
+      "qualifications": "원자력·관련 학과 학사 또는 졸업예정자. 원자력기관·DBA 안전해석·노심해석 경력 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55091731"
+        }
+      ],
+      "licenses": [],
+      "notes": "상세 본문이 비어 있어 필수 경력·세부 업무 범위는 미확인입니다. 안전해석·노심해석은 포털 우대사항이며 확정 담당업무로 추정하지 않았습니다.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "nuclear",
+        "design",
+        "fuel"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55089383",
+      "company": "엔이티(NET)",
+      "title": "원자력·방사선 기술분야 경력",
+      "category": "private",
+      "regions": [
+        "대전",
+        "경북"
+      ],
+      "location": "대전 유성구 / 경북 경주시 근무 가능자",
+      "education": "대졸(4년) 이상",
+      "experience": "경력 1년 ↑",
+      "employment": "정규직 (수습기간) 3개월",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-09-21T12:00:00+09:00",
+      "end": null,
+      "duties": "원자력 용역·연구과제 수행 및 발전 기술지원",
+      "qualifications": "학사 이상·경력 1년 이상. 원자력·화학·방사선 전공, SRI·RI·원자력기사 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55089383"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "SRI",
+          "level": "우대"
+        },
+        {
+          "name": "RI",
+          "level": "우대"
+        },
+        {
+          "name": "원자력기사",
+          "level": "우대"
+        }
+      ],
+      "notes": "",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "nuclear",
+        "radiation",
+        "design",
+        "research"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55464972",
+      "company": "파워에이치알 중개 · 채용기업 비공개",
+      "title": "원전 시스템 소프트웨어 개발",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 마포구 상암동",
+      "education": "대졸(4년) 이상",
+      "experience": "경력 5년~10년",
+      "employment": "정규직",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-03T08:00:00+09:00",
+      "end": "2026-11-18T23:59:00+09:00",
+      "duties": "원전 PAS·SMM·MCM 시스템 SW 개발 및 가동원전 유지보수",
+      "qualifications": "학사·경력 5~10년. C/C++, 계측 개발도구, 설계·시험 문서 작성. 기사·운전·출장 가능 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55464972"
+        }
+      ],
+      "licenses": [],
+      "notes": "기존 수록된 계측제어 시스템 엔지니어 공고와 모집 직무가 다른 SW 개발 공고입니다.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "nuclear",
+        "ic"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55467000",
+      "company": "에너지엔",
+      "title": "발전플랜트 설계·제작·품질·사업관리",
+      "category": "private",
+      "regions": [
+        "전북"
+      ],
+      "location": "전북 군산시 · 군산자유무역지역",
+      "education": "고졸 이상",
+      "experience": "신입/경력",
+      "employment": "정규직",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-03T00:00:00+09:00",
+      "end": "2026-12-02T23:59:00+09:00",
+      "duties": "원자력·화력 발전플랜트 제조기업의 설계·견적·생산·품질·영업·사업관리 통합 모집",
+      "qualifications": "분야별 학력·경력·어학 상이. 설계·견적 원전공사 경험 우대, 품질보증 원자력 인증 업무 포함.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55467000"
+        }
+      ],
+      "licenses": [],
+      "notes": "통합 공채로 원전 전담 모집인원이 별도 표시되지는 않습니다. 포털 공통 학력 고졸 이상은 모든 직무의 동일 조건이 아니며 상세 모집표가 우선합니다.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [
+        "영업: 신입·경력, 경력 2년↑·TOEIC 800 등",
+        "사업관리: 해외 발전·화공 사업관리, 영어 우대",
+        "설계·견적: 기기 설계·기술검토, 경력 3년↑·원전공사 경험 우대",
+        "생산관리: 학사 이상 / 선후행 공정관리: 전문대 이상",
+        "생산기술: WPS·PQR 등 기술절차·제작지원",
+        "품질관리·보증: 원전·화력·화공 품질, 원자력 인증·감사"
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "nuclear",
+        "design",
+        "quality",
+        "maintenance",
+        "support"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55504711",
+      "company": "앤스코",
+      "title": "원전 검사·로봇 제어·기계설계",
+      "category": "private",
+      "regions": [
+        "대전",
+        "경남"
+      ],
+      "location": "대전 유성구 / 경남 창원시",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력 3년 ↑",
+      "employment": "정규직",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-06T00:00:00+09:00",
+      "end": "2026-11-19T23:59:00+09:00",
+      "duties": "원전 안전검사·자동화 로봇 기업의 UT 검사 및 제어·기계설계",
+      "qualifications": "전문대 이상 요약. UT 경력무관, 제어·기계설계 경력 3년 이상. 관련 자격·장비개발 경험 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55504711"
+        }
+      ],
+      "licenses": [],
+      "notes": "포털 요약은 경력 3년 이상이지만 UT 본문은 경력무관으로 상이합니다. 분야별 근무지는 채용처 확인.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [
+        "UT사업: 초음파검사, 창원 근무 가능·자동 UT 우대",
+        "제어설계: 펌웨어·하드웨어 설계·현장 셋업",
+        "기계설계: 검사장비·자동화·로봇 설계"
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "nuclear",
+        "radiation",
+        "ndt",
+        "ic",
+        "design"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55556750",
+      "company": "아름다운환경건설",
+      "title": "원자력 제염해체·방폐물 분야 포함 통합채용",
+      "category": "private",
+      "regions": [
+        "경기",
+        "대전"
+      ],
+      "location": "경기 성남시 또는 대전 · 원자력 모집분야",
+      "education": "학력무관",
+      "experience": "신입/경력",
+      "employment": "정규직 (수습기간) 3개월",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-12T00:00:00+09:00",
+      "end": "2026-11-25T23:59:00+09:00",
+      "duties": "중저준위 방폐물·원전해체 부지복원 사업을 추진하는 기업의 제염·측정·자체처분 업무",
+      "qualifications": "원자력 부문 관련 전공·엔지니어링협회 기술자 등록·RI 및 경력 3년 이상 조건 표기.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55556750"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "원자력 부문 조건"
+        }
+      ],
+      "notes": "전체 공채는 신입·경력/학력무관 요약이나 원자력 모집표에는 3년 이상 등 개별 조건이 기재됩니다.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [
+        "원자력: 제염해체·방사성 측정·방사선안전관리·방폐물 자체처분",
+        "공고의 기타 모집: 경영관리·환경·토목·해외사업. 원자력 직접 업무와 구별해 확인"
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "nuclear",
+        "radiation",
+        "waste",
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "nisp-47",
+      "company": "유림기술",
+      "title": "원자력 품질관리 · 대리·과장",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 안양시 동안구",
+      "education": "학사",
+      "experience": "경력 4~6년",
+      "employment": "정규직",
+      "salary": "회사 내규 · 협의",
+      "posted": null,
+      "start": null,
+      "end": null,
+      "duties": "원자력 시료채취설비 제조기업의 품질문서·부적합·KEPIC/ISO·계측기 관리",
+      "qualifications": "동종업계 경력 우대.",
+      "links": [
+        {
+          "label": "NISP · 기업 등록 원문",
+          "url": "https://nisp.kr/rcrutPbanc/dtl.do?rcrutPbancIdx=47&rcrutPbancPrgrsHstryIdx=46"
+        }
+      ],
+      "licenses": [],
+      "notes": "NISP에 기업이 등록한 모집입니다. 상시채용은 종료일이 공개되지 않아 원문에서 최종 확인하세요.",
+      "grade": "대리·과장",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "NISP 기업 등록 상세·조건·관련성 확인",
+      "fields": [
+        "nuclear",
+        "quality"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "nisp-46",
+      "company": "코네스코퍼레이션",
+      "title": "원전 토목·구조 설계 · 신입 2명",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 서초구",
+      "education": "학사·석사",
+      "experience": "신입·경력",
+      "employment": "정규직",
+      "salary": "회사 내규 · 협의",
+      "posted": null,
+      "start": null,
+      "end": null,
+      "duties": "원자력발전소 토목·구조 설계",
+      "qualifications": "관련 기사 필수·기술사 우대. 석사·관련 경력 우대.",
+      "links": [
+        {
+          "label": "NISP · 기업 등록 원문",
+          "url": "https://nisp.kr/rcrutPbanc/dtl.do?rcrutPbancIdx=46&rcrutPbancPrgrsHstryIdx=45"
+        }
+      ],
+      "licenses": [],
+      "notes": "NISP에 기업이 등록한 모집입니다. 상시채용은 종료일이 공개되지 않아 원문에서 최종 확인하세요.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "NISP 기업 등록 상세·조건·관련성 확인",
+      "fields": [
+        "nuclear",
+        "design"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "nisp-45",
+      "company": "코네스코퍼레이션",
+      "title": "원전해체 R&D·용역 · 2명",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 서초구",
+      "education": "학력무관",
+      "experience": "신입·경력",
+      "employment": "정규직",
+      "salary": "회사 내규 · 협의",
+      "posted": null,
+      "start": null,
+      "end": null,
+      "duties": "원전해체 연구개발 과제 및 용역 수행",
+      "qualifications": "세부 자격·전공 제한은 게시 원문에 별도 명시 없음.",
+      "links": [
+        {
+          "label": "NISP · 기업 등록 원문",
+          "url": "https://nisp.kr/rcrutPbanc/dtl.do?rcrutPbancIdx=45&rcrutPbancPrgrsHstryIdx=44"
+        }
+      ],
+      "licenses": [],
+      "notes": "NISP에 기업이 등록한 모집입니다. 상시채용은 종료일이 공개되지 않아 원문에서 최종 확인하세요.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "NISP 기업 등록 상세·조건·관련성 확인",
+      "fields": [
+        "nuclear",
+        "waste",
+        "research"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "nisp-44",
+      "company": "코네스코퍼레이션",
+      "title": "방사성폐기물 용기 기계설계 · 1명",
+      "category": "private",
+      "regions": [
+        "대전"
+      ],
+      "location": "대전 유성구",
+      "education": "석사",
+      "experience": "경력 4~6년",
+      "employment": "정규직",
+      "salary": "회사 내규 · 협의",
+      "posted": null,
+      "start": null,
+      "end": null,
+      "duties": "방폐물 운반·저장·처분 용기 기계설계",
+      "qualifications": "원자력 압력용기 기계설계 전공·경험 우대.",
+      "links": [
+        {
+          "label": "NISP · 기업 등록 원문",
+          "url": "https://nisp.kr/rcrutPbanc/dtl.do?rcrutPbancIdx=44&rcrutPbancPrgrsHstryIdx=43"
+        }
+      ],
+      "licenses": [],
+      "notes": "NISP에 기업이 등록한 모집입니다. 상시채용은 종료일이 공개되지 않아 원문에서 최종 확인하세요.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "NISP 기업 등록 상세·조건·관련성 확인",
+      "fields": [
+        "nuclear",
+        "waste",
+        "design"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "nisp-43",
+      "company": "제이알엠에스",
+      "title": "신한울 3·4호기 소방설계 · 4명",
+      "category": "private",
+      "regions": [
+        "경기",
+        "경북"
+      ],
+      "location": "경기 남양주시 기재 · 신한울 현장 배치 확인",
+      "education": "전문대·학사",
+      "experience": "신입·경력",
+      "employment": "정규직",
+      "salary": "회사 내규 · 협의",
+      "posted": null,
+      "start": "2026-11-12",
+      "end": "2026-12-31",
+      "duties": "신한울 3·4호기 원자력발전소 소방설계",
+      "qualifications": "CAD 사용 가능자.",
+      "links": [
+        {
+          "label": "NISP · 기업 등록 원문",
+          "url": "https://nisp.kr/rcrutPbanc/dtl.do?rcrutPbancIdx=43&rcrutPbancPrgrsHstryIdx=42"
+        }
+      ],
+      "licenses": [],
+      "notes": "제목은 신한울 현장, 근무지 필드는 남양주시로 상이해 배치 확인 필요.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "NISP 기업 등록 상세·조건·관련성 확인",
+      "fields": [
+        "nuclear",
+        "design"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "nisp-41",
+      "company": "두루에너아이",
+      "title": "시험용 전기·통신 신호선 시공 · 2명",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 화성시 동탄구",
+      "education": "고졸·전문대·학사",
+      "experience": "연차무관 · 제목은 경력 모집",
+      "employment": "정규직 / 계약직 제목 병기",
+      "salary": "회사 내규 · 협의",
+      "posted": null,
+      "start": "2026-11-11",
+      "end": "2026-12-31",
+      "duties": "원전 SW 검증·에너지 시험 기업의 시험용 신호선 포설",
+      "qualifications": "전기배선·시험 경험, 전기 전공·관련 자격 우대.",
+      "links": [
+        {
+          "label": "NISP · 기업 등록 원문",
+          "url": "https://nisp.kr/rcrutPbanc/dtl.do?rcrutPbancIdx=41&rcrutPbancPrgrsHstryIdx=40"
+        }
+      ],
+      "licenses": [],
+      "notes": "원전 분야 기업의 기타 직무입니다. 해당 배선 프로젝트가 원전 전담인지는 미표시. 제목은 정규·계약직, 고용형태 필드는 정규직으로 상이합니다.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "NISP 기업 등록 상세·조건·관련성 확인",
+      "fields": [
+        "nuclear",
+        "maintenance"
+      ],
+      "relationType": "관련 기업의 기타 직무"
+    },
+    {
+      "id": "nisp-40",
+      "company": "두루에너아이",
+      "title": "원전 안전등급 SW V&V · 2명",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 안양시 동안구",
+      "education": "전문대·학사·석사",
+      "experience": "경력 7~9년",
+      "employment": "정규직",
+      "salary": "회사 내규 · 협의",
+      "posted": null,
+      "start": "2026-11-11",
+      "end": "2026-12-31",
+      "duties": "원전 I&C 안전등급 SW 정적·동적 시험 및 V&V 품질문서·규제 대응",
+      "qualifications": "원전 I&C·안전 SW 검증, MC/DC·MISRA C·Python, 관련 전공·ISTQB 등 우대.",
+      "links": [
+        {
+          "label": "NISP · 기업 등록 원문",
+          "url": "https://nisp.kr/rcrutPbanc/dtl.do?rcrutPbancIdx=40&rcrutPbancPrgrsHstryIdx=39"
+        }
+      ],
+      "licenses": [],
+      "notes": "",
+      "grade": "팀원·PL",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "NISP 기업 등록 상세·조건·관련성 확인",
+      "fields": [
+        "nuclear",
+        "ic"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "nisp-39",
+      "company": "마스타케미칼",
+      "title": "원자력 구조물 도장 · 2명",
+      "category": "private",
+      "regions": [
+        "경남"
+      ],
+      "location": "경남 창원시 마산합포구 기재",
+      "education": "고졸·전문대",
+      "experience": "연차무관",
+      "employment": "정규직",
+      "salary": "2,588~3,000만원 · 지급 기준 미표시",
+      "posted": null,
+      "start": "2026-11-11",
+      "end": "2026-12-10",
+      "duties": "원자력 구조물의 도장 작업",
+      "qualifications": "세부 자격 필수 기재 없음. 출장수당 표기.",
+      "links": [
+        {
+          "label": "NISP · 기업 등록 원문",
+          "url": "https://nisp.kr/rcrutPbanc/dtl.do?rcrutPbancIdx=39&rcrutPbancPrgrsHstryIdx=38"
+        }
+      ],
+      "licenses": [],
+      "notes": "NISP 급여란은 2,588~3,000만원으로만 표기해 연봉으로 추정하지 않았습니다. 실제 지급주기·근무지는 확인 필요.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "NISP 기업 등록 상세·조건·관련성 확인",
+      "fields": [
+        "nuclear",
+        "maintenance"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "nisp-38",
+      "company": "에이치시티",
+      "title": "원전 성능검증 영업·입찰 · 1명",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 이천시",
+      "education": "학사·석사",
+      "experience": "경력 3년 이하",
+      "employment": "정규직",
+      "salary": "회사 내규 · 협의",
+      "posted": null,
+      "start": null,
+      "end": null,
+      "duties": "원전 성능검증 영업 실무 및 입찰 업무",
+      "qualifications": "영어 및 관련 업무 경험 우대.",
+      "links": [
+        {
+          "label": "NISP · 기업 등록 원문",
+          "url": "https://nisp.kr/rcrutPbanc/dtl.do?rcrutPbancIdx=38&rcrutPbancPrgrsHstryIdx=37"
+        },
+        {
+          "label": "공식 지원 사이트",
+          "url": "https://hct.recruiter.co.kr/"
+        }
+      ],
+      "licenses": [],
+      "notes": "NISP에 기업이 등록한 모집입니다. 상시채용은 종료일이 공개되지 않아 원문에서 최종 확인하세요.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "NISP 기업 등록 상세·조건·관련성 확인",
+      "fields": [
+        "nuclear",
+        "quality",
+        "support"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "incruit-smr-2610190005314",
+      "company": "에이치알맨파워그룹 중개 · 기업 비공개",
+      "title": "SMR 가공 공정 설계·일정관리",
+      "category": "private",
+      "regions": [
+        "경남"
+      ],
+      "location": "상세 경남 / 포털 요약 서울 강남구 · 확인 필요",
+      "education": "학사 이상 · 기계·산업공학",
+      "experience": "가공 엔지니어 경력 5년 이상 · 요약 5~15년",
+      "employment": "정규직",
+      "salary": "회사 내규 · 금액 미공개",
+      "posted": null,
+      "start": "2026-10-19T00:00:00+09:00",
+      "end": "2026-11-18T23:59:00+09:00",
+      "duties": "원자력·SMR 제품 가공공정, 신규 노형 가공성·견적 검토와 3D/NC 설계",
+      "qualifications": "2D/3D CAD·가공 프로그램 이해. CAM·기계가공 자격·산업안전기사 우대.",
+      "links": [
+        {
+          "label": "인크루트 · 공고·지원",
+          "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190005314"
+        }
+      ],
+      "licenses": [],
+      "notes": "채용기업 비공개. 본문은 경남 대기업으로 안내하나 포털 요약 근무지는 서울·기업유형은 공기업으로 상충합니다. 민간 채용대행 출처로 분류했으며 실제 고용기업의 공공·민간 여부는 미확인입니다.",
+      "grade": "최대 부장급 · 임원 제외",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "nuclear",
+        "smr",
+        "design",
+        "maintenance"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "organisationType": "민간 채용대행 · 고용기업 미공개"
+    },
+    {
+      "id": "khnp-306866",
+      "company": "한국수력원자력",
+      "title": "해외원전건설처 한·러 통번역 · 1명",
+      "category": "public",
+      "regions": [
+        "경북"
+      ],
+      "location": "경북 경주시 · 한수원 본사",
+      "education": "한·러 통번역 대학원 학위 또는 2027년 2월 내 제출 가능",
+      "experience": "신입·경력",
+      "employment": "기간제 12개월 · 필요시 최대 2년",
+      "salary": "월 약 752만원 · 공식 공고문",
+      "posted": "2026-11-12",
+      "start": "2026-11-12",
+      "end": "2026-11-27T18:00:00+09:00",
+      "duties": "엘다바 원전사업 발주사 회의·문서 통번역 및 해외원전 건설 업무 지원",
+      "qualifications": "한국어·러시아어 통번역 전공, 해외근무·출장 가능 등 공통요건.",
+      "links": [
+        {
+          "label": "공식 채용·지원",
+          "url": "https://www.khnp.co.kr/trecruit/"
+        },
+        {
+          "label": "JOB-ALIO · 공고·첨부",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=306866"
+        }
+      ],
+      "licenses": [],
+      "notes": "방사선안전 기술직이 아닌 해외원전 사업지원 직무입니다. 공식 채용 포털의 2027/1/29는 전체 전형 기간이며 지원 마감은 공고문 11/27 18:00입니다. 사택 제공 없음.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "공식 채용 목록·공고문·직무명세서 확인",
+      "fields": [
+        "nuclear",
+        "support"
+      ],
+      "relationType": "원자력 사업지원 직무"
+    },
+    {
+      "id": "kirams-306658-production",
+      "company": "한국원자력의학원",
+      "title": "방사성의약품 GMP 생산 · 1명",
+      "category": "public",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 노원구",
+      "education": "별도 학력 제한 없음",
+      "experience": "신입·경력 · 분야별 우대",
+      "employment": "별정직 8개월",
+      "salary": "금액 미공개",
+      "posted": "2026-11-03",
+      "start": "2026-11-03",
+      "end": "2026-11-18T17:00:00+09:00",
+      "duties": "Tl-201·I-123 방사성의약품 GMP 생산",
+      "qualifications": "필수 자격 제한 없음. 화학 등 이학 전공·방사성의약품 GMP 생산 경력 우대.",
+      "links": [
+        {
+          "label": "공식 공고·첨부",
+          "url": "https://www.kirams.re.kr/board/generalBoardView7.do?no=23099"
+        },
+        {
+          "label": "공식 지원 사이트",
+          "url": "https://kirams.recruiter.co.kr"
+        },
+        {
+          "label": "JOB-ALIO · 통합 공고",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=306658"
+        },
+        {
+          "label": "인크루트 · 통합 공고",
+          "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611040000059"
+        }
+      ],
+      "licenses": [],
+      "notes": "제2026-6기 통합공채 중 방사성의약품 분야만 분리했습니다. 5급은 의학원 직급으로 공무원 직급과 다릅니다. 타 파트의 시급 10,320원은 이 직무의 급여가 아니므로 사용하지 않았습니다.",
+      "grade": "5급 사무기술원",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "공식 게시판·통합 공고문 모집표·직무내용 확인",
+      "fields": [
+        "radiation",
+        "isotope"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "kirams-306658-manufacture",
+      "company": "한국원자력의학원",
+      "title": "방사성의약품 위탁제조 지원 · 1명",
+      "category": "public",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 노원구",
+      "education": "별도 학력 제한 없음",
+      "experience": "신입·경력 · 분야별 우대",
+      "employment": "별정직 1년",
+      "salary": "금액 미공개",
+      "posted": "2026-11-03",
+      "start": "2026-11-03",
+      "end": "2026-11-18T17:00:00+09:00",
+      "duties": "임상시험용 방사성의약품 위탁생산, 제조·품질문서·장비 적격성평가·교정 지원",
+      "qualifications": "필수 자격 제한 없음. 화학 등 이화학 전공 우대.",
+      "links": [
+        {
+          "label": "공식 공고·첨부",
+          "url": "https://www.kirams.re.kr/board/generalBoardView7.do?no=23099"
+        },
+        {
+          "label": "공식 지원 사이트",
+          "url": "https://kirams.recruiter.co.kr"
+        },
+        {
+          "label": "JOB-ALIO · 통합 공고",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=306658"
+        },
+        {
+          "label": "인크루트 · 통합 공고",
+          "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611040000059"
+        }
+      ],
+      "licenses": [],
+      "notes": "제2026-6기 통합공채 중 방사성의약품 분야만 분리했습니다. 5급은 의학원 직급으로 공무원 직급과 다릅니다. 타 파트의 시급 10,320원은 이 직무의 급여가 아니므로 사용하지 않았습니다.",
+      "grade": "5급 사무기술원",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "공식 게시판·통합 공고문 모집표·직무내용 확인",
+      "fields": [
+        "radiation",
+        "isotope"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "kirams-202643-research",
+      "company": "한국원자력의학원",
+      "title": "방사성의약품 GMP 제조·품질 · 선임연구원 1명",
+      "category": "public",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 노원구",
+      "education": "박사 / 석사+해당분야 3년 / 학사+해당분야 5년",
+      "experience": "신입·경력 구분 없음 · 학위별 경력요건",
+      "employment": "정규직 연구직",
+      "salary": "금액 미공개",
+      "posted": "2026-11-05",
+      "start": "2026-11-05",
+      "end": "2026-11-20T17:00:00+09:00",
+      "duties": "방사성의약품 GMP 제조·품질, 품목허가·운영, SOP와 신규 생산공정 도입",
+      "qualifications": "약사 면허와 학위·경력 요건을 모두 충족. TOEIC 700 이상(면제조건 별도). GMP 제조·품질·인허가 경험 우대.",
+      "links": [
+        {
+          "label": "공식 공고·첨부",
+          "url": "https://www.kirams.re.kr/board/generalBoardView7.do?no=23101"
+        },
+        {
+          "label": "공식 지원 사이트",
+          "url": "https://kirams.recruiter.co.kr"
+        },
+        {
+          "label": "인크루트 · 통합 공고",
+          "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611060000056"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "약사",
+          "level": "필수"
+        }
+      ],
+      "notes": "제2026-5회 통합공채에서 방사성의약품 연구직만 분리했습니다. 임상 방사선사 직무는 제외했습니다. 의학원 공고 간·분야 간 중복지원이 불가하므로 다른 의학원 모집과 함께 검토할 때 주의하세요.",
+      "grade": "선임연구원",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "공식 게시판·첨부 11쪽 공고문 모집분야·자격 확인",
+      "fields": [
+        "radiation",
+        "isotope",
+        "research"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55540847",
+      "company": "나일프랜트",
+      "title": "원전 방사선안전관리 기술 · 과장",
+      "category": "private",
+      "regions": [
+        "울산"
+      ],
+      "location": "울산 울주군 서생면 에너지산업4로 19-21",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력 3년 ↑",
+      "employment": "정규직 (수습기간) 3개월",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-11T08:00:00+09:00",
+      "end": null,
+      "duties": "원자력발전소 방사선관리 기술업무",
+      "qualifications": "전문대 이상. 원전 방사선관리 경력 3년 이상·엔지니어링협회 해당 분야 초급기술자 이상 필수. SRI·RI·원자력기사 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55540847"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "SRI",
+          "level": "우대"
+        },
+        {
+          "name": "RI",
+          "level": "우대"
+        },
+        {
+          "name": "원자력기사",
+          "level": "우대"
+        }
+      ],
+      "notes": "",
+      "grade": "과장",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "nuclear",
+        "radiation",
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55500775",
+      "company": "고려검사",
+      "title": "본사 방사선안전관리 · RI",
+      "category": "private",
+      "regions": [
+        "경남"
+      ],
+      "location": "경남 김해시 가야로30번길 5",
+      "education": "고졸 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-06T08:00:00+09:00",
+      "end": "2026-12-06T23:59:00+09:00",
+      "duties": "비파괴검사 기업 본사 방사선안전관리",
+      "qualifications": "고졸 이상·경력무관. RI·운전면허 필수. 본사 실무·비파괴검사 자격·문서작성 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55500775"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "필수"
+        }
+      ],
+      "notes": "",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "safety",
+        "ndt"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55387621",
+      "company": "고려검사",
+      "title": "본사 방사선안전관리 · SRI",
+      "category": "private",
+      "regions": [
+        "경남"
+      ],
+      "location": "경남 김해시 가야로30번길 5",
+      "education": "고졸 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-26T09:00:00+09:00",
+      "end": "2026-11-25T23:59:00+09:00",
+      "duties": "비파괴검사 기업 본사 방사선안전관리",
+      "qualifications": "고졸 이상·경력무관. SRI·운전면허 필수. 본사 실무·비파괴검사 자격·문서작성 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55387621"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "SRI",
+          "level": "필수"
+        }
+      ],
+      "notes": "같은 회사의 RI 모집과 별도 공고번호·필수 면허·마감일을 가진 모집입니다.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "safety",
+        "ndt"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55424115",
+      "company": "하늘기술검사",
+      "title": "부천 방사선안전관리자 · RI",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 부천시 오정구 역곡로324번길 34 · 3층",
+      "education": "학력무관 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-29T09:00:00+09:00",
+      "end": "2026-12-28T23:59:00+09:00",
+      "duties": "비파괴검사 사업장 방사선안전관리",
+      "qualifications": "학력·경력무관. RI 필수. 운전·해당 업무 경험 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55424115"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "필수"
+        }
+      ],
+      "notes": "같은 건물 금가 공고와 고용주·근무 층이 달라 별도로 수록했습니다.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "safety",
+        "ndt"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55423988",
+      "company": "금가",
+      "title": "부천 방사선안전관리자 · RI",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 부천시 역곡로324번길 34 · 2층",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-29T09:00:00+09:00",
+      "end": "2026-12-28T23:59:00+09:00",
+      "duties": "비파괴검사 사업장 방사선안전관리",
+      "qualifications": "학력·경력무관. RI 필수. 운전·해당 업무 경험 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55423988"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "필수"
+        }
+      ],
+      "notes": "",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "safety",
+        "ndt"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55404650",
+      "company": "하늘기술검사",
+      "title": "인천 방사선안전관리자 · RI",
+      "category": "private",
+      "regions": [
+        "인천"
+      ],
+      "location": "인천 계양구",
+      "education": "학력무관 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-27T14:00:00+09:00",
+      "end": "2026-11-26T23:59:00+09:00",
+      "duties": "비파괴검사 사업장 방사선안전관리",
+      "qualifications": "학력·경력무관. RI 필수. 운전·해당 업무 경험 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55404650"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "필수"
+        }
+      ],
+      "notes": "",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "safety",
+        "ndt"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55297230",
+      "company": "위더스케미칼",
+      "title": "방사선안전관리자",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 안성시 서운면 안성맞춤대로 91",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-15T10:00:00+09:00",
+      "end": "2026-12-14T23:59:00+09:00",
+      "duties": "화학소재 기업의 방사선안전관리 직무",
+      "qualifications": "학력·경력무관. RI 필수.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55297230"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "필수"
+        }
+      ],
+      "notes": "",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55242346",
+      "company": "대한검사기술",
+      "title": "서산 방사선안전관리자 · RI 또는 SRI",
+      "category": "private",
+      "regions": [
+        "충남"
+      ],
+      "location": "충남 서산시 대산읍 평신2로 182 · 현대오일뱅크 현장",
+      "education": "학력무관 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-08T18:00:00+09:00",
+      "end": null,
+      "duties": "비파괴검사 현장 방사선안전관리",
+      "qualifications": "학력·경력무관. RI 또는 SRI 중 하나 필수.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55242346"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "필수(택1)"
+        },
+        {
+          "name": "SRI",
+          "level": "필수(택1)"
+        }
+      ],
+      "notes": "",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "safety",
+        "ndt"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55209716",
+      "company": "한일원자력",
+      "title": "방사선안전관리 업무대행 · 2명",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 안양시 만안구 덕천로 45",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력 3년 ↑",
+      "employment": "정규직 (수습기간) 2개월",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-06T13:00:00+09:00",
+      "end": "2026-12-05T23:59:00+09:00",
+      "duties": "방사선안전관리 업무대행",
+      "qualifications": "전문대 이상·경력 3년 이상. RI·2종 운전면허 필수.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55209716"
+        }
+      ],
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "필수"
+        }
+      ],
+      "notes": "",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55595089",
+      "company": "이엔디이(ENDE)",
+      "title": "비파괴검사 MT·PT·UT · 창원 현장",
+      "category": "private",
+      "regions": [
+        "경남"
+      ],
+      "location": "경남 창원시 · 세아창원특수강 사업장",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "salary": "신입 연봉 3,240만원 + 수당 · 경력 협의",
+      "posted": null,
+      "start": "2026-11-17T12:00:00+09:00",
+      "end": "2026-12-17T23:59:00+09:00",
+      "duties": "비파괴검사 기업의 자분·침투·초음파 검사",
+      "qualifications": "학력·경력무관. 경력자는 급여 협의.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55595089"
+        }
+      ],
+      "licenses": [],
+      "notes": "방사선검사를 포함한 비파괴검사 기업의 MT·PT·UT 모집입니다. 이 공고 자체의 업무는 방사선투과검사로 표시하지 않았습니다.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "ndt"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55524055",
+      "company": "지앤지래드콘",
+      "title": "방사선시설 공사·유지보수",
+      "category": "private",
+      "regions": [
+        "경남"
+      ],
+      "location": "경남 김해시 전하로13번길 3",
+      "education": "대졸(2,3년) 이상 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-09T16:00:00+09:00",
+      "end": "2026-12-09T23:59:00+09:00",
+      "duties": "방사선시설 공사·유지보수 기술업무",
+      "qualifications": "전문대 이상·경력무관. 건축·기계·설비·전기 자격, CAD·서류작성·운전 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55524055"
+        }
+      ],
+      "licenses": [],
+      "notes": "",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "maintenance"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55482021",
+      "company": "에이피엔(APN) 강원",
+      "title": "비파괴검사 현장 소장",
+      "category": "private",
+      "regions": [
+        "강원"
+      ],
+      "location": "강원 횡성군 한우로 755",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-04T13:00:00+09:00",
+      "end": "2026-12-04T23:59:00+09:00",
+      "duties": "비파괴검사 현장 관리·검사 업무",
+      "qualifications": "학력·경력무관 요약. 관련 자격·경력 3년 이상 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55482021"
+        }
+      ],
+      "licenses": [],
+      "notes": "공고 제목은 소장 모집이나 요약 직책은 팀원·면접 결정으로 상이합니다. 경력도 무관 요약과 3년 이상 우대가 함께 있어 실제 직책·조건 확인이 필요합니다.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "ndt"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "sr-55474036",
+      "company": "고려공업검사",
+      "title": "울산 초음파·위상배열 비파괴검사 UT·PAUT",
+      "category": "private",
+      "regions": [
+        "울산"
+      ],
+      "location": "울산 남구 두왕로 96",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-03T20:00:00+09:00",
+      "end": "2026-12-03T23:59:00+09:00",
+      "duties": "비파괴검사 기업의 초음파·위상배열 검사",
+      "qualifications": "학력·경력무관. 방사선·초음파 비파괴검사 자격, 문서·엑셀·CAD 우대.",
+      "links": [
+        {
+          "label": "사람인 · 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55474036"
+        }
+      ],
+      "licenses": [],
+      "notes": "관련 기업의 UT·PAUT 검사 직무로, 해당 직무를 방사선투과검사로 추정하지 않았습니다.",
+      "grade": "미공개",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고·접수기간·상세 확인",
+      "fields": [
+        "radiation",
+        "ndt"
+      ],
+      "relationType": "관련 분야 직접 직무"
+    },
+    {
+      "id": "kaist-mighty-postdoc",
+      "company": "KAIST MIGHTY Lab",
+      "title": "박사후연구원 · 용융염원자로 다중물리·열유체 연구",
+      "category": "public",
+      "regions": [
+        "대전"
+      ],
+      "location": "대전 · KAIST",
+      "education": "박사후연구원 · 세부 학위조건 원문 확인",
+      "experience": "연차 미공개",
+      "employment": "박사후연구원 · 계약기간 미공개",
+      "salary": "미공개",
+      "posted": null,
+      "start": null,
+      "end": null,
+      "duties": "해양 용융염고속로(MSFR) 다중물리 해석, CFD·노심 열수력·반응도 연계, 용융염 물성·재료화학 및 AI 해석 프레임워크 연구",
+      "qualifications": "CFD·OpenMC·Python, 데이터 처리·자동화, 재료화학 모델링, 영어 논문·기술문서 역량 관련 모집. 세부 필수·우대 구분은 채용처 확인.",
+      "links": [
+        {
+          "label": "연구실 공식 상시 모집",
+          "url": "https://mighty.kaist.ac.kr/opening"
+        }
+      ],
+      "licenses": [],
+      "notes": "상시 모집으로 게시일·접수 개시일·계약기간·급여 금액은 공개되지 않았습니다. 지원 전에 모집 지속 여부를 확인하세요.",
+      "grade": "박사후연구원",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "공식 연구실 홈페이지와 상시 포닥 모집 본문 확인",
+      "fields": [
+        "nuclear",
+        "research",
+        "smr",
+        "fuel",
+        "design"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "organisationType": "과학기술원 · 연구실"
+    },
+    {
+      "id": "dgist-prism-1966772",
+      "company": "DGIST PRISM Lab",
+      "title": "InnoCORE 박사후연구원 · 광자·방사선 검출",
+      "category": "public",
+      "regions": [
+        "대구"
+      ],
+      "location": "대구 · DGIST 전기전자컴퓨터공학과",
+      "education": "관련 분야 박사 또는 취득예정",
+      "experience": "연차 미공개",
+      "employment": "계약직 · 1년 단위, 평가 후 연장 가능",
+      "salary": "미공개",
+      "posted": "2026-10-26",
+      "start": null,
+      "end": null,
+      "duties": "광학·나노포토닉스, 반도체 나노공정, 섬광체·광검출기 및 방사선 검출 성능 연구",
+      "qualifications": "관련 박사 또는 취득예정, 독립적 연구·국제학술지 논문 작성 역량, DGIST InnoCORE 지원자격 충족. 광학·나노포토닉스·반도체 공정 경험 우대.",
+      "links": [
+        {
+          "label": "JOBS.ac.kr · 공고·접수방법",
+          "url": "https://jobs.ac.kr/recruit-detail/1966772"
+        }
+      ],
+      "licenses": [],
+      "notes": "연구실 등록 포털 공고입니다. 대학 공식 채용 원문은 별도로 확인하지 못했습니다. 포털 일부 연락처 메뉴는 로그인 제한이 있으나 공개 본문에 이메일 접수방법이 있습니다.",
+      "grade": "박사후연구원",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "JOBS.ac.kr 공개 본문·채용 시 마감·자격·계약조건 확인",
+      "fields": [
+        "radiation",
+        "research"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "organisationType": "과학기술원 · 연구실"
+    },
+    {
+      "id": "yonsei-carbon-postdoc-10058077",
+      "company": "연세대학교 중입자암치료연구소",
+      "title": "박사후연구원 · 단일세포 다중오믹스 분석",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 서대문구 연세로 50-1 · 에비슨의생명연구센터",
+      "education": "생명과학 관련 박사",
+      "experience": "연차 미공개",
+      "employment": "계약직 · PostDoc",
+      "salary": "세전 연봉 6,000만~7,000만원 · 역량·경력 협의",
+      "posted": "2026-10-06",
+      "start": null,
+      "end": "2026-12-15",
+      "duties": "방사선·중입자치료의 종양 면역·치료 저항성 연구를 위한 단일세포 다중오믹스 데이터 분석",
+      "qualifications": "생명과학 관련 박사·단일세포 다중오믹스 분석 가능 필수. 공간전사체·WES/WGS 분석 및 장기 근무 가능 우대.",
+      "links": [
+        {
+          "label": "BRIC · 공고·접수방법",
+          "url": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10058077&premiumType="
+        }
+      ],
+      "licenses": [],
+      "notes": "포털 마감은 12/15, 본문 모집기간은 채용 시까지로 상이하여 조기 종료될 수 있습니다. 급여 본문은 6,000만~7,000만원, 요약은 6,000만원 이상~7,000만원 미만입니다. 세브란스병원 정규 채용과 별개인 연구과제 인건비이며 계약기간은 미공개입니다.",
+      "grade": "박사후연구원",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "BRIC 공개 상세·지원조건·급여·마감 확인",
+      "fields": [
+        "radiation",
+        "research"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "organisationType": "사립대학 · 연구실"
+    },
+    {
+      "id": "ibs-2201-research",
+      "company": "기초과학연구원(IBS) 상대론적레이저과학연구단",
+      "title": "연구위원 · 레이저 플라즈마·전자가속 연구",
+      "category": "public",
+      "regions": [
+        "광주"
+      ],
+      "location": "광주 · GIST 상대론적레이저과학연구단",
+      "education": "물리학 관련 박사 또는 석사 후 연구경력 5년 이상",
+      "experience": "석사 지원자는 연구경력 5년 이상",
+      "employment": "계약직 · 초임 2년, 평가 후 2년 단위 재계약 가능",
+      "salary": "미공개 · 연구원 내규 Pay-band",
+      "posted": "2026-11-10",
+      "start": "2026-11-10",
+      "end": "2026-11-25T16:00:00+09:00",
+      "duties": "초강력 레이저를 이용한 전자가속·베타트론 생성 실험, 논문·연구계획서·보고서 작성",
+      "qualifications": "임용예정일 기준 관련 박사 또는 석사 후 5년 이상 연구경력. 물리·광학·핵물리·천체물리 등. 레이저 플라즈마·전자가속·데이터분석·영어 역량 관련 직무.",
+      "links": [
+        {
+          "label": "IBS 공식 공고·지원방법",
+          "url": "https://www.ibs.re.kr/prog/recruit/kor/sub04_01/view.do?idx=2201"
+        },
+        {
+          "label": "공식 직무기술서 HWP",
+          "url": "https://www.ibs.re.kr/prog/recruit/kor/getFile.do?file_idx=3211"
+        }
+      ],
+      "licenses": [],
+      "notes": "2027/2/1 임용예정(5/1까지 협의 가능). 두 모집분야 중복지원 불가. 연구단 종료 시 계약 종료. 임상 방사선사 직무가 아닙니다.",
+      "grade": "연구위원",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "공식 통합 공고·첨부 직무기술서 두 분야 확인",
+      "fields": [
+        "research",
+        "radiation",
+        "fusion"
+      ],
+      "relationType": "레이저 입자가속 직접 연구",
+      "organisationType": "공공 연구기관"
+    },
+    {
+      "id": "ibs-2201-tech",
+      "company": "기초과학연구원(IBS) 상대론적레이저과학연구단",
+      "title": "연구기술직 · 레이저 연구시설 구축·유지보수",
+      "category": "public",
+      "regions": [
+        "광주"
+      ],
+      "location": "광주 · GIST 상대론적레이저과학연구단",
+      "education": "이학·공학 학사 이상",
+      "experience": "경력 연차 제한 미공개 · 관련 기술 교육 후 수행 가능",
+      "employment": "계약직 · 초임 2년, 평가 후 2년 단위 재계약 가능",
+      "salary": "미공개 · 연구원 내규 Pay-band",
+      "posted": "2026-11-10",
+      "start": "2026-11-10",
+      "end": "2026-11-25T16:00:00+09:00",
+      "duties": "레이저·입자가속 연구시설의 실험 장비 제작·전기전자제어 장치 유지보수·인프라 운영 지원",
+      "qualifications": "임용예정일 기준 이학·공학 학사 이상. 전기전자제어·진공기기 기초지식 관련 직무. 해당 기술 경험 없이도 교육 후 수행 가능.",
+      "links": [
+        {
+          "label": "IBS 공식 공고·지원방법",
+          "url": "https://www.ibs.re.kr/prog/recruit/kor/sub04_01/view.do?idx=2201"
+        },
+        {
+          "label": "공식 직무기술서 HWP",
+          "url": "https://www.ibs.re.kr/prog/recruit/kor/getFile.do?file_idx=3211"
+        }
+      ],
+      "licenses": [],
+      "notes": "2027/2/1 임용예정(5/1까지 협의 가능). 두 모집분야 중복지원 불가. 연구단 종료 시 계약 종료. 임상 방사선사 직무가 아닙니다.",
+      "grade": "연구기술직",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "공식 통합 공고·첨부 직무기술서 두 분야 확인",
+      "fields": [
+        "research",
+        "radiation",
+        "fusion"
+      ],
+      "relationType": "입자가속 연구시설 기술지원",
+      "organisationType": "공공 연구기관"
+    }
+  ],
+  "sources": [
+    {
+      "name": "한국원자력연구원",
+      "url": "https://www.kaeri.re.kr/board?menuId=MENU00428",
+      "state": "확인",
+      "note": "추가 신규 미확인",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "한국원자력안전기술원",
+      "url": "https://kins.recruiter.co.kr/app/jobnotice/list",
+      "state": "제한",
+      "note": "채용 목록 표시 제한",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "한국원자력통제기술원",
+      "url": "https://www.kinac.re.kr/menu?menuId=MN0000000498",
+      "state": "확인",
+      "note": "공식 게시판으로 대체 확인",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "한국기초과학지원연구원",
+      "url": "https://www.kbsi.re.kr/board?menuId=MENU002051102000000&boardId=BOARD00086",
+      "state": "확인",
+      "note": "추가 신규 미확인",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "한국핵융합에너지연구원",
+      "url": "https://www.kfe.re.kr/board.es?mid=a10304010000&bid=0013",
+      "state": "확인",
+      "note": "정규직 신규 · 지원 페이지 상태 차이",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "기초과학연구원",
+      "url": "https://www.ibs.re.kr/prog/recruit/kor/sub04_01/list.do",
+      "state": "확인",
+      "note": "상대론적레이저 연구직·기술직 공식 공고와 첨부 직무기술서 확인",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "포항가속기연구소",
+      "url": "https://pal.postech.ac.kr/ko/info/ablemanEmpmn.do",
+      "state": "확인",
+      "note": "기존 안내 공고 중복 제외",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "한국원자력의학원",
+      "url": "https://www.kirams.re.kr/board/generalBoardList7.do",
+      "state": "확인",
+      "note": "공식 공고·첨부에서 방사성의약품 모집분야 확인",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "동남권원자력의학원",
+      "url": "https://diramsjob.recruiter.co.kr/career/home",
+      "state": "제한",
+      "note": "채용 목록 표시 제한",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "한국수력원자력",
+      "url": "https://www.khnp.co.kr/trecruit/",
+      "state": "확인",
+      "note": "해외원전 통번역 공고·직무명세서·공개 월급 확인",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "한국전력기술",
+      "url": "https://www.kepco-enc.com/board.es?mid=a10106020100&bid=0002",
+      "state": "확인",
+      "note": "추가 신규 미확인",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "한전원자력연료",
+      "url": "https://recruit.incruit.com/knfcinsa/job/",
+      "state": "확인",
+      "note": "추가 신규 미확인",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "한국원자력환경공단",
+      "url": "https://www.korad.or.kr/korad/board/index.do?manage_idx=26&menu_idx=438",
+      "state": "확인",
+      "note": "추가 신규 미확인",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "한국원자력안전재단",
+      "url": "https://www.kofons.or.kr/web/cop/bbsWeb/selectBoardList.do?bbsId=BBSMSTR_000000000441",
+      "state": "확인",
+      "note": "추가 신규 미확인",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "한전KPS",
+      "url": "https://www.kps.co.kr/web/company/recruit/posting/rolling.do",
+      "state": "확인",
+      "note": "JOB-ALIO 공고·첨부 대조",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "JOB-ALIO",
+      "url": "https://job.alio.go.kr/",
+      "state": "확인",
+      "note": "신규 공고·첨부 확인",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "원자력안전위원회",
+      "url": "https://www.nssc.go.kr/",
+      "state": "확인",
+      "note": "생활방사선안전과장 공식 첨부 확인",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "나라일터",
+      "url": "https://www.gojobs.go.kr/",
+      "state": "일부",
+      "note": "공모직위·개별 공고 확인, 일부 목록 제한",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "국가공무원채용시스템",
+      "url": "https://gongmuwon.gosi.kr/",
+      "state": "제한",
+      "note": "채용 목록 확인 제한",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "클린아이 잡플러스",
+      "url": "https://job.cleaneye.go.kr/",
+      "state": "제한",
+      "note": "접속 오류",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "국방부·해군",
+      "url": "https://www.mnd.go.kr/",
+      "state": "제한",
+      "note": "일부 화면·접속 제한, 전체 첨부 미검증",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "육군취업지원센터",
+      "url": "https://armyjob.mil.kr/sites/job/index.do",
+      "state": "일부",
+      "note": "공식 게시판 접속, 전체 첨부 미검증",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "한국방사선안전협회",
+      "url": "https://www.kans.re.kr/bbs/board.php?bo_table=s2_4",
+      "state": "확인",
+      "note": "기존 공고 중복 대조",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "한국방사선진흥협회",
+      "url": "https://www.koara.or.kr/hoiwon/",
+      "state": "확인",
+      "note": "회원사 채용 검색 대조",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "원전산업 통합지원 플랫폼",
+      "url": "https://nisp.kr/rcrutPbanc/list.do",
+      "state": "확인",
+      "note": "원전 설계·해체·SW·제작·품질 기업 등록 상세 확인",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "사람인",
+      "url": "https://www.saramin.co.kr/",
+      "state": "확인",
+      "note": "기업 등록 원문·접수기간 확인. 의료 방사선사 직무 제외.",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "잡코리아",
+      "url": "https://www.jobkorea.co.kr/",
+      "state": "확인",
+      "note": "기업 등록 공고·상세 본문 교차 확인.",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "인크루트",
+      "url": "https://www.incruit.com/",
+      "state": "확인",
+      "note": "센서테크·피플스카우트·메디칼스탠다드 등 실제 상세 공고 수록. 공식 원문과 조건 차이 표시.",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "고용24",
+      "url": "https://www.work24.go.kr/",
+      "state": "확인",
+      "note": "GTS·현대기술검사 상세 공고에서 공개 연봉 및 접수기간 확인.",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "BRIC",
+      "url": "https://www.ibric.org/bric/biojob/recruit.do",
+      "state": "확인",
+      "note": "공개 검색·상세 확인. 중입자치료 연구소 포닥·급여 추가",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "JOBS.ac.kr",
+      "url": "https://jobs.ac.kr",
+      "state": "확인",
+      "note": "공개 상세에서 DGIST 광자·방사선 검출 포닥 추가",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "RND JOB",
+      "url": "https://www.rndjob.or.kr",
+      "state": "일부",
+      "note": "전문연구요원 채용관 원자력 검색에서 관련 진행 공고 미확인",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "KIRD K-Club",
+      "url": "https://k-club.kird.re.kr/prog/hibrain/career/sub04_01_02/list.do",
+      "state": "일부",
+      "note": "연구인력 채용 목록 확인. 관련 신규 원문은 별도 확인 못함",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "하이브레인넷",
+      "url": "https://global.hibrain.net/recruitment/recruits",
+      "state": "일부",
+      "note": "공개 검색 결과 확인. 접수 중인 관련 교수 신규 공고 미확인",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "대한방사선방어학회",
+      "url": "https://www.karp.or.kr/index.php?bo_idx=12&hCode=BOARD",
+      "state": "일부",
+      "note": "구인 게시판 확인. 추가 공고의 현재 접수 여부 미확인",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "한국원자력학회",
+      "url": "https://www.kns.org",
+      "state": "확인",
+      "note": "관련 학과 초빙 검색·본문에서 한양대·KAIST 접수 종료 확인",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "대학 공식 교수초빙 게시판",
+      "url": "https://invite.unist.ac.kr/invite/main.do",
+      "state": "일부",
+      "note": "교수 메뉴에서 대학별 확인 결과·마감·접근 제한을 별도로 표시",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "KAIST MIGHTY Lab",
+      "url": "https://mighty.kaist.ac.kr/opening",
+      "state": "확인",
+      "note": "공식 상시 포닥 모집 본문 확인",
+      "checked": "2026-11-17"
+    }
+  ],
+  "addedThisUpdate": [
+    "sr-55540847",
+    "sr-55500775",
+    "sr-55387621",
+    "sr-55424115",
+    "sr-55423988",
+    "sr-55404650",
+    "sr-55297230",
+    "sr-55242346",
+    "sr-55209716",
+    "sr-55595089",
+    "sr-55524055",
+    "sr-55482021",
+    "sr-55474036",
+    "kaist-mighty-postdoc",
+    "dgist-prism-1966772",
+    "yonsei-carbon-postdoc-10058077",
+    "ibs-2201-research",
+    "ibs-2201-tech"
+  ],
+  "exclusions": [
+    {
+      "company": "삼성물산",
+      "reason": "원전·SMR 경력채용 공식 마감 2026-11-16"
+    },
+    {
+      "company": "이투에스",
+      "reason": "원자력 I&C 공고 마감 2026-11-13"
+    },
+    {
+      "company": "한국에스지에스",
+      "reason": "품질보증 공고(50213989)는 요약 마감 12/20과 상세 본문 11/4가 상충해 현 접수 미확인으로 신규 수록 제외"
+    }
+  ],
+  "facultyChecks": [
+    {
+      "name": "동남보건대학교 · 방사선학과",
+      "url": "https://ipsi.dongnam.ac.kr/bbs/main/287/47669/artclView.do",
+      "result": "2027학년도 초빙 · 접수 2026/10/27 17시 마감 · 목록 제외"
+    },
+    {
+      "name": "동서대학교 · 방사선학과",
+      "url": "https://www.dongseo.ac.kr/kr/index.php?idx=103654&mode=view&pCode=MN2000197",
+      "result": "2027-1학기 초빙 · 접수 2026/11/13 마감 · 목록 제외"
+    },
+    {
+      "name": "한양대학교 · 원자력공학과",
+      "url": "https://site.hanyang.ac.kr/ko/web/faculty/27-4-2",
+      "result": "2027-1학기 초빙 · 학회 공고에서 2026/10/27 13:59 마감 확인 · 대학 원문 재확인 제한"
+    },
+    {
+      "name": "POSTECH · 첨단원자력공학부 전임",
+      "url": "https://e-dane.postech.ac.kr/bbs/board.php?bo_table=notice&wr_id=310",
+      "result": "2027 상반기 임용 초빙 · 접수 2026/9/11 18시 마감 · 목록 제외"
+    },
+    {
+      "name": "한국전력국제원자력대학원대학교(KINGS)",
+      "url": "https://www.kings.ac.kr/cop/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000224&nttId=5281",
+      "result": "공식 첨부 확인 · 2027/3 임용 초빙 접수 2026/9/21 마감 · 목록 제외"
+    },
+    {
+      "name": "UNIST · 전임교원 채용",
+      "url": "https://invite.unist.ac.kr/invite/main.do",
+      "result": "공식 채용 사이트에 현재 진행 중인 초빙 공고 없음"
+    },
+    {
+      "name": "인제대학교 · 방사선 관련 학과",
+      "url": "https://rad.inje.ac.kr/rad/index.do",
+      "result": "관련 교원 공고 검색되나 공식 페이지 접근 실패 · 접수 상태 확인 불가"
+    },
+    {
+      "name": "POSTECH · 첨단원자력공학부 연구교수",
+      "url": "https://dane.postech.ac.kr/bbs/board.php?bo_table=notice&sca=%EC%9D%BC%EB%B0%98&wr_id=137",
+      "result": "2021년 게시된 상시 초빙 안내 · 현재 모집 여부 확인 불가 · 접수 중 목록 제외"
+    }
+  ]
+}
