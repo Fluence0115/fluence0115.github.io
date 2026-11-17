@@ -1,0 +1,592 @@
+{
+  "version": 1,
+  "checked": "2026-11-17",
+  "coverage": "공개 원문·공공 포털·학회 자료에서 확인한 부분 수집 이력입니다. 국내 전체 채용의 전수 통계가 아닙니다.",
+  "records": [
+    {
+      "id": "history-knu-57969",
+      "company": "경북대학교",
+      "title": "방사선안전관리센터 무기계약직",
+      "date": "2025-12-03",
+      "dateBasis": "association_posted",
+      "topics": [
+        "safety"
+      ],
+      "category": "public",
+      "regions": [
+        "대구"
+      ],
+      "openings": 1,
+      "openingsNote": "",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://www.kans.re.kr/bbs/board.php?bo_table=s2_4&wr_id=57969"
+      }
+    },
+    {
+      "id": "history-dirams-295135",
+      "company": "동남권원자력의학원",
+      "title": "방사선융복합 박사후연구원",
+      "date": "2026-01-13",
+      "dateBasis": "posted",
+      "topics": [
+        "research"
+      ],
+      "category": "public",
+      "regions": [
+        "부산"
+      ],
+      "openings": 1,
+      "openingsNote": "",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://job.alio.go.kr/recruitview.do?idx=295135"
+      }
+    },
+    {
+      "id": "history-paik-1657",
+      "company": "인제대학교 부산백병원",
+      "title": "산부인과 외래 방사선사",
+      "date": "2026-01-15",
+      "dateBasis": "start",
+      "topics": [
+        "radiographer",
+        "sonographer"
+      ],
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "openings": 1,
+      "openingsNote": "",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://www.paik.ac.kr/recruit/user/job/view.do?jobId=1657&menuNo=2400004"
+      }
+    },
+    {
+      "id": "history-dirams-297302",
+      "company": "동남권원자력의학원",
+      "title": "건강증진센터 방사선사·초음파사 전일제·단시간제",
+      "date": "2026-02-27",
+      "dateBasis": "posted",
+      "topics": [
+        "radiographer",
+        "sonographer"
+      ],
+      "category": "public",
+      "regions": [
+        "부산"
+      ],
+      "openings": 2,
+      "openingsNote": "",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://job.alio.go.kr/mobile2021/recruit/recruitView.do?idx=297302"
+      }
+    },
+    {
+      "id": "history-paik-1723",
+      "company": "인제대학교 부산백병원",
+      "title": "영상의학과 방사선사",
+      "date": "2026-02-27",
+      "dateBasis": "posted",
+      "topics": [
+        "radiographer"
+      ],
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "openings": 1,
+      "openingsNote": "",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://www.paik.ac.kr/recruit/user/job/view.do?jobId=1723&menuNo=2400004"
+      }
+    },
+    {
+      "id": "history-kepco-296975-licensing",
+      "company": "한국전력기술",
+      "title": "제1차 프로젝트계약 · 인허가 분야",
+      "date": "2026-02-19",
+      "dateBasis": "posted",
+      "topics": [
+        "nuclear_safety"
+      ],
+      "category": "public",
+      "regions": [
+        "미확인"
+      ],
+      "openings": null,
+      "openingsNote": "통합 76명 중 해당 분야 모집인원 미확인. 최종 선발결과를 예정 TO로 사용하지 않음.",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://job.alio.go.kr/recruitview.do?idx=296975"
+      }
+    },
+    {
+      "id": "history-kepco-296975-ic",
+      "company": "한국전력기술",
+      "title": "제1차 프로젝트계약 · 계측 분야",
+      "date": "2026-02-19",
+      "dateBasis": "posted",
+      "topics": [
+        "ic"
+      ],
+      "category": "public",
+      "regions": [
+        "미확인"
+      ],
+      "openings": null,
+      "openingsNote": "통합 공채의 계측 분야. 해당 분야 모집인원 미확인.",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://job.alio.go.kr/recruitview.do?idx=296975"
+      }
+    },
+    {
+      "id": "history-kepco-march-psa",
+      "company": "한국전력기술",
+      "title": "상반기 정규직 경력 · 원자력 PSA",
+      "date": "2026-03-03",
+      "dateBasis": "posted",
+      "topics": [
+        "nuclear_safety"
+      ],
+      "category": "public",
+      "regions": [
+        "미확인"
+      ],
+      "openings": 1,
+      "openingsNote": "공고문 모집분야별 인원. 이후 재접근 시 403 오류 발생.",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://www.alio.go.kr/download/download.json?fileNo=3031880"
+      }
+    },
+    {
+      "id": "history-kepco-march-license",
+      "company": "한국전력기술",
+      "title": "상반기 정규직 경력 · 원자력 인허가",
+      "date": "2026-03-03",
+      "dateBasis": "posted",
+      "topics": [
+        "nuclear_safety"
+      ],
+      "category": "public",
+      "regions": [
+        "미확인"
+      ],
+      "openings": 1,
+      "openingsNote": "공고문 모집분야별 인원. 이후 재접근 시 403 오류 발생.",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://www.alio.go.kr/download/download.json?fileNo=3031880"
+      }
+    },
+    {
+      "id": "history-kepco-march-protection",
+      "company": "한국전력기술",
+      "title": "상반기 정규직 경력 · 원자력 방사선방호",
+      "date": "2026-03-03",
+      "dateBasis": "posted",
+      "topics": [
+        "safety"
+      ],
+      "category": "public",
+      "regions": [
+        "미확인"
+      ],
+      "openings": 1,
+      "openingsNote": "공고문 모집분야별 인원. 이후 재접근 시 403 오류 발생.",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://www.alio.go.kr/download/download.json?fileNo=3031880"
+      }
+    },
+    {
+      "id": "history-kepco-march-fluid",
+      "company": "한국전력기술",
+      "title": "상반기 정규직 경력 · 원자력 유체계통",
+      "date": "2026-03-03",
+      "dateBasis": "posted",
+      "topics": [
+        "nuclear_safety"
+      ],
+      "category": "public",
+      "regions": [
+        "미확인"
+      ],
+      "openings": 1,
+      "openingsNote": "공고문 모집분야별 인원. 이후 재접근 시 403 오류 발생.",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://www.alio.go.kr/download/download.json?fileNo=3031880"
+      }
+    },
+    {
+      "id": "history-osong-299111",
+      "company": "오송첨단의료산업진흥재단",
+      "title": "방사선안전관리 연구직",
+      "date": "2026-03-30",
+      "dateBasis": "posted",
+      "topics": [
+        "safety"
+      ],
+      "category": "public",
+      "regions": [
+        "충북"
+      ],
+      "openings": 1,
+      "openingsNote": "동일 3월 30일 공고의 접수 연장본. idx=298594와 중복 제외.",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://job.alio.go.kr/recruitview.do?idx=299111"
+      }
+    },
+    {
+      "id": "history-dirams-april",
+      "company": "동남권원자력의학원",
+      "title": "첨단방사선바이오 박사후연구원",
+      "date": "2026-04-07",
+      "dateBasis": "start",
+      "topics": [
+        "research"
+      ],
+      "category": "public",
+      "regions": [
+        "부산"
+      ],
+      "openings": 1,
+      "openingsNote": "",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://alio.go.kr/download/download.json?fileNo=3040549"
+      }
+    },
+    {
+      "id": "history-nukwang-53861990",
+      "company": "핵광산업",
+      "title": "방사선안전관리자 · SRI",
+      "date": "2026-05-12",
+      "dateBasis": "start",
+      "topics": [
+        "safety"
+      ],
+      "category": "private",
+      "regions": [
+        "인천"
+      ],
+      "openings": null,
+      "openingsNote": "원문의 0명은 구체적 모집인원 비공개 표기이므로 0명으로 합산하지 않음.",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://www.saramin.co.kr/api/jobs/job/content?rec_idx=53861990"
+      }
+    },
+    {
+      "id": "history-kgsteel-may",
+      "company": "KG스틸",
+      "title": "설비보전 · 방사선안전관리자",
+      "date": "2026-05-20",
+      "dateBasis": "start",
+      "topics": [
+        "safety"
+      ],
+      "category": "private",
+      "regions": [
+        "미확인"
+      ],
+      "openings": null,
+      "openingsNote": "모집인원 0명 표기는 미공개 처리.",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://linkareer.com/activity/323219"
+      }
+    },
+    {
+      "id": "history-ulsan-57977",
+      "company": "울산대학교",
+      "title": "방사선안전관리 계약직",
+      "date": "2026-06-09",
+      "dateBasis": "association_posted",
+      "topics": [
+        "safety"
+      ],
+      "category": "private",
+      "regions": [
+        "울산"
+      ],
+      "openings": null,
+      "openingsNote": "",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://www.kans.re.kr/bbs/board.php?bo_table=s2_4&wr_id=57977"
+      }
+    },
+    {
+      "id": "history-postech-310",
+      "company": "POSTECH",
+      "title": "첨단원자력공학부 교수 초빙",
+      "date": "2026-06-19",
+      "dateBasis": "posted",
+      "topics": [
+        "faculty"
+      ],
+      "category": "private",
+      "regions": [
+        "경북"
+      ],
+      "openings": null,
+      "openingsNote": "○명은 구체적 모집인원 미공개.",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://e-dane.postech.ac.kr/bbs/board.php?bo_table=notice&wr_id=310"
+      }
+    },
+    {
+      "id": "history-dirams-303104",
+      "company": "동남권원자력의학원",
+      "title": "첨단방사선AI융합 박사후연구원",
+      "date": "2026-07-28",
+      "dateBasis": "posted",
+      "topics": [
+        "research"
+      ],
+      "category": "public",
+      "regions": [
+        "부산"
+      ],
+      "openings": 1,
+      "openingsNote": "",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://job.alio.go.kr/recruitview.do?idx=303104"
+      }
+    },
+    {
+      "id": "history-nmc-302622",
+      "company": "국립중앙의료원",
+      "title": "순환기내과 방사선사 또는 임상병리사 · 심장초음파 재공고",
+      "date": "2026-07-10",
+      "dateBasis": "posted",
+      "topics": [
+        "radiographer",
+        "sonographer"
+      ],
+      "category": "public",
+      "regions": [
+        "서울"
+      ],
+      "openings": 1,
+      "openingsNote": "재공고임을 원문에 명시. 이전 공고는 데이터에 미수록.",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://job.alio.go.kr/recruitview.do?idx=302622"
+      }
+    },
+    {
+      "id": "history-navy-57982",
+      "company": "해군 군수사령부",
+      "title": "특수탄 비파괴연구원 · 전문군무경력관 나군",
+      "date": "2026-08-25",
+      "dateBasis": "association_posted",
+      "topics": [
+        "safety"
+      ],
+      "category": "public",
+      "regions": [
+        "미확인"
+      ],
+      "openings": null,
+      "openingsNote": "SRI 또는 방사선관리기술사. 인원·근무지 상세 미확인.",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://www.kans.re.kr/bbs/board.php?bo_table=s2_4&page=1&wr_id=57982"
+      }
+    },
+    {
+      "id": "history-ilsan-303898",
+      "company": "국민건강보험공단 일산병원",
+      "title": "영상의학과 방사선사 · 상근",
+      "date": "2026-08-19",
+      "dateBasis": "posted",
+      "topics": [
+        "radiographer"
+      ],
+      "category": "public",
+      "regions": [
+        "경기"
+      ],
+      "openings": 1,
+      "openingsNote": "통합 공채 6명 중 방사선사 1명만 반영.",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://job.alio.go.kr/mobile2021/recruit/recruitView.do?idx=303898"
+      }
+    },
+    {
+      "id": "history-kirams-10980",
+      "company": "한국원자력의학원",
+      "title": "역학·통계 학위과정·박사후연구원",
+      "date": "2026-08-27",
+      "dateBasis": "association_posted",
+      "topics": [
+        "research"
+      ],
+      "category": "public",
+      "regions": [
+        "서울"
+      ],
+      "openings": null,
+      "openingsNote": "○명 표기로 구체적 인원 미공개.",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://karp.or.kr/index.php?bo_idx=12&bo_rows=&hCode=BOARD&idx=10980&page=view&pg=1&sfc=&sfl=&stx=&year=0"
+      }
+    },
+    {
+      "id": "history-snubh-304825",
+      "company": "분당서울대학교병원",
+      "title": "산부인과 보건직 · 초음파",
+      "date": "2026-09-10",
+      "dateBasis": "posted",
+      "topics": [
+        "radiographer",
+        "sonographer"
+      ],
+      "category": "public",
+      "regions": [
+        "경기"
+      ],
+      "openings": 1,
+      "openingsNote": "",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304825"
+      }
+    },
+    {
+      "id": "history-kriss-11002",
+      "company": "한국표준과학연구원",
+      "title": "방사선측정그룹 박사후연구원 · FLASH·몬테카를로",
+      "date": "2026-09-18",
+      "dateBasis": "association_posted",
+      "topics": [
+        "research"
+      ],
+      "category": "public",
+      "regions": [
+        "대전"
+      ],
+      "openings": null,
+      "openingsNote": "",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://karp.or.kr/index.php?bo_idx=12&bo_rows=&hCode=BOARD&idx=11002&page=view&pg=1&sfc=&sfl=&stx=&year=0"
+      }
+    },
+    {
+      "id": "history-dirams-305068",
+      "company": "동남권원자력의학원",
+      "title": "제2차 연구기술직 · EPR·하전입자 연구",
+      "date": "2026-09-17",
+      "dateBasis": "posted",
+      "topics": [
+        "research"
+      ],
+      "category": "public",
+      "regions": [
+        "부산"
+      ],
+      "openings": 2,
+      "openingsNote": "통합 10명 중 관련 연구기술직 2명. 10월 14일 재공고 idx=305955는 같은 모집으로 중복 제외.",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://job.alio.go.kr/mobile2021/recruit/recruitView.do?idx=305068"
+      }
+    },
+    {
+      "id": "history-khnp-304678",
+      "company": "한국수력원자력",
+      "title": "월성본부 방사선계측기 담당",
+      "date": "2026-09-07",
+      "dateBasis": "posted",
+      "topics": [
+        "safety",
+        "ic"
+      ],
+      "category": "public",
+      "regions": [
+        "경북"
+      ],
+      "openings": null,
+      "openingsNote": "통합 13명 중 해당 분야 인원 미확인.",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304678"
+      }
+    },
+    {
+      "id": "history-nmc-305638",
+      "company": "국립중앙의료원",
+      "title": "보건의료직 6급 영상의학과 방사선사",
+      "date": "2026-10-01",
+      "dateBasis": "posted",
+      "topics": [
+        "radiographer"
+      ],
+      "category": "public",
+      "regions": [
+        "서울"
+      ],
+      "openings": 1,
+      "openingsNote": "",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305638"
+      }
+    },
+    {
+      "id": "history-ibs-306356-cyclotron",
+      "company": "기초과학연구원 중이온가속기연구소",
+      "title": "사이클로트론 운영·이용자 지원 기술 연구개발",
+      "date": "2026-10-29",
+      "dateBasis": "posted",
+      "topics": [
+        "research"
+      ],
+      "category": "public",
+      "regions": [
+        "대전"
+      ],
+      "openings": 1,
+      "openingsNote": "",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://job.alio.go.kr/mobile2021/recruit/recruitView.do?idx=306356"
+      }
+    },
+    {
+      "id": "history-ibs-306356-safety",
+      "company": "기초과학연구원 중이온가속기연구소",
+      "title": "방사선안전 연구직",
+      "date": "2026-10-29",
+      "dateBasis": "posted",
+      "topics": [
+        "safety"
+      ],
+      "category": "public",
+      "regions": [
+        "대전"
+      ],
+      "openings": 1,
+      "openingsNote": "",
+      "source": {
+        "label": "확인 출처·원문",
+        "url": "https://job.alio.go.kr/mobile2021/recruit/recruitView.do?idx=306356"
+      }
+    }
+  ]
+}

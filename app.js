@@ -8,7 +8,7 @@ const write = (key, value) => {try {localStorage.setItem('nuclear-careers:'+key,
 const categories = {public:'공공기관(정출연 포함)',private:'사기업'};
 const fieldNames={nuclear:'원자력',radiation:'방사선',design:'설계·안전해석',quality:'품질·기기검증',ic:'계측제어·SW',waste:'해체·방폐물',smr:'SMR',fuel:'핵연료·원자로',maintenance:'정비·제작·시공',safety:'방사선안전·방호',ndt:'비파괴검사',fusion:'가속기·핵융합',isotope:'동위원소·의약품·장비',support:'영업·사업지원',research:'연구직·R&D',faculty:'교수채용',nuclear_safety:'원자력안전 및 인허가',radiographer:'방사선사',sonographer:'초음파사'};
 const topicNames={safety:'방사선안전',nuclear_safety:'원자력안전 및 인허가',research:'연구개발(R&D)',ic:'계측제어',radiographer:'방사선사',sonographer:'초음파사',faculty:'교수채용'};
-const jobTopics=j=>Array.isArray(j.topics)?j.topics:(j.fields||[]).filter(f=>Object.hasOwn(topicNames,f));
+const jobTopics=j=>FluenceTrends.topics({...j,topics:Array.isArray(j.topics)?j.topics:(j.fields||[]).filter(f=>Object.hasOwn(topicNames,f))});
 const topicMatches=(j,topic)=>jobTopics(j).includes(topic);
 const jobFields=j=>Array.isArray(j.fields)?j.fields:[];
 const hasLicense=(j,name)=>j.licenses.some(l=>l.name===name);
@@ -69,7 +69,7 @@ function filtered(overrides={}){
     if($('#salaryOnly').checked&&!salaryDisclosed(j))return false;
     if(license&&!j.licenses.some(l=>l.name===license))return false;
     if($('#requiredOnly').checked&&!j.licenses.some(l=>requiredLicense(l)&&(!license||l.name===license)&&(!['sri','ri','technologist'].includes(selectedView)||l.name===({sri:'SRI',ri:'RI',technologist:'방사선관리기술사'}[selectedView]))))return false;
-    if(q){let blob=[j.company,j.title,j.location,j.education,j.experience,j.duties,j.qualifications,j.relationType,...jobFields(j).map(f=>fieldNames[f]),...jobTopics(j).map(f=>topicNames[f]),...j.detail].join(' ').toLowerCase();if(blob.includes('사이클로트론'))blob+=' 가속기';if(jobFields(j).includes('nuclear'))blob+=' 원전 원자력';if(jobFields(j).includes('ic'))blob+=' 계측제어 i&c software 소프트웨어';if(jobFields(j).includes('waste'))blob+=' 방사성폐기물 방폐물 해체';if(jobFields(j).includes('smr'))blob+=' 소형모듈원자로 smr';if(jobFields(j).includes('research'))blob+=' 연구 r&d rnd 포닥 연구원';if(jobFields(j).includes('faculty'))blob+=' 교수 교원 초빙';if(jobTopics(j).includes('sonographer'))blob+=' 초음파 소노그래퍼 sonographer';
+    if(q){let blob=[j.company,j.title,j.location,j.education,j.experience,j.duties,j.qualifications,j.relationType,...jobFields(j).map(f=>fieldNames[f]),...jobTopics(j).map(f=>topicNames[f]),...j.detail].join(' ').toLowerCase();if(blob.includes('사이클로트론'))blob+=' 가속기';if(jobFields(j).includes('nuclear'))blob+=' 원전 원자력';if(jobFields(j).includes('ic'))blob+=' 계측제어 i&c software 소프트웨어';if(jobFields(j).includes('waste'))blob+=' 방사성폐기물 방폐물 해체';if(jobFields(j).includes('smr'))blob+=' 소형모듈원자로 smr';if(jobFields(j).includes('research'))blob+=' 연구 r&d rnd 포닥 연구원';if(jobFields(j).includes('faculty'))blob+=' 교수 교원 초빙';if(jobTopics(j).includes('sonographer'))blob+=' 초음파 초음파사 소노그래퍼 소노그레퍼 sonographer sonography ultrasound ultrasonography';
       if(!q.split(/\s+/).every(t=>['sri','ri'].includes(t)?j.licenses.some(l=>l.name.toLowerCase()===t):blob.includes(t)))return false;
     }return true;
   });
@@ -79,6 +79,8 @@ function filtered(overrides={}){
   return list;
 }
 function render(){
+  $('#sonographerNote').hidden=$('#fieldFilter').value!=='sonographer';
+  renderTrend();
   const active=jobs.filter(j=>state(j)!=='closed');
   $('#lastChecked').textContent=fmt(base.asOf);$('#aboutChecked').textContent=fmt(base.asOf);
   $('#updateMode').textContent=base.automation?.enabled?'매일 10시 갱신 예약':'수동 갱신';
@@ -148,6 +150,7 @@ async function init(){
   for(const id of ['region','license','requiredOnly','hideClosed','sourceFilter','salaryOnly','sort'])$('#'+id).addEventListener('change',render);
   $$('[data-field]').forEach(b=>b.onclick=()=>{view='all';$$('[data-view]').forEach(x=>x.classList.toggle('active',x.dataset.view==='all'));$('#breadcrumb').textContent='전체 공고';$('#fieldFilter').value=b.dataset.field;facultyStatus='all';render();});
   $$('[data-source]').forEach(b=>b.onclick=()=>{$('#sourceFilter').value=b.dataset.source;render();});
+  initTrends();
   $('#search').addEventListener('input',render);$$('[data-query]').forEach(b=>b.onclick=()=>{$('#search').value=b.dataset.query;render();});$$('[data-license]').forEach(b=>b.onclick=()=>{$('#license').value=b.dataset.license;render();});
   document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA','SELECT'].includes(e.target.tagName)&&!document.querySelector('dialog[open]')){e.preventDefault();$('#search').focus();}});
   document.addEventListener('click',e=>{const c=e.target.closest('.close');if(c)c.closest('dialog').close();});

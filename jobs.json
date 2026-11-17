@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "asOf": "2026-11-17",
   "scope": "전국 · 방사선·원자력 안전/인허가·연구개발·계측제어·방사선사·초음파사·관련 학과 교수 및 관련 기업 직무",
   "updateMode": "scheduled-research-github-pages",
@@ -60,7 +60,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "research"
-      ]
+      ],
+      "openings": 11
     },
     {
       "id": "kps-307112",
@@ -101,7 +102,9 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "ic"
-      ]
+      ],
+      "openings": null,
+      "openingsNote": "공고 총원 38명은 사무·비계 등 보조 직무를 포함. 계측제어 직무의 인원 분리 확인 전까지 TO 합산 제외."
     },
     {
       "id": "kps-307102",
@@ -139,7 +142,8 @@
         "maintenance"
       ],
       "relationType": "관련 분야 직접 직무",
-      "topics": []
+      "topics": [],
+      "openings": 150
     },
     {
       "id": "kps-307053",
@@ -180,7 +184,8 @@
         "ndt"
       ],
       "relationType": "관련 분야 직접 직무",
-      "topics": []
+      "topics": [],
+      "openings": 51
     },
     {
       "id": "nssc-46302",
@@ -227,7 +232,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": 1
     },
     {
       "id": "sean-55592660",
@@ -279,7 +285,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "hojin-55582492",
@@ -327,7 +334,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": 1
     },
     {
       "id": "gscop-50370626",
@@ -369,7 +377,8 @@
         "ndt"
       ],
       "relationType": "관련 분야 직접 직무",
-      "topics": []
+      "topics": [],
+      "openings": null
     },
     {
       "id": "kies-55592166",
@@ -417,7 +426,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "hana-55583915",
@@ -470,7 +480,8 @@
       "topics": [
         "safety",
         "nuclear_safety"
-      ]
+      ],
+      "openings": 2
     },
     {
       "id": "hanil-55579485",
@@ -516,7 +527,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": 2
     },
     {
       "id": "apn-55585627",
@@ -555,7 +567,8 @@
         "ndt"
       ],
       "relationType": "관련 분야 직접 직무",
-      "topics": []
+      "topics": [],
+      "openings": 1
     },
     {
       "id": "apn-55585743",
@@ -594,7 +607,8 @@
         "ndt"
       ],
       "relationType": "관련 분야 직접 직무",
-      "topics": []
+      "topics": [],
+      "openings": 1
     },
     {
       "id": "koryo-55587688",
@@ -636,7 +650,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "hct-55584435",
@@ -682,7 +697,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "nuclear_safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "powerhr-55591402",
@@ -723,7 +739,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "ic"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "duc-50364930",
@@ -766,7 +783,8 @@
         "isotope"
       ],
       "relationType": "관련 분야 직접 직무",
-      "topics": []
+      "topics": [],
+      "openings": null
     },
     {
       "id": "duc-50377075",
@@ -810,7 +828,8 @@
         "isotope"
       ],
       "relationType": "관련 분야 직접 직무",
-      "topics": []
+      "topics": [],
+      "openings": null
     },
     {
       "id": "duc-50360465",
@@ -848,7 +867,8 @@
         "support"
       ],
       "relationType": "관련 기업의 기타 직무",
-      "topics": []
+      "topics": [],
+      "openings": null
     },
     {
       "id": "duc-50364434",
@@ -886,7 +906,8 @@
         "support"
       ],
       "relationType": "관련 기업의 기타 직무",
-      "topics": []
+      "topics": [],
+      "openings": null
     },
     {
       "id": "daeun-55557038",
@@ -931,7 +952,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "daehan-55231754",
@@ -977,7 +999,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": 2
     },
     {
       "id": "hdx-55569825",
@@ -1023,7 +1046,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": 1
     },
     {
       "id": "hojin-sri-55376769",
@@ -1068,7 +1092,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "hyundai-55577226",
@@ -1110,7 +1135,8 @@
         "ndt"
       ],
       "relationType": "관련 분야 직접 직무",
-      "topics": []
+      "topics": [],
+      "openings": null
     },
     {
       "id": "koryo-busan-55566409",
@@ -1154,7 +1180,8 @@
         "ndt"
       ],
       "relationType": "관련 분야 직접 직무",
-      "topics": []
+      "topics": [],
+      "openings": null
     },
     {
       "id": "gts-20261112",
@@ -1205,7 +1232,8 @@
         "ndt"
       ],
       "relationType": "관련 분야 직접 직무",
-      "topics": []
+      "topics": [],
+      "openings": null
     },
     {
       "id": "godo-55535003",
@@ -1250,7 +1278,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": 3
     },
     {
       "id": "drgem-55548252",
@@ -1295,7 +1324,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "enviro-55469210",
@@ -1338,7 +1368,8 @@
         "isotope"
       ],
       "relationType": "관련 분야 직접 직무",
-      "topics": []
+      "topics": [],
+      "openings": null
     },
     {
       "id": "people-incruit-2611130003021",
@@ -1378,7 +1409,8 @@
         "support"
       ],
       "relationType": "관련 분야 직접 직무",
-      "topics": []
+      "topics": [],
+      "openings": null
     },
     {
       "id": "sensor-incruit-2610210004160",
@@ -1423,7 +1455,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "medical-incruit-2610200002287",
@@ -1462,7 +1495,8 @@
         "support"
       ],
       "relationType": "관련 분야 직접 직무",
-      "topics": []
+      "topics": [],
+      "openings": null
     },
     {
       "id": "dongwha-r1453",
@@ -1516,7 +1550,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "cnuh-sri-306357",
@@ -1570,7 +1605,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": 1
     },
     {
       "id": "sr-55326821",
@@ -1610,7 +1646,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "nuclear_safety"
-      ]
+      ],
+      "openings": 3
     },
     {
       "id": "sr-55496289",
@@ -1652,7 +1689,8 @@
       "topics": [
         "safety",
         "nuclear_safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55566953",
@@ -1692,7 +1730,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "nuclear_safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55547051",
@@ -1732,7 +1771,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "nuclear_safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55553811",
@@ -1775,7 +1815,8 @@
       "topics": [
         "nuclear_safety",
         "research"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55478386",
@@ -1815,7 +1856,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "nuclear_safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55506640",
@@ -1855,7 +1897,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "ic"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55210091",
@@ -1901,7 +1944,8 @@
       "topics": [
         "nuclear_safety",
         "ic"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55406413",
@@ -1947,7 +1991,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "nuclear_safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55271969",
@@ -1988,7 +2033,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "nuclear_safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55187068",
@@ -2042,7 +2088,8 @@
         "nuclear_safety",
         "research",
         "ic"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55091731",
@@ -2083,7 +2130,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "nuclear_safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55089383",
@@ -2140,7 +2188,8 @@
       "topics": [
         "nuclear_safety",
         "research"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55464972",
@@ -2180,7 +2229,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "ic"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55467000",
@@ -2230,7 +2280,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "nuclear_safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55504711",
@@ -2279,7 +2330,8 @@
       "topics": [
         "nuclear_safety",
         "ic"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55556750",
@@ -2331,7 +2383,8 @@
       "topics": [
         "safety",
         "nuclear_safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "nisp-47",
@@ -2371,7 +2424,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "nuclear_safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "nisp-46",
@@ -2411,7 +2465,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "nuclear_safety"
-      ]
+      ],
+      "openings": 2
     },
     {
       "id": "nisp-45",
@@ -2453,7 +2508,8 @@
       "topics": [
         "nuclear_safety",
         "research"
-      ]
+      ],
+      "openings": 2
     },
     {
       "id": "nisp-44",
@@ -2494,7 +2550,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "nuclear_safety"
-      ]
+      ],
+      "openings": 1
     },
     {
       "id": "nisp-43",
@@ -2535,7 +2592,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "nuclear_safety"
-      ]
+      ],
+      "openings": 4
     },
     {
       "id": "nisp-41",
@@ -2573,7 +2631,8 @@
         "maintenance"
       ],
       "relationType": "관련 기업의 기타 직무",
-      "topics": []
+      "topics": [],
+      "openings": 2
     },
     {
       "id": "nisp-40",
@@ -2613,7 +2672,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "ic"
-      ]
+      ],
+      "openings": 2
     },
     {
       "id": "nisp-39",
@@ -2651,7 +2711,8 @@
         "maintenance"
       ],
       "relationType": "관련 분야 직접 직무",
-      "topics": []
+      "topics": [],
+      "openings": 2
     },
     {
       "id": "nisp-38",
@@ -2696,7 +2757,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "nuclear_safety"
-      ]
+      ],
+      "openings": 1
     },
     {
       "id": "incruit-smr-2610190005314",
@@ -2739,7 +2801,8 @@
       "organisationType": "민간 채용대행 · 고용기업 미공개",
       "topics": [
         "nuclear_safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "khnp-306866",
@@ -2781,7 +2844,8 @@
         "support"
       ],
       "relationType": "원자력 사업지원 직무",
-      "topics": []
+      "topics": [],
+      "openings": 1
     },
     {
       "id": "kirams-306658-production",
@@ -2831,7 +2895,8 @@
         "isotope"
       ],
       "relationType": "관련 분야 직접 직무",
-      "topics": []
+      "topics": [],
+      "openings": 1
     },
     {
       "id": "kirams-306658-manufacture",
@@ -2881,7 +2946,8 @@
         "isotope"
       ],
       "relationType": "관련 분야 직접 직무",
-      "topics": []
+      "topics": [],
+      "openings": 1
     },
     {
       "id": "kirams-202643-research",
@@ -2935,7 +3001,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "research"
-      ]
+      ],
+      "openings": 1
     },
     {
       "id": "sr-55540847",
@@ -2989,7 +3056,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55500775",
@@ -3035,7 +3103,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55387621",
@@ -3081,7 +3150,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55424115",
@@ -3127,7 +3197,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55423988",
@@ -3173,7 +3244,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55404650",
@@ -3219,7 +3291,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55297230",
@@ -3264,7 +3337,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55242346",
@@ -3314,7 +3388,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "sr-55209716",
@@ -3359,7 +3434,8 @@
       "relationType": "관련 분야 직접 직무",
       "topics": [
         "safety"
-      ]
+      ],
+      "openings": 2
     },
     {
       "id": "sr-55595089",
@@ -3397,7 +3473,8 @@
         "ndt"
       ],
       "relationType": "관련 분야 직접 직무",
-      "topics": []
+      "topics": [],
+      "openings": null
     },
     {
       "id": "sr-55524055",
@@ -3435,7 +3512,8 @@
         "maintenance"
       ],
       "relationType": "관련 분야 직접 직무",
-      "topics": []
+      "topics": [],
+      "openings": null
     },
     {
       "id": "sr-55482021",
@@ -3473,7 +3551,8 @@
         "ndt"
       ],
       "relationType": "관련 분야 직접 직무",
-      "topics": []
+      "topics": [],
+      "openings": null
     },
     {
       "id": "sr-55474036",
@@ -3511,7 +3590,8 @@
         "ndt"
       ],
       "relationType": "관련 분야 직접 직무",
-      "topics": []
+      "topics": [],
+      "openings": null
     },
     {
       "id": "kaist-mighty-postdoc",
@@ -3556,7 +3636,8 @@
       "topics": [
         "nuclear_safety",
         "research"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "dgist-prism-1966772",
@@ -3597,7 +3678,8 @@
       "organisationType": "과학기술원 · 연구실",
       "topics": [
         "research"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "yonsei-carbon-postdoc-10058077",
@@ -3638,7 +3720,8 @@
       "organisationType": "사립대학 · 연구실",
       "topics": [
         "research"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "ibs-2201-research",
@@ -3684,7 +3767,8 @@
       "organisationType": "공공 연구기관",
       "topics": [
         "research"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "ibs-2201-tech",
@@ -3730,7 +3814,8 @@
       "organisationType": "공공 연구기관",
       "topics": [
         "research"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "hibrain-3605331",
@@ -3778,7 +3863,8 @@
       "relationType": "관련 학과 교수 초빙",
       "topics": [
         "faculty"
-      ]
+      ],
+      "openings": 1
     },
     {
       "id": "hibrain-3606200",
@@ -3826,7 +3912,8 @@
       "relationType": "관련 학과 교수 초빙",
       "topics": [
         "faculty"
-      ]
+      ],
+      "openings": 1
     },
     {
       "id": "hibrain-3605996",
@@ -3875,7 +3962,8 @@
       "relationType": "관련 학과 교수 초빙",
       "topics": [
         "faculty"
-      ]
+      ],
+      "openings": 1
     },
     {
       "id": "hibrain-3604223",
@@ -3920,7 +4008,8 @@
       "relationType": "관련 학과 교수 초빙",
       "topics": [
         "faculty"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "hibrain-3601482",
@@ -3965,7 +4054,8 @@
       "relationType": "관련 학과 교수 초빙",
       "topics": [
         "faculty"
-      ]
+      ],
+      "openings": 1
     },
     {
       "id": "hibrain-3601743",
@@ -4017,7 +4107,8 @@
       "relationType": "관련 학과 교수 초빙",
       "topics": [
         "faculty"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "hibrain-3570971",
@@ -4058,7 +4149,8 @@
       "relationType": "관련 학과 교수 초빙",
       "topics": [
         "faculty"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "hibrain-3594127",
@@ -4105,7 +4197,8 @@
       "relationType": "관련 학과 교수 초빙",
       "topics": [
         "faculty"
-      ]
+      ],
+      "openings": null
     },
     {
       "id": "snubh-307074-nuclear-career",
@@ -4160,7 +4253,8 @@
       "topics": [
         "radiographer"
       ],
-      "relationType": "방사선사 실무"
+      "relationType": "방사선사 실무",
+      "openings": 2
     },
     {
       "id": "snubh-307074-nuclear-new",
@@ -4211,7 +4305,8 @@
       "topics": [
         "radiographer"
       ],
-      "relationType": "방사선사 실무"
+      "relationType": "방사선사 실무",
+      "openings": 2
     },
     {
       "id": "snubh-307074-neurosurgery",
@@ -4260,7 +4355,8 @@
       "topics": [
         "radiographer"
       ],
-      "relationType": "방사선사 실무"
+      "relationType": "방사선사 실무",
+      "openings": 1
     },
     {
       "id": "comwel-307055",
@@ -4309,7 +4405,8 @@
       "topics": [
         "radiographer"
       ],
-      "relationType": "방사선사 실무"
+      "relationType": "방사선사 실무",
+      "openings": 1
     },
     {
       "id": "gil-271964",
@@ -4354,7 +4451,8 @@
       "topics": [
         "radiographer"
       ],
-      "relationType": "방사선사 실무"
+      "relationType": "방사선사 실무",
+      "openings": null
     },
     {
       "id": "dongkang-606",
@@ -4399,7 +4497,8 @@
       "topics": [
         "radiographer"
       ],
-      "relationType": "방사선사 실무"
+      "relationType": "방사선사 실무",
+      "openings": 1
     },
     {
       "id": "paik-2056",
@@ -4446,7 +4545,8 @@
         "radiographer",
         "sonographer"
       ],
-      "relationType": "의료 초음파 실무"
+      "relationType": "의료 초음파 실무",
+      "openings": 1
     },
     {
       "id": "sr-55516267",
@@ -4491,7 +4591,8 @@
       "topics": [
         "radiographer"
       ],
-      "relationType": "방사선사 실무"
+      "relationType": "방사선사 실무",
+      "openings": null
     },
     {
       "id": "incruit-2611090004002",
@@ -4533,7 +4634,8 @@
         "radiographer",
         "sonographer"
       ],
-      "relationType": "의료 초음파 실무"
+      "relationType": "의료 초음파 실무",
+      "openings": null
     },
     {
       "id": "jk-50293232",
@@ -4575,7 +4677,8 @@
         "radiographer",
         "sonographer"
       ],
-      "relationType": "의료 초음파 실무"
+      "relationType": "의료 초음파 실무",
+      "openings": null
     },
     {
       "id": "sr-55562493",
@@ -4615,7 +4718,8 @@
       "topics": [
         "sonographer"
       ],
-      "relationType": "의료 초음파 실무"
+      "relationType": "의료 초음파 실무",
+      "openings": null
     },
     {
       "id": "sr-55558211",
@@ -4655,7 +4759,8 @@
       "topics": [
         "sonographer"
       ],
-      "relationType": "의료 초음파 실무"
+      "relationType": "의료 초음파 실무",
+      "openings": null
     },
     {
       "id": "sr-55563057",
@@ -4695,7 +4800,8 @@
       "topics": [
         "sonographer"
       ],
-      "relationType": "의료 초음파 실무"
+      "relationType": "의료 초음파 실무",
+      "openings": null
     },
     {
       "id": "sr-55546664",
@@ -4735,7 +4841,8 @@
       "topics": [
         "sonographer"
       ],
-      "relationType": "초음파 의료기기 임상 직무"
+      "relationType": "초음파 의료기기 임상 직무",
+      "openings": null
     },
     {
       "id": "jk-50305125",
@@ -4782,7 +4889,8 @@
       "topics": [
         "safety"
       ],
-      "relationType": "관련 분야 직접 직무"
+      "relationType": "관련 분야 직접 직무",
+      "openings": 1
     },
     {
       "id": "sr-55567673",
@@ -4823,7 +4931,8 @@
       "topics": [
         "research"
       ],
-      "relationType": "관련 분야 직접 직무"
+      "relationType": "관련 분야 직접 직무",
+      "openings": null
     },
     {
       "id": "jk-50294445",
@@ -4864,7 +4973,8 @@
       "topics": [
         "research"
       ],
-      "relationType": "관련 분야 직접 직무"
+      "relationType": "관련 분야 직접 직무",
+      "openings": null
     },
     {
       "id": "jk-50331500",
@@ -4905,7 +5015,8 @@
       "topics": [
         "ic"
       ],
-      "relationType": "관련 분야 직접 직무"
+      "relationType": "관련 분야 직접 직무",
+      "openings": 2
     },
     {
       "id": "radexel-55567832",
@@ -4950,7 +5061,95 @@
       "topics": [
         "ic"
       ],
-      "relationType": "관련 분야 직접 직무"
+      "relationType": "관련 분야 직접 직무",
+      "openings": null
+    },
+    {
+      "id": "sr-55578859",
+      "company": "에이스메디케어",
+      "title": "GE 초음파 임상 어플리케이터 · 2명",
+      "category": "private",
+      "organisationType": "사기업",
+      "regions": [
+        "대구"
+      ],
+      "location": "대구 북구 호국로39길 6-12",
+      "education": "전문대 이상",
+      "experience": "경력무관 · 신입 포함",
+      "employment": "정규직 · 수습 3개월",
+      "grade": "미공개",
+      "salary": "연봉 3,300만원 · 주 40시간",
+      "posted": null,
+      "start": "2026-11-16T09:00:00+09:00",
+      "end": "2026-12-16T23:59:00+09:00",
+      "duties": "의료용 초음파진단기 임상 어플리케이터. 검사 실무와 구분되는 의료기기 임상지원 직무.",
+      "qualifications": "2종보통운전면허. 방사선사·임상병리사 자격, 관련 경험·운전 가능자 등 우대.",
+      "licenses": [
+        {
+          "name": "방사선사",
+          "level": "우대"
+        }
+      ],
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?cn=curation&cns=list&rec_idx=55578859&referNonce=&t_category=m_curation&t_content=generic"
+        }
+      ],
+      "notes": "초음파 장비 임상지원 직무로 초음파사 탭에 포함. 접수 요건·마감은 원문에서 최종 확인.",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "고용주 등록 공개 원문의 요건·접수기간 직접 확인",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "초음파 의료기기 임상지원",
+      "openings": 2
+    },
+    {
+      "id": "jk-50247028",
+      "company": "인티그레이션",
+      "title": "초음파진단기 임상 어플리케이터 · 방사선사·소노그래퍼",
+      "category": "private",
+      "organisationType": "사기업",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 강남구 테헤란로 427",
+      "education": "학력무관",
+      "experience": "신입·경력",
+      "employment": "정규직 · 수습 3개월",
+      "grade": "미공개",
+      "salary": "회사 내규 · 면접 후 결정",
+      "posted": null,
+      "start": "2026-10-27",
+      "end": "2026-11-26",
+      "duties": "의료용 초음파진단기 임상 어플리케이터. 검사 실무와 구분되는 의료기기 임상지원 직무.",
+      "qualifications": "초음파진단기 임상 어플리케이터. 세부 자격·담당업무는 원문에서 최종 확인.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50247028?Oem_Code=C1&listno=251&logpath=1&stext=%EC%A7%84%EB%A3%8C%EC%8B%A4"
+        }
+      ],
+      "notes": "초음파 장비 임상지원 직무로 초음파사 탭에 포함. 접수 요건·마감은 원문에서 최종 확인.",
+      "status": "open",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "고용주 등록 공개 원문의 요건·접수기간 직접 확인",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "초음파 의료기기 임상지원",
+      "openings": null
     }
   ],
   "sources": [
@@ -5327,6 +5526,10 @@
       "type": "initial-expanded-scope",
       "added": 19,
       "note": "방사선사·초음파사와 의학물리·차폐소재·방사선 계측/SW로 확대. 이번 추가자료는 사람인·잡코리아·인크루트·JOB-ALIO 및 해당 병원 공개 공고 확인. 모든 기관을 다시 전수 점검한 것은 아님."
+    },
+    {
+      "date": "2026-11-17",
+      "note": "초음파·소노그래퍼·sonographer·ultrasound 검색 확장, 임상 어플리케이터 2건 추가. 최근 1년 부분 수집 채용 추이 및 확인 모집인원 필드 추가."
     }
   ]
 }
