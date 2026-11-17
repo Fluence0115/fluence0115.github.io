@@ -7,7 +7,7 @@
     const industrial=/비파괴|위상배열|PAUT|\bUT\b|용접|탐상/i.test(text);
     const clinical=/의료|진단|임상|병원|검진|심장|산부인과|혈관|복부|유방/i.test(text);
     const ultrasoundRole=/초음파사|소노|sonograph|초음파.*(?:검사|임상|어플)|ultrasound.*(?:application|clinical)/i.test(text);
-    const equipment=/생산직|제조직|품질검사|SQA|신호.?영상처리|Mechanical Engineer|Production Supervisor|기구설계/i.test(j.title||'');
+    const equipment=/생산직|제조직|품질검사|SQA|신호.?영상처리|SW.?개발|소프트웨어.*개발|펌웨어|기구.?개발|Mechanical Engineer|Production Supervisor|기구설계/i.test(j.title||'');
     if(ultrasound&&(clinical||ultrasoundRole)&&!equipment&&!list.includes('faculty')&&(!industrial||clinical)&&!list.includes('sonographer'))list.push('sonographer');
     return list;
   }

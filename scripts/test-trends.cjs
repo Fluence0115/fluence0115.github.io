@@ -34,3 +34,16 @@ assert(!byId.has('sr-55506964'));assert(byId.get('sr-55542378').links.some(l=>l.
 assert(!byId.has('sr-55204325')); // October 31 temporary work has already passed.
 assert.equal(byId.get('sr-55599451').regions[0],'광주');
 console.log('Passed: October cutoff, 2-month chart, category data, dedup, expired short shifts, equipment exclusion, TO evidence.');
+// Broad discovery keywords are a registry, not claims that each job has every skill.
+const vm=require('node:vm'),scopeContext=vm.createContext({});vm.runInContext(fs.readFileSync(path.join(root,'topic-scopes.js'),'utf8'),scopeContext);const scopes=vm.runInContext('topicScopes',scopeContext),strategy=JSON.parse(fs.readFileSync(path.join(root,'search-strategy.json')));
+assert.equal(Object.values(strategy.topics).reduce((n,t)=>n+t.keywords.length,0),150);
+for(const [topic,config] of Object.entries(strategy.topics))assert.equal(JSON.stringify(scopes[topic].words),JSON.stringify(config.keywords));
+for(const word of ['방사성','방사성동위원소','방사선취급감독자','동위원소','삼중수소','차폐해석'])assert(strategy.topics.safety.keywords.includes(word));
+assert(byId.has('sr-55521053'));assert(byId.get('sr-55521053').topics.includes('ic'));
+assert(!byId.has('sr-55417472')); // Work on November 12–13 has already ended.
+assert(!byId.has('sr-55530832'));assert(byId.get('sr-55530866').links.some(l=>l.url.includes('55530832')));
+assert.equal(byId.get('sr-55593244').status,'check');assert.equal(byId.get('sr-55593244').openings,null); // Mixed 13-person total is not radiography TO.
+assert.equal(byId.get('snu-nucl-24083').status,'check');assert.equal(byId.get('snu-nucl-24083').openings,null); // No guesses from inaccessible attachment.
+assert(!byId.get('sr-55362447').topics.includes('sonographer'));assert(!T.topics(byId.get('sr-55391730')).includes('sonographer'));
+assert.equal(byId.get('sr-55541080').regions[0],'경기');
+console.log('Passed: 150-keyword registry consistency, requested aliases, broader roles, work-date exclusions, schedule alternatives, source conflicts and job-family separation.');
