@@ -21,7 +21,7 @@ const workspaceViews={
   ri:{label:'RI면허',note:'RI 면허의 필수·우대·대체 조건을 함께 모았습니다. 같은 공고가 여러 자격에 해당할 수 있으므로 각 공고의 자격 표시를 확인하세요.',match:j=>hasLicense(j,'RI')}
 };
 const groupLabel=j=>j.organisationType||categories[j.category];
-const jobSources = j => [...new Set(j.links.map(l=>{const h=new URL(safeUrl(l.url),location.href).hostname;return h.endsWith('saramin.co.kr')?'사람인':h.endsWith('jobkorea.co.kr')?'잡코리아':h.endsWith('incruit.com')?'인크루트':h.endsWith('work24.go.kr')?'고용24':h==='nisp.kr'?'원전산업 플랫폼(NISP)':h.endsWith('hibrain.net')?'하이브레인넷':h.endsWith('jobs.ac.kr')?'JOBS.ac.kr':h.endsWith('ibric.org')?'BRIC':h.endsWith('rndjob.or.kr')?'RND JOB':h.endsWith('rememberapp.co.kr')?'리멤버':h.endsWith('wanted.co.kr')?'원티드':h.endsWith('injob.co.kr')?'인잡':h.endsWith('catch.co.kr')?'캐치':'공식 채용·공공 포털';}))];
+const jobSources = j => [...new Set(j.links.map(l=>{const h=new URL(safeUrl(l.url),location.href).hostname;return h.endsWith('saramin.co.kr')?'사람인':h.endsWith('jobkorea.co.kr')?'잡코리아':h.endsWith('incruit.com')?'인크루트':h.endsWith('work24.go.kr')?'고용24':h==='nisp.kr'?'원전산업 플랫폼(NISP)':h.endsWith('hibrain.net')?'하이브레인넷':h.endsWith('jobs.ac.kr')?'JOBS.ac.kr':h.endsWith('ibric.org')?'BRIC':h.endsWith('rndjob.or.kr')?'RND JOB':h.endsWith('rememberapp.co.kr')?'리멤버':h.endsWith('wanted.co.kr')?'원티드':h.endsWith('injob.co.kr')?'인잡':h.endsWith('catch.co.kr')?'캐치':h.endsWith('medicaljob.co.kr')?'메디컬잡':h.endsWith('kans.re.kr')?'한국방사선안전협회':'공식 채용·공공 포털';}))];
 const salaryDisclosed = j => /[0-9][0-9,~～ .]*(?:만\s*원|원)/.test(j.salary);
 
 let base, jobs=[], extras=read('customJobs',[]), saved=new Set(read('saved',[])), tracking=read('tracking',{});
@@ -79,7 +79,7 @@ function filtered(overrides={}){
   return list;
 }
 function render(){
-  $('#sonographerNote').hidden=$('#fieldFilter').value!=='sonographer';
+  renderTopicScope();
   renderTrend();
   const active=jobs.filter(j=>state(j)!=='closed');
   $('#lastChecked').textContent=fmt(base.asOf);$('#aboutChecked').textContent=fmt(base.asOf);
@@ -93,7 +93,7 @@ function render(){
   $('#listHeading').textContent=currentWorkspace?currentWorkspace.label+' 채용공고':view==='saved'?'관심 공고':view==='tracking'?'지원 관리':$('#fieldFilter').value?topicNames[$('#fieldFilter').value]+' 채용공고':'전체 채용공고';
   const academic=view==='faculty'||$('#fieldFilter').value==='faculty';const box=$('#academicNotice');box.hidden=!academic;
   const academicOpen=filtered({facultyStatus:'open'}).length, academicClosed=filtered({facultyStatus:'closed'}).length;
-  box.innerHTML=academic?`<strong>방사선·원자력 관련 학과 교수 초빙</strong><p>하이브레인넷에서 찾은 교수·교원 공고입니다. 마감된 공고도 이력으로 기본 표시하며, 접수 중 공고를 먼저 보여줍니다. 방사선사 면허가 필요한 교수직도 표시합니다. 병원 실무직은 방사선사·초음파사 탭에서 확인하세요. 공개되지 않은 연봉은 미공개로 표시합니다.</p><div class="faculty-status"><label for="facultyStatus">교수 공고 상태</label><select id="facultyStatus"><option value="all" ${facultyStatus==='all'?'selected':''}>전체 (${academicOpen+academicClosed})</option><option value="open" ${facultyStatus==='open'?'selected':''}>접수 중·예정 (${academicOpen})</option><option value="closed" ${facultyStatus==='closed'?'selected':''}>마감 이력 (${academicClosed})</option></select><span>일반 공고의 ‘마감 공고 제외’ 설정과 별도로 적용됩니다.</span></div>${(base.facultyChecks||[]).length?`<details><summary>추가 확인한 교수 게시판·확인 제한</summary><div class="faculty-checks">${base.facultyChecks.map(c=>`<div><a href="${esc(safeUrl(c.url))}" target="_blank" rel="noopener noreferrer">${esc(c.name)} ↗</a><span>${esc(c.result)}</span></div>`).join('')}</div></details>`:''}`:'';
+  box.innerHTML=academic?`<strong>방사선·원자력 관련 학과 교수 초빙</strong><p>하이브레인넷·대학 공식 공고에서 확인한 교수·연구교원 공고입니다. 마감된 공고도 이력으로 기본 표시하며, 접수 중 공고를 먼저 보여줍니다. 방사선사 면허가 필요한 교수직도 표시합니다. 병원 실무직은 방사선사·초음파사 탭에서 확인하세요. 공개되지 않은 연봉은 미공개로 표시합니다.</p><div class="faculty-status"><label for="facultyStatus">교수 공고 상태</label><select id="facultyStatus"><option value="all" ${facultyStatus==='all'?'selected':''}>전체 (${academicOpen+academicClosed})</option><option value="open" ${facultyStatus==='open'?'selected':''}>접수 중·예정 (${academicOpen})</option><option value="closed" ${facultyStatus==='closed'?'selected':''}>마감 이력 (${academicClosed})</option></select><span>일반 공고의 ‘마감 공고 제외’ 설정과 별도로 적용됩니다.</span></div>${(base.facultyChecks||[]).length?`<details><summary>추가 확인한 교수 게시판·확인 제한</summary><div class="faculty-checks">${base.facultyChecks.map(c=>`<div><a href="${esc(safeUrl(c.url))}" target="_blank" rel="noopener noreferrer">${esc(c.name)} ↗</a><span>${esc(c.result)}</span></div>`).join('')}</div></details>`:''}`:'';
   const updateCount=(b,count)=>{let badge=b.querySelector('b');if(!badge){badge=document.createElement('b');badge.className='filter-count';b.append(' ',badge);}badge.textContent=count;};
   $$('[data-field]').forEach(b=>updateCount(b,filtered({view:'all',field:b.dataset.field,facultyStatus:'all'}).length));
   $$('[data-source]').forEach(b=>updateCount(b,filtered({source:b.dataset.source}).length));

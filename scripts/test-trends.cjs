@@ -15,3 +15,22 @@ assert.equal(new Set(jobs.map(j=>j.id)).size,jobs.length);assert.equal(new Set(h
 for(const j of history){assert(T.validDate(j.date));assert(j.openings===null||Number.isInteger(j.openings)&&j.openings>0);assert(/^https:\/\//.test(j.source.url));}
 for(const topic of ['safety','nuclear_safety','research','ic','radiographer','sonographer','faculty']){x=T.aggregate(T.records(jobs,history),'2026-11-17',{topic});assert(x.ads>0);}
 console.log('Passed: year boundaries, missing vs zero, unknown TO, dedup/reposts, archived records, filters, ultrasound aliases, source data.');
+// The public board now starts in October 2026; keep default-window compatibility.
+x=T.aggregate([r('sep','2026-09-30',100),r('oct','2026-10-01',2),r('nov','2026-11-17',3),r('future2','2026-11-18',100)],'2026-11-17',{start:'2026-10-01'});
+assert.equal(x.start,'2026-10-01');assert.deepEqual(x.months.map(m=>m.key),['2026-10','2026-11']);assert.equal(x.headcount,5);assert.equal(x.ads,2);assert.equal(x.months[0].partial,false);assert.equal(x.months[1].partial,true);
+assert.throws(()=>T.aggregate([],'2026-11-17',{start:'2026-12-01'}));
+for(const title of ['초음파 세척 Operator','초음파 의료기기 신호 영상처리 엔지니어','초음파 진단기 SQA','초음파 Probe 품질검사','초음파사업부 Mechanical Engineer'])assert(!T.topics({title,topics:[]}).includes('sonographer'),title);
+const data=JSON.parse(fs.readFileSync(path.join(root,'jobs.json'))),byId=new Map(jobs.map(j=>[j.id,j])),allowed=new Set(['safety','nuclear_safety','research','ic','radiographer','sonographer','faculty']);
+assert.equal(data.trendStart,'2026-10-01');assert.equal(new Set(data.addedThisUpdate).size,data.addedThisUpdate.length);
+for(const j of jobs){for(const k of ['detail','fields','topics','licenses','regions','links'])assert(Array.isArray(j[k]),`${j.id}.${k}`);assert(j.topics.every(t=>allowed.has(t)));assert(j.openings===null||j.openings===undefined||Number.isInteger(j.openings)&&j.openings>0);for(const k of ['posted','start','end'])if(j[k])assert(T.validDate(j[k].slice(0,10)));for(const l of j.links)assert(/^https?:\/\//.test(l.url));}
+for(const id of data.addedThisUpdate)assert(byId.has(id));
+assert.equal(byId.get('sr-55468570').openings,null); // Six exam rooms are not six hires.
+assert.equal(byId.get('sr-55580829').openings,null); // A second MRI is not two hires.
+assert.equal(byId.get('sr-55417535').openings,null); // One workday is not one hire.
+assert.equal(byId.get('sr-55399913').openings,null); // Four mixed hires cannot be assigned to safety.
+assert.equal(byId.get('sr-55519459').openings,3); // Three named QA/design fields, one each.
+assert(!byId.has('sr-55467179'));assert(byId.get('jk-50293232').links.some(l=>l.url.includes('55467179')));
+assert(!byId.has('sr-55506964'));assert(byId.get('sr-55542378').links.some(l=>l.url.includes('55506964')));
+assert(!byId.has('sr-55204325')); // October 31 temporary work has already passed.
+assert.equal(byId.get('sr-55599451').regions[0],'광주');
+console.log('Passed: October cutoff, 2-month chart, category data, dedup, expired short shifts, equipment exclusion, TO evidence.');

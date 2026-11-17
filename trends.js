@@ -6,7 +6,9 @@
     const ultrasound=/초음파|소노[그노]래?퍼|소노그레퍼|sonograph(?:er|y)?|ultrasound|ultrasonograph/i.test(text);
     const industrial=/비파괴|위상배열|PAUT|\bUT\b|용접|탐상/i.test(text);
     const clinical=/의료|진단|임상|병원|검진|심장|산부인과|혈관|복부|유방/i.test(text);
-    if(ultrasound&&!list.includes('faculty')&&(!industrial||clinical)&&!list.includes('sonographer'))list.push('sonographer');
+    const ultrasoundRole=/초음파사|소노|sonograph|초음파.*(?:검사|임상|어플)|ultrasound.*(?:application|clinical)/i.test(text);
+    const equipment=/생산직|제조직|품질검사|SQA|신호.?영상처리|Mechanical Engineer|Production Supervisor|기구설계/i.test(j.title||'');
+    if(ultrasound&&(clinical||ultrasoundRole)&&!equipment&&!list.includes('faculty')&&(!industrial||clinical)&&!list.includes('sonographer'))list.push('sonographer');
     return list;
   }
   const number=n=>Number.isInteger(n)&&n>0?n:null;
@@ -22,6 +24,7 @@
   function aggregate(input,asOf,options={}){
     if(!validDate(asOf))throw new Error('Invalid cutoff');
     const end=new Date(asOf+'T00:00:00Z'), first=new Date(end);const month=first.getUTCMonth();first.setUTCFullYear(first.getUTCFullYear()-1);if(first.getUTCMonth()!==month)first.setUTCDate(0);first.setUTCDate(first.getUTCDate()+1);
+    if(options.start){if(!validDate(options.start)||options.start>asOf)throw new Error('Invalid start');first.setTime(Date.parse(options.start+'T00:00:00Z'));}
     const start=first.toISOString().slice(0,10), months=[];
     const cursor=new Date(Date.UTC(first.getUTCFullYear(),first.getUTCMonth(),1));
     while(cursor<=end){const key=cursor.toISOString().slice(0,7);months.push({key,records:[],ads:0,headcount:0,known:0,unknown:0,repeats:0,partial:key===start.slice(0,7)&&start.slice(8)!=='01'||key===asOf.slice(0,7)&&new Date(Date.UTC(end.getUTCFullYear(),end.getUTCMonth()+1,0)).getUTCDate()!==end.getUTCDate()});cursor.setUTCMonth(cursor.getUTCMonth()+1);}

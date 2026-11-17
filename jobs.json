@@ -1,7 +1,7 @@
 {
-  "version": 7,
+  "version": 8,
   "asOf": "2026-11-17",
-  "scope": "전국 · 방사선·원자력 안전/인허가·연구개발·계측제어·방사선사·초음파사·관련 학과 교수 및 관련 기업 직무",
+  "scope": "전국 방사선·원자력·가속기·의료영상 관련 채용. 의원·지역병원·단기·계약·임상지원 포함. 탭 건수는 확인해 수록한 공고이며 플랫폼 전체 검색 결과와 다릅니다.",
   "updateMode": "scheduled-research-github-pages",
   "jobs": [
     {
@@ -1434,6 +1434,10 @@
         {
           "label": "인크루트 · 공고·지원",
           "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610210004160"
+        },
+        {
+          "label": "사람인 교차 원문",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55333529"
         }
       ],
       "licenses": [
@@ -2408,6 +2412,10 @@
         {
           "label": "NISP · 기업 등록 원문",
           "url": "https://nisp.kr/rcrutPbanc/dtl.do?rcrutPbancIdx=47&rcrutPbancPrgrsHstryIdx=46"
+        },
+        {
+          "label": "사람인 교차 원문",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55579700"
         }
       ],
       "licenses": [],
@@ -4662,9 +4670,13 @@
         {
           "label": "잡코리아 원문",
           "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50293232"
+        },
+        {
+          "label": "사람인 교차 원문",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55467179"
         }
       ],
-      "notes": "주 5일 08:30~17:30. 잡코리아 마감일은 12/3(채용 시 조기 마감), 사람인 검색 목록은 2027/1/2로 표시되어 차이가 있습니다. 보수적으로 12/3을 적용하며 지원 전에 공식 접수 상태를 확인하세요.",
+      "notes": "주 5일 08:30~17:30. 잡코리아 마감일은 12/3(채용 시 조기 마감), 사람인 검색 목록은 2027/1/2로 표시되어 차이가 있습니다. 보수적으로 12/3을 적용하며 지원 전에 공식 접수 상태를 확인하세요. 사람인은 2027/1/2, 잡코리아는 2026/12/3 마감으로 달라 빠른 마감일을 유지합니다.",
       "status": "open",
       "detail": [],
       "checked": "2026-11-17",
@@ -4874,6 +4886,10 @@
         {
           "label": "잡코리아 원문·지원",
           "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50305125?Oem_Code=C1&listno=13&logpath=1&sc=630&stext=%EC%88%98%EC%9B%90+%EC%95%88%EC%A0%84%EA%B4%80%EB%A6%AC"
+        },
+        {
+          "label": "사람인 교차 원문",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55484016"
         }
       ],
       "notes": "모집 조건과 조기 마감 여부는 원문에서 최종 확인하세요.",
@@ -5135,9 +5151,13 @@
         {
           "label": "고용주 등록 원문·지원",
           "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50247028?Oem_Code=C1&listno=251&logpath=1&stext=%EC%A7%84%EB%A3%8C%EC%8B%A4"
+        },
+        {
+          "label": "사람인 교차 원문",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55430983"
         }
       ],
-      "notes": "초음파 장비 임상지원 직무로 초음파사 탭에 포함. 접수 요건·마감은 원문에서 최종 확인.",
+      "notes": "초음파 장비 임상지원 직무로 초음파사 탭에 포함. 접수 요건·마감은 원문에서 최종 확인. 사람인은 채용 시 마감, 잡코리아는 11/26 마감으로 달라 빠른 마감일을 유지합니다.",
       "status": "open",
       "detail": [],
       "checked": "2026-11-17",
@@ -5150,6 +5170,5265 @@
       ],
       "relationType": "초음파 의료기기 임상지원",
       "openings": null
+    },
+    {
+      "id": "sr-55468570",
+      "company": "(재)한국의학연구소",
+      "title": "[KMI 대구] 영상의학팀 경력직 초음파사 채용(6개 검사실 확장)",
+      "category": "private",
+      "regions": [
+        "대구"
+      ],
+      "location": "대구 중구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력 1년 ↑",
+      "employment": "정규직 계약직",
+      "grade": "사원",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-03T12:00:00+09:00",
+      "end": null,
+      "duties": "[KMI 대구] 영상의학팀 경력직 초음파사 채용(6개 검사실 확장)",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55468570"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55566983",
+      "company": "(의)강릉동인병원",
+      "title": "종합병원 소노그래퍼(초음파사)모집",
+      "category": "private",
+      "regions": [
+        "강원"
+      ],
+      "location": "강원 강릉시",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-16T09:00:00+09:00",
+      "end": "2026-11-30T17:00:00+09:00",
+      "duties": "종합병원 소노그래퍼(초음파사)모집",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55566983"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55578734",
+      "company": "더프라임병원",
+      "title": "[더 프라임병원] 초음파사(NT,정밀,입체) 구인",
+      "category": "private",
+      "regions": [
+        "경남"
+      ],
+      "location": "경남 김해시",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-16T09:00:00+09:00",
+      "end": "2026-12-16T23:59:00+09:00",
+      "duties": "[더 프라임병원] 초음파사(NT,정밀,입체) 구인",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55578734"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55594625",
+      "company": "(주)온택트헬스",
+      "title": "심장초음파 품질관리(소노그래퍼 QA) 채용",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 서대문구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력 1년 ↑",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-17T11:00:00+09:00",
+      "end": "2027-01-16T23:59:00+09:00",
+      "duties": "심장초음파 품질관리(소노그래퍼 QA) 채용",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55594625"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "의료용 초음파 장비 임상지원·개발임상·QA",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55559628",
+      "company": "양평세브란스내과의원",
+      "title": "[양평역 양평세브란스내과] 방사선/초음파사 선생님을 모십니다",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 양평군",
+      "education": "고졸 이상",
+      "experience": "경력 1년 ↑",
+      "employment": "정규직 (수습기간) 2개월",
+      "grade": "미공개",
+      "salary": "연봉 4,000 만원 (주 34시간)",
+      "posted": null,
+      "start": "2026-11-12T19:00:00+09:00",
+      "end": null,
+      "duties": "[양평역 양평세브란스내과] 방사선/초음파사 선생님을 모십니다",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55559628"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer",
+        "radiographer"
+      ],
+      "topics": [
+        "sonographer",
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55518167",
+      "company": "맘스여성병원",
+      "title": "영상의학팀 방사선사(유방촬영및 유방초음파) 인원 충원 공고",
+      "category": "private",
+      "regions": [
+        "울산"
+      ],
+      "location": "울산 중구",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-09T10:00:00+09:00",
+      "end": "2026-12-09T23:59:00+09:00",
+      "duties": "영상의학팀 방사선사(유방촬영및 유방초음파) 인원 충원 공고",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55518167"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer",
+        "radiographer"
+      ],
+      "topics": [
+        "sonographer",
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55528998",
+      "company": "강남웰니스내과의원",
+      "title": "[강남웰니스검진센터] 초음파사(소노그래퍼) 충원",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 강남구",
+      "education": "학력무관",
+      "experience": "경력 1년 ↑",
+      "employment": "계약직 1년",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-10T08:00:00+09:00",
+      "end": "2026-12-10T23:59:00+09:00",
+      "duties": "[강남웰니스검진센터] 초음파사(소노그래퍼) 충원",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55528998"
+        },
+        {
+          "label": "잡코리아 교차 확인",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50335496"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": 1,
+      "openingsNote": "초음파사 1명(잡코리아 교차 확인)"
+    },
+    {
+      "id": "sr-55537149",
+      "company": "다정내과의원",
+      "title": "[방사선사] 초음파사 오전근무 출산휴가 대체인력 계약직",
+      "category": "private",
+      "regions": [
+        "세종"
+      ],
+      "location": "세종",
+      "education": "학력무관",
+      "experience": "경력 2년 ↑",
+      "employment": "계약직 11개월",
+      "grade": "미공개",
+      "salary": "연봉 4,100만원(오전근무 계약직)",
+      "posted": null,
+      "start": "2026-11-10T19:00:00+09:00",
+      "end": "2026-12-31T23:59:00+09:00",
+      "duties": "[방사선사] 초음파사 오전근무 출산휴가 대체인력 계약직",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55537149"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer",
+        "radiographer"
+      ],
+      "topics": [
+        "sonographer",
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55536001",
+      "company": "임도선하트내과의원",
+      "title": "[한티역/임도선하트내과] 심장초음파 검사 경력자 모집(6500~)",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 강남구",
+      "education": "학력무관",
+      "experience": "경력 1년 ↑",
+      "employment": "정규직 계약직 아르바이트",
+      "grade": "미공개",
+      "salary": "연봉 6,500만원부터",
+      "posted": null,
+      "start": "2026-11-10T17:00:00+09:00",
+      "end": "2026-12-10T23:59:00+09:00",
+      "duties": "[한티역/임도선하트내과] 심장초음파 검사 경력자 모집(6500~)",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55536001"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 이미지 등 상세 본문 일부 확인 제한",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55578063",
+      "company": "(의)아인의료재단",
+      "title": "[아인병원] 영상의학팀 방사선사/초음파사 채용",
+      "category": "private",
+      "regions": [
+        "인천"
+      ],
+      "location": "인천 미추홀구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "모집분야별 계약직 2개월 / 1년·1년6개월",
+      "grade": "사원",
+      "salary": "면접 후 결정",
+      "posted": "2026-11-12",
+      "start": "2026-11-16T09:00:00+09:00",
+      "end": null,
+      "duties": "[아인병원] 영상의학팀 방사선사/초음파사 채용",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "공식 게시일 11/12, 사람인 접수 시작은 11/16으로 다릅니다. 단시간 방사선사·방사선사·초음파사 각각 계약기간이 다르므로 원문 확인이 필요합니다.",
+      "links": [
+        {
+          "label": "아인병원 공식 채용 공고",
+          "url": "https://ainmc.co.kr/recruit/job/view.do?no=428"
+        },
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55578063"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 이미지 등 상세 본문 일부 확인 제한",
+      "fields": [
+        "sonographer",
+        "radiographer"
+      ],
+      "topics": [
+        "sonographer",
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55512583",
+      "company": "효산의료재단/지샘병원",
+      "title": "효산의료재단 지샘병원 심장초음실 소노그래퍼 정규직 직원 채용",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 군포시",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력 1년 ↑",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "사원 / 팀원",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-07T12:00:00+09:00",
+      "end": "2026-11-30T23:59:00+09:00",
+      "duties": "효산의료재단 지샘병원 심장초음실 소노그래퍼 정규직 직원 채용",
+      "qualifications": "임상병리사 또는 방사선사 면허 중 하나 필수. 경력 1년 이상, 전문대 이상.",
+      "licenses": [
+        {
+          "name": "방사선사",
+          "level": "필수 택1(임상병리사 가능)"
+        }
+      ],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55512583"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55516798",
+      "company": "에스앤유서울병원",
+      "title": "[SNU서울병원] 초음파사 (소노그래퍼) 모집",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 강서구",
+      "education": "학력무관",
+      "experience": "경력 1년 ↑",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-09T09:00:00+09:00",
+      "end": "2026-12-09T23:59:00+09:00",
+      "duties": "[SNU서울병원] 초음파사 (소노그래퍼) 모집",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55516798"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 이미지 등 상세 본문 일부 확인 제한",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55417535",
+      "company": "의료법인 일산복음 의료재단",
+      "title": "[일산복음병원] 건강검진센터 소노그래퍼 단기 근무(1일) 모집",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 고양시 일산동구",
+      "education": "대졸(2,3년) 이상 (예정자가능)",
+      "experience": "경력 (년수무관)",
+      "employment": "아르바이트",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-28T15:00:00+09:00",
+      "end": "2026-11-27T23:59:00+09:00",
+      "duties": "[일산복음병원] 건강검진센터 소노그래퍼 단기 근무(1일) 모집",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55417535"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55460240",
+      "company": "(의)메디피아메디피움의원",
+      "title": "[판교메디피움] 초음파팀 정규/계약직 소노그래퍼 구인(경력)",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 성남시 분당구",
+      "education": "학력무관",
+      "experience": "경력 1년 ↑",
+      "employment": "정규직 계약직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-02T18:00:00+09:00",
+      "end": null,
+      "duties": "[판교메디피움] 초음파팀 정규/계약직 소노그래퍼 구인(경력)",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55460240"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55483782",
+      "company": "(주)온택트헬스",
+      "title": "심장초음파사(소노그래퍼) 경력사원 채용",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 서대문구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력무관 (신입제외)",
+      "employment": "정규직 계약직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-04T15:00:00+09:00",
+      "end": "2027-01-03T23:59:00+09:00",
+      "duties": "심장초음파사(소노그래퍼) 경력사원 채용",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55483782"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55467207",
+      "company": "영덕아산병원",
+      "title": "심장초음파기사(소노그래퍼) 모집합니다~(출산·육아휴직 대체)",
+      "category": "private",
+      "regions": [
+        "경북"
+      ],
+      "location": "경북 영덕군",
+      "education": "학력무관",
+      "experience": "경력 1년 ↑",
+      "employment": "계약직 (기간제) 1년",
+      "grade": "미공개",
+      "salary": "연봉 5,500만원",
+      "posted": null,
+      "start": "2026-11-03T10:00:00+09:00",
+      "end": "2026-11-30T23:59:00+09:00",
+      "duties": "심장초음파기사(소노그래퍼) 모집합니다~(출산·육아휴직 대체)",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55467207"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55520690",
+      "company": "서산조은내과의원",
+      "title": "[방사선과] 소노그래퍼 채용 공고",
+      "category": "private",
+      "regions": [
+        "충남"
+      ],
+      "location": "충남 서산시",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력 (년수무관)",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-09T13:00:00+09:00",
+      "end": "2026-12-09T23:59:00+09:00",
+      "duties": "[방사선과] 소노그래퍼 채용 공고",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55520690"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55272150",
+      "company": "손경수내과의원",
+      "title": "일요일 격주 소노그래퍼 채용합니다.",
+      "category": "private",
+      "regions": [
+        "강원"
+      ],
+      "location": "강원 원주시",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력 5년 ↑",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-13T11:00:00+09:00",
+      "end": null,
+      "duties": "일요일 격주 소노그래퍼 채용합니다.",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55272150"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55563053",
+      "company": "더자인병원",
+      "title": "종합병원 영상의학팀 소노그래퍼 채용",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 고양시 덕양구",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "계약직 (정규직 전환가능) 1년",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-13T08:00:00+09:00",
+      "end": "2026-12-13T23:59:00+09:00",
+      "duties": "종합병원 영상의학팀 소노그래퍼 채용",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55563053"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 이미지 등 상세 본문 일부 확인 제한",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55387956",
+      "company": "(주)지피앤피",
+      "title": "의료기기(초음파사업부) 임상직원 채용",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 강남구",
+      "education": "학력무관 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "팀원, 매니저",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-26T09:00:00+09:00",
+      "end": null,
+      "duties": "의료기기(초음파사업부) 임상직원 채용",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55387956"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "의료용 초음파 장비 임상지원·개발임상·QA",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55542733",
+      "company": "(주)카디오헬스",
+      "title": "[GE HealthCare] 카디오헬스 초음파 진단기 임상(Sonographer)",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 관악구",
+      "education": "대졸(2,3년) 이상 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-11T10:00:00+09:00",
+      "end": "2027-01-10T23:59:00+09:00",
+      "duties": "[GE HealthCare] 카디오헬스 초음파 진단기 임상(Sonographer)",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55542733"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "의료용 초음파 장비 임상지원·개발임상·QA",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55204466",
+      "company": "알피니언메디칼시스템",
+      "title": "[일진그룹] 초음파 진단기 개발 임상(방사선사, 소노그래퍼)",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 강서구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력 4년~13년",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "선임연구원, 책임연구원",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-06T08:00:00+09:00",
+      "end": "2026-12-05T23:59:00+09:00",
+      "duties": "[일진그룹] 초음파 진단기 개발 임상(방사선사, 소노그래퍼)",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55204466"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "의료용 초음파 장비 임상지원·개발임상·QA",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55546673",
+      "company": "알피니언메디칼시스템",
+      "title": "[일진그룹] 초음파 국내임상 소노그래퍼",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 강서구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력 2년 ↑",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-14T00:00:00+09:00",
+      "end": "2026-12-13T23:59:00+09:00",
+      "duties": "[일진그룹] 초음파 국내임상 소노그래퍼",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55546673"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "의료용 초음파 장비 임상지원·개발임상·QA",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55208170",
+      "company": "(의)은성의료재단",
+      "title": "[ 좋은삼선병원 ] 심초음파실 임상병리사 모집",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 사상구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력 2년 ↑",
+      "employment": "계약직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-06T11:00:00+09:00",
+      "end": null,
+      "duties": "[ 좋은삼선병원 ] 심초음파실 임상병리사 모집",
+      "qualifications": "심초음파실 임상병리사 채용. 경력 2년 이상. 방사선사 채용과 구분해 확인하세요. 추가 공개 조건: 임상병리사 자격증.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55208170"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "심초음파 검사 임상병리사",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55522312",
+      "company": "미즈모아여성의원",
+      "title": "방사선사 구인(산모초음파) (9시~5시근무,토 오후1시근무)",
+      "category": "private",
+      "regions": [
+        "경남"
+      ],
+      "location": "경남 양산시",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력 3년 ↑",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "연봉 4,000 만원 (주 40시간)",
+      "posted": null,
+      "start": "2026-11-09T14:00:00+09:00",
+      "end": "2026-12-09T23:59:00+09:00",
+      "duties": "방사선사 구인(산모초음파) (9시~5시근무,토 오후1시근무)",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55522312"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer",
+        "radiographer"
+      ],
+      "topics": [
+        "sonographer",
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55504324",
+      "company": "제니스병원",
+      "title": "심장초음파 검사 방사선사",
+      "category": "private",
+      "regions": [
+        "울산"
+      ],
+      "location": "울산 남구",
+      "education": "전문대 이상",
+      "experience": "경력 3년 이상 우대",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-06T13:00:00+09:00",
+      "end": null,
+      "duties": "통합 공채 중 심장초음파 영상 획득·기본 측정 담당 방사선사 분야.",
+      "qualifications": "방사선사 면허 필수. 심장초음파 실무 가능자. 관련 경력 3년 이상 우대.",
+      "licenses": [
+        {
+          "name": "방사선사",
+          "level": "필수"
+        }
+      ],
+      "detail": [],
+      "notes": "간호·물리치료 등 다른 분야와 함께 올라온 공고에서 방사선사 모집분야만 수록했습니다.",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55504324"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer",
+        "radiographer"
+      ],
+      "topics": [
+        "sonographer",
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55466917",
+      "company": "(의)성심의료재단",
+      "title": "방사선사 샘 구인입니다(MRI CT SONO MAMMO X-RAY 기관)",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 성남시 중원구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-03T10:00:00+09:00",
+      "end": "2026-12-03T23:59:00+09:00",
+      "duties": "방사선사 샘 구인입니다(MRI CT SONO MAMMO X-RAY 기관)",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요. 추가 공개 조건: 방사선사.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55466917"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer",
+        "radiographer"
+      ],
+      "topics": [
+        "sonographer",
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55414453",
+      "company": "구로성심병원",
+      "title": "영상의학팀장 · 소노그레퍼",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 구로구",
+      "education": "학력무관",
+      "experience": "경력무관 (신입제외)",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-28T10:00:00+09:00",
+      "end": "2026-11-27T23:59:00+09:00",
+      "duties": "영상의학 검사 운영·장비 품질관리 또는 오전 초음파 검사. 통합 공고의 전산팀장 모집은 이 항목에서 제외.",
+      "qualifications": "유관 실무 경험 등 모집분야별 조건을 원문에서 확인하세요.",
+      "licenses": [],
+      "detail": [
+        "영상의학팀장: 평일 08~17시, 격주 토요일 08~12시",
+        "소노그레퍼: 평일 및 격주 토요일 08~12시"
+      ],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55414453"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55553971",
+      "company": "(의)혜광의료재단",
+      "title": "[의료재단]26년 하반기 방사선사 채용 (탄력근무) (대전 세종)",
+      "category": "private",
+      "regions": [
+        "충북"
+      ],
+      "location": "충북 청주시 서원구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-12T10:00:00+09:00",
+      "end": "2027-01-11T23:59:00+09:00",
+      "duties": "[의료재단]26년 하반기 방사선사 채용 (탄력근무) (대전 세종)",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "제목은 대전·세종을 언급하지만 상세 근무지는 충북 청주시 서원구 현도면입니다. 실제 근무지 조건을 확인하세요.",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55553971"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": 1,
+      "openingsNote": "일반 X-ray 촬영 1명"
+    },
+    {
+      "id": "sr-55577197",
+      "company": "(학)인천가톨릭학원 가톨릭관동대학교 국제성모병원",
+      "title": "건강증진팀 방사선사(계약직-오전) 모집",
+      "category": "private",
+      "regions": [
+        "인천"
+      ],
+      "location": "인천 서해구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "계약직 (기간제) 1년",
+      "grade": "팀원",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-16T07:00:00+09:00",
+      "end": "2026-11-29T23:59:00+09:00",
+      "duties": "건강증진팀 방사선사(계약직-오전) 모집",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55577197"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 이미지 등 상세 본문 일부 확인 제한",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55595034",
+      "company": "명은의료재단",
+      "title": "명은병원 영상의학과 방사선사 채용 모집합니다.",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 연제구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "신입/경력 1년 ↑",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "팀원",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-17T12:00:00+09:00",
+      "end": "2026-12-17T23:59:00+09:00",
+      "duties": "명은병원 영상의학과 방사선사 채용 모집합니다.",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55595034"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55580077",
+      "company": "양산성모병원",
+      "title": "양산성모병원 방사선사 채용 공고",
+      "category": "private",
+      "regions": [
+        "경남"
+      ],
+      "location": "경남 양산시",
+      "education": "학력무관",
+      "experience": "경력 (년수무관)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-16T10:00:00+09:00",
+      "end": "2026-12-16T23:59:00+09:00",
+      "duties": "양산성모병원 방사선사 채용 공고",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55580077"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55583600",
+      "company": "(의)백산의료재단",
+      "title": "(의)백산의료재단 K마디병원 방사선사 (신입 채용) 공고",
+      "category": "private",
+      "regions": [
+        "대구"
+      ],
+      "location": "대구 북구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "신입",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "사원",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-16T14:00:00+09:00",
+      "end": "2026-12-16T23:59:00+09:00",
+      "duties": "(의)백산의료재단 K마디병원 방사선사 (신입 채용) 공고",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55583600"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55597473",
+      "company": "한양메트로정형외과의원",
+      "title": "X-Ray만 촬영해주실 방사선사 선생님을 모집합니다",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 부산진구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력 1년~5년",
+      "employment": "정규직 파트",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-17T15:00:00+09:00",
+      "end": "2026-12-17T23:59:00+09:00",
+      "duties": "X-Ray만 촬영해주실 방사선사 선생님을 모집합니다",
+      "qualifications": "방사선사 면허 필수. 경력 1~5년, 전문대 이상. 정규직 또는 아르바이트 조건 원문 확인.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55597473"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": 1,
+      "openingsNote": "일반 X-ray 촬영 방사선사 1명"
+    },
+    {
+      "id": "sr-55567203",
+      "company": "탑마취통증의학과의원",
+      "title": "방사선사 정규직 채용합니다",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산전체",
+      "education": "대졸(2,3년) 이상 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "사원",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-13T14:00:00+09:00",
+      "end": "2026-12-13T23:59:00+09:00",
+      "duties": "방사선사 정규직 채용합니다",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요. 추가 공개 조건: 방사선사학과 졸업.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55567203"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55576357",
+      "company": "범어아이자람소아청소년과의원",
+      "title": "[주 5일 27시간] 소아과(성장클리닉) 방사선사 공고",
+      "category": "private",
+      "regions": [
+        "대구"
+      ],
+      "location": "대구 수성구",
+      "education": "학력무관 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "월 230만원(세전 · 주 27시간)",
+      "posted": null,
+      "start": "2026-11-15T12:00:00+09:00",
+      "end": null,
+      "duties": "소아 성장클리닉 X-ray 촬영과 접수·환자안내. 촬영 주 2일 및 접수·안내 주 3일로 응대 업무 비중이 큼.",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55576357"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": 1,
+      "openingsNote": "방사선사 1명"
+    },
+    {
+      "id": "sr-55584563",
+      "company": "세란병원",
+      "title": "세란병원 종합검진센터 영상의학과 방사선사 채용공고",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 종로구",
+      "education": "대졸(2,3년) 이상 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 2개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-16T15:00:00+09:00",
+      "end": "2026-12-16T23:59:00+09:00",
+      "duties": "세란병원 종합검진센터 영상의학과 방사선사 채용공고",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55584563"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 이미지 등 상세 본문 일부 확인 제한",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55583130",
+      "company": "브이아이피동물의료센터청담점",
+      "title": "[2026 하반기] VIP 동물의료센터 청담점 방사선사",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 강남구",
+      "education": "대졸(2,3년) 이상 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 2개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-16T13:00:00+09:00",
+      "end": "2026-12-16T23:59:00+09:00",
+      "duties": "동물의료센터의 영상검사 관련 방사선사 채용. 사람 대상 의료기관과 구분해 확인하세요.",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55583130"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 이미지 등 상세 본문 일부 확인 제한",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "동물의료 영상검사 방사선사",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55501333",
+      "company": "(의)한마음의료재단하나병원",
+      "title": "청주 하나병원 영상의학팀 방사선사 채용 모집",
+      "category": "private",
+      "regions": [
+        "충북"
+      ],
+      "location": "충북 청주시 흥덕구",
+      "education": "대졸(2,3년) 이상 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-06T09:00:00+09:00",
+      "end": null,
+      "duties": "청주 하나병원 영상의학팀 방사선사 채용 모집",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55501333"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55553495",
+      "company": "의료법인양진의료재단",
+      "title": "평택성모병원 영상의학팀 방사선사 모집",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 평택시",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "팀원",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-12T10:00:00+09:00",
+      "end": "2026-12-12T23:59:00+09:00",
+      "duties": "평택성모병원 영상의학팀 방사선사 모집",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55553495"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 이미지 등 상세 본문 일부 확인 제한",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55594147",
+      "company": "(의)한마음의료재단 여수제일병원",
+      "title": "여수제일병원에서 영상의학과 방사선사를 모집합니다.",
+      "category": "private",
+      "regions": [
+        "전남"
+      ],
+      "location": "전남 여수시",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "연봉 4,000 만원 (주 40시간)",
+      "posted": null,
+      "start": "2026-11-17T11:00:00+09:00",
+      "end": "2026-12-17T23:59:00+09:00",
+      "duties": "여수제일병원에서 영상의학과 방사선사를 모집합니다.",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55594147"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55520347",
+      "company": "영도병원",
+      "title": "[영도병원] 영상의학과 경력직 방사선사 채용",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 영도구",
+      "education": "학력무관",
+      "experience": "경력 2년 ↑",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-09T12:00:00+09:00",
+      "end": "2026-12-09T23:59:00+09:00",
+      "duties": "[영도병원] 영상의학과 경력직 방사선사 채용",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요. 추가 공개 조건: 방사선사면허증 필수.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55520347"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55556185",
+      "company": "고신대학교복음병원",
+      "title": "[임시직] 방사선사",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 서구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "계약직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-12T14:00:00+09:00",
+      "end": "2026-11-19T11:00:00+09:00",
+      "duties": "[임시직] 방사선사",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55556185"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55563223",
+      "company": "이샘병원",
+      "title": "방사선사 [MR/CT 풀타임][일반촬영 오전 및 알바]] 채용",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 부산진구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-13T09:00:00+09:00",
+      "end": "2026-12-13T23:59:00+09:00",
+      "duties": "방사선사 [MR/CT 풀타임][일반촬영 오전 및 알바]] 채용",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55563223"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55524349",
+      "company": "첨단종합병원",
+      "title": "종합검진센터 방사선사 정규직 채용 경력자",
+      "category": "private",
+      "regions": [
+        "광주"
+      ],
+      "location": "광주 광산구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력 1년~5년",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-09T17:00:00+09:00",
+      "end": "2026-12-09T23:59:00+09:00",
+      "duties": "종합검진센터 방사선사 정규직 채용 경력자",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55524349"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55511680",
+      "company": "의료법인 서명의료재단",
+      "title": "세명종합병원 방사선사 채용",
+      "category": "private",
+      "regions": [
+        "경북"
+      ],
+      "location": "경북 경산시",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "grade": "사원 / 팀원",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-07T08:00:00+09:00",
+      "end": "2026-12-07T23:59:00+09:00",
+      "duties": "세명종합병원 방사선사 채용",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55511680"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55584383",
+      "company": "동아영상의학과의원",
+      "title": "2026년도 영상의학과 (방사선사) 선생님을 모십니다",
+      "category": "private",
+      "regions": [
+        "대전"
+      ],
+      "location": "대전 동구",
+      "education": "대졸(2,3년) 이상 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 1개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-16T14:00:00+09:00",
+      "end": "2027-01-15T23:59:00+09:00",
+      "duties": "2026년도 영상의학과 (방사선사) 선생님을 모십니다",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55584383"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55591942",
+      "company": "대진의료재단분당제생병원",
+      "title": "[분당제생병원] 영상의학과 방사선사 모집",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 성남시 분당구",
+      "education": "학력무관",
+      "experience": "경력무관 (신입제외)",
+      "employment": "계약직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-17T09:00:00+09:00",
+      "end": "2026-11-25T23:59:00+09:00",
+      "duties": "[분당제생병원] 영상의학과 방사선사 모집",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55591942"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55585428",
+      "company": "의료법인 해민의료재단",
+      "title": "세안종합병원 방사선사 모집",
+      "category": "private",
+      "regions": [
+        "전남"
+      ],
+      "location": "전남 목포시",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-16T15:00:00+09:00",
+      "end": "2026-12-16T23:59:00+09:00",
+      "duties": "세안종합병원 방사선사 모집",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55585428"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55585856",
+      "company": "우리들병원",
+      "title": "[광주 상무지구 우리들병원] 방사선사 정규직 채용",
+      "category": "private",
+      "regions": [
+        "광주"
+      ],
+      "location": "광주 서구",
+      "education": "대졸(2,3년) 이상 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-16T16:00:00+09:00",
+      "end": "2026-12-16T23:59:00+09:00",
+      "duties": "[광주 상무지구 우리들병원] 방사선사 정규직 채용",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55585856"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55465822",
+      "company": "한양메트로정형외과의원",
+      "title": "(계약직) X-ray만 촬영하실 방사선사 선생님을 모집합니다",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 부산진구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력 1년~5년",
+      "employment": "정규직 계약직 파트",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-03T09:00:00+09:00",
+      "end": "2026-12-03T23:59:00+09:00",
+      "duties": "(계약직) X-ray만 촬영하실 방사선사 선생님을 모집합니다",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55465822"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55577845",
+      "company": "엠플러스병원",
+      "title": "[엠플러스병원] X-ray전담 방사선사선생님구인합니다(주5일근무)",
+      "category": "private",
+      "regions": [
+        "대전"
+      ],
+      "location": "대전 유성구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "신입/경력 (년수무관)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-16T08:00:00+09:00",
+      "end": "2026-12-16T23:59:00+09:00",
+      "duties": "[엠플러스병원] X-ray전담 방사선사선생님구인합니다(주5일근무)",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55577845"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55333071",
+      "company": "(주)레메디",
+      "title": "사업본부 방사선사 채용 (2D X-ray 경력 4년이상)",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 영등포구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력 4년 ↑",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "대리, 과장",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-19T18:00:00+09:00",
+      "end": "2026-11-18T23:59:00+09:00",
+      "duties": "사업본부 방사선사 채용 (2D X-ray 경력 4년이상)",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55333071"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55585586",
+      "company": "굿모닝마취통증의학과의원",
+      "title": "반여동 굿모닝마취통증의학과 방사선 알바 구합니다.",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 해운대구",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "아르바이트",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-16T16:00:00+09:00",
+      "end": "2026-11-29T23:59:00+09:00",
+      "duties": "반여동 굿모닝마취통증의학과 방사선 알바 구합니다.",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55585586"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55583073",
+      "company": "맘모스정형외과병원",
+      "title": "맘모스정형외과병원 영상의학과 방사선사 증원모집합니다",
+      "category": "private",
+      "regions": [
+        "대전"
+      ],
+      "location": "대전 서구",
+      "education": "대졸(2,3년) 이상 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 2개월",
+      "grade": "사원",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-16T13:00:00+09:00",
+      "end": "2026-12-16T23:59:00+09:00",
+      "duties": "맘모스정형외과병원 영상의학과 방사선사 증원모집합니다",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55583073"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55576541",
+      "company": "(의)현당의료재단",
+      "title": "[광교] 늘봄요양병원에서 방사선사 선생님을 구인합니다.",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 용인시 수지구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "연봉 3,600 만원 (주 40시간)",
+      "posted": null,
+      "start": "2026-11-15T15:00:00+09:00",
+      "end": "2026-12-15T23:59:00+09:00",
+      "duties": "[광교] 늘봄요양병원에서 방사선사 선생님을 구인합니다.",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55576541"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55519516",
+      "company": "구미강동병원",
+      "title": "영상의학팀 방사선사 모집",
+      "category": "private",
+      "regions": [
+        "경북"
+      ],
+      "location": "경북 구미시",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "면접 후 결정",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-09T11:00:00+09:00",
+      "end": null,
+      "duties": "영상의학팀 방사선사 모집",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55519516"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55445485",
+      "company": "바른의원부부한의원",
+      "title": "정형외과 방사선사 11월22,30일 알바 모집합니다(C-arm 업무x",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 부산진구",
+      "education": "학력무관",
+      "experience": "경력 (년수무관)",
+      "employment": "아르바이트",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-31T08:00:00+09:00",
+      "end": "2026-12-30T23:59:00+09:00",
+      "duties": "정형외과 방사선사 11월22,30일 알바 모집합니다(C-arm 업무x",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55445485"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55580829",
+      "company": "굳센병원",
+      "title": "굳센병원 영상의학과 MRI 2호기 증설에 따른 충원",
+      "category": "private",
+      "regions": [
+        "대구"
+      ],
+      "location": "대구 수성구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-16T11:00:00+09:00",
+      "end": "2026-12-16T23:59:00+09:00",
+      "duties": "굳센병원 영상의학과 MRI 2호기 증설에 따른 충원",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55580829"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55554854",
+      "company": "의료법인 센텀의료재단 부산센텀병원",
+      "title": "센텀의료재단 센텀종합병원 영상의학실 방사선사 채용",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 수영구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력 1년 ↑",
+      "employment": "계약직 (정규직 전환가능) 3개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-12T11:00:00+09:00",
+      "end": null,
+      "duties": "센텀의료재단 센텀종합병원 영상의학실 방사선사 채용",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55554854"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 이미지 등 상세 본문 일부 확인 제한",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55518877",
+      "company": "이김병원",
+      "title": "영상의학과 방사선사(정규직) 모집합니다.",
+      "category": "private",
+      "regions": [
+        "대전"
+      ],
+      "location": "대전 서구",
+      "education": "대졸(2,3년) 이상 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-09T11:00:00+09:00",
+      "end": "2026-12-09T23:59:00+09:00",
+      "duties": "영상의학과 방사선사(정규직) 모집합니다.",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55518877"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55353411",
+      "company": "(주)디알텍",
+      "title": "어플리케이터 (방사선사)",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 성남시",
+      "education": "대졸(4년) 이상",
+      "experience": "경력 8년 ↓",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "면접 후 결정",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-21T00:00:00+09:00",
+      "end": "2026-11-19T23:59:00+09:00",
+      "duties": "어플리케이터 (방사선사)",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55353411"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55564239",
+      "company": "두드림정형외과의원",
+      "title": "방사선사 토요일 격주 고정 아르바이트 모집합니다. (월2회)",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 해운대구",
+      "education": "학력무관",
+      "experience": "경력 1년 ↑",
+      "employment": "아르바이트",
+      "grade": "미공개",
+      "salary": "일급 100,000 원 (일 5시간)",
+      "posted": null,
+      "start": "2026-11-13T10:00:00+09:00",
+      "end": "2027-01-12T23:59:00+09:00",
+      "duties": "방사선사 토요일 격주 고정 아르바이트 모집합니다. (월2회)",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55564239"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55531275",
+      "company": "한양마디시원정형외과의원",
+      "title": "정형외과 방사선사 구인(경력무관)",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 서구",
+      "education": "학력무관 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 계약직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-10T10:00:00+09:00",
+      "end": "2026-12-10T23:59:00+09:00",
+      "duties": "정형외과 방사선사 구인(경력무관)",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55531275"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55594335",
+      "company": "대구예스병원",
+      "title": "대구예스병원 영상의학실 및 Angio 방사선사 경력직 분야별 모집",
+      "category": "private",
+      "regions": [
+        "대구"
+      ],
+      "location": "대구 남구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력 2년 ↑",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-17T10:00:00+09:00",
+      "end": null,
+      "duties": "대구예스병원 영상의학실 및 Angio 방사선사 경력직 분야별 모집",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55594335"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55541870",
+      "company": "세움병원",
+      "title": "세움병원 방사선사 모집",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 연제구",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-11T09:00:00+09:00",
+      "end": "2026-12-11T23:59:00+09:00",
+      "duties": "세움병원 방사선사 모집",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55541870"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55598402",
+      "company": "새나래병원",
+      "title": "방사선사 인원 충원",
+      "category": "private",
+      "regions": [
+        "광주"
+      ],
+      "location": "광주 북구",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 2개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-17T16:00:00+09:00",
+      "end": null,
+      "duties": "방사선사 인원 충원",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55598402"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55542378",
+      "company": "더나은마취통증의학과의원",
+      "title": "부산 365사직더나은마취 주5일 방사선사 구인합니다. 신졸ok",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 동래구",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 2개월",
+      "grade": "사원",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-11T10:00:00+09:00",
+      "end": "2026-12-11T23:59:00+09:00",
+      "duties": "부산 365사직더나은마취 주5일 방사선사 구인합니다. 신졸ok",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "같은 의원의 사직점 주 5일 방사선사 모집을 한 항목으로 합쳤습니다.",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55542378"
+        },
+        {
+          "label": "동일 직무의 다른 등록 원문",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55506964"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55535211",
+      "company": "한사랑정형외과의원",
+      "title": "[둔산동 한사랑정형외과] 영상의학과 방사선사 채용 (정규직)",
+      "category": "private",
+      "regions": [
+        "대전"
+      ],
+      "location": "대전 서구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력 1년 ↑",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-10T16:00:00+09:00",
+      "end": "2026-12-10T23:59:00+09:00",
+      "duties": "[둔산동 한사랑정형외과] 영상의학과 방사선사 채용 (정규직)",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55535211"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55541879",
+      "company": "더바른의원",
+      "title": "유성구 더바른의원 방사선사 선생님 초빙합니다.",
+      "category": "private",
+      "regions": [
+        "대전"
+      ],
+      "location": "대전 유성구",
+      "education": "학력무관",
+      "experience": "경력 (년수무관)",
+      "employment": "정규직 계약직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-11T09:00:00+09:00",
+      "end": "2026-12-11T23:59:00+09:00",
+      "duties": "유성구 더바른의원 방사선사 선생님 초빙합니다.",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55541879"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55542016",
+      "company": "더바른의원",
+      "title": "유성구 더바른의원 출산휴가로 인한 방사선사선생님 초빙(계약직",
+      "category": "private",
+      "regions": [
+        "대전"
+      ],
+      "location": "대전 유성구",
+      "education": "학력무관",
+      "experience": "경력 (년수무관)",
+      "employment": "정규직 계약직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-11T09:00:00+09:00",
+      "end": "2026-12-11T23:59:00+09:00",
+      "duties": "유성구 더바른의원 출산휴가로 인한 방사선사선생님 초빙(계약직",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55542016"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55573668",
+      "company": "동탄뿌리정형외과의원",
+      "title": "주5일 ) 방사선사 선생님 모집 합니다",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 화성시",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "연봉 4,500 만원 (주 42시간)",
+      "posted": null,
+      "start": "2026-11-14T08:00:00+09:00",
+      "end": "2026-12-14T23:59:00+09:00",
+      "duties": "주5일 ) 방사선사 선생님 모집 합니다",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55573668"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55577478",
+      "company": "기운찬마취통증의학과의원",
+      "title": "기운찬마취통증의학과의원에서 방사선사 선생님을 모십니다.",
+      "category": "private",
+      "regions": [
+        "충남"
+      ],
+      "location": "충남 금산군",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "연봉 4,000 만원 (주 40시간)",
+      "posted": null,
+      "start": "2026-11-16T08:00:00+09:00",
+      "end": "2027-01-15T23:59:00+09:00",
+      "duties": "기운찬마취통증의학과의원에서 방사선사 선생님을 모십니다.",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55577478"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55599451",
+      "company": "하남든든정형외과의원",
+      "title": "하남든든정형외과에서 방사선사 단기 알바 구합니다(12.11-12일)",
+      "category": "private",
+      "regions": [
+        "광주"
+      ],
+      "location": "광주 광산구 · 12월 11~12일 단기근무",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력 1년 ↑",
+      "employment": "아르바이트",
+      "grade": "미공개",
+      "salary": "일급 150,000 원 (일 8시간)",
+      "posted": null,
+      "start": "2026-11-17T17:00:00+09:00",
+      "end": "2026-12-10T23:59:00+09:00",
+      "duties": "하남든든정형외과에서 방사선사 단기 알바 구합니다(12.11-12일)",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "기관명의 하남은 광주 하남 지역입니다. 경기 하남시 공고가 아닙니다.",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55599451"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55599419",
+      "company": "류마리스내과의원",
+      "title": "하단 류마내과 방사선사 모집합니다 주4.5일 수오후+목 휴무",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 사하구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "계약직 (정규직 전환가능) 3개월",
+      "grade": "미공개",
+      "salary": "연봉 3,100 만원 (주 34시간)",
+      "posted": null,
+      "start": "2026-11-17T17:00:00+09:00",
+      "end": "2026-12-17T23:59:00+09:00",
+      "duties": "하단 류마내과 방사선사 모집합니다 주4.5일 수오후+목 휴무",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55599419"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55587706",
+      "company": "본튼튼플러스의원",
+      "title": "본튼튼플러스의원 방사선사 계약직(27년3월~8월말) 구합니다",
+      "category": "private",
+      "regions": [
+        "경북"
+      ],
+      "location": "경북 구미시",
+      "education": "대졸(2,3년) 이상 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "계약직 (기간제) 6개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-16T18:00:00+09:00",
+      "end": null,
+      "duties": "본튼튼플러스의원 방사선사 계약직(27년3월~8월말) 구합니다",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "모집 접수는 현재 진행 중이며 실제 근무기간은 2027년 3~8월입니다.",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55587706"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55598709",
+      "company": "김석재마취통증의학과",
+      "title": "김석재마취통증의학과 방사선사 모집",
+      "category": "private",
+      "regions": [
+        "광주"
+      ],
+      "location": "광주 북구",
+      "education": "학력무관 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-17T16:00:00+09:00",
+      "end": "2026-12-17T23:59:00+09:00",
+      "duties": "김석재마취통증의학과 방사선사 모집",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55598709"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55597681",
+      "company": "서울튼튼신경외과의원",
+      "title": "서울튼튼신경외과 방사선사 선생님 구인합니다",
+      "category": "private",
+      "regions": [
+        "충남"
+      ],
+      "location": "충남 공주시",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 2개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-17T15:00:00+09:00",
+      "end": "2026-12-17T23:59:00+09:00",
+      "duties": "서울튼튼신경외과 방사선사 선생님 구인합니다",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요. 추가 공개 조건: 방사선사.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55597681"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55597180",
+      "company": "의료법인루가의료재단 검단나은의원",
+      "title": "루가의료재단 검단나은의원 방사선사 모집",
+      "category": "private",
+      "regions": [
+        "인천"
+      ],
+      "location": "인천 검단구",
+      "education": "대졸(2,3년) 이상 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "계약직 (정규직 전환가능) 11개월",
+      "grade": "팀원",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-17T14:00:00+09:00",
+      "end": "2026-12-17T23:59:00+09:00",
+      "duties": "루가의료재단 검단나은의원 방사선사 모집",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55597180"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 이미지 등 상세 본문 일부 확인 제한",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55492983",
+      "company": "하나외과의원",
+      "title": "방사선사 경력사원 채용 공고(정규직) 수정내용  (주5일가능)",
+      "category": "private",
+      "regions": [
+        "대전"
+      ],
+      "location": "대전 유성구",
+      "education": "학력무관",
+      "experience": "경력 (년수무관)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-05T12:00:00+09:00",
+      "end": "2026-11-30T23:59:00+09:00",
+      "duties": "방사선사 경력사원 채용 공고(정규직) 수정내용  (주5일가능)",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55492983"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55596636",
+      "company": "마천본튼튼의원",
+      "title": "마천본튼튼의원 [주5일] 방사선사 선생님 모십니다 /실수령 440",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 송파구",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 2개월",
+      "grade": "미공개",
+      "salary": "월 실수령 440만원(제목 · 세부 산정조건 확인 필요)",
+      "posted": null,
+      "start": "2026-11-17T14:00:00+09:00",
+      "end": "2026-12-17T23:59:00+09:00",
+      "duties": "마천본튼튼의원 [주5일] 방사선사 선생님 모십니다 /실수령 440",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "공고 제목의 실수령 금액입니다. 세전 급여나 연봉으로 환산하지 않았으며 수당·공제·근무시간 조건은 원문과 채용담당자에게 확인하세요.",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55596636"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 이미지 등 상세 본문 일부 확인 제한",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55595312",
+      "company": "성모진단방사선과의원",
+      "title": "mammo  가능하신 방사선사 초빙",
+      "category": "private",
+      "regions": [
+        "대전"
+      ],
+      "location": "대전 동구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "계약직 (정규직 전환가능)",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-17T12:00:00+09:00",
+      "end": "2026-12-17T23:59:00+09:00",
+      "duties": "mammo  가능하신 방사선사 초빙",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55595312"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55407306",
+      "company": "당진종합병원",
+      "title": "당진종합병원 영상의학팀 방사선사 모집",
+      "category": "private",
+      "regions": [
+        "충남"
+      ],
+      "location": "충남 당진시",
+      "education": "대졸(2,3년) 이상 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-27T17:00:00+09:00",
+      "end": "2026-12-26T23:59:00+09:00",
+      "duties": "당진종합병원 영상의학팀 방사선사 모집",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55407306"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "radiographer"
+      ],
+      "topics": [
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55563203",
+      "company": "나르샤병원",
+      "title": "나르샤병원 영상의학과 접수·초음파 어시스트 함께해요",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 동래구",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-13T08:00:00+09:00",
+      "end": "2026-12-13T23:59:00+09:00",
+      "duties": "나르샤병원 영상의학과 접수·초음파 어시스트 함께해요",
+      "qualifications": "초음파 검사 보조 또는 접수 업무입니다. 독립 검사자의 채용과 구분해 원문의 자격조건을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55563203"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "초음파 검사 보조·접수 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55502097",
+      "company": "여수한국병원",
+      "title": "여수한국병원 초음파 보조 파트타임 채용",
+      "category": "private",
+      "regions": [
+        "전남"
+      ],
+      "location": "전남 여수시",
+      "education": "학력무관 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "파트",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-06T10:00:00+09:00",
+      "end": null,
+      "duties": "여수한국병원 초음파 보조 파트타임 채용",
+      "qualifications": "초음파 검사 보조 또는 접수 업무입니다. 독립 검사자의 채용과 구분해 원문의 자격조건을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55502097"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "초음파 검사 보조·접수 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55553504",
+      "company": "의료법인양진의료재단",
+      "title": "평택성모병원 영상의학팀 초음파 어시스트 모집",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 평택시",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "계약직 1년",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-12T10:00:00+09:00",
+      "end": "2026-12-12T23:59:00+09:00",
+      "duties": "평택성모병원 영상의학팀 초음파 어시스트 모집",
+      "qualifications": "초음파 검사 보조 또는 접수 업무입니다. 독립 검사자의 채용과 구분해 원문의 자격조건을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55553504"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 이미지 등 상세 본문 일부 확인 제한",
+      "fields": [
+        "sonographer"
+      ],
+      "topics": [
+        "sonographer"
+      ],
+      "relationType": "초음파 검사 보조·접수 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55425171",
+      "company": "(주)에이치디엑스윌",
+      "title": "HDXWILL 품질팀 방사선안전관리자 경력 모집 (RI일반면허소지자)",
+      "category": "private",
+      "regions": [
+        "충북"
+      ],
+      "location": "충북 청주시 흥덕구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "면접 후 결정",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-29T10:00:00+09:00",
+      "end": "2026-11-28T23:59:00+09:00",
+      "duties": "방사선 안전관리 및 QA·QC 문서관리.",
+      "qualifications": "RI 일반면허 필수, 전문대 이상. 방사선 전공·직무경험·영어 등 우대.",
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "필수"
+        }
+      ],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55425171"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "safety"
+      ],
+      "topics": [
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55478400",
+      "company": "한양대학교",
+      "title": "한양대학교 ERICA 방사선안전관리 계약직원 채용공고",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 안산시 상록구",
+      "education": "대졸(4년) 이상 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "계약직 1년(평가 후 재계약 가능)",
+      "grade": "사원 / 팀원",
+      "salary": "연봉 3,600만원",
+      "posted": null,
+      "start": "2026-11-04T08:00:00+09:00",
+      "end": null,
+      "duties": "ERICA 캠퍼스 방사선·연구실 안전관리 및 안전팀 행정.",
+      "qualifications": "RI 일반면허와 학사 이상(졸업예정 가능). 안전·소방 관련 자격 및 대학 행정경험 우대.",
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "필수"
+        }
+      ],
+      "detail": [],
+      "notes": "상단 요약은 계약 2년, 본문은 1년 후 평가에 따른 재계약으로 달라 본문 조건을 표시했습니다.",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55478400"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "safety"
+      ],
+      "topics": [
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55148937",
+      "company": "(주)한국공업엔지니어링",
+      "title": "인천 방사선안전관리자(RI) 모집",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 부천시 원미구",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "grade": "면접 후 결정",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-09-29T15:00:00+09:00",
+      "end": "2026-11-28T23:59:00+09:00",
+      "duties": "인천지사 방사선 안전관리·비파괴검사. 상세 근무지는 부천.",
+      "qualifications": "학력·경력무관, RI 일반면허 및 운전·관련 실무경험 우대.",
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "우대"
+        }
+      ],
+      "detail": [],
+      "notes": "공고 제목·지사명은 인천이지만 상세 근무지는 경기 부천시 원미구입니다.",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55148937"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "safety"
+      ],
+      "topics": [
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55190813",
+      "company": "(주)한국공업엔지니어링",
+      "title": "울산 방사선안전관리자(RI) 모집",
+      "category": "private",
+      "regions": [
+        "울산"
+      ],
+      "location": "울산 남구",
+      "education": "고졸 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "grade": "면접 후 결정",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-02T15:00:00+09:00",
+      "end": "2026-12-01T23:59:00+09:00",
+      "duties": "울산 현장 방사선안전 및 비파괴검사.",
+      "qualifications": "고졸 이상, 신입 가능. RI 일반면허·운전·실무경험 우대.",
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "우대"
+        }
+      ],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55190813"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "safety"
+      ],
+      "topics": [
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55417188",
+      "company": "(주)가온원자력",
+      "title": "함께 하실 업무대행 방사선안전관리자 모십니다.",
+      "category": "private",
+      "regions": [
+        "대전"
+      ],
+      "location": "대전 유성구",
+      "education": "대졸(2,3년) 이상 (예정자가능)",
+      "experience": "경력 3년 ↑",
+      "employment": "정규직 (수습기간) 2개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-28T15:00:00+09:00",
+      "end": "2026-12-27T23:59:00+09:00",
+      "duties": "RI 시설 안전관리 대행, 누설점검·운반·폐기 및 인허가 서류.",
+      "qualifications": "전문대 이상·경력 3년 이상. RI 일반면허·1종 보통 운전면허 등 원문 자격 확인.",
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "필수"
+        }
+      ],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55417188"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "safety"
+      ],
+      "topics": [
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": 1,
+      "openingsNote": "해당 모집분야 1명"
+    },
+    {
+      "id": "sr-55573921",
+      "company": "세명검사기술(주)",
+      "title": "본사 방사선 안전관리자(SRI)",
+      "category": "private",
+      "regions": [
+        "경남"
+      ],
+      "location": "경남 창원시 의창구",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "연봉 6,500만원 이상(본문)",
+      "posted": null,
+      "start": "2026-11-14T10:00:00+09:00",
+      "end": "2026-12-14T23:59:00+09:00",
+      "duties": "본사 방사선 안전관리·인허가 및 작업종사자 관리.",
+      "qualifications": "SRI 필수. 학력·경력무관, 2026년 합격자 가능.",
+      "licenses": [
+        {
+          "name": "SRI",
+          "level": "필수"
+        }
+      ],
+      "detail": [],
+      "notes": "급여 요약란은 면접 후 결정이지만 본문 자격조건에 6,500만원 이상을 명시했습니다. 2026년 SRI 합격자도 지원 가능.",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55573921"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "safety"
+      ],
+      "topics": [
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": 1,
+      "openingsNote": "해당 모집분야 1명"
+    },
+    {
+      "id": "sr-55399913",
+      "company": "(주)에이피엔",
+      "title": "방사선 안전관리자(RI) 및 비파괴 검사원 모집 - 광양 출장소",
+      "category": "private",
+      "regions": [
+        "전남"
+      ],
+      "location": "전남 광양시",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "비파괴검사 신입 연 3,500만원 이상 · 안전관리자/경력은 면접 협의",
+      "posted": null,
+      "start": "2026-10-27T08:00:00+09:00",
+      "end": "2026-11-26T23:59:00+09:00",
+      "duties": "방사선 안전관리자(RI) 및 비파괴 검사원 모집 - 광양 출장소",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "통합 모집인원 4명은 비파괴검사와 안전관리 전체 인원입니다. 방사선안전 직무별 TO는 분리되지 않아 추이의 확정 인원에서는 제외합니다.",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55399913"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "safety"
+      ],
+      "topics": [
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55399907",
+      "company": "(주)에이피엔",
+      "title": "방사선 안전관리자(RI) 및 비파괴 검사원 모집 - 여수 출장소",
+      "category": "private",
+      "regions": [
+        "전남"
+      ],
+      "location": "전남 여수시",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "비파괴검사 신입 연 3,500만원 이상 · 안전관리자/경력은 면접 협의",
+      "posted": null,
+      "start": "2026-10-27T08:00:00+09:00",
+      "end": "2026-11-26T23:59:00+09:00",
+      "duties": "방사선 안전관리자(RI) 및 비파괴 검사원 모집 - 여수 출장소",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "통합 모집인원 4명은 비파괴검사와 안전관리 전체 인원입니다. 방사선안전 직무별 TO는 분리되지 않아 추이의 확정 인원에서는 제외합니다.",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55399907"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "safety"
+      ],
+      "topics": [
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55088034",
+      "company": "(주)엘씨젠",
+      "title": "방사선 안전관리원 신입 모집(대전 근무)",
+      "category": "private",
+      "regions": [
+        "대전"
+      ],
+      "location": "대전 유성구",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "면접 후 결정 출퇴근 시간 08:30~17:30",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-09-21T10:00:00+09:00",
+      "end": "2026-11-20T23:59:00+09:00",
+      "duties": "한전원자력연료 사업장의 방사선 안전관리·폐기물 관리.",
+      "qualifications": "학력·경력무관. 원자력·물리·방사선 전공, 원자력·폐기물 관련 자격 및 피폭이력 1년 이상 우대.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55088034"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "safety"
+      ],
+      "topics": [
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55465944",
+      "company": "케이엠아이(주)",
+      "title": "케이엠아이(주) 방사선 안전관리자(RI) 채용(진해)",
+      "category": "private",
+      "regions": [
+        "경남"
+      ],
+      "location": "경남 창원시 진해구",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-03T09:00:00+09:00",
+      "end": "2026-12-03T23:59:00+09:00",
+      "duties": "진해 한주사업소의 방사선 안전관리·방사선투과검사(RT) 관련 업무.",
+      "qualifications": "RI 일반면허 필수. 학력·경력무관.",
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "필수"
+        }
+      ],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55465944"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "safety"
+      ],
+      "topics": [
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": 1,
+      "openingsNote": "해당 모집분야 1명"
+    },
+    {
+      "id": "sr-55324729",
+      "company": "케이엔디이(주)",
+      "title": "케이엔디이(주) RI일반면허자 채용 공고(사천) -서경사업소",
+      "category": "private",
+      "regions": [
+        "경남"
+      ],
+      "location": "경남 사천시",
+      "education": "고졸 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-19T09:00:00+09:00",
+      "end": null,
+      "duties": "사천 서경사업소 방사선 안전관리.",
+      "qualifications": "RI 일반면허 필수. 고졸 이상, 신입 가능.",
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "필수"
+        }
+      ],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55324729"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "safety"
+      ],
+      "topics": [
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": 1,
+      "openingsNote": "해당 모집분야 1명"
+    },
+    {
+      "id": "sr-55599348",
+      "company": "케이피이엔지(주)",
+      "title": "방사선취급감독자(SRI) 구인",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 수원시 권선구",
+      "education": "학력무관",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-17T17:00:00+09:00",
+      "end": "2026-12-17T23:59:00+09:00",
+      "duties": "방사선 안전관리와 품질관리.",
+      "qualifications": "SRI 필수. 학력·경력무관. 안전관리·관련 교육·장비점검 경험 우대.",
+      "licenses": [
+        {
+          "name": "SRI",
+          "level": "필수"
+        }
+      ],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55599348"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "safety"
+      ],
+      "topics": [
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55577756",
+      "company": "인터케어건강검진센터",
+      "title": "인터케어 검진센터 RI 면허자 정규직 방사선사 구인",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 강남구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력무관 (신입제외)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "연봉 4,000~5,200만원(본문 · 경력별 차등)",
+      "posted": null,
+      "start": "2026-11-16T08:00:00+09:00",
+      "end": "2026-11-30T15:00:00+09:00",
+      "duties": "건강검진 영상장비 검사와 RI 업무 관리.",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "필수"
+        },
+        {
+          "name": "방사선사",
+          "level": "필수"
+        }
+      ],
+      "detail": [],
+      "notes": "요약 급여는 면접 후 결정, 본문은 연 4,000~5,200만원입니다. RI 업무 수당 조건은 지원 시 확인하세요.",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55577756"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "safety",
+        "radiographer"
+      ],
+      "topics": [
+        "safety",
+        "radiographer"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55519459",
+      "company": "(주)에이젠코어",
+      "title": "삼중수소 사업본부 · ASME 인증·압력용기 설계검토·QA/ISO",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 기장군",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-09T11:00:00+09:00",
+      "end": "2027-01-08T23:59:00+09:00",
+      "duties": "삼중수소 사업본부 품질보증 및 인증·기계설계 검토. 세 모집분야 각각 1명.",
+      "qualifications": "전문대 이상, 신입 지원 가능. ASME·QA/ISO 분야 원자력·방사선 전공 및 RI 우대. 기계설계 분야 일반기계기사 우대.",
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "우대(ASME·QA/ISO 분야)"
+        }
+      ],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55519459"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "nuclear"
+      ],
+      "topics": [
+        "nuclear_safety"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": 3,
+      "openingsNote": "ASME 인증 1명 · 압력용기 품질검토 1명 · QA/ISO 1명"
+    },
+    {
+      "id": "sr-55552953",
+      "company": "한국에스지에스(주)",
+      "title": "내진해석 엔지니어",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 화성시 동탄구",
+      "education": "대졸(4년) 이상",
+      "experience": "경력 10년 ↓",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-12T09:00:00+09:00",
+      "end": "2026-12-13T23:59:00+09:00",
+      "duties": "구조·진동·내진 해석 및 유한요소 모델링. 원전 기기 내진검증 경험자를 우대하는 직무.",
+      "qualifications": "기계·건축·토목 등 관련 학사 이상 및 구조·진동 기초지식. ANSYS, 원전 기기 내진검증 경험 및 기계기사 우대.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55552953"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "nuclear"
+      ],
+      "topics": [
+        "nuclear_safety"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55162543",
+      "company": "(주)레이메드",
+      "title": "(주)레이메드 방사화학 연구원 채용 공고",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 노원구",
+      "education": "석사졸업 이상",
+      "experience": "본문: 관련 경력 1~2년 이상",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-09-30T14:00:00+09:00",
+      "end": "2026-11-29T23:59:00+09:00",
+      "duties": "방사성 표지·생체접합·비임상 평가 및 신약 후보물질 연구.",
+      "qualifications": "화학·약학·생명과학 등 관련 석사 이상, 유기화학 연구역량. 본문에 관련 경력 1~2년 이상 명시.",
+      "licenses": [],
+      "detail": [],
+      "notes": "상단은 경력무관(신입 제외), 본문은 관련 경력 1~2년 이상으로 달라 본문 조건을 우선 표시했습니다. 동일 회사의 잡코리아 과거 공고와 접수기간이 다릅니다.",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55162543"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "research"
+      ],
+      "topics": [
+        "research"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": 1,
+      "openingsNote": "방사화학 연구원 1명"
+    },
+    {
+      "id": "sr-55534245",
+      "company": "한미테크윈(주)",
+      "title": "가속기 마그네트 물리설계 직원 채용",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 시흥시",
+      "education": "대졸(4년) 이상 (예정자가능)",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-10T14:00:00+09:00",
+      "end": "2026-12-10T23:59:00+09:00",
+      "duties": "입자 가속기 전자석의 물리설계·자기장 해석·시뮬레이션.",
+      "qualifications": "물리·응용물리·전기전자 등 관련 학사 이상(졸업예정 가능), 영어 문서·의사소통, 전자기학 이해. OPERA·ANSYS Maxwell 경험 우대.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55534245"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "research"
+      ],
+      "topics": [
+        "research"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55556630",
+      "company": "스탠다드마그넷(주)",
+      "title": "[스타트업] 초전도 엔지니어/테크니션",
+      "category": "private",
+      "regions": [
+        "서울",
+        "경기"
+      ],
+      "location": "서울 관악구 서울대 · 경기 광명 이전 예정(두 근무지 이동 가능)",
+      "education": "고졸 이상",
+      "experience": "신입/경력",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-14T00:00:00+09:00",
+      "end": "2026-12-13T23:59:00+09:00",
+      "duties": "핵융합·암치료 가속기·MRI 등에 쓰이는 초전도자석 개발·제작·공정개발·시험.",
+      "qualifications": "고졸 이상, 2D/3D CAD 사용 가능. 전기전자·물리·기계 전공 우대.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55556630"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "research"
+      ],
+      "topics": [
+        "research"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55478928",
+      "company": "(주)오르비텍",
+      "title": "소재·화학·단열소재 연구개발 전문인력 모집",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 과천시",
+      "education": "석사졸업 이상",
+      "experience": "신입/경력 10년 ↓",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-04T09:00:00+09:00",
+      "end": "2026-11-20T23:59:00+09:00",
+      "duties": "무기·나노소재, 바인더·고분자 및 단열재 R&D. 방사선·원자력 사업을 하는 오르비텍의 신소재사업부 채용.",
+      "qualifications": "화학·화공·재료 등 관련 석사 이상. 신입 또는 경력 10년 이하. 소재 합성·물성평가, 정부 R&D 경험 우대.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55478928"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "research"
+      ],
+      "topics": [
+        "research"
+      ],
+      "relationType": "방사선·원자력 관련 기업의 소재 R&D",
+      "status": "open",
+      "openings": 2,
+      "openingsNote": "소재 R&D 2명"
+    },
+    {
+      "id": "sr-55533017",
+      "company": "두루에너아이(주)",
+      "title": "원전 SW V&V(정적/동적 시험) 엔지니어 모집",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 안양시 동안구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력 5년~15년",
+      "employment": "정규직 계약직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-10T13:00:00+09:00",
+      "end": "2026-12-10T23:59:00+09:00",
+      "duties": "원전 소프트웨어 정적·동적 시험 및 검증.",
+      "qualifications": "전문대 이상, 경력 5~15년. 이미지 상세 조건은 등록 원문에서 재확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55533017"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 이미지 등 상세 본문 일부 확인 제한",
+      "fields": [
+        "ic"
+      ],
+      "topics": [
+        "ic"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55438931",
+      "company": "(주)우리기술",
+      "title": "우리기술 원전(시스템) 엔지니어 채용 모집",
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 마포구",
+      "education": "대졸(4년) 이상",
+      "experience": "신입/경력 5년~10년",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-30T14:00:00+09:00",
+      "end": "2026-11-30T23:59:00+09:00",
+      "duties": "우리기술 원전(시스템) 엔지니어 채용 모집",
+      "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55438931"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 이미지 등 상세 본문 일부 확인 제한",
+      "fields": [
+        "ic"
+      ],
+      "topics": [
+        "ic"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55532699",
+      "company": "(주)엔텍코아",
+      "title": "소프트웨어 Verification and Validation 엔지니어 채용",
+      "category": "private",
+      "regions": [
+        "대전"
+      ],
+      "location": "대전 유성구",
+      "education": "대졸(4년) 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "선임연구원, 연구원, 주임연구원 출퇴근 시간 09:00~18:00",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-10T12:00:00+09:00",
+      "end": "2027-01-09T23:59:00+09:00",
+      "duties": "원자력발전소 터빈제어 SW V&V 및 발전설비 엔지니어링.",
+      "qualifications": "컴퓨터·시스템·전기전자·SW 관련 학사 이상, 신입 가능. 발전소 프로젝트·SW V&V 자격 및 문서작성 능력 우대.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55532699"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "ic"
+      ],
+      "topics": [
+        "ic"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55191825",
+      "company": "인텔릭스(주)",
+      "title": "원자력 분야 소프트웨어 검증 경력자 채용",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 성남시 분당구",
+      "education": "대졸(4년) 이상 (예정자가능)",
+      "experience": "경력 3년~8년",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-02T16:00:00+09:00",
+      "end": "2026-12-01T23:59:00+09:00",
+      "duties": "원자력 시스템 소프트웨어 검증 및 품질보증.",
+      "qualifications": "학사 이상·관련 경력 3년 이상. V&V, SQA, KEPIC-EN 관련 조건 원문 확인.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55191825"
+        },
+        {
+          "label": "잡코리아 교차 원문",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50101700"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "ic"
+      ],
+      "topics": [
+        "ic"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55579674",
+      "company": "유림기술(주)",
+      "title": "유림기술㈜ 2026년 하반기 전기설계 신입·경력 채용",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 안양시 동안구",
+      "education": "대졸(2,3년) 이상",
+      "experience": "경력무관 (신입포함)",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-16T10:00:00+09:00",
+      "end": "2027-01-15T23:59:00+09:00",
+      "duties": "배전·제어·계측제어 판넬 전기설계 및 설계도서·기술지원.",
+      "qualifications": "전기전자·제어계측 관련 전문대 이상, AutoCAD 활용. 원전·발전소 설계 및 KEPIC·IEEE·IEC 경험 우대.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55579674"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "ic"
+      ],
+      "topics": [
+        "ic"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55308412",
+      "company": "대경기술(주)",
+      "title": "사이버보안 분야 전문가",
+      "category": "private",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 기장군",
+      "education": "학력무관",
+      "experience": "경력 3년~10년",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-16T10:00:00+09:00",
+      "end": "2026-12-15T23:59:00+09:00",
+      "duties": "원전·SMR 제어계통 사이버보안 설계·검증, CDA 식별 및 인허가 대응.",
+      "qualifications": "경력 3~10년, 학력무관. 원전/OT·ICS 보안 설계·평가·검증 경력과 KINAC/RS-015·RG5.71 이해 필요.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55308412"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "ic",
+        "nuclear"
+      ],
+      "topics": [
+        "ic",
+        "nuclear_safety"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": 1,
+      "openingsNote": "원자력 사이버보안 전문가 1명"
+    },
+    {
+      "id": "sr-55352571",
+      "company": "(주)디알텍",
+      "title": "시스템 HW설계 (경력)",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 성남시",
+      "education": "학사 이상",
+      "experience": "경력 1년~7년",
+      "employment": "정규직 (수습기간) 3개월",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-21T00:00:00+09:00",
+      "end": "2026-11-19T23:59:00+09:00",
+      "duties": "디지털 X-ray 검출기·영상시스템의 회로·PCB·전장 설계와 통합시험.",
+      "qualifications": "전기·전자·제어 관련 전공, 회로·전장 설계 경험과 CAD 활용능력. X-ray/Mammo/C-arm, FPGA 및 의료기기 인증 경험 우대.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55352571"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "research",
+        "ic"
+      ],
+      "topics": [
+        "research",
+        "ic"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55468241-linac",
+      "company": "(주)쎄크",
+      "title": "의료용 선형가속기(LINAC) 치료기 시스템 개발",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 수원시 권선구",
+      "education": "관련 석사 이상",
+      "experience": "경력 10년 이상",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-03T00:00:00+09:00",
+      "end": "2026-12-02T23:59:00+09:00",
+      "duties": "쎄크의 의료용 가속기·X-ray 장비 통합 공채 중 의료용 선형가속기(LINAC) 치료기 시스템 개발 분야.",
+      "qualifications": "의료용 가속기 시스템 설계·개발 및 프로젝트 수행 경험",
+      "licenses": [],
+      "detail": [],
+      "notes": "동일 통합 공고의 서로 다른 모집분야를 구분했습니다. 분야별 확정 TO는 공개되지 않아 인원 합계에서 제외합니다.",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55468241"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "research"
+      ],
+      "topics": [
+        "research"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55468241-tcs",
+      "company": "(주)쎄크",
+      "title": "치료제어시스템(TCS) 소프트웨어 개발",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 수원시 권선구",
+      "education": "학사 이상",
+      "experience": "경력 10년 이상",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-03T00:00:00+09:00",
+      "end": "2026-12-02T23:59:00+09:00",
+      "duties": "쎄크의 의료용 가속기·X-ray 장비 통합 공채 중 치료제어시스템(TCS) 소프트웨어 개발 분야.",
+      "qualifications": "C/C++/C# 개발, 제어·인터록 및 의료기기 SW 규격 관련 역량",
+      "licenses": [],
+      "detail": [],
+      "notes": "동일 통합 공고의 서로 다른 모집분야를 구분했습니다. 분야별 확정 TO는 공개되지 않아 인원 합계에서 제외합니다.",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55468241"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "research",
+        "ic"
+      ],
+      "topics": [
+        "research",
+        "ic"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55468241-rf",
+      "company": "(주)쎄크",
+      "title": "LINAC RF 엔지니어",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 수원시 권선구",
+      "education": "전자·물리 등 관련 학사 이상",
+      "experience": "분야별 조건 원문 확인",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-03T00:00:00+09:00",
+      "end": "2026-12-02T23:59:00+09:00",
+      "duties": "쎄크의 의료용 가속기·X-ray 장비 통합 공채 중 LINAC RF 엔지니어 분야.",
+      "qualifications": "RF 관련 경험 우대, 신입은 대학원 연구경험 우대",
+      "licenses": [],
+      "detail": [],
+      "notes": "동일 통합 공고의 서로 다른 모집분야를 구분했습니다. 분야별 확정 TO는 공개되지 않아 인원 합계에서 제외합니다.",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55468241"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "research",
+        "ic"
+      ],
+      "topics": [
+        "research",
+        "ic"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55468241-vacuum",
+      "company": "(주)쎄크",
+      "title": "가속관·진공 공정 개발",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 수원시 권선구",
+      "education": "관련 전공 또는 동등 경력",
+      "experience": "관련 경력(연수 미공개)",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-03T00:00:00+09:00",
+      "end": "2026-12-02T23:59:00+09:00",
+      "duties": "쎄크의 의료용 가속기·X-ray 장비 통합 공채 중 가속관·진공 공정 개발 분야.",
+      "qualifications": "진공공정·정밀부품·브레이징 관련 경험",
+      "licenses": [],
+      "detail": [],
+      "notes": "동일 통합 공고의 서로 다른 모집분야를 구분했습니다. 분야별 확정 TO는 공개되지 않아 인원 합계에서 제외합니다.",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55468241"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "research"
+      ],
+      "topics": [
+        "research"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55468241-tube-new",
+      "company": "(주)쎄크",
+      "title": "X-ray Tube 개발 신입",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 수원시 권선구",
+      "education": "관련 석사 이상",
+      "experience": "신입",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-03T00:00:00+09:00",
+      "end": "2026-12-02T23:59:00+09:00",
+      "duties": "쎄크의 의료용 가속기·X-ray 장비 통합 공채 중 X-ray Tube 개발 신입 분야.",
+      "qualifications": "비파괴검사·물리·기계·전자 등 관련 전공",
+      "licenses": [],
+      "detail": [],
+      "notes": "동일 통합 공고의 서로 다른 모집분야를 구분했습니다. 분야별 확정 TO는 공개되지 않아 인원 합계에서 제외합니다.",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55468241"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "research"
+      ],
+      "topics": [
+        "research"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55468241-tube-career",
+      "company": "(주)쎄크",
+      "title": "X-ray 발생장치 시스템 통합·시험",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 수원시 권선구",
+      "education": "학사 이상",
+      "experience": "경력 3년 이상",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-03T00:00:00+09:00",
+      "end": "2026-12-02T23:59:00+09:00",
+      "duties": "쎄크의 의료용 가속기·X-ray 장비 통합 공채 중 X-ray 발생장치 시스템 통합·시험 분야.",
+      "qualifications": "발생장치 시스템 설계·통합 및 시험 관련 경험",
+      "licenses": [],
+      "detail": [],
+      "notes": "동일 통합 공고의 서로 다른 모집분야를 구분했습니다. 분야별 확정 TO는 공개되지 않아 인원 합계에서 제외합니다.",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55468241"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "research",
+        "ic"
+      ],
+      "topics": [
+        "research",
+        "ic"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "id": "sr-55468241-mechanical",
+      "company": "(주)쎄크",
+      "title": "X-ray 장비 기구설계",
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 수원시 권선구",
+      "education": "관련 전공(학위 수준 미공개)",
+      "experience": "경력 3년 이상",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-11-03T00:00:00+09:00",
+      "end": "2026-12-02T23:59:00+09:00",
+      "duties": "쎄크의 의료용 가속기·X-ray 장비 통합 공채 중 X-ray 장비 기구설계 분야.",
+      "qualifications": "X-ray 장비 및 기구설계 관련 경험",
+      "licenses": [],
+      "detail": [],
+      "notes": "동일 통합 공고의 서로 다른 모집분야를 구분했습니다. 분야별 확정 TO는 공개되지 않아 인원 합계에서 제외합니다.",
+      "links": [
+        {
+          "label": "사람인 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55468241"
+        }
+      ],
+      "checked": "2026-11-17",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "fields": [
+        "research"
+      ],
+      "topics": [
+        "research"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "해당 직무의 확정 모집인원 미공개"
+    },
+    {
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 성남시 수정구",
+      "education": "학사 이상",
+      "experience": "경력무관",
+      "employment": "계약직(기간 협의)",
+      "grade": "미공개",
+      "salary": "회사 내규",
+      "posted": null,
+      "start": "2026-10-28",
+      "end": "2026-11-27",
+      "duties": "원자력 시스템 소프트웨어 검증 업무.",
+      "qualifications": "세부 조건 원문 확인",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "checked": "2026-11-17",
+      "verification": "원문 공개 모집조건·접수기간 확인",
+      "fields": [
+        "ic",
+        "nuclear"
+      ],
+      "topics": [
+        "ic"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "확정 인원 미공개",
+      "id": "jk-50259031",
+      "company": "아트랩소프트",
+      "title": "원자력 시스템 소프트웨어 검증",
+      "links": [
+        {
+          "label": "잡코리아 등록 원문·지원",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50259031"
+        }
+      ]
+    },
+    {
+      "category": "private",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 화성시 삼성1로4길 29",
+      "education": "미공개",
+      "experience": "신입 / 경력 3년 이상",
+      "employment": "정규직(수습 3개월)",
+      "grade": "미공개",
+      "salary": "회사 내규",
+      "posted": null,
+      "start": "2026-10-14",
+      "end": null,
+      "duties": "원자력 계측제어 엔지니어링 및 하드웨어·소프트웨어 개발.",
+      "qualifications": "세부 조건 원문 확인",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "checked": "2026-11-17",
+      "verification": "원문 공개 모집조건·접수기간 확인",
+      "fields": [
+        "ic",
+        "nuclear",
+        "research"
+      ],
+      "topics": [
+        "ic",
+        "research"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": 5,
+      "openingsNote": "관련 I&C 모집인원 5명",
+      "id": "jk-50171308",
+      "company": "이투에스",
+      "title": "원자력 I&C 엔지니어링 · HW/SW 개발",
+      "links": [
+        {
+          "label": "잡코리아 등록 원문·지원",
+          "url": "https://m.jobkorea.co.kr/Recruit/GI_Read/50171308?sc=640"
+        }
+      ]
+    },
+    {
+      "category": "private",
+      "regions": [
+        "전북"
+      ],
+      "location": "전북 전주시 덕진구 금암동 634-17",
+      "education": "전문대 이상",
+      "experience": "신입 가능",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "posted": null,
+      "start": "2026-10-22",
+      "end": "2026-11-30",
+      "duties": "방사성의약품·RI 시설 안전관리, 선량·교육 및 인허가.",
+      "qualifications": "SRI 필수.",
+      "licenses": [
+        {
+          "name": "SRI",
+          "level": "필수"
+        }
+      ],
+      "detail": [],
+      "notes": "",
+      "checked": "2026-11-17",
+      "verification": "원문 공개 모집조건·접수기간 확인",
+      "fields": [
+        "safety",
+        "isotope"
+      ],
+      "topics": [
+        "safety"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "확정 인원 미공개",
+      "id": "kans-57983",
+      "company": "카이바이오텍",
+      "title": "방사선안전관리자(SRI)",
+      "links": [
+        {
+          "label": "한국방사선안전협회 채용 원문",
+          "url": "https://www.kans.re.kr/bbs/board.php?bo_table=s2_4&wr_id=57983"
+        }
+      ]
+    },
+    {
+      "category": "private",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 성동구",
+      "education": "의학물리학 박사 필수(본문)",
+      "experience": "관련 경력 5년 이상 우대(본문)",
+      "employment": "연구교원 · 모집 요약 정규직",
+      "grade": "미공개",
+      "salary": "병원 보수규정(금액 미공개)",
+      "posted": null,
+      "start": "2026-11-12",
+      "end": "2026-11-25",
+      "duties": "방사선종양학과 의학물리 연구·관련 업무.",
+      "qualifications": "본문 기준 의학물리 박사 필수, 관련 경력 5년 이상 우대.",
+      "licenses": [],
+      "detail": [],
+      "notes": "포털 요약의 학력무관·경력 5년과 본문의 박사 필수·경력 5년 우대가 다릅니다. 병원 연구교원으로 학과 전임교수와 구분했습니다.",
+      "checked": "2026-11-17",
+      "verification": "원문 공개 모집조건·접수기간 확인",
+      "fields": [
+        "research"
+      ],
+      "topics": [
+        "research"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "open",
+      "openings": null,
+      "openingsNote": "확정 인원 미공개",
+      "id": "medicaljob-593767",
+      "company": "한양대학교병원",
+      "title": "방사선종양학과 의학물리 연구교원",
+      "links": [
+        {
+          "label": "병원 등록 채용 원문",
+          "url": "https://www.medicaljob.co.kr/job/view.asp?jobid=all&jsn=593767&p=1"
+        },
+        {
+          "label": "병원 공식 지원 사이트",
+          "url": "https://hyumc.recruiter.co.kr/"
+        }
+      ]
+    },
+    {
+      "category": "public",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울",
+      "education": "박사 원칙(동등 자격 예외 원문 참조)",
+      "experience": "최근 연구실적 등 임용자격 충족",
+      "employment": "비전임 연구조교수 · 2027.1.1~2029.6.30",
+      "grade": "연구조교수",
+      "salary": "연봉 4,800만원 이상(본인 부담 4대보험 포함)",
+      "posted": "2026-10-13",
+      "start": "2026-10-19T09:00:00+09:00",
+      "end": "2026-10-26T18:00:00+09:00",
+      "duties": "방사성 나노의약품 개발 및 논문·연구 수행.",
+      "qualifications": "박사학위 등 공통 자격과 최근 3년 연구실적 기준 충족. 상세 환산기준은 공식 공고 참조.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "checked": "2026-11-17",
+      "verification": "서울대 공식 채용 공고·모집분야·급여 확인",
+      "fields": [
+        "faculty",
+        "research",
+        "isotope"
+      ],
+      "topics": [
+        "faculty",
+        "research"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "closed",
+      "openings": 1,
+      "openingsNote": "방사화학 연구조교수 1명",
+      "id": "snumrc-5881",
+      "company": "서울대학교 의학연구원",
+      "title": "방사선의학연구소 방사화학 연구조교수",
+      "links": [
+        {
+          "label": "서울대 공식 공고",
+          "url": "https://snumrc.snu.ac.kr/community/notice?bbsidx=5881&md=v"
+        }
+      ]
+    },
+    {
+      "category": "public",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울",
+      "education": "박사 원칙(동등 자격 예외 원문 참조)",
+      "experience": "최근 연구실적 등 임용자격 충족",
+      "employment": "비전임 연구교수 · 2026.12.1~2028.11.30",
+      "grade": "연구교수",
+      "salary": "연봉 3,000만원 이상(본인 부담 4대보험 포함)",
+      "posted": "2026-09-17",
+      "start": "2026-09-21T09:00:00+09:00",
+      "end": "2026-09-28T18:00:00+09:00",
+      "duties": "MRI 나노입자 기반 뇌교종 중개연구.",
+      "qualifications": "박사학위 등 공통 자격과 최근 연구실적 기준 충족. 상세 환산기준은 공식 공고 참조.",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "checked": "2026-11-17",
+      "verification": "서울대 공식 채용 공고·모집분야·급여 확인",
+      "fields": [
+        "faculty",
+        "research"
+      ],
+      "topics": [
+        "faculty",
+        "research"
+      ],
+      "relationType": "관련 분야 직접 직무",
+      "status": "closed",
+      "openings": 1,
+      "openingsNote": "연구교수 1명",
+      "id": "snumrc-5877",
+      "company": "서울대학교 의학연구원",
+      "title": "MRI 중개연구 연구교수",
+      "links": [
+        {
+          "label": "서울대 공식 공고",
+          "url": "https://snumrc.snu.ac.kr/community/notice?bbsidx=5877&md=v"
+        }
+      ]
     }
   ],
   "sources": [
@@ -5157,7 +10436,7 @@
       "name": "한국원자력연구원",
       "url": "https://www.kaeri.re.kr/board?menuId=MENU00428",
       "state": "확인",
-      "note": "추가 신규 미확인",
+      "note": "추가 신규 미확인 이번 범위 확대에서는 포털의 교육센터 인턴 공고를 찾았으나 공식 공고 연결은 추가 확인 필요하여 신규 목록에서 제외.",
       "checked": "2026-11-17"
     },
     {
@@ -5311,7 +10590,7 @@
       "name": "한국방사선안전협회",
       "url": "https://www.kans.re.kr/bbs/board.php?bo_table=s2_4",
       "state": "확인",
-      "note": "기존 공고 중복 대조",
+      "note": "카이바이오텍 SRI 채용 원문 및 기존 공고 대조.",
       "checked": "2026-11-17"
     },
     {
@@ -5331,15 +10610,15 @@
     {
       "name": "사람인",
       "url": "https://www.saramin.co.kr/",
-      "state": "확인",
-      "note": "기업 등록 원문·접수기간 확인. 의료 방사선사 직무 제외.",
+      "state": "일부",
+      "note": "20개 키워드 공개 검색에서 상세 후보 228건 검토. 의원·지역병원·원전 SW·가속기·방사화학 등 관련 공고 추가. 모든 검색 페이지를 전수 수집한 것은 아닙니다.",
       "checked": "2026-11-17"
     },
     {
       "name": "잡코리아",
       "url": "https://www.jobkorea.co.kr/",
       "state": "확인",
-      "note": "기업 등록 공고·상세 본문 교차 확인.",
+      "note": "원자력 SW 검증·I&C 및 의료영상 원문 확인, 사람인 중복 공고 병합.",
       "checked": "2026-11-17"
     },
     {
@@ -5446,28 +10725,148 @@
       "state": "일부",
       "note": "공식 사이트 주소 확인. 모집 상세·첨부는 확인 제한, JOB-ALIO에 공개된 직종별 자격요건으로 정리",
       "checked": "2026-11-17"
+    },
+    {
+      "name": "서울대학교 의학연구원",
+      "url": "https://snumrc.snu.ac.kr/community/notice",
+      "state": "확인",
+      "note": "방사화학·MRI 연구교수 공식 공고 및 급여·접수기간 확인. 마감 이력으로 수록.",
+      "checked": "2026-11-17"
+    },
+    {
+      "name": "메디컬잡",
+      "url": "https://www.medicaljob.co.kr/",
+      "state": "일부",
+      "note": "한양대학교병원 의학물리 연구교원 모집 본문 확인. 요약 조건과 본문의 차이 명시.",
+      "checked": "2026-11-17"
     }
   ],
   "addedThisUpdate": [
-    "snubh-307074-nuclear-career",
-    "snubh-307074-nuclear-new",
-    "snubh-307074-neurosurgery",
-    "comwel-307055",
-    "gil-271964",
-    "dongkang-606",
-    "paik-2056",
-    "sr-55516267",
-    "incruit-2611090004002",
-    "jk-50293232",
-    "sr-55562493",
-    "sr-55558211",
-    "sr-55563057",
-    "sr-55546664",
-    "jk-50305125",
-    "sr-55567673",
-    "jk-50294445",
-    "jk-50331500",
-    "radexel-55567832"
+    "sr-55468570",
+    "sr-55566983",
+    "sr-55578734",
+    "sr-55594625",
+    "sr-55559628",
+    "sr-55518167",
+    "sr-55528998",
+    "sr-55537149",
+    "sr-55536001",
+    "sr-55578063",
+    "sr-55512583",
+    "sr-55516798",
+    "sr-55417535",
+    "sr-55460240",
+    "sr-55483782",
+    "sr-55467207",
+    "sr-55520690",
+    "sr-55272150",
+    "sr-55563053",
+    "sr-55387956",
+    "sr-55542733",
+    "sr-55204466",
+    "sr-55546673",
+    "sr-55208170",
+    "sr-55522312",
+    "sr-55504324",
+    "sr-55466917",
+    "sr-55414453",
+    "sr-55553971",
+    "sr-55577197",
+    "sr-55595034",
+    "sr-55580077",
+    "sr-55583600",
+    "sr-55597473",
+    "sr-55567203",
+    "sr-55576357",
+    "sr-55584563",
+    "sr-55583130",
+    "sr-55501333",
+    "sr-55553495",
+    "sr-55594147",
+    "sr-55520347",
+    "sr-55556185",
+    "sr-55563223",
+    "sr-55524349",
+    "sr-55511680",
+    "sr-55584383",
+    "sr-55591942",
+    "sr-55585428",
+    "sr-55585856",
+    "sr-55465822",
+    "sr-55577845",
+    "sr-55333071",
+    "sr-55585586",
+    "sr-55583073",
+    "sr-55576541",
+    "sr-55519516",
+    "sr-55445485",
+    "sr-55580829",
+    "sr-55554854",
+    "sr-55518877",
+    "sr-55353411",
+    "sr-55564239",
+    "sr-55531275",
+    "sr-55594335",
+    "sr-55541870",
+    "sr-55598402",
+    "sr-55542378",
+    "sr-55535211",
+    "sr-55541879",
+    "sr-55542016",
+    "sr-55573668",
+    "sr-55577478",
+    "sr-55599451",
+    "sr-55599419",
+    "sr-55587706",
+    "sr-55598709",
+    "sr-55597681",
+    "sr-55597180",
+    "sr-55492983",
+    "sr-55596636",
+    "sr-55595312",
+    "sr-55407306",
+    "sr-55563203",
+    "sr-55502097",
+    "sr-55553504",
+    "sr-55425171",
+    "sr-55478400",
+    "sr-55148937",
+    "sr-55190813",
+    "sr-55417188",
+    "sr-55573921",
+    "sr-55399913",
+    "sr-55399907",
+    "sr-55088034",
+    "sr-55465944",
+    "sr-55324729",
+    "sr-55599348",
+    "sr-55577756",
+    "sr-55519459",
+    "sr-55552953",
+    "sr-55162543",
+    "sr-55534245",
+    "sr-55556630",
+    "sr-55478928",
+    "sr-55533017",
+    "sr-55438931",
+    "sr-55532699",
+    "sr-55191825",
+    "sr-55579674",
+    "sr-55308412",
+    "sr-55352571",
+    "sr-55468241-linac",
+    "sr-55468241-tcs",
+    "sr-55468241-rf",
+    "sr-55468241-vacuum",
+    "sr-55468241-tube-new",
+    "sr-55468241-tube-career",
+    "sr-55468241-mechanical",
+    "jk-50259031",
+    "jk-50171308",
+    "kans-57983",
+    "medicaljob-593767",
+    "snumrc-5881",
+    "snumrc-5877"
   ],
   "exclusions": [
     {
@@ -5530,6 +10929,31 @@
     {
       "date": "2026-11-17",
       "note": "초음파·소노그래퍼·sonographer·ultrasound 검색 확장, 임상 어플리케이터 2건 추가. 최근 1년 부분 수집 채용 추이 및 확인 모집인원 필드 추가."
+    },
+    {
+      "date": "2026-11-17",
+      "added": 125,
+      "note": "7개 탭 유사어 검색 확대. 기업 등록 원문 후보 228건 검토 후 관련 공고 추가·교차 플랫폼 중복 병합. 그래프 시작일 2026-10-01. 연구교수 마감 이력 추가."
     }
-  ]
+  ],
+  "trendStart": "2026-10-01",
+  "searchAudit": {
+    "date": "2026-11-17",
+    "candidateDetailsReviewed": 228,
+    "queries": 20,
+    "addedRecords": 125,
+    "coverage": "공개 검색 및 원문에서 확인한 공고를 수록. 전 플랫폼 전체 공고수 또는 전체 TO를 의미하지 않음.",
+    "excludedExamples": [
+      "스리랑카 상담 등 SRI 동음 검색",
+      "초음파 세척기 운전 등 의료 초음파와 무관한 직무",
+      "일반 IT·세무·화장품 마케팅 등 무관 추천 공고",
+      "실제 근무일이 지난 10월31일 단기 방사선사 공고",
+      "본문 접수 종료가 11월17일 정오인 부산가톨릭대 공고",
+      "대구보건대 통합 교수공채 중 방사선·원자력 관련 초빙분야 없음"
+    ],
+    "limitedExamples": [
+      "인제대 교수 통합공채 첨부 접근 실패: 관련 모집분야 미확인으로 미수록",
+      "일부 채용 상세가 이미지로만 제공되어 세부 자격조건은 확인 제한 표시"
+    ]
+  }
 }
