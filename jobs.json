@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "asOf": "2026-11-17",
   "scope": "전국 · 방사선·원자력·연구직·관련 학과 교수 · 임상 방사선사 제외",
   "updateMode": "2026-11-17 수동 확인 · 자동 갱신 미연결",
@@ -3516,6 +3516,357 @@
       ],
       "relationType": "입자가속 연구시설 기술지원",
       "organisationType": "공공 연구기관"
+    },
+    {
+      "id": "hibrain-3605331",
+      "company": "대전보건대학교",
+      "title": "방사선학과 교육중점 전임교원 · 2027-1학기 1명",
+      "category": "private",
+      "organisationType": "사립대학교",
+      "regions": [
+        "대전"
+      ],
+      "location": "대전",
+      "education": "전공 관련 박사 이상",
+      "experience": "관련 임상경력 5년 이상",
+      "employment": "비정년트랙 전임교원",
+      "grade": "교수·교원",
+      "salary": "미공개",
+      "posted": "2026-11-11",
+      "start": "2026-11-11",
+      "end": "2026-11-25T14:00:00+09:00",
+      "duties": "방사선학과 교육중점 전임교원 · 2027-1학기 1명 분야 교육·연구",
+      "qualifications": "박사 이상, 관련 임상경력 5년 이상, 방사선사 면허 필수. 공통 지원요건·연구실적은 초빙 공고 참조.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "하이브레인 공고",
+          "url": "https://www.hibrain.net/recruitment/recruits/3605331?pagekey=3605331&jobRelCds=PROF&keyword=%EB%B0%A9%EC%82%AC%EC%84%A0&listType=ING&pagesize=10&sortType=SORTDTM&limit=25&displayType=TIT&siteid=1&page=1"
+        },
+        {
+          "label": "대학 지원 안내",
+          "url": "https://ntis.hit.ac.kr/checkMenu.jsp?p0=80Ah4ej0Sf790x80"
+        }
+      ],
+      "notes": "세부 심사기준과 제출서류는 원문을 확인하세요. SRI·RI·방사선관리기술사 필수 명시를 확인하지 못했습니다.",
+      "status": "open",
+      "detail": [
+        "의료영상기술학·의료영상정보학·의료방사선분석학 등 담당",
+        "임상 방사선사 채용이 아닌 학과 교수 초빙"
+      ],
+      "checked": "2026-11-17",
+      "verification": "하이브레인 공개 목록·원문 확인",
+      "fields": [
+        "faculty",
+        "radiation"
+      ],
+      "relationType": "관련 학과 교수 초빙"
+    },
+    {
+      "id": "hibrain-3606200",
+      "company": "충북보건과학대학교",
+      "title": "방사선학과 영상학 분야 전임교원 · 2027 상반기 1명",
+      "category": "private",
+      "organisationType": "사립대학교",
+      "regions": [
+        "충북"
+      ],
+      "location": "충북",
+      "education": "관련 분야 석사 이상",
+      "experience": "임상경력 2년 이상",
+      "employment": "비정년트랙 전임교원",
+      "grade": "교수·교원",
+      "salary": "미공개",
+      "posted": "2026-11-17",
+      "start": "2026-11-16",
+      "end": "2026-12-01T14:00:00+09:00",
+      "duties": "방사선학과 영상학 분야 전임교원 · 2027 상반기 1명 분야 교육·연구",
+      "qualifications": "관련 분야 석사 이상, 방사선사 면허, 임상경력 2년 이상. 조교수 자격기준 및 최근 5년 연구실적 200% 이상 등 공통요건 적용.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "하이브레인 공고",
+          "url": "https://www.hibrain.net/recruitment/recruits/3606200?pagekey=3606200&jobRelCds=PROF&keyword=%EB%B0%A9%EC%82%AC%EC%84%A0&listType=ING&pagesize=10&sortType=SORTDTM&limit=25&displayType=TIT&siteid=1&page=1"
+        },
+        {
+          "label": "대학 공식 공고",
+          "url": "https://www.chsu.ac.kr/boardPage.do?jspPage=/common/boardView&menuId=4000000088&ClassNm=&SITE_ID=0000000001&BOARD_ID=202502200000000014&NTCE_SNTNC_NO=84507&S_OPTION=&S_SEARCHSTRING="
+        }
+      ],
+      "notes": "세부 심사기준과 제출서류는 원문을 확인하세요. SRI·RI·방사선관리기술사 필수 명시를 확인하지 못했습니다.",
+      "status": "open",
+      "detail": [
+        "방사선학과 영상학 분야 1명",
+        "하이브레인 등록일은 11/17, 접수 시작일은 11/16으로 표시됨"
+      ],
+      "checked": "2026-11-17",
+      "verification": "하이브레인 공개 목록·원문 확인",
+      "fields": [
+        "faculty",
+        "radiation"
+      ],
+      "relationType": "관련 학과 교수 초빙"
+    },
+    {
+      "id": "hibrain-3605996",
+      "company": "국립창원대학교",
+      "title": "원자력시스템 분야 전임교원 · 2027-1학기 1명",
+      "category": "public",
+      "organisationType": "국립대학교",
+      "regions": [
+        "경남"
+      ],
+      "location": "경남",
+      "education": "해당 분야 박사",
+      "experience": "교육·연구경력 합산 4년 이상 (석·박사 수학기간 포함)",
+      "employment": "전임교원",
+      "grade": "교수·교원",
+      "salary": "미공개",
+      "posted": "2026-11-16",
+      "start": "2026-11-16T15:00:00+09:00",
+      "end": "2026-11-30T18:00:00+09:00",
+      "duties": "원자력시스템 분야 전임교원 · 2027-1학기 1명 분야 교육·연구",
+      "qualifications": "접수 마감일까지 해당 분야 박사학위 취득. 교육·연구경력 합산 4년 이상. 초빙분야별 연구실적 최저요건 및 유형Ⅱ 심사기준을 별도로 확인해야 합니다.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "하이브레인 공고",
+          "url": "https://www.hibrain.net/recruitment/recruits/3605996?pagekey=3605996&jobRelCds=PROF&keyword=%EC%9B%90%EC%9E%90%EB%A0%A5&listType=ING&pagesize=10&sortType=SORTDTM&limit=25&displayType=TIT&siteid=1&page=1"
+        },
+        {
+          "label": "대학 공식 공고",
+          "url": "https://www.changwon.ac.kr/portal/na/ntt/selectNttInfo.do?mi=13532&nttSn=1444211"
+        }
+      ],
+      "notes": "세부 심사기준과 제출서류는 원문을 확인하세요. SRI·RI·방사선관리기술사 필수 명시를 확인하지 못했습니다.",
+      "status": "open",
+      "detail": [
+        "모빌리티기계공학과(원자력기계공학과) 원자력시스템 1명",
+        "2027.3.1 임용예정 · 원자력기계공학과 발령 예정",
+        "일반공무원 모집이 아닌 국립대학교 교원 초빙"
+      ],
+      "checked": "2026-11-17",
+      "verification": "하이브레인 공개 목록·원문 확인",
+      "fields": [
+        "faculty",
+        "nuclear"
+      ],
+      "relationType": "관련 학과 교수 초빙"
+    },
+    {
+      "id": "hibrain-3604223",
+      "company": "동서대학교",
+      "title": "방사선학과 전임교원 · 2027-1학기",
+      "category": "private",
+      "organisationType": "사립대학교",
+      "regions": [
+        "부산"
+      ],
+      "location": "부산",
+      "education": "박사",
+      "experience": "교육·연구경력 등 공통요건 적용",
+      "employment": "정년트랙 전임교원",
+      "grade": "교수·교원",
+      "salary": "미공개",
+      "posted": "2026-10-30",
+      "start": "2026-10-30T10:00:00+09:00",
+      "end": "2026-11-13T14:00:00+09:00",
+      "duties": "방사선학과 전임교원 · 2027-1학기 분야 교육·연구",
+      "qualifications": "박사, 방사선사 면허 및 학과별 연구실적 요건. 공통요건으로 최근 4년 등재(후보) 이상 연구실적 200% 이상. 상세 산정은 원문 참조.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "하이브레인 마감 목록 원문",
+          "url": "https://www.hibrain.net/recruitment/recruits/3604223?pagekey=3604223&jobRelCds=PROF&keyword=%EB%B0%A9%EC%82%AC%EC%84%A0&listType=DEND&pagesize=10&sortType=SORTDTM&limit=25&displayType=TIT&siteid=1&page=1"
+        },
+        {
+          "label": "대학 공식 공고",
+          "url": "https://www.dongseo.ac.kr/kr/index.php?idx=103654&mode=view&pCode=MN2000197"
+        }
+      ],
+      "notes": "마감된 교수 초빙 이력입니다. 현재 지원할 수 없습니다. 하이브레인 마감 상세는 회원 로그인이 필요하여 공개 목록과 대학·학회 자료로 대조했습니다.",
+      "status": "closed",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "하이브레인 목록·대학/학회 공개 자료 대조 (마감 이력)",
+      "fields": [
+        "faculty",
+        "radiation"
+      ],
+      "relationType": "관련 학과 교수 초빙"
+    },
+    {
+      "id": "hibrain-3601482",
+      "company": "동남보건대학교",
+      "title": "방사선학과 영상의학 분야 전임교원 · 2027학년도 1명",
+      "category": "private",
+      "organisationType": "사립대학교",
+      "regions": [
+        "경기"
+      ],
+      "location": "경기",
+      "education": "관련 박사",
+      "experience": "종합병원 영상의학 경력 3년 이상 · 강의 2학기 이상",
+      "employment": "정년트랙 전임교원",
+      "grade": "교수·교원",
+      "salary": "미공개",
+      "posted": "2026-10-12",
+      "start": "2026-10-19",
+      "end": "2026-10-27T17:00:00+09:00",
+      "duties": "방사선학과 영상의학 분야 전임교원 · 2027학년도 1명 분야 교육·연구",
+      "qualifications": "관련 박사, 방사선사 면허, 종합병원 영상의학 경력 3년 이상 및 강의경력 2학기 이상 등 학과별 요건.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "하이브레인 마감 목록 원문",
+          "url": "https://www.hibrain.net/recruitment/recruits/3601482?pagekey=3601482&jobRelCds=PROF&keyword=%EB%B0%A9%EC%82%AC%EC%84%A0&listType=DEND&pagesize=10&sortType=SORTDTM&limit=25&displayType=TIT&siteid=1&page=1"
+        },
+        {
+          "label": "대학 공식 공고",
+          "url": "https://ipsi.dongnam.ac.kr/bbs/main/287/47669/artclView.do"
+        }
+      ],
+      "notes": "마감된 교수 초빙 이력입니다. 현재 지원할 수 없습니다. 하이브레인 마감 상세는 회원 로그인이 필요하여 공개 목록과 대학·학회 자료로 대조했습니다.",
+      "status": "closed",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "하이브레인 목록·대학/학회 공개 자료 대조 (마감 이력)",
+      "fields": [
+        "faculty",
+        "radiation"
+      ],
+      "relationType": "관련 학과 교수 초빙"
+    },
+    {
+      "id": "hibrain-3601743",
+      "company": "한양대학교",
+      "title": "원자력공학과 전임교원 · 2027년 3월 임용 2차",
+      "category": "private",
+      "organisationType": "사립대학교",
+      "regions": [
+        "서울"
+      ],
+      "location": "서울",
+      "education": "공통 초빙요건 원문 참조",
+      "experience": "공통 초빙요건 원문 참조",
+      "employment": "정년트랙 전임교원",
+      "grade": "교수·교원",
+      "salary": "미공개",
+      "posted": null,
+      "start": "2026-10-13T17:00:00+09:00",
+      "end": "2026-10-27T13:59:00+09:00",
+      "duties": "원자력공학과 전임교원 · 2027년 3월 임용 2차 분야 교육·연구",
+      "qualifications": "원자력공학 분야. 확률론적 안전성평가(PSA)·방사선 분야 우대. 학위·경력·연구실적 공통조건은 공식 초빙 안내 확인.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "하이브레인 마감 목록 원문",
+          "url": "https://www.hibrain.net/recruitment/recruits/3601743?pagekey=3601743&jobRelCds=PROF&keyword=%EC%9B%90%EC%9E%90%EB%A0%A5&listType=DEND&pagesize=10&sortType=SORTDTM&limit=25&displayType=TIT&siteid=1&page=1"
+        },
+        {
+          "label": "한국원자력학회 안내",
+          "url": "https://www.kns.org/boards/view/news/103381/103382/page"
+        },
+        {
+          "label": "대학 초빙 안내",
+          "url": "https://site.hanyang.ac.kr/ko/web/faculty/27-4-2"
+        }
+      ],
+      "notes": "마감된 교수 초빙 이력입니다. 현재 지원할 수 없습니다. 하이브레인 마감 상세는 회원 로그인이 필요하여 공개 목록과 대학·학회 자료로 대조했습니다.",
+      "status": "closed",
+      "detail": [
+        "원자력공학 분야 1명 · 학회 안내 게시일 2026.10.15",
+        "하이브레인 최초 게시일 미확인"
+      ],
+      "checked": "2026-11-17",
+      "verification": "하이브레인 목록·대학/학회 공개 자료 대조 (마감 이력)",
+      "fields": [
+        "faculty",
+        "nuclear"
+      ],
+      "relationType": "관련 학과 교수 초빙"
+    },
+    {
+      "id": "hibrain-3570971",
+      "company": "KAIST",
+      "title": "원자력및양자공학과 전임교원 · 2026 초빙",
+      "category": "public",
+      "organisationType": "과학기술원",
+      "regions": [
+        "대전"
+      ],
+      "location": "대전",
+      "education": "박사",
+      "experience": "세부 경력요건 원문 참조",
+      "employment": "전임교원 (Tenure Track)",
+      "grade": "교수·교원",
+      "salary": "미공개",
+      "posted": "2026-04-01",
+      "start": "2026-04-01",
+      "end": "2026-05-14T18:00:00+09:00",
+      "duties": "원자력및양자공학과 전임교원 · 2026 초빙 분야 교육·연구",
+      "qualifications": "원자력및양자공학 관련 박사. 세부 전공·연구실적 요건은 원문 참조.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "하이브레인 마감 공고",
+          "url": "https://global.hibrain.net/recruitment/recruits/3570971?listType=DEND&siteid=2"
+        }
+      ],
+      "notes": "마감 이력입니다. 공개 검색 결과의 학과·학위·접수기간을 확인했습니다. 하이브레인 상세 본문은 접근 제한으로 추가 조건을 확인하지 못했습니다.",
+      "status": "closed",
+      "detail": [],
+      "checked": "2026-11-17",
+      "verification": "하이브레인 목록·대학/학회 공개 자료 대조 (마감 이력)",
+      "fields": [
+        "faculty",
+        "nuclear"
+      ],
+      "relationType": "관련 학과 교수 초빙"
+    },
+    {
+      "id": "hibrain-3594127",
+      "company": "한국전력국제원자력대학원대학교",
+      "title": "원전공학 분야 전임교원 · 2027년 3월 임용",
+      "category": "private",
+      "organisationType": "사립대학교",
+      "regions": [
+        "울산"
+      ],
+      "location": "울산",
+      "education": "세부 학위요건 공식 공고 참조",
+      "experience": "분야별 교육·연구·산업경력 원문 참조",
+      "employment": "전임교원",
+      "grade": "교수·교원",
+      "salary": "미공개",
+      "posted": "2026-08-18",
+      "start": "2026-09-07T09:00:00+09:00",
+      "end": "2026-09-21T23:59:59+09:00",
+      "duties": "원전공학 분야 전임교원 · 2027년 3월 임용 분야 교육·연구",
+      "qualifications": "원전공학 관련 전공·분야별 경력요건. 세부 학위·연구실적·산업체 경력 산정은 공식 공고문 참조.",
+      "licenses": [],
+      "links": [
+        {
+          "label": "하이브레인 마감 목록 원문",
+          "url": "https://www.hibrain.net/recruitment/recruits/3594127?pagekey=3594127&jobRelCds=PROF&keyword=%EC%9B%90%EC%9E%90%EB%A0%A5&listType=DEND&pagesize=10&sortType=SORTDTM&limit=25&displayType=TIT&siteid=1&page=1"
+        },
+        {
+          "label": "대학 공식 공고",
+          "url": "https://www.kings.ac.kr/cop/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000224&nttId=5281"
+        }
+      ],
+      "notes": "마감된 교수 초빙 이력입니다. 현재 지원할 수 없습니다. 하이브레인 마감 상세는 회원 로그인이 필요하여 공개 목록과 대학·학회 자료로 대조했습니다.",
+      "status": "closed",
+      "detail": [
+        "원전 설계·안전·SMR·규제·폐기물 등 관련 초빙 분야"
+      ],
+      "checked": "2026-11-17",
+      "verification": "하이브레인 목록·대학/학회 공개 자료 대조 (마감 이력)",
+      "fields": [
+        "faculty",
+        "nuclear"
+      ],
+      "relationType": "관련 학과 교수 초빙"
     }
   ],
   "sources": [
@@ -3752,9 +4103,9 @@
     },
     {
       "name": "하이브레인넷",
-      "url": "https://global.hibrain.net/recruitment/recruits",
+      "url": "https://www.hibrain.net/recruitment",
       "state": "일부",
-      "note": "공개 검색 결과 확인. 접수 중인 관련 교수 신규 공고 미확인",
+      "note": "교수 유형 원자력·방사선의 진행·마감 목록 검색 및 진행 공고 본문 확인. 마감 상세는 회원 로그인이 필요하여 공개 자료로 보완.",
       "checked": "2026-11-17"
     },
     {
@@ -3787,24 +4138,14 @@
     }
   ],
   "addedThisUpdate": [
-    "sr-55540847",
-    "sr-55500775",
-    "sr-55387621",
-    "sr-55424115",
-    "sr-55423988",
-    "sr-55404650",
-    "sr-55297230",
-    "sr-55242346",
-    "sr-55209716",
-    "sr-55595089",
-    "sr-55524055",
-    "sr-55482021",
-    "sr-55474036",
-    "kaist-mighty-postdoc",
-    "dgist-prism-1966772",
-    "yonsei-carbon-postdoc-10058077",
-    "ibs-2201-research",
-    "ibs-2201-tech"
+    "hibrain-3605331",
+    "hibrain-3606200",
+    "hibrain-3605996",
+    "hibrain-3604223",
+    "hibrain-3601482",
+    "hibrain-3601743",
+    "hibrain-3570971",
+    "hibrain-3594127"
   ],
   "exclusions": [
     {
@@ -3822,29 +4163,9 @@
   ],
   "facultyChecks": [
     {
-      "name": "동남보건대학교 · 방사선학과",
-      "url": "https://ipsi.dongnam.ac.kr/bbs/main/287/47669/artclView.do",
-      "result": "2027학년도 초빙 · 접수 2026/10/27 17시 마감 · 목록 제외"
-    },
-    {
-      "name": "동서대학교 · 방사선학과",
-      "url": "https://www.dongseo.ac.kr/kr/index.php?idx=103654&mode=view&pCode=MN2000197",
-      "result": "2027-1학기 초빙 · 접수 2026/11/13 마감 · 목록 제외"
-    },
-    {
-      "name": "한양대학교 · 원자력공학과",
-      "url": "https://site.hanyang.ac.kr/ko/web/faculty/27-4-2",
-      "result": "2027-1학기 초빙 · 학회 공고에서 2026/10/27 13:59 마감 확인 · 대학 원문 재확인 제한"
-    },
-    {
       "name": "POSTECH · 첨단원자력공학부 전임",
       "url": "https://e-dane.postech.ac.kr/bbs/board.php?bo_table=notice&wr_id=310",
       "result": "2027 상반기 임용 초빙 · 접수 2026/9/11 18시 마감 · 목록 제외"
-    },
-    {
-      "name": "한국전력국제원자력대학원대학교(KINGS)",
-      "url": "https://www.kings.ac.kr/cop/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000224&nttId=5281",
-      "result": "공식 첨부 확인 · 2027/3 임용 초빙 접수 2026/9/21 마감 · 목록 제외"
     },
     {
       "name": "UNIST · 전임교원 채용",
@@ -3861,5 +4182,12 @@
       "url": "https://dane.postech.ac.kr/bbs/board.php?bo_table=notice&sca=%EC%9D%BC%EB%B0%98&wr_id=137",
       "result": "2021년 게시된 상시 초빙 안내 · 현재 모집 여부 확인 불가 · 접수 중 목록 제외"
     }
-  ]
+  ],
+  "facultyUpdate": {
+    "checked": "2026-11-17",
+    "added": 8,
+    "open": 3,
+    "closed": 5,
+    "note": "하이브레인 교수 유형에서 원자력·방사선 검색. 마감 상세 회원 제한은 대학·학회 공개 자료로 보완. 전수 수집은 아님."
+  }
 }

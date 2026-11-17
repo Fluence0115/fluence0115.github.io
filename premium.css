@@ -18,3 +18,9 @@ body{background:radial-gradient(ellipse at 92% 0%,#e5e7fa 0,transparent 45%),lin
 .job-meta{font-size:15px;color:#536581}.row-top .company{font-size:14px;color:#53637e}.salary-line strong{color:#5e6d86;font-size:14px}.source-badges span{font-size:11px;color:#65758f}.field-badges span{font-size:11px;color:#657796}.stats p{color:#63728a}.group-badge.private{color:#7d629f}.group-badge.public{color:#367b66}.end-date{color:#667b99}.workspace-notice p{color:#596e90}.search-box input::placeholder{color:#657896}
 @media(max-width:800px){.job-meta{font-size:14px}.row-top .company{font-size:14px}}
 @media(max-width:470px){.job-meta{font-size:14px}.source-badges span,.field-badges span{font-size:11px}.row-top .company{font-size:14px}}
+
+/* Counts and faculty archive */
+.field-shortcuts button b,.source-shortcuts button b,.quick-tags button b{display:inline-flex;align-items:center;justify-content:center;min-width:24px;padding:1px 7px;margin-left:5px;border-radius:8px;background:#e6edf8;color:#153b72;font-size:13px;font-weight:850;font-variant-numeric:tabular-nums}
+.field-shortcuts button.active b,.source-shortcuts button.active b{background:#fff;color:#173f7b}
+.field-shortcuts button small{font-size:11px;font-weight:750;opacity:.85;margin-left:3px}
+.faculty-status{display:flex;align-items:center;flex-wrap:wrap;gap:10px;margin:17px 0}.faculty-status label{font-weight:800;color:#163b65}.faculty-status select{min-width:220px;padding:10px;border:1px solid #b5c8e1;border-radius:9px;background:#fff;color:#183655;font-size:15px;font-weight:700}.faculty-status span{color:#495e77;font-size:13px}.job-row.archived{border-left:4px solid #7f8fa7;background:#f6f8fc}.job-row.archived .deadline{color:#475569;background:#e5eaf1;padding:5px 12px;border-radius:8px}.check-line small{font-size:11px;color:#64748b}

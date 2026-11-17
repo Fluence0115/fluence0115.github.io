@@ -22,14 +22,14 @@ const jobSources = j => [...new Set(j.links.map(l=>{const h=new URL(safeUrl(l.ur
 const salaryDisclosed = j => /[0-9][0-9,~～ .]*(?:만\s*원|원)/.test(j.salary);
 
 let base, jobs=[], extras=read('customJobs',[]), saved=new Set(read('saved',[])), tracking=read('tracking',{});
-let view='all', category='all', currentId=null, toastTimer;
+let view='all', category='all', currentId=null, toastTimer, facultyStatus='all';
 let storageSafe = true;
 const fmt = d => d ? d.slice(0,10).replaceAll('-','.') : '미공개';
 const fmtShort = d => d ? (d.slice(0,4)===new Date().toLocaleDateString('en-CA',{timeZone:'Asia/Seoul'}).slice(0,4)?d.slice(5,10).replace('-','.'):d.slice(0,10).replaceAll('-','.')) : '채용 시 마감';
 const dateValue = (d, end=false) => d ? Date.parse(d.length===10 ? d+(end?'T23:59:59+09:00':'T00:00:00+09:00') : d) : Infinity;
 const hasConcern = j => j.status==='check'||/상충|제한|미작성|배치.*확인|차이|상이|요약란|다르|확인해야/.test(j.notes);
 function state(j) {
-  if(j.end && dateValue(j.end,true)<Date.now()) return 'closed';
+  if(j.status==='closed'||(j.end && dateValue(j.end,true)<Date.now())) return 'closed';
   if(j.status==='check') return 'check';
   if(j.start && dateValue(j.start)>Date.now())return 'upcoming';
   return 'open';
@@ -47,47 +47,57 @@ function deadline(j) {
 }
 function toast(text){$('#toast').textContent=text;$('#toast').classList.add('show');clearTimeout(toastTimer);toastTimer=setTimeout(()=>$('#toast').classList.remove('show'),2600);}
 function rebuild(){const map=new Map(base.jobs.map(j=>[j.id,j]));if(Array.isArray(extras))for(const j of extras)map.set(j.id,j);jobs=[...map.values()].map(j=>({...j,category:j.category==='public'?'public':'private'}));const selected=$('#sourceFilter').value;const sources=[...new Set(jobs.flatMap(jobSources))].sort((a,b)=>a.localeCompare(b,'ko'));$('#sourceFilter').innerHTML='<option value="">모든 출처</option>'+sources.map(s=>`<option>${esc(s)}</option>`).join('');$('#sourceFilter').value=sources.includes(selected)?selected:'';}
-function filtered(){
-  const q=$('#search').value.trim().toLowerCase(), region=$('#region').value, license=$('#license').value;
+function filtered(overrides={}){
+  const selectedView=overrides.view??view, field=overrides.field??$('#fieldFilter').value, source=overrides.source??$('#sourceFilter').value;
+  const selectedCategory=overrides.category??category, academic=selectedView==='faculty'||field==='faculty', academicStatus=overrides.facultyStatus??facultyStatus;
+  const q=(overrides.query??$('#search').value).trim().toLowerCase(), region=$('#region').value, license=overrides.license??$('#license').value;
   let list=jobs.filter(j=>{
-    if($('#hideClosed').checked && state(j)==='closed')return false;
-    if(workspaceViews[view]&&!workspaceViews[view].match(j))return false;
-    if(view==='faculty'&&!jobFields(j).includes('faculty'))return false;
-    if(view==='saved'&&!saved.has(j.id))return false;
-    if(view==='tracking'&&(!tracking[j.id]||!tracking[j.id].stage))return false;
-    if(category!=='all'&&j.category!==category)return false;
+    if($('#hideClosed').checked && state(j)==='closed'&&!academic)return false;
+    if(academic&&academicStatus==='open'&&state(j)==='closed')return false;
+    if(academic&&academicStatus==='closed'&&state(j)!=='closed')return false;
+    if(workspaceViews[selectedView]&&!workspaceViews[selectedView].match(j))return false;
+    if(selectedView==='faculty'&&!jobFields(j).includes('faculty'))return false;
+    if(selectedView==='saved'&&!saved.has(j.id))return false;
+    if(selectedView==='tracking'&&(!tracking[j.id]||!tracking[j.id].stage))return false;
+    if(selectedCategory!=='all'&&j.category!==selectedCategory)return false;
     if(region && !j.regions.includes(region))return false;
-    if($('#fieldFilter').value&&!jobFields(j).includes($('#fieldFilter').value))return false;
-    if($('#sourceFilter').value&&!jobSources(j).includes($('#sourceFilter').value))return false;
+    if(field&&!jobFields(j).includes(field))return false;
+    if(source&&!jobSources(j).includes(source))return false;
     if($('#salaryOnly').checked&&!salaryDisclosed(j))return false;
     if(license&&!j.licenses.some(l=>l.name===license))return false;
-    if($('#requiredOnly').checked&&!j.licenses.some(l=>requiredLicense(l)&&(!license||l.name===license)&&(!['sri','ri','technologist'].includes(view)||l.name===({sri:'SRI',ri:'RI',technologist:'방사선관리기술사'}[view]))))return false;
+    if($('#requiredOnly').checked&&!j.licenses.some(l=>requiredLicense(l)&&(!license||l.name===license)&&(!['sri','ri','technologist'].includes(selectedView)||l.name===({sri:'SRI',ri:'RI',technologist:'방사선관리기술사'}[selectedView]))))return false;
     if(q){let blob=[j.company,j.title,j.location,j.education,j.experience,j.duties,j.qualifications,j.relationType,...jobFields(j).map(f=>fieldNames[f]),...j.detail].join(' ').toLowerCase();if(blob.includes('사이클로트론'))blob+=' 가속기';if(jobFields(j).includes('nuclear'))blob+=' 원전 원자력';if(jobFields(j).includes('ic'))blob+=' 계측제어 i&c software 소프트웨어';if(jobFields(j).includes('waste'))blob+=' 방사성폐기물 방폐물 해체';if(jobFields(j).includes('smr'))blob+=' 소형모듈원자로 smr';if(jobFields(j).includes('research'))blob+=' 연구 r&d rnd 포닥 연구원';if(jobFields(j).includes('faculty'))blob+=' 교수 교원 초빙';
       if(!q.split(/\s+/).every(t=>['sri','ri'].includes(t)?j.licenses.some(l=>l.name.toLowerCase()===t):blob.includes(t)))return false;
     }return true;
   });
   const latest=(a,b)=>(dateValue(b.start||b.posted)===Infinity?0:dateValue(b.start||b.posted))-(dateValue(a.start||a.posted)===Infinity?0:dateValue(a.start||a.posted));
   const sort=$('#sort').value;
-  list.sort((a,b)=>sort==='latest'?(view==='research'?(Number(graduateRole(b))-Number(graduateRole(a)))||latest(a,b):latest(a,b)) : sort==='deadline' ? (dateValue(a.end,true)-dateValue(b.end,true))||latest(a,b) : a.company.localeCompare(b.company,'ko'));
+  list.sort((a,b)=>(academic?(Number(state(a)==='closed')-Number(state(b)==='closed')):0)||(sort==='latest'?(selectedView==='research'?(Number(graduateRole(b))-Number(graduateRole(a)))||latest(a,b):latest(a,b)) : sort==='deadline' ? (dateValue(a.end,true)-dateValue(b.end,true))||latest(a,b) : a.company.localeCompare(b.company,'ko')));
   return list;
 }
 function render(){
   const active=jobs.filter(j=>state(j)!=='closed');
   for(const [key,config] of Object.entries(workspaceViews))$('#nav-'+key).textContent=active.filter(config.match).length;
-  $('#navTotal').textContent=jobs.length;$('#navSaved').textContent=saved.size;$('#navTracking').textContent=Object.values(tracking).filter(t=>t.stage).length;
-  $('#statAll').textContent=jobs.length;$('#statPrivate').textContent=active.filter(j=>j.category==='private').length;$('#statPublic').textContent=active.filter(j=>j.category==='public').length;$('#statSaved').textContent=saved.size;$('#allCount').textContent=jobs.length;
+  $('#navTotal').textContent=active.length;$('#navSaved').textContent=saved.size;$('#navTracking').textContent=Object.values(tracking).filter(t=>t.stage).length;
+  $('#statAll').textContent=jobs.length;$('#statPrivate').textContent=active.filter(j=>j.category==='private').length;$('#statPublic').textContent=active.filter(j=>j.category==='public').length;$('#statSaved').textContent=saved.size;$('#allCount').textContent=filtered({category:'all'}).length;$('#countBasis').textContent=`현재 ${active.length}건 · 마감 이력 ${jobs.length-active.length}건`;
   const list=filtered();$('#resultCount').textContent=list.length;
   const currentWorkspace=workspaceViews[view];const workspaceNotice=$('#workspaceNotice');workspaceNotice.hidden=!currentWorkspace;workspaceNotice.innerHTML=currentWorkspace?`<strong>${esc(currentWorkspace.label)} 공고</strong><p>${esc(currentWorkspace.note)}</p>`:'';
   $('#listHeading').textContent=currentWorkspace?currentWorkspace.label+' 채용공고':view==='saved'?'관심 공고':view==='tracking'?'지원 관리':$('#fieldFilter').value?fieldNames[$('#fieldFilter').value]+' 채용공고':'전체 채용공고';
-  const academic=view==='faculty'||$('#fieldFilter').value==='faculty';const box=$('#academicNotice');box.hidden=!academic;box.innerHTML=academic?`<strong>방사선·원자력 관련 학과 교수 초빙</strong><p>전임·비전임·연구교수를 구분합니다. 방사선사 면허가 지원자격인 교수직도 포함하며, 의료기관의 임상 방사선사 채용은 제외합니다. 마감 공고와 현재 모집 여부를 확인하지 못한 오래된 상시 초빙은 접수 중 목록에서 제외합니다.</p>${(base.facultyChecks||[]).length?`<details><summary>확인한 교수 초빙 공고·게시판 ${base.facultyChecks.length}곳</summary><div class="faculty-checks">${base.facultyChecks.map(c=>`<div><a href="${esc(safeUrl(c.url))}" target="_blank" rel="noopener noreferrer">${esc(c.name)} ↗</a><span>${esc(c.result)}</span></div>`).join('')}</div></details>`:''}`:'';
-  $('#nuclearCount').textContent=active.filter(j=>jobFields(j).includes('nuclear')).length;
+  const academic=view==='faculty'||$('#fieldFilter').value==='faculty';const box=$('#academicNotice');box.hidden=!academic;
+  const academicOpen=filtered({facultyStatus:'open'}).length, academicClosed=filtered({facultyStatus:'closed'}).length;
+  box.innerHTML=academic?`<strong>방사선·원자력 관련 학과 교수 초빙</strong><p>하이브레인넷에서 찾은 교수·교원 공고입니다. 마감된 공고도 이력으로 기본 표시하며, 접수 중 공고를 먼저 보여줍니다. 교수직의 방사선사 면허 요건은 표시하되 임상 방사선사 채용은 제외합니다. 공개되지 않은 연봉은 미공개로 표시합니다.</p><div class="faculty-status"><label for="facultyStatus">교수 공고 상태</label><select id="facultyStatus"><option value="all" ${facultyStatus==='all'?'selected':''}>전체 · 마감 포함 (${academicOpen+academicClosed})</option><option value="open" ${facultyStatus==='open'?'selected':''}>접수 중·예정 (${academicOpen})</option><option value="closed" ${facultyStatus==='closed'?'selected':''}>마감 이력 (${academicClosed})</option></select><span>일반 공고의 ‘마감 공고 제외’ 설정과 별도로 적용됩니다.</span></div>${(base.facultyChecks||[]).length?`<details><summary>추가 확인한 교수 게시판·확인 제한</summary><div class="faculty-checks">${base.facultyChecks.map(c=>`<div><a href="${esc(safeUrl(c.url))}" target="_blank" rel="noopener noreferrer">${esc(c.name)} ↗</a><span>${esc(c.result)}</span></div>`).join('')}</div></details>`:''}`:'';
+  const updateCount=(b,count)=>{let badge=b.querySelector('b');if(!badge){badge=document.createElement('b');badge.className='filter-count';b.append(' ',badge);}badge.textContent=count;};
+  $$('[data-field]').forEach(b=>updateCount(b,filtered({view:'all',field:b.dataset.field,facultyStatus:'all'}).length));
+  $$('[data-source]').forEach(b=>updateCount(b,filtered({source:b.dataset.source}).length));
+  $$('[data-query]').forEach(b=>updateCount(b,filtered({query:b.dataset.query}).length));
+  $$('[data-license]').forEach(b=>updateCount(b,filtered({license:b.dataset.license}).length));
   $$('[data-field]').forEach(b=>b.classList.toggle('active',$('#fieldFilter').value===b.dataset.field));
   $$('[data-source]').forEach(b=>b.classList.toggle('active',$('#sourceFilter').value===b.dataset.source));
   const bits=[];if(currentWorkspace)bits.push(currentWorkspace.label);if(view==='faculty')bits.push('교수 채용');if($('#fieldFilter').value)bits.push(fieldNames[$('#fieldFilter').value]);if($('#region').value)bits.push($('#region').value);if($('#license').value)bits.push($('#license').value);if($('#requiredOnly').checked)bits.push('필수 면허');if($('#sourceFilter').value)bits.push($('#sourceFilter').value);if($('#salaryOnly').checked)bits.push('급여 공개');
   $('#filterSummary').textContent=bits.length?' · '+bits.join(' / '):'';
   $('#jobList').innerHTML=list.length?list.map(j=>{
     const [due,cls]=deadline(j), t=tracking[j.id];const short=j.company==='한국핵융합에너지연구원'?'KFE':j.company==='한전KPS'?'KPS':j.company==='원자력안전위원회'?'NSSC':j.company.slice(0,2);
-    return `<article class="job-row" data-id="${esc(j.id)}"><div class="company-logo ${esc(j.category)}" aria-hidden="true">${esc(short)}</div><div class="job-info"><div class="row-top"><span class="company">${esc(j.company)}</span><span class="group-badge ${esc(j.category)}">${esc(groupLabel(j))}</span></div><div class="field-badges">${jobFields(j).filter(f=>!['nuclear','radiation'].includes(f)).map(f=>`<span>${esc(fieldNames[f])}</span>`).join('')}${j.relationType&&j.relationType!=='관련 분야 직접 직무'?`<span class="indirect">${esc(j.relationType)}</span>`:''}</div><button class="job-title" data-detail="${esc(j.id)}">${esc(j.title)}</button><div class="job-meta"><span>${esc(j.location)}</span><span>${esc(j.experience)}</span><span>${esc(j.education)}</span></div><div class="salary-line ${salaryDisclosed(j)?'disclosed':'undisclosed'}"><span>급여</span><strong>${esc(j.salary||'미공개')}</strong></div><div class="source-badges">${jobSources(j).map(n=>`<span>${esc(n)}</span>`).join('')}</div>${j.licenses.length||hasConcern(j)||t?.stage?`<div class="tag-row">${j.licenses.map(l=>`<span class="license-tag ${l.name==='SRI'?'license-sri':l.name==='RI'?'license-ri':l.name==='방사선관리기술사'?'license-tech':''}">${esc(l.name)} ${esc(l.level)}</span>`).join('')}${hasConcern(j)?'<span class="notice-tag">조건·상태 확인</span>':''}${t?.stage?`<span class="stage-tag">${esc(t.stage)}</span>`:''}</div>`:''}</div><div class="row-right"><button class="save ${saved.has(j.id)?'saved':''}" data-save="${esc(j.id)}" aria-label="${esc(j.company)} 관심 공고 ${saved.has(j.id)?'해제':'저장'}" aria-pressed="${saved.has(j.id)}">${saved.has(j.id)?'★':'☆'}</button><span class="deadline ${cls}">${esc(due)}</span><span class="end-date">${j.end?fmtShort(j.end)+' 마감':'마감일 미정'}</span></div></article>`;
+    return `<article class="job-row ${state(j)==='closed'?'archived':''}" data-id="${esc(j.id)}"><div class="company-logo ${esc(j.category)}" aria-hidden="true">${esc(short)}</div><div class="job-info"><div class="row-top"><span class="company">${esc(j.company)}</span><span class="group-badge ${esc(j.category)}">${esc(groupLabel(j))}</span></div><div class="field-badges">${jobFields(j).filter(f=>!['nuclear','radiation'].includes(f)).map(f=>`<span>${esc(fieldNames[f])}</span>`).join('')}${j.relationType&&j.relationType!=='관련 분야 직접 직무'?`<span class="indirect">${esc(j.relationType)}</span>`:''}</div><button class="job-title" data-detail="${esc(j.id)}">${esc(j.title)}</button><div class="job-meta"><span>${esc(j.location)}</span><span>${esc(j.experience)}</span><span>${esc(j.education)}</span></div><div class="salary-line ${salaryDisclosed(j)?'disclosed':'undisclosed'}"><span>급여</span><strong>${esc(j.salary||'미공개')}</strong></div><div class="source-badges">${jobSources(j).map(n=>`<span>${esc(n)}</span>`).join('')}</div>${j.licenses.length||hasConcern(j)||t?.stage?`<div class="tag-row">${j.licenses.map(l=>`<span class="license-tag ${l.name==='SRI'?'license-sri':l.name==='RI'?'license-ri':l.name==='방사선관리기술사'?'license-tech':''}">${esc(l.name)} ${esc(l.level)}</span>`).join('')}${hasConcern(j)?'<span class="notice-tag">조건·상태 확인</span>':''}${t?.stage?`<span class="stage-tag">${esc(t.stage)}</span>`:''}</div>`:''}</div><div class="row-right"><button class="save ${saved.has(j.id)?'saved':''}" data-save="${esc(j.id)}" aria-label="${esc(j.company)} 관심 공고 ${saved.has(j.id)?'해제':'저장'}" aria-pressed="${saved.has(j.id)}">${saved.has(j.id)?'★':'☆'}</button><span class="deadline ${cls}">${esc(due)}</span><span class="end-date">${j.end?fmtShort(j.end)+' 마감':'마감일 미정'}</span></div></article>`;
   }).join(''):`<div class="empty"><h3>${view==='saved'?'관심 있는 공고를 모아보세요':view==='tracking'?'지원 준비를 시작해 보세요':academic?'현재 조건에서 확인된 교수 공고가 없습니다':view==='technologist'?'명시적으로 확인된 방사선관리기술사 공고가 없습니다':'조건에 맞는 공고가 없습니다'}</h3><p>${view==='saved'?'공고의 별을 누르면 이곳에 저장됩니다.':view==='tracking'?'공고 상세에서 지원 상태와 메모를 남길 수 있습니다.':(academic?'확인한 초빙 공고의 마감·확인 제한 내역은 위에서 펼쳐볼 수 있습니다.':'필터를 줄이거나 다른 키워드로 검색해 보세요.')}</p><button class="secondary-button reset">${view==='all'?'필터 초기화':'전체 공고 보기'}</button></div>`;
 }
 function toggleSave(id){saved.has(id)?saved.delete(id):saved.add(id);write('saved',[...saved]);render();if(currentId===id&&$('#detailDialog').open){const b=$('#detailSave');b.textContent=saved.has(id)?'★ 관심 공고 저장됨':'☆ 관심 공고 저장';b.setAttribute('aria-pressed',String(saved.has(id)));}toast(saved.has(id)?'관심 공고에 저장했습니다.':'관심 공고에서 해제했습니다.');}
@@ -103,7 +113,7 @@ function openDetail(id){
   if(!$('#detailDialog').open)$('#detailDialog').showModal();
 }
 function setView(v){view=v;if(workspaceViews[v]||v==='faculty'){category='all';$('#fieldFilter').value='';$('#sourceFilter').value='';$('#search').value='';$('#license').value='';$('#requiredOnly').checked=false;$$('[data-category]').forEach(b=>b.classList.toggle('active',b.dataset.category==='all'));}$$('[data-view]').forEach(b=>b.classList.toggle('active',b.dataset.view===v));$('#breadcrumb').textContent=workspaceViews[v]?.label||{all:'전체 공고',saved:'관심 공고',tracking:'지원 관리',faculty:'교수 채용'}[v];$('#sidebar').classList.remove('mobile-open');render();}
-function reset(){category='all';$('#search').value='';$('#fieldFilter').value='';$('#region').value='';$('#license').value='';$('#requiredOnly').checked=false;$('#sourceFilter').value='';$('#salaryOnly').checked=false;$('#hideClosed').checked=true;$('#sort').value='latest';$$('[data-category]').forEach(b=>b.classList.toggle('active',b.dataset.category==='all'));setView('all');}
+function reset(){facultyStatus='all';category='all';$('#search').value='';$('#fieldFilter').value='';$('#region').value='';$('#license').value='';$('#requiredOnly').checked=false;$('#sourceFilter').value='';$('#salaryOnly').checked=false;$('#hideClosed').checked=true;$('#sort').value='latest';$$('[data-category]').forEach(b=>b.classList.toggle('active',b.dataset.category==='all'));setView('all');}
 function download(name,text,type){const blob=new Blob([text],{type}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);}
 function exportCSV(){const cols=[['기관·회사','company'],['모집직무','title'],['분류','category'],['산업·직무 분야','fields'],['관련성','relationType'],['근무지','location'],['학력','education'],['경력','experience'],['고용형태','employment'],['직급','grade'],['급여','salary'],['게시일','posted'],['접수시작','start'],['마감','end'],['자격조건','qualifications'],['확인사항','notes'],['확인일','checked']];
   const cell=x=>'"'+String(x??'').replace(/^[=+@-]/,"'$&").replaceAll('"','""')+'"';
@@ -127,8 +137,10 @@ async function init(){
   $('#jobList').addEventListener('click',e=>{const save=e.target.closest('[data-save]');if(save){toggleSave(save.dataset.save);return;}const row=e.target.closest('[data-id]');if(row)openDetail(row.dataset.id);if(e.target.closest('.reset'))reset();});
   $$('.reset').forEach(b=>b.addEventListener('click',reset));$$('[data-view]').forEach(b=>b.onclick=()=>setView(b.dataset.view));
   $$('[data-category]').forEach(b=>b.onclick=()=>{category=b.dataset.category;$$('[data-category]').forEach(x=>x.classList.toggle('active',x===b));render();});
-  for(const id of ['fieldFilter','region','license','requiredOnly','hideClosed','sourceFilter','salaryOnly','sort'])$('#'+id).addEventListener('change',render);
-  $$('[data-field]').forEach(b=>b.onclick=()=>{view='all';$$('[data-view]').forEach(x=>x.classList.toggle('active',x.dataset.view==='all'));$('#breadcrumb').textContent='전체 공고';$('#fieldFilter').value=b.dataset.field;render();});
+  $('#academicNotice').addEventListener('change',e=>{if(e.target.id==='facultyStatus'){facultyStatus=e.target.value;render();}});
+  $('#fieldFilter').addEventListener('change',()=>{facultyStatus='all';render();});
+  for(const id of ['region','license','requiredOnly','hideClosed','sourceFilter','salaryOnly','sort'])$('#'+id).addEventListener('change',render);
+  $$('[data-field]').forEach(b=>b.onclick=()=>{view='all';$$('[data-view]').forEach(x=>x.classList.toggle('active',x.dataset.view==='all'));$('#breadcrumb').textContent='전체 공고';$('#fieldFilter').value=b.dataset.field;facultyStatus='all';render();});
   $$('[data-source]').forEach(b=>b.onclick=()=>{$('#sourceFilter').value=b.dataset.source;render();});
   $('#search').addEventListener('input',render);$$('[data-query]').forEach(b=>b.onclick=()=>{$('#search').value=b.dataset.query;render();});$$('[data-license]').forEach(b=>b.onclick=()=>{$('#license').value=b.dataset.license;render();});
   document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA','SELECT'].includes(e.target.tagName)&&!document.querySelector('dialog[open]')){e.preventDefault();$('#search').focus();}});
