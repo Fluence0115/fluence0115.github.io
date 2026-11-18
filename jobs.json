@@ -1,6 +1,6 @@
 {
-  "version": 9,
-  "asOf": "2026-11-17",
+  "version": 10,
+  "asOf": "2026-11-18",
   "scope": "전국 방사선·원자력·가속기·의료영상 관련 채용. 의원·지역병원·단기·계약·임상지원 포함. 탭 건수는 확인해 수록한 공고이며 플랫폼 전체 검색 결과와 다릅니다.",
   "updateMode": "scheduled-research-github-pages",
   "jobs": [
@@ -4578,8 +4578,8 @@
       "notes": "모집 조건과 조기 마감 여부는 원문에서 최종 확인하세요.",
       "status": "open",
       "detail": [],
-      "checked": "2026-11-17",
-      "verification": "채용 원문 공개 요건·접수기간 확인",
+      "checked": "2026-11-18",
+      "verification": "채용 원문 공개 요건·접수기간 확인 · 11/18 공식 상세 접수마감 17시 재확인",
       "fields": [
         "radiographer"
       ],
@@ -5812,15 +5812,19 @@
       "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
       "licenses": [],
       "detail": [],
-      "notes": "",
+      "notes": "11/18 다른 플랫폼 접수기간 2026-11-09~2026-12-09, 급여 회사 내규에 따름 (면접 후 결정) 확인. 기존 원문의 조건과 다를 수 있어 지원 페이지를 재확인하세요.",
       "links": [
         {
           "label": "사람인 등록 원문·지원",
           "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55516798"
+        },
+        {
+          "label": "추가 대조 원문",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50326796?Oem_Code=C1&listno=20&logpath=1&sc=630&stext=%EC%B4%88%EC%9D%8C%ED%8C%8C"
         }
       ],
-      "checked": "2026-11-17",
-      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 이미지 등 상세 본문 일부 확인 제한",
+      "checked": "2026-11-18",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 이미지 등 상세 본문 일부 확인 제한 · 11/18 추가 플랫폼 원문 대조",
       "fields": [
         "sonographer"
       ],
@@ -6181,15 +6185,19 @@
       "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
       "licenses": [],
       "detail": [],
-      "notes": "",
+      "notes": "11/18 다른 플랫폼 접수기간 2026-11-11~2027-01-10, 급여 회사 내규에 따름 (면접 후 결정) 확인. 기존 원문의 조건과 다를 수 있어 지원 페이지를 재확인하세요.",
       "links": [
         {
           "label": "사람인 등록 원문·지원",
           "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55542733"
+        },
+        {
+          "label": "추가 대조 원문",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50345243?Oem_Code=C1&listno=2&logpath=1&sc=630&stext=%EC%B4%88%EC%9D%8C%ED%8C%8C"
         }
       ],
-      "checked": "2026-11-17",
-      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "checked": "2026-11-18",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인 · 11/18 추가 플랫폼 원문 대조",
       "fields": [
         "sonographer"
       ],
@@ -8709,15 +8717,19 @@
       "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
       "licenses": [],
       "detail": [],
-      "notes": "",
+      "notes": "11/18 다른 플랫폼 접수기간 2026-11-17~2026-12-17, 급여 면접 후 결정 확인. 기존 원문의 조건과 다를 수 있어 지원 페이지를 재확인하세요.",
       "links": [
         {
           "label": "사람인 등록 원문·지원",
           "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55595312"
+        },
+        {
+          "label": "추가 대조 원문",
+          "url": "https://m.saramin.co.kr/job-search/view?cn=location-job&cns=recently-list&rec_idx=55595145&referNonce=&t_category=domestic&t_content=generic"
         }
       ],
-      "checked": "2026-11-17",
-      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "checked": "2026-11-18",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인 · 11/18 추가 플랫폼 원문 대조",
       "fields": [
         "radiographer"
       ],
@@ -9103,15 +9115,19 @@
         }
       ],
       "detail": [],
-      "notes": "",
+      "notes": "11/18 다른 플랫폼 접수기간 2026-10-28~2026-12-27, 급여 회사 내규에 따름 (면접 후 결정) 확인. 기존 원문의 조건과 다를 수 있어 지원 페이지를 재확인하세요.",
       "links": [
         {
           "label": "사람인 등록 원문·지원",
           "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55417188"
+        },
+        {
+          "label": "추가 대조 원문",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50258611?Oem_Code=C1&listno=110&logpath=1&stext=%EC%9D%BC%EB%B0%98%EC%9D%98+%EC%B1%84%EC%9A%A9"
         }
       ],
-      "checked": "2026-11-17",
-      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
+      "checked": "2026-11-18",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인 · 11/18 추가 플랫폼 원문 대조",
       "fields": [
         "safety"
       ],
@@ -9766,15 +9782,19 @@
       "qualifications": "전문대 이상, 경력 5~15년. 이미지 상세 조건은 등록 원문에서 재확인하세요.",
       "licenses": [],
       "detail": [],
-      "notes": "",
+      "notes": "11/18 다른 플랫폼 접수기간 2026-11-06~2026-12-06, 급여 회사 내규에 따름 (면접 후 결정) 확인. 기존 원문의 조건과 다를 수 있어 지원 페이지를 재확인하세요.",
       "links": [
         {
           "label": "사람인 등록 원문·지원",
           "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55533017"
+        },
+        {
+          "label": "추가 대조 원문",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50320641"
         }
       ],
-      "checked": "2026-11-17",
-      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 이미지 등 상세 본문 일부 확인 제한",
+      "checked": "2026-11-18",
+      "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 이미지 등 상세 본문 일부 확인 제한 · 11/18 추가 플랫폼 원문 대조",
       "fields": [
         "ic"
       ],
@@ -10476,9 +10496,9 @@
         }
       ],
       "detail": [],
-      "notes": "",
-      "checked": "2026-11-17",
-      "verification": "원문 공개 모집조건·접수기간 확인",
+      "notes": "11/18 다른 플랫폼 접수기간 2026-10-22~2026-11-30, 급여 연봉 5,000만원 이상 (면접 후 결정) 확인. 기존 원문의 조건과 다를 수 있어 지원 페이지를 재확인하세요.",
+      "checked": "2026-11-18",
+      "verification": "원문 공개 모집조건·접수기간 확인 · 11/18 추가 플랫폼 원문 대조",
       "fields": [
         "safety",
         "isotope"
@@ -10497,6 +10517,10 @@
         {
           "label": "한국방사선안전협회 채용 원문",
           "url": "https://www.kans.re.kr/bbs/board.php?bo_table=s2_4&wr_id=57983"
+        },
+        {
+          "label": "추가 대조 원문",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50222587?Oem_Code=C1&listno=220&logpath=1&stext=%EC%B4%9D%EA%B4%84%ED%8C%80%EC%9E%A5"
         }
       ]
     },
@@ -12153,15 +12177,19 @@
       "qualifications": "모집분야별 필수·우대 면허와 실무경험은 원문에서 확인하세요.",
       "licenses": [],
       "detail": [],
-      "notes": "",
+      "notes": "11/18 다른 플랫폼 접수기간 2026-10-14~2026-11-30, 급여 면접 후 결정 확인. 기존 원문의 조건과 다를 수 있어 지원 페이지를 재확인하세요.",
       "links": [
         {
           "label": "기업 등록 원문·지원",
           "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55532546"
+        },
+        {
+          "label": "추가 대조 원문",
+          "url": "https://m.saramin.co.kr/job-search/view?cn=location-job&cns=recently-list&rec_idx=55286475&referNonce=&t_category=domestic&t_content=generic"
         }
       ],
-      "checked": "2026-11-17",
-      "verification": "등록 원문의 접수기간·공개 조건 확인 · 상세 본문 확인",
+      "checked": "2026-11-18",
+      "verification": "등록 원문의 접수기간·공개 조건 확인 · 상세 본문 확인 · 11/18 추가 플랫폼 원문 대조",
       "fields": [
         "sonographer"
       ],
@@ -12650,15 +12678,19 @@
         }
       ],
       "detail": [],
-      "notes": "",
+      "notes": "11/18 다른 플랫폼 접수기간 2026-10-19~2026-11-18, 급여 연봉 4,400만원 이상 확인. 기존 원문의 조건과 다를 수 있어 지원 페이지를 재확인하세요.",
       "links": [
         {
           "label": "기업 등록 원문·지원",
           "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55272320"
+        },
+        {
+          "label": "추가 대조 원문",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50192220?Oem_Code=C1&listno=8324&logpath=1&stext=%EA%B1%B4%EC%84%A4%EC%95%88%EC%A0%84"
         }
       ],
-      "checked": "2026-11-17",
-      "verification": "등록 원문의 접수기간·공개 조건 확인 · 상세 본문 확인",
+      "checked": "2026-11-18",
+      "verification": "등록 원문의 접수기간·공개 조건 확인 · 상세 본문 확인 · 11/18 추가 플랫폼 원문 대조",
       "fields": [
         "isotope",
         "sonographer"
@@ -14530,7 +14562,7 @@
         "radiographer"
       ],
       "relationType": "관련 분야 직접 직무",
-      "status": "open",
+      "status": "closed",
       "openings": null,
       "openingsNote": "분야별 확정 모집인원 미확인"
     },
@@ -17525,488 +17557,1656 @@
       "status": "check",
       "openings": null,
       "openingsNote": "첨부 접근 실패로 TO 미확인"
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "nuclear",
+        "design"
+      ],
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 서초구 서초동 일흥빌딩 5층",
+      "education": "대졸이상",
+      "experience": "경력(5년이상)",
+      "employment": "정규직(수습 3개월)",
+      "grade": "미공개",
+      "salary": "회사 내규에 따름 (면접 후 결정)",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-09-22",
+      "end": "2026-11-21",
+      "duties": "원자력 기계설계 엔지니어 경력사원 모집",
+      "qualifications": "학력: 대졸이상; 경력: 경력(5년이상). 상세 자격·우대 조건은 원문 확인.",
+      "detail": [],
+      "notes": "이번에 처음 발견한 진행 공고이며 게시일은 미확인입니다. 필수 면허·세부 업무는 원문 이미지/첨부에서 별도 확인해야 합니다.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50041734?Oem_Code=C1&listno=168&logpath=1&sc=630&stext=%EA%B8%B0%EA%B3%84%EA%B3%B5%ED%95%99"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "open",
+      "openings": null,
+      "id": "jk-50041734",
+      "company": "㈜코네스코퍼레이션",
+      "title": "원자력 기계설계 엔지니어 경력사원 모집",
+      "topics": [
+        "nuclear_safety"
+      ]
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "other"
+      ],
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 화성시 동탄구 삼성1로1길 14 (석우동) (주)레이언스",
+      "education": "대졸이상",
+      "experience": "경력(8년이상)",
+      "employment": "정규직(수습 3개월)",
+      "grade": "미공개",
+      "salary": "회사 내규에 따름 (면접 후 결정)",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-11-11",
+      "end": "2026-12-11",
+      "duties": "산업용 X-ray 시장 진출 전략 리더",
+      "qualifications": "학력: 대졸이상; 경력: 경력(8년이상). 상세 자격·우대 조건은 원문 확인.",
+      "detail": [],
+      "notes": "이번에 처음 발견한 진행 공고이며 게시일은 미확인입니다. 필수 면허·세부 업무는 원문 이미지/첨부에서 별도 확인해야 합니다.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50350474?Oem_Code=C1&listno=7491&logpath=1&stext=%EC%A0%84%EC%9E%90"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "open",
+      "openings": null,
+      "id": "jk-50350474",
+      "company": "㈜레이언스",
+      "title": "산업용 X-ray 시장 진출 전략 리더",
+      "topics": [
+        "other"
+      ]
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "research"
+      ],
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 금천구 가산동 481-4 벽산디지털밸리 6차 1406호",
+      "education": "대졸이상(졸업예정자 가능)",
+      "experience": "경력(10년이상)",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "회사 내규에 따름 (면접 후 결정)",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-10-30",
+      "end": "2026-12-29",
+      "duties": "[펨트론] X-ray 장비 개발 리더 채용",
+      "qualifications": "학력: 대졸이상(졸업예정자 가능); 경력: 경력(10년이상). 상세 자격·우대 조건은 원문 확인.",
+      "detail": [],
+      "notes": "이번에 처음 발견한 진행 공고이며 게시일은 미확인입니다. 필수 면허·세부 업무는 원문 이미지/첨부에서 별도 확인해야 합니다.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50275947?Oem_Code=C1&listno=1&logpath=1&sc=630&stext=x-RAY"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "open",
+      "openings": null,
+      "id": "jk-50275947",
+      "company": "㈜펨트론",
+      "title": "[펨트론] X-ray 장비 개발 리더 채용",
+      "topics": [
+        "research"
+      ]
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "ndt"
+      ],
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 성남시 분당구 분당로 336 (분당동) 00발전본부",
+      "education": "고졸이상",
+      "experience": "경력(3년이상)",
+      "employment": "정규직(수습 3개월)",
+      "grade": "미공개",
+      "salary": "연봉 3,200만원 이상 (면접 후 결정)",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-10-27",
+      "end": "2026-11-26",
+      "duties": "대한검사기술 00발전소 비파괴 검사원 모집",
+      "qualifications": "학력: 고졸이상; 경력: 경력(3년이상). 상세 자격·우대 조건은 원문 확인.",
+      "detail": [],
+      "notes": "이번에 처음 발견한 진행 공고이며 게시일은 미확인입니다. 필수 면허·세부 업무는 원문 이미지/첨부에서 별도 확인해야 합니다.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50249187?Oem_Code=C1&sc=225"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "open",
+      "openings": null,
+      "id": "jk-50249187",
+      "company": "대한검사기술㈜",
+      "title": "대한검사기술 00발전소 비파괴 검사원 모집",
+      "topics": [
+        "ndt"
+      ]
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "ndt"
+      ],
+      "regions": [
+        "경남"
+      ],
+      "location": "경남 사천시 사남면 외국기업로 152-54 (방지리, (주)이이더불유코리아)",
+      "education": "대졸이상",
+      "experience": "경력무관",
+      "employment": "정규직(수습 3개월)",
+      "grade": "미공개",
+      "salary": "회사 내규에 따름 (면접 후 결정)",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-11-05",
+      "end": "2026-11-22",
+      "duties": "[품질관리부] 비파괴검사 파트 관리자 정규직 모집",
+      "qualifications": "학력: 대졸이상; 경력: 경력무관. 상세 자격·우대 조건은 원문 확인.",
+      "detail": [],
+      "notes": "이번에 처음 발견한 진행 공고이며 게시일은 미확인입니다. 필수 면허·세부 업무는 원문 이미지/첨부에서 별도 확인해야 합니다.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50308672"
+        },
+        {
+          "label": "사람인 동일 모집",
+          "url": "https://m.saramin.co.kr/job-search/view?cn=curation&cns=list&rec_idx=55491074&referNonce=&t_category=m_curation&t_content=generic"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "open",
+      "openings": null,
+      "id": "jk-50308672",
+      "company": "㈜이이더불유코리아",
+      "title": "[품질관리부] 비파괴검사 파트 관리자 정규직 모집",
+      "topics": [
+        "ndt"
+      ]
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "ndt"
+      ],
+      "regions": [
+        "대전"
+      ],
+      "location": "대전 유성구 탑립동 843번지",
+      "education": "대졸이상",
+      "experience": "경력",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "미공개 · 포털 급여 단위 확인 필요",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-09-30",
+      "end": "2026-11-29",
+      "duties": "KPD UT 비파괴검사 경력직 채용",
+      "qualifications": "학력: 대졸이상; 경력: 경력. 상세 자격·우대 조건은 원문 확인.",
+      "detail": [],
+      "notes": "포털이 월급 4,500~7,000만원으로 표시하나 급여 단위 오류 가능성이 있어 금액은 미확인 처리. 고용주 확인 필요.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50083022?Oem_Code=C1&listno=17&logpath=1&sc=630&stext=%EB%B0%9C%EC%A0%84%EC%86%8C+%EC%A0%95%EB%B9%84"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "check",
+      "openings": null,
+      "id": "jk-50083022",
+      "company": "㈜에네스지",
+      "title": "KPD UT 비파괴검사 경력직 채용",
+      "topics": [
+        "ndt"
+      ]
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "ndt"
+      ],
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 수원시 권선구",
+      "education": "학력무관",
+      "experience": "경력",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-10-29",
+      "end": "2026-11-28",
+      "duties": "건설기계검사, 비파괴검사 전문기업 (주)프로메카 채용공고",
+      "qualifications": "학력: 학력무관; 경력: 경력. 상세 자격·우대 조건은 원문 확인.",
+      "detail": [],
+      "notes": "이번에 처음 발견한 진행 공고이며 게시일은 미확인입니다. 필수 면허·세부 업무는 원문 이미지/첨부에서 별도 확인해야 합니다.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55427954&referNonce=f44f52e1fe84a53145d9&t_category=job_recruit&t_content=SRI_M_050_2LV-JOB_MIX_RCT_NONMEM"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "open",
+      "openings": null,
+      "id": "sr-55427954",
+      "company": "(주)프로메카",
+      "title": "건설기계검사, 비파괴검사 전문기업 (주)프로메카 채용공고",
+      "topics": [
+        "ndt"
+      ]
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "ndt"
+      ],
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 안산시 상록구",
+      "education": "학력무관",
+      "experience": "신입/경력",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-09-29",
+      "end": "2026-11-28",
+      "duties": "비파괴검사 정규직 채용(경기 안산)",
+      "qualifications": "학력: 학력무관; 경력: 신입/경력. 상세 자격·우대 조건은 원문 확인.",
+      "detail": [],
+      "notes": "이번에 처음 발견한 진행 공고이며 게시일은 미확인입니다. 필수 면허·세부 업무는 원문 이미지/첨부에서 별도 확인해야 합니다.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?cn=location-job&cns=recently-list&rec_idx=55146567&referNonce=&t_category=domestic&t_content=generic"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "open",
+      "openings": null,
+      "id": "sr-55146567",
+      "company": "케이피이엔지(주)",
+      "title": "비파괴검사 정규직 채용(경기 안산)",
+      "topics": [
+        "ndt"
+      ]
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "ndt"
+      ],
+      "regions": [
+        "경남"
+      ],
+      "location": "경남 창원시",
+      "education": "대졸(2,3년)",
+      "experience": "신입",
+      "employment": "인턴직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-11-06",
+      "end": "2026-11-19",
+      "duties": "[한화에어로스페이스] 항공사업부 전문직 신입 채용(비파괴검사)",
+      "qualifications": "학력: 대졸(2,3년); 경력: 신입. 상세 자격·우대 조건은 원문 확인.",
+      "detail": [],
+      "notes": "이번에 처음 발견한 진행 공고이며 게시일은 미확인입니다. 필수 면허·세부 업무는 원문 이미지/첨부에서 별도 확인해야 합니다.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?cn=&cns=&rec_idx=55530539&referNonce=&t_category=top1000&t_content=generic"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "open",
+      "openings": null,
+      "id": "sr-55530539",
+      "company": "한화에어로스페이스(주)",
+      "title": "[한화에어로스페이스] 항공사업부 전문직 신입 채용(비파괴검사)",
+      "topics": [
+        "ndt"
+      ]
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "ndt"
+      ],
+      "regions": [
+        "경기",
+        "서울",
+        "충남",
+        "충북",
+        "전국"
+      ],
+      "location": "수도권·충청 등 현장 출장 또는 지정 상주 현장 · 면접 서울 광진구",
+      "education": "고졸 이상",
+      "experience": "경력무관",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "연봉 4,000만원 이상 · 경력·업무경험 협의",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-10-29",
+      "end": "2026-11-28",
+      "duties": "건설기계장비 안전점검·비파괴검사, 타워크레인 법정검사 및 보고서 작성",
+      "qualifications": "고졸 이상, 경력무관. 관련 기능사/산업기사/기계·전기 등 자격 또는 해당 관련학과 졸업 중 요건 택1. 상세 종목 원문 확인.",
+      "detail": [],
+      "notes": "포털 요약은 면접 후 결정이나 상세 본문은 연봉 4,000만원 이상 명시. 서울 광진구는 면접 장소이며 실제 업무는 현장 출장·상주.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?cn=curation&cns=list&rec_idx=55428086&referNonce=&t_category=m_curation&t_content=generic"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인 · 사람인 고용주 상세 본문도 확인",
+      "status": "open",
+      "openings": null,
+      "id": "sr-55428086",
+      "company": "(주)한국산업안전",
+      "title": "건설기계장비 안전점검 및 비파괴검사 검사원 모집",
+      "topics": [
+        "ndt"
+      ]
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "radiographer"
+      ],
+      "regions": [
+        "강원"
+      ],
+      "location": "강원 강릉시",
+      "education": "대졸(2,3년)",
+      "experience": "신입/경력",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-11-16",
+      "end": "2026-11-30",
+      "duties": "의.법 강릉동인병원 방사선사 모집(맘모,일반촬영 )",
+      "qualifications": "학력: 대졸(2,3년); 경력: 신입/경력. 상세 자격·우대 조건은 원문 확인.",
+      "detail": [],
+      "notes": "이번에 처음 발견한 진행 공고이며 게시일은 미확인입니다. 필수 면허·세부 업무는 원문 이미지/첨부에서 별도 확인해야 합니다.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?cn=job-industry&cns=recently-list&rec_idx=55566964&referNonce=&t_category=job_recruit&t_content=generic"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "open",
+      "openings": null,
+      "id": "sr-55566964",
+      "company": "(의)강릉동인병원",
+      "title": "의.법 강릉동인병원 방사선사 모집(맘모,일반촬영 )",
+      "topics": [
+        "radiographer"
+      ]
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "radiographer"
+      ],
+      "regions": [
+        "광주"
+      ],
+      "location": "전남광주 북구",
+      "education": "대졸(2,3년)",
+      "experience": "경력무관",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-10-23",
+      "end": "2026-11-22",
+      "duties": "광주현대병원 영상의학실 방사선사 구인 (C-arm 전담)",
+      "qualifications": "학력: 대졸(2,3년); 경력: 경력무관. 상세 자격·우대 조건은 원문 확인.",
+      "detail": [],
+      "notes": "이번에 처음 발견한 진행 공고이며 게시일은 미확인입니다. 필수 면허·세부 업무는 원문 이미지/첨부에서 별도 확인해야 합니다.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?cn=location-job&cns=recently-list&rec_idx=55377976&referNonce=&t_category=domestic&t_content=generic"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "open",
+      "openings": null,
+      "id": "sr-55377976",
+      "company": "광주현대병원",
+      "title": "광주현대병원 영상의학실 방사선사 구인 (C-arm 전담)",
+      "topics": [
+        "radiographer"
+      ]
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "radiographer"
+      ],
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 영등포구 시흥대로 657 (대림동, 대림성모병원) 대림성모병원",
+      "education": "초대졸이상",
+      "experience": "경력무관",
+      "employment": "정규직(수습 3개월)",
+      "grade": "미공개",
+      "salary": "회사 내규에 따름 (면접 후 결정)",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-11-06",
+      "end": "2026-12-06",
+      "duties": "[대림성모병원] 영상의학과 방사선사(수술실) 채용",
+      "qualifications": "학력: 초대졸이상; 경력: 경력무관. 상세 자격·우대 조건은 원문 확인.",
+      "detail": [],
+      "notes": "이번에 처음 발견한 진행 공고이며 게시일은 미확인입니다. 필수 면허·세부 업무는 원문 이미지/첨부에서 별도 확인해야 합니다.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50315760?Oem_Code=C1&listno=21&logpath=1&sc=630&stext=%EA%B5%AC%EB%A1%9C+%EB%B3%91%EC%9B%90"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "open",
+      "openings": null,
+      "id": "jk-50315760",
+      "company": "대림성모병원",
+      "title": "[대림성모병원] 영상의학과 방사선사(수술실) 채용",
+      "topics": [
+        "radiographer"
+      ]
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "radiographer"
+      ],
+      "regions": [
+        "대구"
+      ],
+      "location": "대구 수성구",
+      "education": "학력무관",
+      "experience": "신입/경력",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-10-21",
+      "end": "2026-11-20",
+      "duties": "투석혈관클리닉 방사선사 모십니다 (C-arm 위주/신입환영)",
+      "qualifications": "학력: 학력무관; 경력: 신입/경력. 상세 자격·우대 조건은 원문 확인.",
+      "detail": [],
+      "notes": "이번에 처음 발견한 진행 공고이며 게시일은 미확인입니다. 필수 면허·세부 업무는 원문 이미지/첨부에서 별도 확인해야 합니다.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?cn=location-job&cns=recently-list&rec_idx=55355655&referNonce=&t_category=domestic&t_content=generic"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "open",
+      "openings": null,
+      "id": "sr-55355655",
+      "company": "브이외과",
+      "title": "투석혈관클리닉 방사선사 모십니다 (C-arm 위주/신입환영)",
+      "topics": [
+        "radiographer"
+      ]
+    },
+    {
+      "category": "public",
+      "organisationType": "공공병원",
+      "fields": [
+        "radiographer"
+      ],
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 고양시 일산동구",
+      "education": "대졸(2,3년)",
+      "experience": "신입",
+      "employment": "계약직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-11-04",
+      "end": "2026-11-20",
+      "duties": "임시직 채용공고[261104](방사선사)",
+      "qualifications": "학력: 대졸(2,3년); 경력: 신입. 상세 자격·우대 조건은 원문 확인.",
+      "detail": [],
+      "notes": "이번에 처음 발견한 진행 공고이며 게시일은 미확인입니다. 필수 면허·세부 업무는 원문 이미지/첨부에서 별도 확인해야 합니다.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?cn=job-industry&cns=recently-list&rec_idx=55500518&referNonce=&t_category=job_recruit&t_content=generic"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "open",
+      "openings": null,
+      "id": "sr-55500518",
+      "company": "국립암센터",
+      "title": "임시직 채용공고[261104](방사선사)",
+      "topics": [
+        "radiographer"
+      ]
+    },
+    {
+      "category": "public",
+      "organisationType": "공공병원",
+      "fields": [
+        "radiographer"
+      ],
+      "regions": [
+        "세종"
+      ],
+      "location": "세종특별자치시",
+      "education": "학력무관",
+      "experience": "신입/경력",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-11-09",
+      "end": "2026-11-23",
+      "duties": "2026년 11월 공무직 직원 채용공고(방사선사A)",
+      "qualifications": "학력: 학력무관; 경력: 신입/경력. 상세 자격·우대 조건은 원문 확인.",
+      "detail": [],
+      "notes": "이번에 처음 발견한 진행 공고이며 게시일은 미확인입니다. 필수 면허·세부 업무는 원문 이미지/첨부에서 별도 확인해야 합니다.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?cn=&cns=&rec_idx=55528845&referNonce=&t_category=top1000&t_content=generic"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "open",
+      "openings": null,
+      "id": "sr-55528845",
+      "company": "세종충남대학교병원",
+      "title": "2026년 11월 공무직 직원 채용공고(방사선사A)",
+      "topics": [
+        "radiographer"
+      ]
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "radiographer"
+      ],
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 수원시 권선구 호매실로90번길 98 (호매실동) 화홍병원",
+      "education": "초대졸이상",
+      "experience": "경력무관",
+      "employment": "정규직(수습 3개월)",
+      "grade": "미공개",
+      "salary": "회사 내규에 따름 (면접 후 결정)",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-11-13",
+      "end": "2027-01-12",
+      "duties": "[화홍병원] 혈관조영팀 방사선사 채용",
+      "qualifications": "학력: 초대졸이상; 경력: 경력무관. 상세 자격·우대 조건은 원문 확인.",
+      "detail": [],
+      "notes": "이번에 처음 발견한 진행 공고이며 게시일은 미확인입니다. 필수 면허·세부 업무는 원문 이미지/첨부에서 별도 확인해야 합니다.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50361453"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "open",
+      "openings": null,
+      "id": "jk-50361453",
+      "company": "의료법인 명인의료재단 화홍병원",
+      "title": "[화홍병원] 혈관조영팀 방사선사 채용",
+      "topics": [
+        "radiographer"
+      ]
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "radiographer"
+      ],
+      "regions": [
+        "충남"
+      ],
+      "location": "충남 천안시 서북구",
+      "education": "대졸(2,3년)",
+      "experience": "경력무관",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-10-21",
+      "end": "2026-11-20",
+      "duties": "영서의료재단 천안충무병원 Angio실 방사선사 모집",
+      "qualifications": "학력: 대졸(2,3년); 경력: 경력무관. 상세 자격·우대 조건은 원문 확인.",
+      "detail": [],
+      "notes": "이번에 처음 발견한 진행 공고이며 게시일은 미확인입니다. 필수 면허·세부 업무는 원문 이미지/첨부에서 별도 확인해야 합니다.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?cn=location-job&cns=recently-list&rec_idx=55352101&referNonce=&t_category=domestic&t_content=generic"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "open",
+      "openings": null,
+      "id": "sr-55352101",
+      "company": "(의)영서의료재단",
+      "title": "영서의료재단 천안충무병원 Angio실 방사선사 모집",
+      "topics": [
+        "radiographer"
+      ]
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "radiographer"
+      ],
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 용인시 기흥구 중부대로 411 (신갈동, 강남병원)",
+      "education": "초대졸이상",
+      "experience": "경력(1년이상)",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "회사 내규에 따름 (면접 후 결정)",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-11-11",
+      "end": "2026-12-11",
+      "duties": "[강남병원] ANGIO실 방사선사 / 간호사 / 간호조무사 모집",
+      "qualifications": "학력: 초대졸이상; 경력: 경력(1년이상). 상세 자격·우대 조건은 원문 확인.",
+      "detail": [],
+      "notes": "이번에 처음 발견한 진행 공고이며 게시일은 미확인입니다. 필수 면허·세부 업무는 원문 이미지/첨부에서 별도 확인해야 합니다.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50345563?Oem_Code=C1&listno=340&logpath=1&sc=630&stext=%EA%B0%84%ED%98%B8%EC%82%AC"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "open",
+      "openings": null,
+      "id": "jk-50345563",
+      "company": "강남병원",
+      "title": "[강남병원] ANGIO실 방사선사 / 간호사 / 간호조무사 모집",
+      "topics": [
+        "radiographer"
+      ]
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "radiographer"
+      ],
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 서초구 잠원로 94 (잠원동, 한신빌딩) 한신메디피아",
+      "education": "초대졸이상",
+      "experience": "경력무관",
+      "employment": "계약직",
+      "grade": "미공개",
+      "salary": "회사 내규에 따름",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-11-09",
+      "end": "2026-12-09",
+      "duties": "[한신메디피아] 검진센터 영상의학팀 방사선사 모집",
+      "qualifications": "학력: 초대졸이상; 경력: 경력무관. 상세 자격·우대 조건은 원문 확인.",
+      "detail": [],
+      "notes": "이번에 처음 발견한 진행 공고이며 게시일은 미확인입니다. 필수 면허·세부 업무는 원문 이미지/첨부에서 별도 확인해야 합니다.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50325730"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "open",
+      "openings": null,
+      "id": "jk-50325730",
+      "company": "㈔정해복지부설 한신메디피아",
+      "title": "[한신메디피아] 검진센터 영상의학팀 방사선사 모집",
+      "topics": [
+        "radiographer"
+      ]
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "sonographer"
+      ],
+      "regions": [
+        "전북"
+      ],
+      "location": "전북 군산시 조촌로 149 (조촌동)",
+      "education": "초대졸이상",
+      "experience": "경력무관",
+      "employment": "계약직(근무기간 14개월)",
+      "grade": "미공개",
+      "salary": "회사 내규에 따름 (면접 후 결정)",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-10-23",
+      "end": "2026-11-22",
+      "duties": "[동군산병원] 영상의학팀 초음파사 모집 (대체인력)",
+      "qualifications": "학력: 초대졸이상; 경력: 경력무관. 상세 자격·우대 조건은 원문 확인.",
+      "detail": [],
+      "notes": "이번에 처음 발견한 진행 공고이며 게시일은 미확인입니다. 필수 면허·세부 업무는 원문 이미지/첨부에서 별도 확인해야 합니다.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "고용주 등록 원문·지원",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50227756?Oem_Code=C1&listno=136&logpath=1&sc=630&stext=%EA%B5%B0%EC%82%B0+%EC%B1%84%EC%9A%A9"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "open",
+      "openings": null,
+      "id": "jk-50227756",
+      "company": "㈜국제커리어",
+      "title": "[동군산병원] 영상의학팀 초음파사 모집 (대체인력)",
+      "topics": [
+        "sonographer"
+      ]
+    },
+    {
+      "category": "public",
+      "organisationType": "정부출연기관 · 공공병원",
+      "fields": [
+        "research",
+        "radiation"
+      ],
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 기장군 장안읍 좌동길 40",
+      "education": "관련 석사 또는 동등 이상 자격",
+      "experience": "신입·경력",
+      "employment": "무기계약직",
+      "grade": "연구기술직",
+      "salary": "세전 연봉 2,981만원 (연구기술직 1호봉) · 법정수당 별도",
+      "licenses": [],
+      "posted": "2026-11-18",
+      "start": "2026-11-18",
+      "end": "2026-11-27T23:59:00+09:00",
+      "duties": "전자상자성공명분광(EPR) 방사선량평가 연구, KOLAS 실무·품질관리",
+      "qualifications": "물리학·방사선학·원자력공학 등 관련학과 및 석사 또는 동등 이상, 공인영어성적 필수(TOEIC 700 / TEPS 340 / G-TELP Level 2 65 / FLEX 625 / TOEFL iBT 71 중 해당 기준). 관련 박사·KOLAS 경력·최근 3년 SCI(E) 주저자/교신저자 포함 2편 이상 우대.",
+      "detail": [],
+      "notes": "9월 통합 모집과 10월 재공고의 동일 직무 재모집. 과거 동일 모집 TO와 중복 합산하지 않음. 기관 채용사이트 동적 목록은 읽기 제한, JOB-ALIO 공식 본문·모집공고 PDF·직무기술서 PDF를 직접 확인.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "JOB-ALIO 공식 원문",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=307126"
+        },
+        {
+          "label": "공식 모집공고 PDF",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3087974"
+        },
+        {
+          "label": "직무기술서 PDF",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3087976"
+        },
+        {
+          "label": "기관 지원 사이트",
+          "url": "https://diramsjob.recruiter.co.kr/career/home"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "JOB-ALIO 공식 원문 및 모집공고·직무기술서 PDF 다운로드/본문 검증",
+      "status": "open",
+      "openings": 1,
+      "id": "dirams-307126",
+      "company": "동남권원자력의학원",
+      "topics": [
+        "research"
+      ],
+      "title": "무기계약직 연구기술직 · EPR 1명 (재공고)",
+      "vacancyKey": "history-dirams-305068"
+    },
+    {
+      "category": "public",
+      "organisationType": "정부출연기관 · 공공병원",
+      "fields": [
+        "research",
+        "radiation"
+      ],
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 기장군 장안읍 좌동길 40",
+      "education": "관련 석사 또는 동등 이상 자격",
+      "experience": "신입·경력",
+      "employment": "무기계약직",
+      "grade": "연구기술직",
+      "salary": "세전 연봉 2,981만원 (연구기술직 1호봉) · 법정수당 별도",
+      "licenses": [],
+      "posted": "2026-11-18",
+      "start": "2026-11-18",
+      "end": "2026-11-27T23:59:00+09:00",
+      "duties": "하전입자 방사선 선량평가 연구, 액체섬광계수기·알파분광기 방사능 분석 및 KOLAS 실무",
+      "qualifications": "물리학·방사선학·원자력공학 등 관련학과 및 석사 또는 동등 이상, 공인영어성적 필수(TOEIC 700 / TEPS 340 / G-TELP Level 2 65 / FLEX 625 / TOEFL iBT 71 중 해당 기준). 관련 박사·KOLAS 경력·최근 3년 SCI(E) 주저자/교신저자 포함 2편 이상 우대.",
+      "detail": [],
+      "notes": "9월 통합 모집과 10월 재공고의 동일 직무 재모집. 과거 동일 모집 TO와 중복 합산하지 않음. 기관 채용사이트 동적 목록은 읽기 제한, JOB-ALIO 공식 본문·모집공고 PDF·직무기술서 PDF를 직접 확인.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "JOB-ALIO 공식 원문",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=307127"
+        },
+        {
+          "label": "공식 모집공고 PDF",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3087979"
+        },
+        {
+          "label": "직무기술서 PDF",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3087981"
+        },
+        {
+          "label": "기관 지원 사이트",
+          "url": "https://diramsjob.recruiter.co.kr/career/home"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "JOB-ALIO 공식 원문 및 모집공고·직무기술서 PDF 다운로드/본문 검증",
+      "status": "open",
+      "openings": 1,
+      "id": "dirams-307127",
+      "company": "동남권원자력의학원",
+      "topics": [
+        "research"
+      ],
+      "title": "무기계약직 연구기술직 · 하전입자 1명 (재공고)",
+      "vacancyKey": "history-dirams-305068"
+    },
+    {
+      "category": "public",
+      "organisationType": "정부출연기관 · 공공병원",
+      "fields": [
+        "research",
+        "radiation"
+      ],
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 기장군 장안읍 좌동길 40",
+      "education": "박사 또는 취득예정 · 임용일 기준 박사 취득 후 5년 이내",
+      "experience": "박사후연구원",
+      "employment": "계약직 · 채용 시~2026.12.31, 실적·과제에 따라 재계약 가능",
+      "grade": "박사후 연수연구원",
+      "salary": "내규 산정 · 금액 미공개",
+      "licenses": [],
+      "posted": "2026-07-28",
+      "start": "2026-07-28",
+      "end": "2026-11-27T23:59:00+09:00",
+      "duties": "방사선 시뮬레이션 기반 정밀 타겟팅 광대역 선량률 조사장치 개발, 빔 특성 분석 및 병용효능 예비연구, AI 기반 CBCT 영상 향상·정합 연구.",
+      "qualifications": "박사 요건 필수. 의공학·원자력공학·방사선공학·의학물리학 전공, 방사선 수송·선량 계산 코드, 의료영상·AI 및 센서 융합 경험 우대.",
+      "detail": [],
+      "notes": "기존 7월 모집의 접수기간 연장·재등록으로 판단. 게시일을 오늘로 바꾸지 않음. 동일 기존 모집 TO 중복 제외.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "JOB-ALIO 공식 원문",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=307123"
+        },
+        {
+          "label": "모집공고 PDF",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3087946"
+        },
+        {
+          "label": "기관 지원",
+          "url": "https://diramsjob.recruiter.co.kr/career/home"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "JOB-ALIO 공식 본문·모집공고 PDF·직무기술서 PDF 직접 확인",
+      "status": "open",
+      "openings": 1,
+      "id": "dirams-307123",
+      "company": "동남권원자력의학원",
+      "topics": [
+        "research"
+      ],
+      "title": "첨단방사선AI융합연구팀 박사후 연수연구원 · 1명",
+      "vacancyKey": "history-dirams-303104"
+    },
+    {
+      "category": "public",
+      "organisationType": "지방공무원",
+      "fields": [
+        "nuclear",
+        "safety"
+      ],
+      "regions": [
+        "부산"
+      ],
+      "location": "부산 · 세부 부서 원문 첨부 확인",
+      "education": "미공개",
+      "experience": "미공개",
+      "employment": "임기제 · 최초 1년, 사업 계속 시 5년 이내 연장 가능",
+      "grade": "미공개",
+      "salary": "미공개",
+      "licenses": [],
+      "posted": "2026-11-10",
+      "start": "2026-11-18",
+      "end": "2026-11-20",
+      "duties": "원자력 안전 및 방사능 방재 분야",
+      "qualifications": "해당 분야 학위·경력·직급·면허·급여는 첨부 공고문/직무기술서 재확인 필요.",
+      "detail": [],
+      "notes": "나라일터 공식 공고에서 통합 8명 중 관련 분야 1명과 접수기간 확인. 부산시 원문 접속 실패 및 첨부 다운로드 미확인으로 자격·직급·급여를 추정하지 않음.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "나라일터 공식 모집공고",
+          "url": "https://www.gojobs.go.kr/apmView.do?empmnsn=308047"
+        },
+        {
+          "label": "부산시 공고",
+          "url": "https://www.busan.go.kr/depart/jobexam45/1763083"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "나라일터 공식 본문 확인 · 통합 첨부 미확인",
+      "status": "check",
+      "openings": 1,
+      "id": "busan-308047-nuclear",
+      "company": "부산광역시",
+      "topics": [
+        "nuclear_safety"
+      ],
+      "title": "제14회 임기제공무원 · 원자력 안전 및 방사능 방재 1명"
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "radiation",
+        "safety"
+      ],
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 여주시",
+      "education": "미공개",
+      "experience": "본문: 안전관리 경력 2년 이상 / 포털 요약: 4~16년",
+      "employment": "미공개",
+      "grade": "포털 대리~차장",
+      "salary": "연봉 협의 · 금액 미공개",
+      "licenses": [
+        {
+          "name": "SRI",
+          "level": "필수(택1)"
+        },
+        {
+          "name": "방사선관리기술사",
+          "level": "필수(택1)"
+        }
+      ],
+      "posted": null,
+      "start": null,
+      "end": null,
+      "duties": "발생장치 인허가·변경신고·검사 대응, 안전보고서·안전관리규정, 구역·종사자·선량 관리, 누설방사선량 점검.",
+      "qualifications": "SRI 또는 방사선관리기술사 중 하나. 본문 안전관리 업무 2년 이상; 이공계 전공·X-ray 장비/제조사업장 안전관리 우대.",
+      "detail": [],
+      "notes": "채용 시 마감으로 지원 버튼 확인. 게시·접수 시작일 미공개. 경력 요건이 요약과 본문 간 달라 지원 전에 확인. 합격보상금은 급여에서 제외.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "리멤버 원문·지원",
+          "url": "https://career.rememberapp.co.kr/job/posting/340354"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "리멤버 고용주 등록 상세 본문·지원 상태 확인",
+      "status": "check",
+      "openings": null,
+      "id": "remember-340354",
+      "company": "고영테크놀러지",
+      "topics": [
+        "safety"
+      ],
+      "title": "방사선취급감독자(SRI) · 방사선발생장치 안전관리"
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "safety"
+      ],
+      "regions": [
+        "울산"
+      ],
+      "location": "울산 남구 꽃대나리로51번길 11 (달동) 1층 (주)지스콥 지도보기",
+      "education": "고졸이상",
+      "experience": "경력무관",
+      "employment": "정규직(협의)",
+      "grade": "미공개",
+      "salary": "회사 내규에 따름 (면접 후 결정)",
+      "licenses": [
+        {
+          "name": "RI",
+          "level": "조건 확인 필요"
+        }
+      ],
+      "posted": null,
+      "start": "2026-10-26",
+      "end": "2026-11-25",
+      "duties": "(주)지스콥 RI 면허보유자 모집-울산",
+      "qualifications": "상세 자격·우대 조건 원문 확인",
+      "detail": [],
+      "notes": "접수 중인 고용주 등록 원문 확인. 이미지형 상세 조건 미확인. 신규 발견한 기존 진행 공고. RI 면허 보유자 모집이나 정확한 필수/우대 표기는 상세 요건 재확인 필요.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "잡코리아 고용주 등록 원문",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50238380?Oem_Code=C1&listno=25&logpath=1&sc=630&stext=%EB%B9%84%ED%8C%8C%EA%B4%B4%EA%B2%80%EC%82%AC"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "open",
+      "openings": null,
+      "id": "jk-50238380",
+      "company": "㈜지스콥",
+      "title": "(주)지스콥 RI 면허보유자 모집-울산",
+      "topics": [
+        "safety"
+      ]
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "ndt"
+      ],
+      "regions": [
+        "경남"
+      ],
+      "location": "경남 창원시 도계동 465-2 세명빌딩 지도보기",
+      "education": "고졸이상",
+      "experience": "신입",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "회사 내규에 따름",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-11-02",
+      "end": "2026-12-05",
+      "duties": "26년 하반기 비파괴검사원 결원지역 추가채용",
+      "qualifications": "상세 자격·우대 조건 원문 확인",
+      "detail": [],
+      "notes": "접수 중인 고용주 등록 원문 확인. 이미지형 상세 조건 미확인. 신규 발견한 기존 진행 공고.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "잡코리아 고용주 등록 원문",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50286891?Oem_Code=C1&listno=28&logpath=1&sc=630&stext=%EB%B9%84%ED%8C%8C%EA%B4%B4%EA%B2%80%EC%82%AC"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "open",
+      "openings": null,
+      "id": "jk-50286891",
+      "company": "세명검사기술㈜",
+      "title": "26년 하반기 비파괴검사원 결원지역 추가채용",
+      "topics": [
+        "ndt"
+      ]
+    },
+    {
+      "category": "private",
+      "organisationType": "사기업",
+      "fields": [
+        "ic"
+      ],
+      "regions": [
+        "미확인"
+      ],
+      "location": "#",
+      "education": "대졸이상",
+      "experience": "경력",
+      "employment": "#",
+      "grade": "미공개",
+      "salary": "회사 내규에 따름",
+      "licenses": [],
+      "posted": null,
+      "start": "2026-09-26",
+      "end": "2026-11-25",
+      "duties": "품질관리 직무 경력직 채용 (원자력I&C품질관리)",
+      "qualifications": "상세 자격·우대 조건 원문 확인",
+      "detail": [],
+      "notes": "접수 중인 고용주 등록 원문 확인. 이미지형 상세 조건 미확인. 신규 발견한 기존 진행 공고.",
+      "relationType": "관련 분야 직접 직무",
+      "links": [
+        {
+          "label": "잡코리아 고용주 등록 원문",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50242300?Oem_Code=C1&listno=35&logpath=1&sc=630&stext=%EB%B9%84%ED%8C%8C%EA%B4%B4%EA%B2%80%EC%82%AC"
+        }
+      ],
+      "checked": "2026-11-18",
+      "verification": "고용주 등록 원문 모집요강·접수기간 확인; 상세 이미지/첨부 미확인",
+      "status": "open",
+      "openings": null,
+      "id": "jk-50242300",
+      "company": "두산에너빌리티㈜",
+      "title": "품질관리 직무 경력직 채용 (원자력I&C품질관리)",
+      "topics": [
+        "ic"
+      ]
     }
   ],
   "sources": [
     {
       "name": "한국원자력연구원",
       "url": "https://www.kaeri.re.kr/board?menuId=MENU00428",
-      "state": "확인",
-      "note": "추가 신규 미확인 이번 범위 확대에서는 포털의 교육센터 인턴 공고를 찾았으나 공식 공고 연결은 추가 확인 필요하여 신규 목록에서 제외.",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "한국원자력안전기술원",
       "url": "https://kins.recruiter.co.kr/app/jobnotice/list",
-      "state": "제한",
-      "note": "채용 목록 표시 제한",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "한국원자력통제기술원",
       "url": "https://www.kinac.re.kr/menu?menuId=MN0000000498",
-      "state": "확인",
-      "note": "공식 게시판으로 대체 확인",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "한국기초과학지원연구원",
       "url": "https://www.kbsi.re.kr/board?menuId=MENU002051102000000&boardId=BOARD00086",
-      "state": "확인",
-      "note": "추가 신규 미확인",
-      "checked": "2026-11-17"
+      "state": "확인 불가",
+      "note": "11/18 공개 화면 읽기 제한 또는 접속 오류. 확인했다고 간주하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "한국핵융합에너지연구원",
       "url": "https://www.kfe.re.kr/board.es?mid=a10304010000&bid=0013",
-      "state": "확인",
-      "note": "정규직 신규 · 지원 페이지 상태 차이",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "기초과학연구원",
       "url": "https://www.ibs.re.kr/prog/recruit/kor/sub04_01/list.do",
-      "state": "확인",
-      "note": "상대론적레이저 연구직·기술직 공식 공고와 첨부 직무기술서 확인",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "포항가속기연구소",
       "url": "https://pal.postech.ac.kr/ko/info/ablemanEmpmn.do",
-      "state": "확인",
-      "note": "기존 안내 공고 중복 제외",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "한국원자력의학원",
       "url": "https://www.kirams.re.kr/board/generalBoardList7.do",
-      "state": "확인",
-      "note": "공식 공고·첨부에서 방사성의약품 모집분야 확인",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "동남권원자력의학원",
       "url": "https://diramsjob.recruiter.co.kr/career/home",
-      "state": "제한",
-      "note": "채용 목록 표시 제한",
-      "checked": "2026-11-17"
+      "state": "확인 불가",
+      "note": "11/18 공개 화면 읽기 제한 또는 접속 오류. 확인했다고 간주하지 않음. JOB-ALIO 공식 본문과 공고·직무기술서 PDF는 별도 직접 검증.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "한국수력원자력",
       "url": "https://www.khnp.co.kr/trecruit/",
-      "state": "확인",
-      "note": "해외원전 통번역 공고·직무명세서·공개 월급 확인",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "한국전력기술",
       "url": "https://www.kepco-enc.com/board.es?mid=a10106020100&bid=0002",
-      "state": "확인",
-      "note": "추가 신규 미확인",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "한전원자력연료",
       "url": "https://recruit.incruit.com/knfcinsa/job/",
-      "state": "확인",
-      "note": "추가 신규 미확인",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "한국원자력환경공단",
       "url": "https://www.korad.or.kr/korad/board/index.do?manage_idx=26&menu_idx=438",
-      "state": "확인",
-      "note": "추가 신규 미확인",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "한국원자력안전재단",
       "url": "https://www.kofons.or.kr/web/cop/bbsWeb/selectBoardList.do?bbsId=BBSMSTR_000000000441",
-      "state": "확인",
-      "note": "추가 신규 미확인",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "한전KPS",
       "url": "https://www.kps.co.kr/web/company/recruit/posting/rolling.do",
-      "state": "확인",
-      "note": "JOB-ALIO 공고·첨부 대조",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "JOB-ALIO",
       "url": "https://job.alio.go.kr/",
-      "state": "확인",
-      "note": "신규 공고·첨부 확인",
-      "checked": "2026-11-17"
+      "state": "확인 불가",
+      "note": "11/18 공개 화면 읽기 제한 또는 접속 오류. 확인했다고 간주하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "원자력안전위원회",
       "url": "https://www.nssc.go.kr/",
-      "state": "확인",
-      "note": "생활방사선안전과장 공식 첨부 확인",
-      "checked": "2026-11-17"
+      "state": "확인 불가",
+      "note": "11/18 공개 화면 읽기 제한 또는 접속 오류. 확인했다고 간주하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "나라일터",
       "url": "https://www.gojobs.go.kr/",
-      "state": "일부",
-      "note": "공모직위·개별 공고 확인, 일부 목록 제한",
-      "checked": "2026-11-17"
+      "state": "확인 불가",
+      "note": "11/18 공개 화면 읽기 제한 또는 접속 오류. 확인했다고 간주하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "국가공무원채용시스템",
       "url": "https://gongmuwon.gosi.kr/",
-      "state": "제한",
-      "note": "채용 목록 확인 제한",
-      "checked": "2026-11-17"
+      "state": "확인 불가",
+      "note": "11/18 공개 화면 읽기 제한 또는 접속 오류. 확인했다고 간주하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "클린아이 잡플러스",
       "url": "https://job.cleaneye.go.kr/",
-      "state": "제한",
-      "note": "접속 오류",
-      "checked": "2026-11-17"
+      "state": "확인 불가",
+      "note": "11/18 공개 화면 읽기 제한 또는 접속 오류. 확인했다고 간주하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "국방부·해군",
       "url": "https://www.mnd.go.kr/",
-      "state": "제한",
-      "note": "일부 화면·접속 제한, 전체 첨부 미검증",
-      "checked": "2026-11-17"
+      "state": "확인 불가",
+      "note": "11/18 공개 화면 읽기 제한 또는 접속 오류. 확인했다고 간주하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "육군취업지원센터",
       "url": "https://armyjob.mil.kr/sites/job/index.do",
-      "state": "일부",
-      "note": "공식 게시판 접속, 전체 첨부 미검증",
-      "checked": "2026-11-17"
+      "state": "확인 불가",
+      "note": "11/18 공개 화면 읽기 제한 또는 접속 오류. 확인했다고 간주하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "한국방사선안전협회",
       "url": "https://www.kans.re.kr/bbs/board.php?bo_table=s2_4",
-      "state": "확인",
-      "note": "카이바이오텍 SRI 채용 원문 및 기존 공고 대조.",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "한국방사선진흥협회",
       "url": "https://www.koara.or.kr/hoiwon/",
-      "state": "확인",
-      "note": "회원사 채용 검색 대조",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "원전산업 통합지원 플랫폼",
       "url": "https://nisp.kr/rcrutPbanc/list.do",
-      "state": "확인",
-      "note": "원전 설계·해체·SW·제작·품질 기업 등록 상세 확인",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "사람인",
       "url": "https://www.saramin.co.kr/",
       "state": "일부",
-      "note": "확장 검색 56개 키워드·65페이지에서 후보 발견, 상세 205건 확인. 일부 시간초과·미확인 제외. 전수 수집 아님.",
-      "checked": "2026-11-17"
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "잡코리아",
       "url": "https://www.jobkorea.co.kr/",
-      "state": "확인",
-      "note": "원자력 SW 검증·I&C 및 의료영상 원문 확인, 사람인 중복 공고 병합.",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "인크루트",
       "url": "https://www.incruit.com/",
-      "state": "확인",
-      "note": "기존 등록 공고 및 공개 색인 목록 교차 대조. 이번 직접 키워드 검색 페이지는 접근 제한.",
-      "checked": "2026-11-17"
+      "state": "확인 불가",
+      "note": "11/18 공개 화면 읽기 제한 또는 접속 오류. 확인했다고 간주하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "고용24",
       "url": "https://www.work24.go.kr/",
-      "state": "확인",
-      "note": "GTS·현대기술검사 상세 공고에서 공개 연봉 및 접수기간 확인.",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "BRIC",
       "url": "https://www.ibric.org/bric/biojob/recruit.do",
-      "state": "확인",
-      "note": "공개 검색·상세 확인. 중입자치료 연구소 포닥·급여 추가",
-      "checked": "2026-11-17"
+      "state": "확인 불가",
+      "note": "11/18 공개 화면 읽기 제한 또는 접속 오류. 확인했다고 간주하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "JOBS.ac.kr",
       "url": "https://jobs.ac.kr",
-      "state": "확인",
-      "note": "공개 상세에서 DGIST 광자·방사선 검출 포닥 추가",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "RND JOB",
       "url": "https://www.rndjob.or.kr",
-      "state": "일부",
-      "note": "전문연구요원 채용관 원자력 검색에서 관련 진행 공고 미확인",
-      "checked": "2026-11-17"
+      "state": "확인 불가",
+      "note": "11/18 공개 화면 읽기 제한 또는 접속 오류. 확인했다고 간주하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "KIRD K-Club",
       "url": "https://k-club.kird.re.kr/prog/hibrain/career/sub04_01_02/list.do",
       "state": "일부",
-      "note": "연구인력 채용 목록 확인. 관련 신규 원문은 별도 확인 못함",
-      "checked": "2026-11-17"
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "하이브레인넷",
       "url": "https://www.hibrain.net/recruitment",
-      "state": "일부",
-      "note": "교수 유형 원자력·방사선의 진행·마감 목록 검색 및 진행 공고 본문 확인. 마감 상세는 회원 로그인이 필요하여 공개 자료로 보완.",
-      "checked": "2026-11-17"
+      "state": "확인 불가",
+      "note": "11/18 공개 화면 읽기 제한 또는 접속 오류. 확인했다고 간주하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "대한방사선방어학회",
       "url": "https://www.karp.or.kr/index.php?bo_idx=12&hCode=BOARD",
       "state": "일부",
-      "note": "구인 게시판 확인. 추가 공고의 현재 접수 여부 미확인",
-      "checked": "2026-11-17"
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "한국원자력학회",
       "url": "https://www.kns.org",
-      "state": "확인",
-      "note": "관련 학과 초빙 검색·본문에서 한양대·KAIST 접수 종료 확인",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "대학 공식 교수초빙 게시판",
       "url": "https://invite.unist.ac.kr/invite/main.do",
       "state": "일부",
-      "note": "교수 메뉴에서 대학별 확인 결과·마감·접근 제한을 별도로 표시",
-      "checked": "2026-11-17"
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "KAIST MIGHTY Lab",
       "url": "https://mighty.kaist.ac.kr/opening",
-      "state": "확인",
-      "note": "공식 상시 포닥 모집 본문 확인",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "병원 공식 채용 (방사선사·초음파사)",
       "url": "https://ilsan.paik.ac.kr/recruit/user/job/view.do?jobId=2056&menuNo=2400004",
-      "state": "확인",
-      "note": "부산백병원·가천대길병원·동강병원의 공개 공고 요건·접수기간 확인",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "의료 직무 공개 공고",
       "url": "https://www.saramin.co.kr/zf_user/jobs/list/job-category?cat_kewd=491",
       "state": "일부",
-      "note": "사람인·잡코리아·인크루트 의료 직무 확인. 검색 목록만 확인된 공고는 이번 목록에 추가하지 않음",
-      "checked": "2026-11-17"
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "근로복지공단 채용",
       "url": "https://www.comwel.or.kr/recruit/hp/main.do",
       "state": "확인 불가",
-      "note": "기관 사이트 접근 오류. JOB-ALIO 태백병원 공개 본문으로 확인",
-      "checked": "2026-11-17"
+      "note": "11/18 공개 화면 읽기 제한 또는 접속 오류. 확인했다고 간주하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "분당서울대학교병원 채용",
       "url": "https://snubh.recruiter.co.kr/appsite/company/index",
       "state": "일부",
-      "note": "공식 사이트 주소 확인. 모집 상세·첨부는 확인 제한, JOB-ALIO에 공개된 직종별 자격요건으로 정리",
-      "checked": "2026-11-17"
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "서울대학교 의학연구원",
       "url": "https://snumrc.snu.ac.kr/community/notice",
-      "state": "확인",
-      "note": "방사화학·MRI 연구교수 공식 공고 및 급여·접수기간 확인. 마감 이력으로 수록.",
-      "checked": "2026-11-17"
+      "state": "일부",
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "메디컬잡",
       "url": "https://www.medicaljob.co.kr/",
       "state": "일부",
-      "note": "한양대학교병원 의학물리 연구교원 모집 본문 확인. 요약 조건과 본문의 차이 명시.",
-      "checked": "2026-11-17"
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     },
     {
       "name": "서울대학교 원자핵공학과",
       "url": "https://nucleng.snu.ac.kr/community/notice?bbsidx=24083&md=v",
       "state": "일부",
-      "note": "11/17 게시 비전임교원 공식 본문 확인, 첨부 PDF 404. 조건 미확인 표시.",
-      "checked": "2026-11-17"
+      "note": "11/18 홈페이지/게시판 공개 화면 접속. 이 기록은 전체 채용 상세·첨부 검증을 의미하지 않음.",
+      "checked": "2026-11-18",
+      "lastAttempted": "2026-11-18"
     }
   ],
   "addedThisUpdate": [
-    "sr-55517603",
-    "sr-55523651",
-    "sr-55410749",
-    "sr-55473551",
-    "sr-55523633",
-    "sr-55495885",
-    "sr-55337882",
-    "sr-55460408",
-    "sr-55530866",
-    "sr-55493969",
-    "sr-55521829",
-    "sr-55554341",
-    "sr-55554259",
-    "sr-55307457",
-    "sr-55541067",
-    "sr-55468637",
-    "sr-55437755",
-    "sr-55541080",
-    "sr-55365976",
-    "sr-55400223",
-    "sr-55377475",
-    "sr-55134419",
-    "sr-55496001",
-    "sr-55472619",
-    "sr-55596065",
-    "sr-55383311",
-    "sr-55553739",
-    "sr-55596085",
-    "sr-55465459",
-    "sr-55226374",
-    "sr-55096678",
-    "sr-55552087",
-    "sr-55190124",
-    "sr-55455100",
-    "sr-55396465",
-    "sr-55532546",
-    "sr-55208627",
-    "sr-55211257",
-    "sr-55432534",
-    "sr-55081584",
-    "sr-55524155",
-    "sr-55496572",
-    "sr-55478931",
-    "sr-55425057",
-    "sr-55483173",
-    "sr-55209259",
-    "sr-55349975",
-    "sr-55272320",
-    "sr-55391730",
-    "sr-55532355",
-    "sr-55103623",
-    "sr-55330116",
-    "sr-55149209",
-    "sr-55175246",
-    "sr-55506492",
-    "sr-55555062",
-    "sr-55089531",
-    "sr-55467913",
-    "sr-55110963",
-    "sr-55297146",
-    "sr-55412556",
-    "sr-55418179",
-    "sr-55542740",
-    "sr-55400173",
-    "sr-55554697",
-    "sr-55478679",
-    "sr-55142800",
-    "sr-55336929",
-    "sr-55542288",
-    "sr-55257818",
-    "sr-55512593",
-    "sr-55201557",
-    "sr-55515245",
-    "sr-55257004",
-    "sr-55481813",
-    "sr-55544916",
-    "sr-55525032",
-    "sr-55308290",
-    "sr-55355004",
-    "sr-55525431",
-    "sr-55545390",
-    "sr-55530030",
-    "sr-55480788",
-    "sr-55497386",
-    "sr-55454575",
-    "sr-55412019",
-    "sr-55328381",
-    "sr-55330112",
-    "sr-55424753",
-    "sr-55556766",
-    "sr-55342723",
-    "sr-55450028",
-    "sr-55077359",
-    "sr-55519624",
-    "sr-55089035",
-    "sr-55287362",
-    "sr-55529294",
-    "sr-55536658",
-    "sr-55296716",
-    "sr-55372792",
-    "sr-55300348",
-    "sr-55085489",
-    "sr-55360748",
-    "sr-55542275",
-    "sr-55399683",
-    "sr-55577750",
-    "sr-55523428",
-    "sr-55576835",
-    "sr-55310403",
-    "sr-55586965",
-    "sr-55547910",
-    "sr-55362447",
-    "sr-55401654",
-    "sr-55376857",
-    "sr-55554199",
-    "sr-55529505",
-    "sr-55466937",
-    "sr-55491458",
-    "sr-55587836",
-    "sr-55594807",
-    "sr-55521053",
-    "sr-55365231",
-    "sr-55411703",
-    "sr-55579765",
-    "sr-55519679",
-    "sr-55369628",
-    "sr-55579728",
-    "sr-55457765",
-    "sr-55522142",
-    "sr-55191346",
-    "sr-55518874",
-    "sr-55486140",
-    "sr-55472635",
-    "sr-55532844",
-    "sr-55502448",
-    "sr-55329691",
-    "sr-55543372",
-    "sr-55328668",
-    "sr-55128266",
-    "sr-55283658",
-    "sr-55578324",
-    "sr-55176675",
-    "sr-55325445",
-    "sr-55338773",
-    "sr-55364849",
-    "sr-55535585",
-    "sr-55286838",
-    "sr-55594963",
-    "sr-55162466",
-    "sr-55521743",
-    "sr-55581460",
-    "sr-55329698",
-    "sr-55535228",
-    "sr-55329703",
-    "sr-55395916",
-    "sr-55594706",
-    "sr-55402647",
-    "sr-55568041",
-    "sr-55422906",
-    "sr-55388915",
-    "snu-nucl-24083",
-    "sr-55593244"
+    "jk-50041734",
+    "jk-50350474",
+    "jk-50275947",
+    "jk-50249187",
+    "jk-50308672",
+    "jk-50083022",
+    "sr-55427954",
+    "sr-55146567",
+    "sr-55530539",
+    "sr-55428086",
+    "sr-55566964",
+    "sr-55377976",
+    "jk-50315760",
+    "sr-55355655",
+    "sr-55500518",
+    "sr-55528845",
+    "jk-50361453",
+    "sr-55352101",
+    "jk-50345563",
+    "jk-50325730",
+    "jk-50227756",
+    "dirams-307126",
+    "dirams-307127",
+    "dirams-307123",
+    "busan-308047-nuclear",
+    "remember-340354",
+    "jk-50238380",
+    "jk-50286891",
+    "jk-50242300"
   ],
   "exclusions": [
     {
@@ -18056,7 +19256,7 @@
     "timezone": "Asia/Seoul",
     "scheduledTime": "10:00",
     "nextRunAt": "2026-11-18T10:00:00+09:00",
-    "lastScheduledRunAt": null,
+    "lastScheduledRunAt": "2026-11-18T10:02:38+09:00",
     "note": "검색·검증 후 GitHub Pages 데이터 갱신 작업 예약. 예정 시각은 작업 시작 기준이며 완료 시각을 보장하지 않음."
   },
   "updateHistory": [
@@ -18081,470 +19281,1501 @@
       "merged": 7,
       "retagged": 8,
       "note": "7개 탭 150개 키워드 사전 구성. 방사성·동위원소·삼중수소·차폐해석 등 56개 검색어와 일부 2페이지 교차 검색. 원문 검증·중복 병합·인접직무 구분."
+    },
+    {
+      "date": "2026-11-18",
+      "added": 29,
+      "changed": 10,
+      "merged": 9,
+      "closed": 1,
+      "note": "200개 키워드 교차검색. 공식·고용주 원문으로 신규/추가 발견 공고 수록, 동남권 재공고·박사후연구원 PDF 검증, 단일 주분야 분류 유지."
     }
   ],
   "trendStart": "2026-10-01",
   "searchAudit": {
-    "date": "2026-11-17",
-    "keywordDictionarySize": 150,
-    "independentKeywordsSearched": 56,
-    "searchPages": 65,
-    "publicSearchCandidates": 676,
-    "detailCandidates": 217,
-    "detailsVerified": 205,
-    "addedRecords": 162,
-    "mergedRecords": 7,
-    "retaggedRecords": 8,
+    "date": "2026-11-18",
+    "keywordDictionarySize": 200,
+    "independentKeywordsSearched": 200,
     "queries": [
       {
-        "query": "방사성",
-        "page": 1,
-        "resultItems": 40,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%B1&recruitPage=1&recruitPageCount=40"
+        "topic": "safety",
+        "keyword": "방사선안전",
+        "query": "방사선안전 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "방사성동위원소",
-        "page": 1,
-        "resultItems": 40,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%B1%EB%8F%99%EC%9C%84%EC%9B%90%EC%86%8C&recruitPage=1&recruitPageCount=40"
+        "topic": "safety",
+        "keyword": "방사성",
+        "query": "방사성 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "방사선취급감독자",
-        "page": 1,
-        "resultItems": 10,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%A0%EC%B7%A8%EA%B8%89%EA%B0%90%EB%8F%85%EC%9E%90&recruitPage=1&recruitPageCount=40"
+        "topic": "safety",
+        "keyword": "방사성동위원소",
+        "query": "방사성동위원소 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "동위원소",
-        "page": 1,
-        "resultItems": 40,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%8F%99%EC%9C%84%EC%9B%90%EC%86%8C&recruitPage=1&recruitPageCount=40"
+        "topic": "safety",
+        "keyword": "방사선취급감독자",
+        "query": "방사선취급감독자 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "삼중수소",
-        "page": 1,
-        "resultItems": 1,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%82%BC%EC%A4%91%EC%88%98%EC%86%8C&recruitPage=1&recruitPageCount=40"
+        "topic": "safety",
+        "keyword": "동위원소",
+        "query": "동위원소 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "차폐해석",
-        "page": 1,
-        "resultItems": 15,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%B0%A8%ED%8F%90%ED%95%B4%EC%84%9D&recruitPage=1&recruitPageCount=40"
+        "topic": "safety",
+        "keyword": "삼중수소",
+        "query": "삼중수소 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "차폐",
-        "page": 1,
-        "resultItems": 40,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%B0%A8%ED%8F%90&recruitPage=1&recruitPageCount=40"
+        "topic": "safety",
+        "keyword": "차폐해석",
+        "query": "차폐해석 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "선량평가",
-        "page": 1,
-        "resultItems": 8,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%84%A0%EB%9F%89%ED%8F%89%EA%B0%80&recruitPage=1&recruitPageCount=40"
+        "topic": "safety",
+        "keyword": "방사선방호",
+        "query": "방사선방호 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "보건물리",
-        "page": 1,
-        "resultItems": 40,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B3%B4%EA%B1%B4%EB%AC%BC%EB%A6%AC&recruitPage=1&recruitPageCount=40"
+        "topic": "safety",
+        "keyword": "선량평가",
+        "query": "선량평가 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "방사선관리기술사",
-        "page": 1,
-        "resultItems": 4,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%A0%EA%B4%80%EB%A6%AC%EA%B8%B0%EC%88%A0%EC%82%AC&recruitPage=1&recruitPageCount=40"
+        "topic": "safety",
+        "keyword": "피폭관리",
+        "query": "피폭관리 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "MCNP",
-        "page": 1,
-        "resultItems": 20,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=MCNP&recruitPage=1&recruitPageCount=40"
+        "topic": "safety",
+        "keyword": "보건물리",
+        "query": "보건물리 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "PHITS",
-        "page": 1,
-        "resultItems": 20,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=PHITS&recruitPage=1&recruitPageCount=40"
+        "topic": "safety",
+        "keyword": "방사선관리기술사",
+        "query": "방사선관리기술사 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "Geant4",
-        "page": 1,
-        "resultItems": 20,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=Geant4&recruitPage=1&recruitPageCount=40"
+        "topic": "safety",
+        "keyword": "SRI",
+        "query": "SRI 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "원자력",
-        "page": 1,
-        "resultItems": 40,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%9E%90%EB%A0%A5&recruitPage=1&recruitPageCount=40"
+        "topic": "safety",
+        "keyword": "RI",
+        "query": "RI 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "원전",
-        "page": 1,
-        "resultItems": 40,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%A0%84&recruitPage=1&recruitPageCount=40"
+        "topic": "safety",
+        "keyword": "누설점검",
+        "query": "누설점검 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "원자로",
-        "page": 1,
-        "resultItems": 14,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%9E%90%EB%A1%9C&recruitPage=1&recruitPageCount=40"
+        "topic": "safety",
+        "keyword": "방사선 계측",
+        "query": "방사선 계측 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "SMR",
-        "page": 1,
-        "resultItems": 20,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=SMR&recruitPage=1&recruitPageCount=40"
+        "topic": "safety",
+        "keyword": "방사선 발생장치",
+        "query": "방사선 발생장치 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "원전 PSA",
-        "page": 1,
-        "resultItems": 20,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%A0%84+PSA&recruitPage=1&recruitPageCount=40"
+        "topic": "safety",
+        "keyword": "안전관리 업무대행",
+        "query": "안전관리 업무대행 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "열수력",
-        "page": 1,
-        "resultItems": 1,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%97%B4%EC%88%98%EB%A0%A5&recruitPage=1&recruitPageCount=40"
+        "topic": "safety",
+        "keyword": "MCNP",
+        "query": "MCNP 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "방폐물",
-        "page": 1,
-        "resultItems": 1,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%ED%8F%90%EB%AC%BC&recruitPage=1&recruitPageCount=40"
+        "topic": "safety",
+        "keyword": "PHITS",
+        "query": "PHITS 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "제염",
-        "page": 1,
-        "resultItems": 3,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%A0%9C%EC%97%BC&recruitPage=1&recruitPageCount=40"
+        "topic": "safety",
+        "keyword": "Geant4",
+        "query": "Geant4 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "핵연료",
-        "page": 1,
-        "resultItems": 3,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%ED%95%B5%EC%97%B0%EB%A3%8C&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "원자력안전",
+        "query": "원자력안전 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "원자력 인허가",
-        "page": 1,
-        "resultItems": 24,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%9E%90%EB%A0%A5+%EC%9D%B8%ED%97%88%EA%B0%80&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "원전",
+        "query": "원전 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "CGID",
-        "page": 1,
-        "resultItems": 3,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=CGID&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "원자로",
+        "query": "원자로 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "방사화학",
-        "page": 1,
-        "resultItems": 16,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%ED%99%94%ED%95%99&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "SMR",
+        "query": "SMR 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "방사성의약품",
-        "page": 1,
-        "resultItems": 13,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%B1%EC%9D%98%EC%95%BD%ED%92%88&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "인허가",
+        "query": "인허가 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "사이클로트론",
-        "page": 1,
-        "resultItems": 20,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%82%AC%EC%9D%B4%ED%81%B4%EB%A1%9C%ED%8A%B8%EB%A1%A0&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "안전해석",
+        "query": "안전해석 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "핵융합",
-        "page": 1,
-        "resultItems": 10,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%ED%95%B5%EC%9C%B5%ED%95%A9&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "열수력",
+        "query": "열수력 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "중성자",
-        "page": 1,
-        "resultItems": 2,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%A4%91%EC%84%B1%EC%9E%90&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "PSA",
+        "query": "PSA 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "가속기",
-        "page": 1,
-        "resultItems": 40,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EA%B0%80%EC%86%8D%EA%B8%B0&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "핵연료",
+        "query": "핵연료 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "방사선 검출기",
-        "page": 1,
-        "resultItems": 6,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%A0+%EA%B2%80%EC%B6%9C%EA%B8%B0&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "노심설계",
+        "query": "노심설계 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "의학물리",
-        "page": 1,
-        "resultItems": 40,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9D%98%ED%95%99%EB%AC%BC%EB%A6%AC&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "규제",
+        "query": "규제 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "핵의학 연구",
-        "page": 1,
-        "resultItems": 5,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%ED%95%B5%EC%9D%98%ED%95%99+%EC%97%B0%EA%B5%AC&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "안전성평가",
+        "query": "안전성평가 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "방사선 계측",
-        "page": 1,
-        "resultItems": 18,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%A0+%EA%B3%84%EC%B8%A1&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "확률론적안전성평가",
+        "query": "확률론적안전성평가 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "EPICS",
-        "page": 1,
-        "resultItems": 1,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=EPICS&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "중대사고",
+        "query": "중대사고 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "원전 제어",
-        "page": 1,
-        "resultItems": 16,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%A0%84+%EC%A0%9C%EC%96%B4&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "KEPIC",
+        "query": "KEPIC 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "원자력 SW",
-        "page": 1,
-        "resultItems": 40,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%9E%90%EB%A0%A5+SW&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "기기검증",
+        "query": "기기검증 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "원전 V&V",
-        "page": 1,
-        "resultItems": 3,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%A0%84+V%26V&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "CGID",
+        "query": "CGID 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "방사선검출기",
-        "page": 1,
-        "resultItems": 6,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%A0%EA%B2%80%EC%B6%9C%EA%B8%B0&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "품질보증",
+        "query": "품질보증 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "원자력 펌웨어",
-        "page": 1,
-        "resultItems": 10,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%9E%90%EB%A0%A5+%ED%8E%8C%EC%9B%A8%EC%96%B4&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "QA",
+        "query": "QA 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "핵의학",
-        "page": 1,
-        "resultItems": 27,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%ED%95%B5%EC%9D%98%ED%95%99&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "제염",
+        "query": "제염 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "방사선치료",
-        "page": 1,
-        "resultItems": 40,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%A0%EC%B9%98%EB%A3%8C&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "해체",
+        "query": "해체 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "CT 방사선사",
-        "page": 1,
-        "resultItems": 40,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=CT+%EB%B0%A9%EC%82%AC%EC%84%A0%EC%82%AC&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "방사성폐기물",
+        "query": "방사성폐기물 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "MRI 방사선사",
-        "page": 1,
-        "resultItems": 40,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=MRI+%EB%B0%A9%EC%82%AC%EC%84%A0%EC%82%AC&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "방폐물",
+        "query": "방폐물 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "유방촬영",
-        "page": 1,
-        "resultItems": 40,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9C%A0%EB%B0%A9%EC%B4%AC%EC%98%81&recruitPage=1&recruitPageCount=40"
+        "topic": "nuclear_safety",
+        "keyword": "사용후핵연료",
+        "query": "사용후핵연료 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "C-arm",
-        "page": 1,
-        "resultItems": 40,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=C-arm&recruitPage=1&recruitPageCount=40"
+        "topic": "accelerator",
+        "keyword": "가속기",
+        "query": "가속기 가속기 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "소노그레퍼",
-        "page": 1,
-        "resultItems": 40,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%86%8C%EB%85%B8%EA%B7%B8%EB%A0%88%ED%8D%BC&recruitPage=1&recruitPageCount=40"
+        "topic": "accelerator",
+        "keyword": "입자가속기",
+        "query": "입자가속기 가속기 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "혈관초음파",
-        "page": 1,
-        "resultItems": 10,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%ED%98%88%EA%B4%80%EC%B4%88%EC%9D%8C%ED%8C%8C&recruitPage=1&recruitPageCount=40"
+        "topic": "accelerator",
+        "keyword": "사이클로트론",
+        "query": "사이클로트론 가속기 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "복부초음파",
-        "page": 1,
-        "resultItems": 19,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B3%B5%EB%B6%80%EC%B4%88%EC%9D%8C%ED%8C%8C&recruitPage=1&recruitPageCount=40"
+        "topic": "accelerator",
+        "keyword": "선형가속기",
+        "query": "선형가속기 가속기 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "유방초음파",
-        "page": 1,
-        "resultItems": 38,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9C%A0%EB%B0%A9%EC%B4%88%EC%9D%8C%ED%8C%8C&recruitPage=1&recruitPageCount=40"
+        "topic": "accelerator",
+        "keyword": "LINAC",
+        "query": "LINAC 가속기 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "초음파 임상",
-        "page": 1,
-        "resultItems": 40,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%B4%88%EC%9D%8C%ED%8C%8C+%EC%9E%84%EC%83%81&recruitPage=1&recruitPageCount=40"
+        "topic": "accelerator",
+        "keyword": "cyclotron",
+        "query": "cyclotron 가속기 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "sonographer",
-        "page": 1,
-        "resultItems": 40,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=sonographer&recruitPage=1&recruitPageCount=40"
+        "topic": "accelerator",
+        "keyword": "synchrotron",
+        "query": "synchrotron 가속기 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "원자력 교수",
-        "page": 1,
-        "resultItems": 5,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%9E%90%EB%A0%A5+%EA%B5%90%EC%88%98&recruitPage=1&recruitPageCount=40"
+        "topic": "accelerator",
+        "keyword": "방사광가속기",
+        "query": "방사광가속기 가속기 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "방사선 교수",
-        "page": 1,
-        "resultItems": 13,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%A0+%EA%B5%90%EC%88%98&recruitPage=1&recruitPageCount=40"
+        "topic": "accelerator",
+        "keyword": "중이온가속기",
+        "query": "중이온가속기 가속기 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "의학물리 교수",
-        "page": 1,
-        "resultItems": 2,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9D%98%ED%95%99%EB%AC%BC%EB%A6%AC+%EA%B5%90%EC%88%98&recruitPage=1&recruitPageCount=40"
+        "topic": "accelerator",
+        "keyword": "양성자가속기",
+        "query": "양성자가속기 가속기 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "방사선 연구교수",
-        "page": 1,
-        "resultItems": 2,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%A0+%EC%97%B0%EA%B5%AC%EA%B5%90%EC%88%98&recruitPage=1&recruitPageCount=40"
+        "topic": "accelerator",
+        "keyword": "빔라인",
+        "query": "빔라인 가속기 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "방사성",
-        "page": 2,
-        "resultItems": 23,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%B1&recruitPage=2&recruitPageCount=40"
+        "topic": "accelerator",
+        "keyword": "빔 진단",
+        "query": "빔 진단 가속기 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "동위원소",
-        "page": 2,
-        "resultItems": 14,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%8F%99%EC%9C%84%EC%9B%90%EC%86%8C&recruitPage=2&recruitPageCount=40"
+        "topic": "accelerator",
+        "keyword": "빔 광학",
+        "query": "빔 광학 가속기 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "원자력",
-        "page": 2,
-        "resultItems": 40,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%9E%90%EB%A0%A5&recruitPage=2&recruitPageCount=40"
+        "topic": "accelerator",
+        "keyword": "가속관",
+        "query": "가속관 가속기 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "원전",
-        "page": 2,
-        "resultItems": 38,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%A0%84&recruitPage=2&recruitPageCount=40"
+        "topic": "accelerator",
+        "keyword": "RF",
+        "query": "RF 가속기 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "방사성의약품",
-        "page": 2,
-        "resultItems": 0,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%B1%EC%9D%98%EC%95%BD%ED%92%88&recruitPage=2&recruitPageCount=40"
+        "topic": "accelerator",
+        "keyword": "고주파",
+        "query": "고주파 가속기 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "가속기",
-        "page": 2,
-        "resultItems": 22,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EA%B0%80%EC%86%8D%EA%B8%B0&recruitPage=2&recruitPageCount=40"
+        "topic": "accelerator",
+        "keyword": "진공",
+        "query": "진공 가속기 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "핵의학",
-        "page": 2,
-        "resultItems": 0,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%ED%95%B5%EC%9D%98%ED%95%99&recruitPage=2&recruitPageCount=40"
+        "topic": "accelerator",
+        "keyword": "가속기 마그네트",
+        "query": "가속기 마그네트 가속기 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "C-arm",
-        "page": 2,
-        "resultItems": 40,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=C-arm&recruitPage=2&recruitPageCount=40"
+        "topic": "accelerator",
+        "keyword": "초전도자석",
+        "query": "초전도자석 가속기 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       },
       {
-        "query": "소노그레퍼",
-        "page": 2,
-        "resultItems": 34,
-        "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%86%8C%EB%85%B8%EA%B7%B8%EB%A0%88%ED%8D%BC&recruitPage=2&recruitPageCount=40"
+        "topic": "accelerator",
+        "keyword": "EPICS",
+        "query": "EPICS 가속기 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "accelerator",
+        "keyword": "인터록",
+        "query": "인터록 가속기 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "accelerator",
+        "keyword": "가속기 제어",
+        "query": "가속기 제어 가속기 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "research",
+        "keyword": "연구개발",
+        "query": "연구개발 방사선 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "research",
+        "keyword": "R&D",
+        "query": "R&D 방사선 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "research",
+        "keyword": "연구원",
+        "query": "연구원 방사선 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "research",
+        "keyword": "박사후연구원",
+        "query": "박사후연구원 방사선 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "research",
+        "keyword": "Postdoc",
+        "query": "Postdoc 방사선 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "research",
+        "keyword": "방사화학",
+        "query": "방사화학 방사선 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "research",
+        "keyword": "방사성의약품",
+        "query": "방사성의약품 방사선 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "research",
+        "keyword": "동위원소",
+        "query": "동위원소 방사선 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "research",
+        "keyword": "중성자",
+        "query": "중성자 방사선 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "research",
+        "keyword": "가속기",
+        "query": "가속기 방사선 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "research",
+        "keyword": "사이클로트론",
+        "query": "사이클로트론 방사선 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "research",
+        "keyword": "핵융합",
+        "query": "핵융합 방사선 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "research",
+        "keyword": "플라즈마",
+        "query": "플라즈마 방사선 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "research",
+        "keyword": "초전도자석",
+        "query": "초전도자석 방사선 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "research",
+        "keyword": "검출기",
+        "query": "검출기 방사선 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "research",
+        "keyword": "의학물리",
+        "query": "의학물리 방사선 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "research",
+        "keyword": "방사선 계측",
+        "query": "방사선 계측 방사선 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "research",
+        "keyword": "방사선 차폐소재",
+        "query": "방사선 차폐소재 방사선 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "research",
+        "keyword": "X-ray 개발",
+        "query": "X-ray 개발 방사선 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "research",
+        "keyword": "방사선치료",
+        "query": "방사선치료 방사선 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "research",
+        "keyword": "방사성 표지",
+        "query": "방사성 표지 방사선 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "research",
+        "keyword": "핵의학 연구",
+        "query": "핵의학 연구 방사선 원자력 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ic",
+        "keyword": "계측제어",
+        "query": "계측제어 원자력 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ic",
+        "keyword": "I&C",
+        "query": "I&C 원자력 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ic",
+        "keyword": "제어계측",
+        "query": "제어계측 원자력 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ic",
+        "keyword": "방사선 계측",
+        "query": "방사선 계측 원자력 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ic",
+        "keyword": "방사선검출기",
+        "query": "방사선검출기 원자력 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ic",
+        "keyword": "원전 SW",
+        "query": "원전 SW 원자력 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ic",
+        "keyword": "원전 제어",
+        "query": "원전 제어 원자력 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ic",
+        "keyword": "V&V",
+        "query": "V&V 원자력 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ic",
+        "keyword": "SQA",
+        "query": "SQA 원자력 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ic",
+        "keyword": "소프트웨어 검증",
+        "query": "소프트웨어 검증 원자력 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ic",
+        "keyword": "펌웨어",
+        "query": "펌웨어 원자력 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ic",
+        "keyword": "임베디드",
+        "query": "임베디드 원자력 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ic",
+        "keyword": "FPGA",
+        "query": "FPGA 원자력 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ic",
+        "keyword": "PLC",
+        "query": "PLC 원자력 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ic",
+        "keyword": "DCS",
+        "query": "DCS 원자력 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ic",
+        "keyword": "EPICS",
+        "query": "EPICS 원자력 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ic",
+        "keyword": "DAQ",
+        "query": "DAQ 원자력 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ic",
+        "keyword": "데이터 수집",
+        "query": "데이터 수집 원자력 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ic",
+        "keyword": "인터록",
+        "query": "인터록 원자력 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ic",
+        "keyword": "원전 사이버보안",
+        "query": "원전 사이버보안 원자력 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ic",
+        "keyword": "LINAC RF",
+        "query": "LINAC RF 원자력 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ic",
+        "keyword": "빔 진단",
+        "query": "빔 진단 원자력 방사선 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ndt",
+        "keyword": "비파괴",
+        "query": "비파괴 비파괴검사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ndt",
+        "keyword": "비파괴검사",
+        "query": "비파괴검사 비파괴검사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ndt",
+        "keyword": "NDT",
+        "query": "NDT 비파괴검사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ndt",
+        "keyword": "NDE",
+        "query": "NDE 비파괴검사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ndt",
+        "keyword": "RT",
+        "query": "RT 비파괴검사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ndt",
+        "keyword": "방사선투과검사",
+        "query": "방사선투과검사 비파괴검사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ndt",
+        "keyword": "산업방사선",
+        "query": "산업방사선 비파괴검사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ndt",
+        "keyword": "UT",
+        "query": "UT 비파괴검사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ndt",
+        "keyword": "PAUT",
+        "query": "PAUT 비파괴검사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ndt",
+        "keyword": "TOFD",
+        "query": "TOFD 비파괴검사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ndt",
+        "keyword": "초음파탐상",
+        "query": "초음파탐상 비파괴검사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ndt",
+        "keyword": "위상배열",
+        "query": "위상배열 비파괴검사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ndt",
+        "keyword": "MT",
+        "query": "MT 비파괴검사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ndt",
+        "keyword": "PT",
+        "query": "PT 비파괴검사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ndt",
+        "keyword": "ET",
+        "query": "ET 비파괴검사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ndt",
+        "keyword": "자분탐상",
+        "query": "자분탐상 비파괴검사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ndt",
+        "keyword": "침투탐상",
+        "query": "침투탐상 비파괴검사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ndt",
+        "keyword": "와전류",
+        "query": "와전류 비파괴검사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ndt",
+        "keyword": "용접검사",
+        "query": "용접검사 비파괴검사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ndt",
+        "keyword": "검사원",
+        "query": "검사원 비파괴검사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "ndt",
+        "keyword": "비파괴검사기사",
+        "query": "비파괴검사기사 비파괴검사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "radiographer",
+        "keyword": "방사선사",
+        "query": "방사선사 방사선사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "radiographer",
+        "keyword": "영상의학",
+        "query": "영상의학 방사선사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "radiographer",
+        "keyword": "일반촬영",
+        "query": "일반촬영 방사선사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "radiographer",
+        "keyword": "X-ray",
+        "query": "X-ray 방사선사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "radiographer",
+        "keyword": "엑스레이",
+        "query": "엑스레이 방사선사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "radiographer",
+        "keyword": "CT",
+        "query": "CT 방사선사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "radiographer",
+        "keyword": "MRI",
+        "query": "MRI 방사선사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "radiographer",
+        "keyword": "C-arm",
+        "query": "C-arm 방사선사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "radiographer",
+        "keyword": "씨암",
+        "query": "씨암 방사선사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "radiographer",
+        "keyword": "유방촬영",
+        "query": "유방촬영 방사선사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "radiographer",
+        "keyword": "Mammo",
+        "query": "Mammo 방사선사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "radiographer",
+        "keyword": "핵의학",
+        "query": "핵의학 방사선사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "radiographer",
+        "keyword": "PET-CT",
+        "query": "PET-CT 방사선사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "radiographer",
+        "keyword": "PET/CT",
+        "query": "PET/CT 방사선사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "radiographer",
+        "keyword": "감마카메라",
+        "query": "감마카메라 방사선사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "radiographer",
+        "keyword": "방사선치료",
+        "query": "방사선치료 방사선사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "radiographer",
+        "keyword": "선형가속기",
+        "query": "선형가속기 방사선사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "radiographer",
+        "keyword": "혈관조영",
+        "query": "혈관조영 방사선사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "radiographer",
+        "keyword": "Angio",
+        "query": "Angio 방사선사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "radiographer",
+        "keyword": "건강검진",
+        "query": "건강검진 방사선사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "radiographer",
+        "keyword": "검진센터",
+        "query": "검진센터 방사선사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "radiographer",
+        "keyword": "어플리케이터",
+        "query": "어플리케이터 방사선사 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "sonographer",
+        "keyword": "초음파",
+        "query": "초음파 의료 초음파 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "sonographer",
+        "keyword": "초음파사",
+        "query": "초음파사 의료 초음파 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "sonographer",
+        "keyword": "소노그래퍼",
+        "query": "소노그래퍼 의료 초음파 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "sonographer",
+        "keyword": "소노그레퍼",
+        "query": "소노그레퍼 의료 초음파 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "sonographer",
+        "keyword": "심초음파",
+        "query": "심초음파 의료 초음파 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "sonographer",
+        "keyword": "심장초음파",
+        "query": "심장초음파 의료 초음파 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "sonographer",
+        "keyword": "혈관초음파",
+        "query": "혈관초음파 의료 초음파 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "sonographer",
+        "keyword": "복부초음파",
+        "query": "복부초음파 의료 초음파 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "sonographer",
+        "keyword": "유방초음파",
+        "query": "유방초음파 의료 초음파 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "sonographer",
+        "keyword": "산모초음파",
+        "query": "산모초음파 의료 초음파 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "sonographer",
+        "keyword": "산부인과 초음파",
+        "query": "산부인과 초음파 의료 초음파 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "sonographer",
+        "keyword": "경동맥",
+        "query": "경동맥 의료 초음파 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "sonographer",
+        "keyword": "심장생리",
+        "query": "심장생리 의료 초음파 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "sonographer",
+        "keyword": "sonographer",
+        "query": "sonographer 의료 초음파 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "sonographer",
+        "keyword": "sonography",
+        "query": "sonography 의료 초음파 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "sonographer",
+        "keyword": "ultrasound",
+        "query": "ultrasound 의료 초음파 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "sonographer",
+        "keyword": "ultrasonography",
+        "query": "ultrasonography 의료 초음파 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "sonographer",
+        "keyword": "초음파 임상",
+        "query": "초음파 임상 의료 초음파 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "sonographer",
+        "keyword": "clinical application",
+        "query": "clinical application 의료 초음파 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "sonographer",
+        "keyword": "초음파 어시스트",
+        "query": "초음파 어시스트 의료 초음파 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "other",
+        "keyword": "원자력 영업",
+        "query": "원자력 영업  채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "other",
+        "keyword": "방사선 장비 영업",
+        "query": "방사선 장비 영업  채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "other",
+        "keyword": "원전 시공",
+        "query": "원전 시공  채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "other",
+        "keyword": "원전 정비",
+        "query": "원전 정비  채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "other",
+        "keyword": "방사성의약품 인사",
+        "query": "방사성의약품 인사  채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "other",
+        "keyword": "연구행정",
+        "query": "연구행정  채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "other",
+        "keyword": "원전 사업관리",
+        "query": "원전 사업관리  채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "faculty",
+        "keyword": "원자력공학과",
+        "query": "원자력공학과 교수 초빙 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "faculty",
+        "keyword": "원자핵공학과",
+        "query": "원자핵공학과 교수 초빙 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "faculty",
+        "keyword": "방사선학과",
+        "query": "방사선학과 교수 초빙 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "faculty",
+        "keyword": "방사선의과학",
+        "query": "방사선의과학 교수 초빙 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "faculty",
+        "keyword": "원자력시스템",
+        "query": "원자력시스템 교수 초빙 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "faculty",
+        "keyword": "핵융합",
+        "query": "핵융합 교수 초빙 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "faculty",
+        "keyword": "의학물리",
+        "query": "의학물리 교수 초빙 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "faculty",
+        "keyword": "원자로",
+        "query": "원자로 교수 초빙 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "faculty",
+        "keyword": "방사화학",
+        "query": "방사화학 교수 초빙 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "faculty",
+        "keyword": "방사성의약품",
+        "query": "방사성의약품 교수 초빙 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "faculty",
+        "keyword": "교수 초빙",
+        "query": "교수 초빙 교수 초빙 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "faculty",
+        "keyword": "전임교원",
+        "query": "전임교원 교수 초빙 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "faculty",
+        "keyword": "비전임교원",
+        "query": "비전임교원 교수 초빙 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "faculty",
+        "keyword": "연구교수",
+        "query": "연구교수 교수 초빙 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "faculty",
+        "keyword": "초빙교수",
+        "query": "초빙교수 교수 초빙 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "faculty",
+        "keyword": "겸임교수",
+        "query": "겸임교수 교수 초빙 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "faculty",
+        "keyword": "강의전담",
+        "query": "강의전담 교수 초빙 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "faculty",
+        "keyword": "방사선 교수",
+        "query": "방사선 교수 교수 초빙 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
+      },
+      {
+        "topic": "faculty",
+        "keyword": "원자력 교수",
+        "query": "원자력 교수 교수 초빙 채용 2026 11월",
+        "method": "공개 웹 검색 색인",
+        "page": 1
       }
     ],
-    "coverage": "공개 검색에서 확인한 범위만 수록. 검색어 사전 전체를 이번에 모두 조회한 것은 아님. 원문 실패·동음어·무관 추천·동일 모집 제외.",
-    "excludedIds": [
-      "55417472",
-      "55511012",
-      "55538590",
-      "55509892",
-      "55140813",
-      "55461406",
-      "55580809",
-      "55090726",
-      "55324915",
-      "55378411",
-      "55566170",
-      "55423138",
-      "55570658",
-      "55204325",
-      "55363194",
-      "55552657",
-      "55594239",
-      "55556651",
-      "55524539",
-      "55556827",
-      "55485658",
-      "55338530",
-      "55416896",
-      "55599197",
-      "55558173",
-      "55474570",
-      "55263709",
-      "55595526",
-      "55482754",
-      "55494028",
-      "55263801",
-      "55219516",
-      "55568428",
-      "55568315",
-      "55593244",
-      "55453563",
-      "55330358",
-      "55226999"
+    "sourceUrlsAttempted": [
+      "https://www.kaeri.re.kr/board?menuId=MENU00428",
+      "https://kins.recruiter.co.kr/app/jobnotice/list",
+      "https://www.kinac.re.kr/menu?menuId=MN0000000498",
+      "https://www.kbsi.re.kr/board?menuId=MENU002051102000000&boardId=BOARD00086",
+      "https://www.kfe.re.kr/board.es?mid=a10304010000&bid=0013",
+      "https://www.ibs.re.kr/prog/recruit/kor/sub04_01/list.do",
+      "https://pal.postech.ac.kr/ko/info/ablemanEmpmn.do",
+      "https://www.kirams.re.kr/board/generalBoardList7.do",
+      "https://diramsjob.recruiter.co.kr/career/home",
+      "https://www.khnp.co.kr/trecruit/",
+      "https://www.kepco-enc.com/board.es?mid=a10106020100&bid=0002",
+      "https://recruit.incruit.com/knfcinsa/job/",
+      "https://www.korad.or.kr/korad/board/index.do?manage_idx=26&menu_idx=438",
+      "https://www.kofons.or.kr/web/cop/bbsWeb/selectBoardList.do?bbsId=BBSMSTR_000000000441",
+      "https://www.kps.co.kr/web/company/recruit/posting/rolling.do",
+      "https://job.alio.go.kr/",
+      "https://www.nssc.go.kr/",
+      "https://www.gojobs.go.kr/",
+      "https://gongmuwon.gosi.kr/",
+      "https://job.cleaneye.go.kr/",
+      "https://www.mnd.go.kr/",
+      "https://armyjob.mil.kr/sites/job/index.do",
+      "https://www.kans.re.kr/bbs/board.php?bo_table=s2_4",
+      "https://www.koara.or.kr/hoiwon/",
+      "https://nisp.kr/rcrutPbanc/list.do",
+      "https://www.saramin.co.kr/",
+      "https://www.jobkorea.co.kr/",
+      "https://www.incruit.com/",
+      "https://www.work24.go.kr/",
+      "https://www.ibric.org/bric/biojob/recruit.do",
+      "https://jobs.ac.kr",
+      "https://www.rndjob.or.kr",
+      "https://k-club.kird.re.kr/prog/hibrain/career/sub04_01_02/list.do",
+      "https://www.hibrain.net/recruitment",
+      "https://www.karp.or.kr/index.php?bo_idx=12&hCode=BOARD",
+      "https://www.kns.org",
+      "https://invite.unist.ac.kr/invite/main.do",
+      "https://mighty.kaist.ac.kr/opening",
+      "https://ilsan.paik.ac.kr/recruit/user/job/view.do?jobId=2056&menuNo=2400004",
+      "https://www.saramin.co.kr/zf_user/jobs/list/job-category?cat_kewd=491",
+      "https://www.comwel.or.kr/recruit/hp/main.do",
+      "https://snubh.recruiter.co.kr/appsite/company/index",
+      "https://snumrc.snu.ac.kr/community/notice",
+      "https://www.medicaljob.co.kr/",
+      "https://nucleng.snu.ac.kr/community/notice?bbsidx=24083&md=v"
     ],
-    "mergedIds": [
-      "55203797",
-      "55529477",
-      "55523306",
-      "55482495",
-      "55343196",
-      "55416042",
-      "55530832"
-    ],
+    "detailCandidates": 137,
+    "detailOpenReadable": 128,
+    "addedRecords": 29,
+    "mergedRecords": 9,
+    "changedRecords": 10,
+    "expiredRecords": 1,
+    "coverage": "검색어 200개 교차 검색 및 발견 상세 원문 확인. 포털 전수수집 아님. 일부 검색색인은 갱신 지연 가능. 공식 기관 게시판 접속과 채용 상세 검증을 구분.",
     "limits": [
-      "일부 사람인 상세 요청 시간초과는 상세 확인했다고 표시하지 않음",
-      "인크루트 키워드 직접 검색 페이지는 웹 도구 접근 불가, 공개 색인 목록은 대조",
-      "서울대 원자핵공학과 첨부 PDF 404",
-      "전남대병원 동적 공식 채용 목록·ALIO HWP·ZIP 첨부 확인 제한",
-      "KAIST 10월 기간제 원자력 모집은 접수 종료로 신규 목록 제외",
-      "코네스 차폐해석·한화오션 방호·차폐 원문은 접수 종료로 신규 목록 제외"
-    ]
+      "사람인 2페이지 접근 실패",
+      "잡코리아 비파괴 2~4페이지 접근, 3페이지 읽기 제한",
+      "일부 기관은 홈페이지/목록만 읽혀 통합 첨부 전수검증 불가",
+      "동남권 JOB-ALIO는 웹 도구 실패 후 직접 다운로드로 공식 본문·첨부 12개 검증",
+      "부산시 제14회 임기제 원문/첨부 접속 실패, 나라일터 본문만 확인",
+      "민간 일부 공고는 이미지형 상세 자격·정확한 인원 미확인, 추정하지 않음",
+      "군무원·교수 분야 이번 검색에서 신규 접수중 공고 추가 확정 없음"
+    ],
+    "excluded": [
+      {
+        "id": "55263635",
+        "reason": "기존 모집·최신 재등록과 중복 가능성으로 별도 추가 제외"
+      },
+      {
+        "id": "50220876",
+        "reason": "기존 모집·최신 재등록과 중복 가능성으로 별도 추가 제외"
+      },
+      {
+        "id": "50224366",
+        "reason": "기존 모집·최신 재등록과 중복 가능성으로 별도 추가 제외"
+      }
+    ],
+    "queryCount": 200
   },
   "searchStrategy": "search-strategy.json",
   "searchAuditHistory": [
@@ -18565,6 +20796,468 @@
       "limitedExamples": [
         "인제대 교수 통합공채 첨부 접근 실패: 관련 모집분야 미확인으로 미수록",
         "일부 채용 상세가 이미지로만 제공되어 세부 자격조건은 확인 제한 표시"
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "keywordDictionarySize": 150,
+      "independentKeywordsSearched": 56,
+      "searchPages": 65,
+      "publicSearchCandidates": 676,
+      "detailCandidates": 217,
+      "detailsVerified": 205,
+      "addedRecords": 162,
+      "mergedRecords": 7,
+      "retaggedRecords": 8,
+      "queries": [
+        {
+          "query": "방사성",
+          "page": 1,
+          "resultItems": 40,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%B1&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "방사성동위원소",
+          "page": 1,
+          "resultItems": 40,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%B1%EB%8F%99%EC%9C%84%EC%9B%90%EC%86%8C&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "방사선취급감독자",
+          "page": 1,
+          "resultItems": 10,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%A0%EC%B7%A8%EA%B8%89%EA%B0%90%EB%8F%85%EC%9E%90&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "동위원소",
+          "page": 1,
+          "resultItems": 40,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%8F%99%EC%9C%84%EC%9B%90%EC%86%8C&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "삼중수소",
+          "page": 1,
+          "resultItems": 1,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%82%BC%EC%A4%91%EC%88%98%EC%86%8C&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "차폐해석",
+          "page": 1,
+          "resultItems": 15,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%B0%A8%ED%8F%90%ED%95%B4%EC%84%9D&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "차폐",
+          "page": 1,
+          "resultItems": 40,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%B0%A8%ED%8F%90&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "선량평가",
+          "page": 1,
+          "resultItems": 8,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%84%A0%EB%9F%89%ED%8F%89%EA%B0%80&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "보건물리",
+          "page": 1,
+          "resultItems": 40,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B3%B4%EA%B1%B4%EB%AC%BC%EB%A6%AC&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "방사선관리기술사",
+          "page": 1,
+          "resultItems": 4,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%A0%EA%B4%80%EB%A6%AC%EA%B8%B0%EC%88%A0%EC%82%AC&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "MCNP",
+          "page": 1,
+          "resultItems": 20,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=MCNP&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "PHITS",
+          "page": 1,
+          "resultItems": 20,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=PHITS&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "Geant4",
+          "page": 1,
+          "resultItems": 20,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=Geant4&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "원자력",
+          "page": 1,
+          "resultItems": 40,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%9E%90%EB%A0%A5&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "원전",
+          "page": 1,
+          "resultItems": 40,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%A0%84&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "원자로",
+          "page": 1,
+          "resultItems": 14,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%9E%90%EB%A1%9C&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "SMR",
+          "page": 1,
+          "resultItems": 20,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=SMR&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "원전 PSA",
+          "page": 1,
+          "resultItems": 20,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%A0%84+PSA&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "열수력",
+          "page": 1,
+          "resultItems": 1,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%97%B4%EC%88%98%EB%A0%A5&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "방폐물",
+          "page": 1,
+          "resultItems": 1,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%ED%8F%90%EB%AC%BC&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "제염",
+          "page": 1,
+          "resultItems": 3,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%A0%9C%EC%97%BC&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "핵연료",
+          "page": 1,
+          "resultItems": 3,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%ED%95%B5%EC%97%B0%EB%A3%8C&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "원자력 인허가",
+          "page": 1,
+          "resultItems": 24,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%9E%90%EB%A0%A5+%EC%9D%B8%ED%97%88%EA%B0%80&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "CGID",
+          "page": 1,
+          "resultItems": 3,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=CGID&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "방사화학",
+          "page": 1,
+          "resultItems": 16,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%ED%99%94%ED%95%99&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "방사성의약품",
+          "page": 1,
+          "resultItems": 13,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%B1%EC%9D%98%EC%95%BD%ED%92%88&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "사이클로트론",
+          "page": 1,
+          "resultItems": 20,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%82%AC%EC%9D%B4%ED%81%B4%EB%A1%9C%ED%8A%B8%EB%A1%A0&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "핵융합",
+          "page": 1,
+          "resultItems": 10,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%ED%95%B5%EC%9C%B5%ED%95%A9&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "중성자",
+          "page": 1,
+          "resultItems": 2,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%A4%91%EC%84%B1%EC%9E%90&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "가속기",
+          "page": 1,
+          "resultItems": 40,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EA%B0%80%EC%86%8D%EA%B8%B0&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "방사선 검출기",
+          "page": 1,
+          "resultItems": 6,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%A0+%EA%B2%80%EC%B6%9C%EA%B8%B0&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "의학물리",
+          "page": 1,
+          "resultItems": 40,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9D%98%ED%95%99%EB%AC%BC%EB%A6%AC&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "핵의학 연구",
+          "page": 1,
+          "resultItems": 5,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%ED%95%B5%EC%9D%98%ED%95%99+%EC%97%B0%EA%B5%AC&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "방사선 계측",
+          "page": 1,
+          "resultItems": 18,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%A0+%EA%B3%84%EC%B8%A1&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "EPICS",
+          "page": 1,
+          "resultItems": 1,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=EPICS&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "원전 제어",
+          "page": 1,
+          "resultItems": 16,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%A0%84+%EC%A0%9C%EC%96%B4&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "원자력 SW",
+          "page": 1,
+          "resultItems": 40,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%9E%90%EB%A0%A5+SW&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "원전 V&V",
+          "page": 1,
+          "resultItems": 3,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%A0%84+V%26V&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "방사선검출기",
+          "page": 1,
+          "resultItems": 6,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%A0%EA%B2%80%EC%B6%9C%EA%B8%B0&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "원자력 펌웨어",
+          "page": 1,
+          "resultItems": 10,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%9E%90%EB%A0%A5+%ED%8E%8C%EC%9B%A8%EC%96%B4&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "핵의학",
+          "page": 1,
+          "resultItems": 27,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%ED%95%B5%EC%9D%98%ED%95%99&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "방사선치료",
+          "page": 1,
+          "resultItems": 40,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%A0%EC%B9%98%EB%A3%8C&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "CT 방사선사",
+          "page": 1,
+          "resultItems": 40,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=CT+%EB%B0%A9%EC%82%AC%EC%84%A0%EC%82%AC&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "MRI 방사선사",
+          "page": 1,
+          "resultItems": 40,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=MRI+%EB%B0%A9%EC%82%AC%EC%84%A0%EC%82%AC&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "유방촬영",
+          "page": 1,
+          "resultItems": 40,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9C%A0%EB%B0%A9%EC%B4%AC%EC%98%81&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "C-arm",
+          "page": 1,
+          "resultItems": 40,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=C-arm&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "소노그레퍼",
+          "page": 1,
+          "resultItems": 40,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%86%8C%EB%85%B8%EA%B7%B8%EB%A0%88%ED%8D%BC&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "혈관초음파",
+          "page": 1,
+          "resultItems": 10,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%ED%98%88%EA%B4%80%EC%B4%88%EC%9D%8C%ED%8C%8C&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "복부초음파",
+          "page": 1,
+          "resultItems": 19,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B3%B5%EB%B6%80%EC%B4%88%EC%9D%8C%ED%8C%8C&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "유방초음파",
+          "page": 1,
+          "resultItems": 38,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9C%A0%EB%B0%A9%EC%B4%88%EC%9D%8C%ED%8C%8C&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "초음파 임상",
+          "page": 1,
+          "resultItems": 40,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%B4%88%EC%9D%8C%ED%8C%8C+%EC%9E%84%EC%83%81&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "sonographer",
+          "page": 1,
+          "resultItems": 40,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=sonographer&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "원자력 교수",
+          "page": 1,
+          "resultItems": 5,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%9E%90%EB%A0%A5+%EA%B5%90%EC%88%98&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "방사선 교수",
+          "page": 1,
+          "resultItems": 13,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%A0+%EA%B5%90%EC%88%98&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "의학물리 교수",
+          "page": 1,
+          "resultItems": 2,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9D%98%ED%95%99%EB%AC%BC%EB%A6%AC+%EA%B5%90%EC%88%98&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "방사선 연구교수",
+          "page": 1,
+          "resultItems": 2,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%A0+%EC%97%B0%EA%B5%AC%EA%B5%90%EC%88%98&recruitPage=1&recruitPageCount=40"
+        },
+        {
+          "query": "방사성",
+          "page": 2,
+          "resultItems": 23,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%B1&recruitPage=2&recruitPageCount=40"
+        },
+        {
+          "query": "동위원소",
+          "page": 2,
+          "resultItems": 14,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%8F%99%EC%9C%84%EC%9B%90%EC%86%8C&recruitPage=2&recruitPageCount=40"
+        },
+        {
+          "query": "원자력",
+          "page": 2,
+          "resultItems": 40,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%9E%90%EB%A0%A5&recruitPage=2&recruitPageCount=40"
+        },
+        {
+          "query": "원전",
+          "page": 2,
+          "resultItems": 38,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%A0%84&recruitPage=2&recruitPageCount=40"
+        },
+        {
+          "query": "방사성의약품",
+          "page": 2,
+          "resultItems": 0,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EB%B0%A9%EC%82%AC%EC%84%B1%EC%9D%98%EC%95%BD%ED%92%88&recruitPage=2&recruitPageCount=40"
+        },
+        {
+          "query": "가속기",
+          "page": 2,
+          "resultItems": 22,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EA%B0%80%EC%86%8D%EA%B8%B0&recruitPage=2&recruitPageCount=40"
+        },
+        {
+          "query": "핵의학",
+          "page": 2,
+          "resultItems": 0,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%ED%95%B5%EC%9D%98%ED%95%99&recruitPage=2&recruitPageCount=40"
+        },
+        {
+          "query": "C-arm",
+          "page": 2,
+          "resultItems": 40,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=C-arm&recruitPage=2&recruitPageCount=40"
+        },
+        {
+          "query": "소노그레퍼",
+          "page": 2,
+          "resultItems": 34,
+          "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%86%8C%EB%85%B8%EA%B7%B8%EB%A0%88%ED%8D%BC&recruitPage=2&recruitPageCount=40"
+        }
+      ],
+      "coverage": "공개 검색에서 확인한 범위만 수록. 검색어 사전 전체를 이번에 모두 조회한 것은 아님. 원문 실패·동음어·무관 추천·동일 모집 제외.",
+      "excludedIds": [
+        "55417472",
+        "55511012",
+        "55538590",
+        "55509892",
+        "55140813",
+        "55461406",
+        "55580809",
+        "55090726",
+        "55324915",
+        "55378411",
+        "55566170",
+        "55423138",
+        "55570658",
+        "55204325",
+        "55363194",
+        "55552657",
+        "55594239",
+        "55556651",
+        "55524539",
+        "55556827",
+        "55485658",
+        "55338530",
+        "55416896",
+        "55599197",
+        "55558173",
+        "55474570",
+        "55263709",
+        "55595526",
+        "55482754",
+        "55494028",
+        "55263801",
+        "55219516",
+        "55568428",
+        "55568315",
+        "55593244",
+        "55453563",
+        "55330358",
+        "55226999"
+      ],
+      "mergedIds": [
+        "55203797",
+        "55529477",
+        "55523306",
+        "55482495",
+        "55343196",
+        "55416042",
+        "55530832"
+      ],
+      "limits": [
+        "일부 사람인 상세 요청 시간초과는 상세 확인했다고 표시하지 않음",
+        "인크루트 키워드 직접 검색 페이지는 웹 도구 접근 불가, 공개 색인 목록은 대조",
+        "서울대 원자핵공학과 첨부 PDF 404",
+        "전남대병원 동적 공식 채용 목록·ALIO HWP·ZIP 첨부 확인 제한",
+        "KAIST 10월 기간제 원자력 모집은 접수 종료로 신규 목록 제외",
+        "코네스 차폐해석·한화오션 방호·차폐 원문은 접수 종료로 신규 목록 제외"
       ]
     }
   ],
