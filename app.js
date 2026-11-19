@@ -104,7 +104,12 @@ function render(){
   $$('[data-source]').forEach(b=>updateCount(b,filtered({source:b.dataset.source}).length));
   $$('[data-query]').forEach(b=>updateCount(b,filtered({query:b.dataset.query}).length));
   $$('[data-license]').forEach(b=>updateCount(b,filtered({license:b.dataset.license}).length));
-  $$('[data-field]').forEach(b=>{const selected=selectedValues('fieldFilter'),active=b.dataset.field?selected.includes(b.dataset.field):!selected.length;b.classList.toggle('active',active);b.setAttribute('aria-pressed',String(active));});
+  const selectedFields = selectedValues('fieldFilter');
+  $$('[data-field]').forEach(button => {
+    const active = selectedFields.length <= 1 && button.dataset.field === (selectedFields[0] || '');
+    button.classList.toggle('active', active);
+    button.setAttribute('aria-pressed', String(active));
+  });
   $$('[data-license]').forEach(b=>b.setAttribute('aria-pressed',String(selectedValues('license').includes(b.dataset.license))));
   $$('[data-source]').forEach(b=>b.classList.toggle('active',$('#sourceFilter').value===b.dataset.source));
   const bits=[];if(currentWorkspace)bits.push(currentWorkspace.label);if(view==='faculty')bits.push('교수 채용');if(selectedValues('fieldFilter').length)bits.push(selectedValues('fieldFilter').map(f=>topicNames[f]).join(' + '));if(selectedValues('region').length)bits.push(selectedValues('region').join(' + '));if(selectedValues('license').length)bits.push(selectedValues('license').join(' + '));if($('#requiredOnly').checked)bits.push('필수 면허');if($('#sourceFilter').value)bits.push($('#sourceFilter').value);if($('#salaryOnly').checked)bits.push('급여 공개');
@@ -155,7 +160,7 @@ async function init(){
   $('#fieldFilter').addEventListener('change',()=>{facultyStatus='all';render();});
   $$('[data-clear-facet]').forEach(b=>b.onclick=()=>{setFacetValues(b.dataset.clearFacet);if(b.dataset.clearFacet==='fieldFilter')facultyStatus='all';render();});
   for(const id of ['region','license','requiredOnly','hideClosed','sourceFilter','salaryOnly','sort'])$('#'+id).addEventListener('change',render);
-  $$('[data-field]').forEach(b=>b.onclick=()=>{view='all';$$('[data-view]').forEach(x=>x.classList.toggle('active',x.dataset.view==='all'));$('#breadcrumb').textContent='전체 공고';if(b.dataset.field)toggleFacetValue('fieldFilter',b.dataset.field);else setFacetValues('fieldFilter');facultyStatus='all';render();});
+  $$('[data-field]').forEach(b=>b.onclick=()=>{view='all';$$('[data-view]').forEach(x=>x.classList.toggle('active',x.dataset.view==='all'));$('#breadcrumb').textContent='전체 공고';setFacetValues('fieldFilter', b.dataset.field ? [b.dataset.field] : []);facultyStatus='all';render();});
   $$('[data-source]').forEach(b=>b.onclick=()=>{$('#sourceFilter').value=b.dataset.source;render();});
   initTrends();
   $('#search').addEventListener('input',render);$$('[data-query]').forEach(b=>b.onclick=()=>{$('#search').value=b.dataset.query;render();});$$('[data-license]').forEach(b=>b.onclick=()=>{toggleFacetValue('license',b.dataset.license);render();});
