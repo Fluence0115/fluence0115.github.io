@@ -1,6 +1,6 @@
 {
   "version": 10,
-  "asOf": "2026-11-18",
+  "asOf": "2026-11-19",
   "scope": "전국 방사선·원자력·가속기·의료영상 관련 채용. 의원·지역병원·단기·계약·임상지원 포함. 탭 건수는 확인해 수록한 공고이며 플랫폼 전체 검색 결과와 다릅니다.",
   "updateMode": "scheduled-research-github-pages",
   "jobs": [
@@ -1737,11 +1737,11 @@
         }
       ],
       "licenses": [],
-      "notes": "요약 급여는 연봉 3,200만원, 상세 본문은 대졸신입 3,200만원 이상·경력 협의·성과급 별도입니다.",
+      "notes": "요약 급여는 연봉 3,200만원, 상세 본문은 대졸신입 3,200만원 이상·경력 협의·성과급 별도입니다. 11/19 재조회한 접수기한 경과.",
       "grade": "미공개",
-      "status": "open",
+      "status": "closed",
       "detail": [],
-      "checked": "2026-11-17",
+      "checked": "2026-11-19",
       "verification": "기업 등록 공고·접수기간·상세 확인",
       "fields": [
         "nuclear",
@@ -2294,9 +2294,9 @@
         }
       ],
       "licenses": [],
-      "notes": "기존 수록된 계측제어 시스템 엔지니어 공고와 모집 직무가 다른 SW 개발 공고입니다.",
+      "notes": "기존 수록된 계측제어 시스템 엔지니어 공고와 모집 직무가 다른 SW 개발 공고입니다. 기존 원문에서 기록한 접수기한 경과. 연장 여부 미확인.",
       "grade": "미공개",
-      "status": "open",
+      "status": "closed",
       "detail": [],
       "checked": "2026-11-17",
       "verification": "기업 등록 공고·접수기간·상세 확인",
@@ -2890,9 +2890,9 @@
         }
       ],
       "licenses": [],
-      "notes": "채용기업 비공개. 본문은 경남 대기업으로 안내하나 포털 요약 근무지는 서울·기업유형은 공기업으로 상충합니다. 민간 채용대행 출처로 분류했으며 실제 고용기업의 공공·민간 여부는 미확인입니다.",
+      "notes": "채용기업 비공개. 본문은 경남 대기업으로 안내하나 포털 요약 근무지는 서울·기업유형은 공기업으로 상충합니다. 민간 채용대행 출처로 분류했으며 실제 고용기업의 공공·민간 여부는 미확인입니다. 기존 원문에서 기록한 접수기한 경과. 연장 여부 미확인.",
       "grade": "최대 부장급 · 임원 제외",
-      "status": "open",
+      "status": "closed",
       "detail": [],
       "checked": "2026-11-17",
       "verification": "기업 등록 공고·접수기간·상세 확인",
@@ -2996,11 +2996,11 @@
         }
       ],
       "licenses": [],
-      "notes": "제2026-6기 통합공채 중 방사성의약품 분야만 분리했습니다. 5급은 의학원 직급으로 공무원 직급과 다릅니다. 타 파트의 시급 10,320원은 이 직무의 급여가 아니므로 사용하지 않았습니다. 방사성동위원소 취급·생산·품질 또는 방사선 장비 기술의 인접 직무로 범위를 확대해 표시합니다.",
+      "notes": "제2026-6기 통합공채 중 방사성의약품 분야만 분리했습니다. 5급은 의학원 직급으로 공무원 직급과 다릅니다. 타 파트의 시급 10,320원은 이 직무의 급여가 아니므로 사용하지 않았습니다. 방사성동위원소 취급·생산·품질 또는 방사선 장비 기술의 인접 직무로 범위를 확대해 표시합니다. 11/19 재조회한 접수기한 경과.",
       "grade": "5급 사무기술원",
-      "status": "open",
+      "status": "closed",
       "detail": [],
-      "checked": "2026-11-17",
+      "checked": "2026-11-19",
       "verification": "공식 게시판·통합 공고문 모집표·직무내용 확인",
       "fields": [
         "radiation",
@@ -3049,11 +3049,11 @@
         }
       ],
       "licenses": [],
-      "notes": "제2026-6기 통합공채 중 방사성의약품 분야만 분리했습니다. 5급은 의학원 직급으로 공무원 직급과 다릅니다. 타 파트의 시급 10,320원은 이 직무의 급여가 아니므로 사용하지 않았습니다. 방사성동위원소 취급·생산·품질 또는 방사선 장비 기술의 인접 직무로 범위를 확대해 표시합니다.",
+      "notes": "제2026-6기 통합공채 중 방사성의약품 분야만 분리했습니다. 5급은 의학원 직급으로 공무원 직급과 다릅니다. 타 파트의 시급 10,320원은 이 직무의 급여가 아니므로 사용하지 않았습니다. 방사성동위원소 취급·생산·품질 또는 방사선 장비 기술의 인접 직무로 범위를 확대해 표시합니다. 11/19 재조회한 접수기한 경과.",
       "grade": "5급 사무기술원",
-      "status": "open",
+      "status": "closed",
       "detail": [],
-      "checked": "2026-11-17",
+      "checked": "2026-11-19",
       "verification": "공식 게시판·통합 공고문 모집표·직무내용 확인",
       "fields": [
         "radiation",
@@ -4575,10 +4575,10 @@
           "url": "https://gilhospital.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=271964&systemKindCode=MRS2"
         }
       ],
-      "notes": "모집 조건과 조기 마감 여부는 원문에서 최종 확인하세요.",
-      "status": "open",
+      "notes": "모집 조건과 조기 마감 여부는 원문에서 최종 확인하세요. 11/19 재조회한 접수기한 경과.",
+      "status": "closed",
       "detail": [],
-      "checked": "2026-11-18",
+      "checked": "2026-11-19",
       "verification": "채용 원문 공개 요건·접수기간 확인 · 11/18 공식 상세 접수마감 17시 재확인",
       "fields": [
         "radiographer"
@@ -7524,14 +7524,14 @@
       "qualifications": "필수·우대 면허 및 검사·개발 경험의 세부 조건은 원문을 확인하세요.",
       "licenses": [],
       "detail": [],
-      "notes": "",
+      "notes": "11/19 재조회한 접수기한 경과.",
       "links": [
         {
           "label": "사람인 등록 원문·지원",
           "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55333071"
         }
       ],
-      "checked": "2026-11-17",
+      "checked": "2026-11-19",
       "verification": "기업 등록 공고의 접수기간·공개 요약조건 확인 · 상세 본문 확인",
       "fields": [
         "radiographer"
@@ -7540,7 +7540,7 @@
         "radiographer"
       ],
       "relationType": "관련 분야 직접 직무",
-      "status": "open",
+      "status": "closed",
       "openings": null,
       "openingsNote": "해당 직무의 확정 모집인원 미공개"
     },
@@ -12006,7 +12006,7 @@
       "qualifications": "학사 이상, 관련 경력 1년 이상. 서울대 SRnD·연구행정 및 문서작성 우대.",
       "licenses": [],
       "detail": [],
-      "notes": "",
+      "notes": "기존 원문에서 기록한 접수기한 경과. 연장 여부 미확인.",
       "links": [
         {
           "label": "기업 등록 원문·지원",
@@ -12023,7 +12023,7 @@
         "other"
       ],
       "relationType": "원자력 교수 연구실 연구근접 행정지원",
-      "status": "open",
+      "status": "closed",
       "openings": 1,
       "openingsNote": "연구근접 행정지원 1명",
       "relatedTopics": []
@@ -12853,7 +12853,7 @@
       "qualifications": "모집분야별 필수·우대 면허와 실무경험은 원문에서 확인하세요.",
       "licenses": [],
       "detail": [],
-      "notes": "",
+      "notes": "기존 원문에서 기록한 접수기한 경과. 연장 여부 미확인.",
       "links": [
         {
           "label": "기업 등록 원문·지원",
@@ -12869,7 +12869,7 @@
         "radiographer"
       ],
       "relationType": "관련 분야 직접 직무",
-      "status": "open",
+      "status": "closed",
       "openings": null,
       "openingsNote": "분야별 확정 모집인원 미확인"
     },
@@ -14300,7 +14300,7 @@
       "qualifications": "모집분야별 필수·우대 면허와 실무경험은 원문에서 확인하세요.",
       "licenses": [],
       "detail": [],
-      "notes": "",
+      "notes": "기존 원문에서 기록한 접수기한 경과. 연장 여부 미확인.",
       "links": [
         {
           "label": "기업 등록 원문·지원",
@@ -14316,7 +14316,7 @@
         "radiographer"
       ],
       "relationType": "관련 분야 직접 직무",
-      "status": "open",
+      "status": "closed",
       "openings": null,
       "openingsNote": "분야별 확정 모집인원 미확인"
     },
@@ -14341,7 +14341,7 @@
       "qualifications": "모집분야별 필수·우대 면허와 실무경험은 원문에서 확인하세요.",
       "licenses": [],
       "detail": [],
-      "notes": "",
+      "notes": "기존 원문에서 기록한 접수기한 경과. 연장 여부 미확인.",
       "links": [
         {
           "label": "기업 등록 원문·지원",
@@ -14357,7 +14357,7 @@
         "radiographer"
       ],
       "relationType": "관련 분야 직접 직무",
-      "status": "open",
+      "status": "closed",
       "openings": null,
       "openingsNote": "분야별 확정 모집인원 미확인"
     },
@@ -15536,7 +15536,7 @@
       "qualifications": "모집분야별 필수·우대 면허와 실무경험은 원문에서 확인하세요.",
       "licenses": [],
       "detail": [],
-      "notes": "",
+      "notes": "기존 원문에서 기록한 접수기한 경과. 연장 여부 미확인.",
       "links": [
         {
           "label": "기업 등록 원문·지원",
@@ -15554,7 +15554,7 @@
         "other"
       ],
       "relationType": "영상의학·핵의학 장비 영업 · 중개 공고",
-      "status": "open",
+      "status": "closed",
       "openings": null,
       "openingsNote": "분야별 확정 모집인원 미확인",
       "relatedTopics": []
@@ -16667,7 +16667,7 @@
       "qualifications": "모집분야별 필수·우대 면허와 실무경험은 원문에서 확인하세요.",
       "licenses": [],
       "detail": [],
-      "notes": "",
+      "notes": "기존 원문에서 기록한 접수기한 경과. 연장 여부 미확인.",
       "links": [
         {
           "label": "기업 등록 원문·지원",
@@ -16685,7 +16685,7 @@
         "ic"
       ],
       "relationType": "새울원전 정보통신 설비 유지보수",
-      "status": "open",
+      "status": "closed",
       "openings": null,
       "openingsNote": "분야별 확정 모집인원 미확인"
     },
@@ -18813,6 +18813,275 @@
       "topics": [
         "ic"
       ]
+    },
+    {
+      "id": "deoksan-267",
+      "company": "수원덕산병원",
+      "title": "산부인과 정밀·입체 초음파 검사",
+      "category": "private",
+      "topics": [
+        "sonographer"
+      ],
+      "fields": [
+        "sonographer"
+      ],
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 수원시 권선구",
+      "posted": null,
+      "start": "2026-11-12T09:00:00+09:00",
+      "end": null,
+      "education": "미확인",
+      "experience": "산부인과 초음파 경력 우대",
+      "employment": "정규직 · 임용 3개월 후 심의",
+      "grade": "미공개",
+      "salary": "금액 미공개",
+      "duties": "산부인과 정밀·입체 초음파 검사",
+      "qualifications": "방사선사 면허 필수",
+      "licenses": [
+        {
+          "name": "방사선사",
+          "level": "필수"
+        }
+      ],
+      "detail": [],
+      "notes": "채용 시까지. 주 40시간 및 격주 토요일 오전 근무.",
+      "relationType": "의료 초음파 직접 검사",
+      "checked": "2026-11-19",
+      "status": "open",
+      "verification": "공개 원문 접수기간·직무 확인",
+      "openings": null,
+      "openingsNote": "해당 분야 확정 모집인원 미확인",
+      "links": [
+        {
+          "label": "병원 공고",
+          "url": "https://www.swdeoksanmc.com/employ/recruit_notice/view.do?rc_idx=267"
+        },
+        {
+          "label": "지원",
+          "url": "https://www.swdeoksanmc.com/employ/site/recruit/resume.do?v_notice_idx=267"
+        }
+      ]
+    },
+    {
+      "id": "eumc-31742",
+      "company": "이대목동병원",
+      "title": "영상의학팀 방사선사",
+      "category": "private",
+      "topics": [
+        "radiographer"
+      ],
+      "fields": [
+        "radiographer"
+      ],
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 목동병원",
+      "posted": "2026-11-16",
+      "start": "2026-11-16",
+      "end": "2026-11-22",
+      "education": "미확인",
+      "experience": "CT 경력 우대",
+      "employment": "계약직",
+      "grade": "미공개",
+      "salary": "금액 미공개",
+      "duties": "영상의학팀 방사선사",
+      "qualifications": "방사선사 면허 및 야간 교대근무 가능 필수",
+      "licenses": [
+        {
+          "name": "방사선사",
+          "level": "필수"
+        }
+      ],
+      "detail": [],
+      "notes": "",
+      "relationType": "관련 분야 직접 직무",
+      "checked": "2026-11-19",
+      "status": "open",
+      "verification": "공개 원문 접수기간·직무 확인",
+      "openings": null,
+      "openingsNote": "해당 분야 확정 모집인원 미확인",
+      "links": [
+        {
+          "label": "병원 공고",
+          "url": "https://mokdong.eumc.ac.kr/intro/recrut/view.do?bbs_no=31742&bid_status=I&pageIndex=1"
+        },
+        {
+          "label": "지원",
+          "url": "https://eumc.applyin.co.kr"
+        }
+      ]
+    },
+    {
+      "id": "kbsmc-Y85k7nIM",
+      "company": "강북삼성병원",
+      "title": "영상의학과 특수파트 방사선사",
+      "category": "private",
+      "topics": [
+        "radiographer"
+      ],
+      "fields": [
+        "radiographer"
+      ],
+      "regions": [],
+      "location": "영상의학과 유갑초음파실 · 상세 근무지 미확인",
+      "posted": null,
+      "start": "2026-11-16",
+      "end": "2026-11-22T23:00:00+09:00",
+      "education": "미확인",
+      "experience": "유방촬영 1년 이상 우대",
+      "employment": "계약직 · 1년 단위, 최대 2년",
+      "grade": "미공개",
+      "salary": "학력·경력별 내규",
+      "duties": "유방촬영 및 골밀도 검사, 초음파 검사 보조",
+      "qualifications": "방사선사 면허 필수",
+      "licenses": [
+        {
+          "name": "방사선사",
+          "level": "필수"
+        }
+      ],
+      "detail": [],
+      "notes": "",
+      "relationType": "관련 분야 직접 직무",
+      "checked": "2026-11-19",
+      "status": "open",
+      "verification": "공개 원문 접수기간·직무 확인",
+      "openings": null,
+      "openingsNote": "해당 분야 확정 모집인원 미확인",
+      "links": [
+        {
+          "label": "공고 원문·지원",
+          "url": "https://kbsmcrecruit.ninehire.site/job_posting/Y85k7nIM"
+        }
+      ]
+    },
+    {
+      "id": "gimpo-AXrQnhZ8",
+      "company": "김포우리병원",
+      "title": "검진센터 전담 방사선사",
+      "category": "private",
+      "topics": [
+        "radiographer"
+      ],
+      "fields": [
+        "radiographer"
+      ],
+      "regions": [
+        "경기"
+      ],
+      "location": "경기 김포시 감암로 11",
+      "posted": null,
+      "start": "2026-11-16",
+      "end": "2026-11-22",
+      "education": "학력무관(잡코리아)",
+      "experience": "경력무관",
+      "employment": "계약직",
+      "grade": "미공개",
+      "salary": "내규",
+      "duties": "검진센터 전담 방사선사",
+      "qualifications": "상세 요건 미확인",
+      "licenses": [],
+      "detail": [],
+      "notes": "병원에서 지원 가능 확인. 접수기간은 고용주 등록 잡코리아 기준.",
+      "relationType": "관련 분야 직접 직무",
+      "checked": "2026-11-19",
+      "status": "open",
+      "verification": "공개 원문 접수기간·직무 확인",
+      "openings": null,
+      "openingsNote": "해당 분야 확정 모집인원 미확인",
+      "links": [
+        {
+          "label": "병원 공식 지원",
+          "url": "https://l2av0tfl.ninehire.site/job_posting/AXrQnhZ8"
+        },
+        {
+          "label": "잡코리아 공고",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50368584"
+        }
+      ]
+    },
+    {
+      "id": "jk-50371312",
+      "company": "대한검사기술",
+      "title": "특수 비파괴검사원",
+      "category": "private",
+      "topics": [
+        "ndt"
+      ],
+      "fields": [
+        "ndt"
+      ],
+      "regions": [],
+      "location": "근무지 미확인",
+      "posted": null,
+      "start": "2026-11-16",
+      "end": "2026-12-31",
+      "education": "미확인",
+      "experience": "3년 이상",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "금액 미공개",
+      "duties": "ECT·IRIS·PAUT 산업 검사",
+      "qualifications": "상세 요건 미확인",
+      "licenses": [],
+      "detail": [],
+      "notes": "채용 시 조기 마감. 본사 주소와 실제 근무지 구분.",
+      "relationType": "관련 분야 직접 직무",
+      "checked": "2026-11-19",
+      "status": "open",
+      "verification": "공개 원문 접수기간·직무 확인",
+      "openings": null,
+      "openingsNote": "해당 분야 확정 모집인원 미확인",
+      "links": [
+        {
+          "label": "공고 원문·지원",
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50371312"
+        }
+      ]
+    },
+    {
+      "id": "sr-55599582",
+      "company": "램텍",
+      "title": "Safety & Security 사업부 기술영업",
+      "category": "private",
+      "topics": [
+        "other"
+      ],
+      "fields": [
+        "other"
+      ],
+      "regions": [
+        "서울"
+      ],
+      "location": "서울 구로구",
+      "posted": null,
+      "start": "2026-11-17T18:00:00+09:00",
+      "end": "2026-12-17T23:59:00+09:00",
+      "education": "4년제 대졸 이상 · 예정자 가능",
+      "experience": "경력무관",
+      "employment": "정규직",
+      "grade": "미공개",
+      "salary": "면접 후 결정",
+      "duties": "Safety & Security 사업부 기술영업",
+      "qualifications": "방사선·원자력 등 관련 전공, CBRNE 장비 영업 또는 공공 조달 경험 우대",
+      "licenses": [],
+      "detail": [],
+      "notes": "",
+      "relationType": "방사선·원자력 관련 탐지 장비 기술영업",
+      "checked": "2026-11-19",
+      "status": "open",
+      "verification": "공개 원문 접수기간·직무 확인",
+      "openings": null,
+      "openingsNote": "해당 분야 확정 모집인원 미확인",
+      "links": [
+        {
+          "label": "기업 공고·지원",
+          "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55599582"
+        }
+      ]
     }
   ],
   "sources": [
@@ -19178,35 +19447,12 @@
     }
   ],
   "addedThisUpdate": [
-    "jk-50041734",
-    "jk-50350474",
-    "jk-50275947",
-    "jk-50249187",
-    "jk-50308672",
-    "jk-50083022",
-    "sr-55427954",
-    "sr-55146567",
-    "sr-55530539",
-    "sr-55428086",
-    "sr-55566964",
-    "sr-55377976",
-    "jk-50315760",
-    "sr-55355655",
-    "sr-55500518",
-    "sr-55528845",
-    "jk-50361453",
-    "sr-55352101",
-    "jk-50345563",
-    "jk-50325730",
-    "jk-50227756",
-    "dirams-307126",
-    "dirams-307127",
-    "dirams-307123",
-    "busan-308047-nuclear",
-    "remember-340354",
-    "jk-50238380",
-    "jk-50286891",
-    "jk-50242300"
+    "deoksan-267",
+    "eumc-31742",
+    "kbsmc-Y85k7nIM",
+    "gimpo-AXrQnhZ8",
+    "jk-50371312",
+    "sr-55599582"
   ],
   "exclusions": [
     {
@@ -19255,8 +19501,8 @@
     "enabled": true,
     "timezone": "Asia/Seoul",
     "scheduledTime": "10:00",
-    "nextRunAt": "2026-11-18T10:00:00+09:00",
-    "lastScheduledRunAt": "2026-11-18T10:02:38+09:00",
+    "nextRunAt": "2026-11-20T10:00:00+09:00",
+    "lastScheduledRunAt": "2026-11-19T10:04:51+09:00",
     "note": "검색·검증 후 GitHub Pages 데이터 갱신 작업 예약. 예정 시각은 작업 시작 기준이며 완료 시각을 보장하지 않음."
   },
   "updateHistory": [
@@ -19289,1493 +19535,1872 @@
       "merged": 9,
       "closed": 1,
       "note": "200개 키워드 교차검색. 공식·고용주 원문으로 신규/추가 발견 공고 수록, 동남권 재공고·박사후연구원 PDF 검증, 단일 주분야 분류 유지."
+    },
+    {
+      "date": "2026-11-19",
+      "added": 6,
+      "changed": 13,
+      "closed": 13,
+      "merged": 0,
+      "note": "원문 접수 중 6개 신규 수록. 기존 13개 접수기한 경과. 김포우리병원은 병원·포털 한 건으로 수록."
     }
   ],
   "trendStart": "2026-10-01",
   "searchAudit": {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "keywordDictionarySize": 200,
     "independentKeywordsSearched": 200,
     "queries": [
       {
         "topic": "safety",
         "keyword": "방사선안전",
-        "query": "방사선안전 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사선안전 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "safety",
         "keyword": "방사성",
-        "query": "방사성 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사성 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "safety",
         "keyword": "방사성동위원소",
-        "query": "방사성동위원소 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사성동위원소 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "safety",
         "keyword": "방사선취급감독자",
-        "query": "방사선취급감독자 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사선취급감독자 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "safety",
         "keyword": "동위원소",
-        "query": "동위원소 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "동위원소 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "safety",
         "keyword": "삼중수소",
-        "query": "삼중수소 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "삼중수소 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "safety",
         "keyword": "차폐해석",
-        "query": "차폐해석 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "차폐해석 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "safety",
         "keyword": "방사선방호",
-        "query": "방사선방호 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사선방호 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "safety",
         "keyword": "선량평가",
-        "query": "선량평가 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "선량평가 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "safety",
         "keyword": "피폭관리",
-        "query": "피폭관리 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "피폭관리 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "safety",
         "keyword": "보건물리",
-        "query": "보건물리 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "보건물리 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "safety",
         "keyword": "방사선관리기술사",
-        "query": "방사선관리기술사 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사선관리기술사 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "safety",
         "keyword": "SRI",
-        "query": "SRI 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "SRI 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "safety",
         "keyword": "RI",
-        "query": "RI 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "RI 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "safety",
         "keyword": "누설점검",
-        "query": "누설점검 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "누설점검 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "safety",
         "keyword": "방사선 계측",
-        "query": "방사선 계측 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사선 계측 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "safety",
         "keyword": "방사선 발생장치",
-        "query": "방사선 발생장치 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사선 발생장치 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "safety",
         "keyword": "안전관리 업무대행",
-        "query": "안전관리 업무대행 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "안전관리 업무대행 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "safety",
         "keyword": "MCNP",
-        "query": "MCNP 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "MCNP 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "safety",
         "keyword": "PHITS",
-        "query": "PHITS 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "PHITS 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "safety",
         "keyword": "Geant4",
-        "query": "Geant4 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "Geant4 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "원자력안전",
-        "query": "원자력안전 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "원자력안전 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "원전",
-        "query": "원전 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "원전 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "원자로",
-        "query": "원자로 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "원자로 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "SMR",
-        "query": "SMR 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "SMR 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "인허가",
-        "query": "인허가 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "인허가 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "안전해석",
-        "query": "안전해석 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "안전해석 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "열수력",
-        "query": "열수력 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "열수력 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "PSA",
-        "query": "PSA 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "PSA 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "핵연료",
-        "query": "핵연료 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "핵연료 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "노심설계",
-        "query": "노심설계 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "노심설계 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "규제",
-        "query": "규제 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "규제 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "안전성평가",
-        "query": "안전성평가 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "안전성평가 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "확률론적안전성평가",
-        "query": "확률론적안전성평가 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "확률론적안전성평가 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "중대사고",
-        "query": "중대사고 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "중대사고 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "KEPIC",
-        "query": "KEPIC 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "KEPIC 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "기기검증",
-        "query": "기기검증 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "기기검증 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "CGID",
-        "query": "CGID 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "CGID 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "품질보증",
-        "query": "품질보증 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "품질보증 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "QA",
-        "query": "QA 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "QA 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "제염",
-        "query": "제염 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "제염 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "해체",
-        "query": "해체 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "해체 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "방사성폐기물",
-        "query": "방사성폐기물 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사성폐기물 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "방폐물",
-        "query": "방폐물 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방폐물 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "nuclear_safety",
         "keyword": "사용후핵연료",
-        "query": "사용후핵연료 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "사용후핵연료 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "accelerator",
         "keyword": "가속기",
-        "query": "가속기 가속기 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "가속기 가속기 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "accelerator",
         "keyword": "입자가속기",
-        "query": "입자가속기 가속기 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "입자가속기 가속기 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "accelerator",
         "keyword": "사이클로트론",
-        "query": "사이클로트론 가속기 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "사이클로트론 가속기 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "accelerator",
         "keyword": "선형가속기",
-        "query": "선형가속기 가속기 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "선형가속기 가속기 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "accelerator",
         "keyword": "LINAC",
-        "query": "LINAC 가속기 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "LINAC 가속기 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "accelerator",
         "keyword": "cyclotron",
-        "query": "cyclotron 가속기 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "cyclotron 가속기 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "accelerator",
         "keyword": "synchrotron",
-        "query": "synchrotron 가속기 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "synchrotron 가속기 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "accelerator",
         "keyword": "방사광가속기",
-        "query": "방사광가속기 가속기 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사광가속기 가속기 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "accelerator",
         "keyword": "중이온가속기",
-        "query": "중이온가속기 가속기 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "중이온가속기 가속기 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "accelerator",
         "keyword": "양성자가속기",
-        "query": "양성자가속기 가속기 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "양성자가속기 가속기 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "accelerator",
         "keyword": "빔라인",
-        "query": "빔라인 가속기 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "빔라인 가속기 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "accelerator",
         "keyword": "빔 진단",
-        "query": "빔 진단 가속기 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "빔 진단 가속기 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "accelerator",
         "keyword": "빔 광학",
-        "query": "빔 광학 가속기 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "빔 광학 가속기 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "accelerator",
         "keyword": "가속관",
-        "query": "가속관 가속기 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "가속관 가속기 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "accelerator",
         "keyword": "RF",
-        "query": "RF 가속기 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "RF 가속기 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "accelerator",
         "keyword": "고주파",
-        "query": "고주파 가속기 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "고주파 가속기 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "accelerator",
         "keyword": "진공",
-        "query": "진공 가속기 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "진공 가속기 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "accelerator",
         "keyword": "가속기 마그네트",
-        "query": "가속기 마그네트 가속기 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "가속기 마그네트 가속기 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "accelerator",
         "keyword": "초전도자석",
-        "query": "초전도자석 가속기 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "초전도자석 가속기 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "accelerator",
         "keyword": "EPICS",
-        "query": "EPICS 가속기 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "EPICS 가속기 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "accelerator",
         "keyword": "인터록",
-        "query": "인터록 가속기 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "인터록 가속기 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "accelerator",
         "keyword": "가속기 제어",
-        "query": "가속기 제어 가속기 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "가속기 제어 가속기 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "research",
         "keyword": "연구개발",
-        "query": "연구개발 방사선 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "연구개발 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "research",
         "keyword": "R&D",
-        "query": "R&D 방사선 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "R&D 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "research",
         "keyword": "연구원",
-        "query": "연구원 방사선 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "연구원 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "research",
         "keyword": "박사후연구원",
-        "query": "박사후연구원 방사선 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "박사후연구원 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "research",
         "keyword": "Postdoc",
-        "query": "Postdoc 방사선 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "Postdoc 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "research",
         "keyword": "방사화학",
-        "query": "방사화학 방사선 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사화학 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "research",
         "keyword": "방사성의약품",
-        "query": "방사성의약품 방사선 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사성의약품 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "research",
         "keyword": "동위원소",
-        "query": "동위원소 방사선 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "동위원소 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "research",
         "keyword": "중성자",
-        "query": "중성자 방사선 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "중성자 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "research",
         "keyword": "가속기",
-        "query": "가속기 방사선 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "가속기 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "research",
         "keyword": "사이클로트론",
-        "query": "사이클로트론 방사선 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "사이클로트론 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "research",
         "keyword": "핵융합",
-        "query": "핵융합 방사선 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "핵융합 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "research",
         "keyword": "플라즈마",
-        "query": "플라즈마 방사선 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "플라즈마 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "research",
         "keyword": "초전도자석",
-        "query": "초전도자석 방사선 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "초전도자석 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "research",
         "keyword": "검출기",
-        "query": "검출기 방사선 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "검출기 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "research",
         "keyword": "의학물리",
-        "query": "의학물리 방사선 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "의학물리 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "research",
         "keyword": "방사선 계측",
-        "query": "방사선 계측 방사선 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사선 계측 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "research",
         "keyword": "방사선 차폐소재",
-        "query": "방사선 차폐소재 방사선 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사선 차폐소재 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "research",
         "keyword": "X-ray 개발",
-        "query": "X-ray 개발 방사선 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "X-ray 개발 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "research",
         "keyword": "방사선치료",
-        "query": "방사선치료 방사선 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사선치료 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "research",
         "keyword": "방사성 표지",
-        "query": "방사성 표지 방사선 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사성 표지 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "research",
         "keyword": "핵의학 연구",
-        "query": "핵의학 연구 방사선 원자력 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "핵의학 연구 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ic",
         "keyword": "계측제어",
-        "query": "계측제어 원자력 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "계측제어 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ic",
         "keyword": "I&C",
-        "query": "I&C 원자력 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "I&C 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ic",
         "keyword": "제어계측",
-        "query": "제어계측 원자력 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "제어계측 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ic",
         "keyword": "방사선 계측",
-        "query": "방사선 계측 원자력 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사선 계측 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ic",
         "keyword": "방사선검출기",
-        "query": "방사선검출기 원자력 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사선검출기 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ic",
         "keyword": "원전 SW",
-        "query": "원전 SW 원자력 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "원전 SW 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ic",
         "keyword": "원전 제어",
-        "query": "원전 제어 원자력 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "원전 제어 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ic",
         "keyword": "V&V",
-        "query": "V&V 원자력 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "V&V 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ic",
         "keyword": "SQA",
-        "query": "SQA 원자력 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "SQA 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ic",
         "keyword": "소프트웨어 검증",
-        "query": "소프트웨어 검증 원자력 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "소프트웨어 검증 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ic",
         "keyword": "펌웨어",
-        "query": "펌웨어 원자력 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "펌웨어 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ic",
         "keyword": "임베디드",
-        "query": "임베디드 원자력 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "임베디드 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ic",
         "keyword": "FPGA",
-        "query": "FPGA 원자력 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "FPGA 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ic",
         "keyword": "PLC",
-        "query": "PLC 원자력 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "PLC 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ic",
         "keyword": "DCS",
-        "query": "DCS 원자력 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "DCS 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ic",
         "keyword": "EPICS",
-        "query": "EPICS 원자력 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "EPICS 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ic",
         "keyword": "DAQ",
-        "query": "DAQ 원자력 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "DAQ 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ic",
         "keyword": "데이터 수집",
-        "query": "데이터 수집 원자력 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "데이터 수집 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ic",
         "keyword": "인터록",
-        "query": "인터록 원자력 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "인터록 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ic",
         "keyword": "원전 사이버보안",
-        "query": "원전 사이버보안 원자력 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "원전 사이버보안 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ic",
         "keyword": "LINAC RF",
-        "query": "LINAC RF 원자력 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "LINAC RF 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ic",
         "keyword": "빔 진단",
-        "query": "빔 진단 원자력 방사선 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "빔 진단 원전 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ndt",
         "keyword": "비파괴",
-        "query": "비파괴 비파괴검사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "비파괴 비파괴검사 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ndt",
         "keyword": "비파괴검사",
-        "query": "비파괴검사 비파괴검사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "비파괴검사 비파괴검사 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ndt",
         "keyword": "NDT",
-        "query": "NDT 비파괴검사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "NDT 비파괴검사 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ndt",
         "keyword": "NDE",
-        "query": "NDE 비파괴검사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "NDE 비파괴검사 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ndt",
         "keyword": "RT",
-        "query": "RT 비파괴검사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "RT 비파괴검사 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ndt",
         "keyword": "방사선투과검사",
-        "query": "방사선투과검사 비파괴검사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사선투과검사 비파괴검사 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ndt",
         "keyword": "산업방사선",
-        "query": "산업방사선 비파괴검사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "산업방사선 비파괴검사 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ndt",
         "keyword": "UT",
-        "query": "UT 비파괴검사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "UT 비파괴검사 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ndt",
         "keyword": "PAUT",
-        "query": "PAUT 비파괴검사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "PAUT 비파괴검사 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ndt",
         "keyword": "TOFD",
-        "query": "TOFD 비파괴검사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "TOFD 비파괴검사 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ndt",
         "keyword": "초음파탐상",
-        "query": "초음파탐상 비파괴검사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "초음파탐상 비파괴검사 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ndt",
         "keyword": "위상배열",
-        "query": "위상배열 비파괴검사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "위상배열 비파괴검사 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ndt",
         "keyword": "MT",
-        "query": "MT 비파괴검사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "MT 비파괴검사 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ndt",
         "keyword": "PT",
-        "query": "PT 비파괴검사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "PT 비파괴검사 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ndt",
         "keyword": "ET",
-        "query": "ET 비파괴검사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "ET 비파괴검사 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ndt",
         "keyword": "자분탐상",
-        "query": "자분탐상 비파괴검사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "자분탐상 비파괴검사 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ndt",
         "keyword": "침투탐상",
-        "query": "침투탐상 비파괴검사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "침투탐상 비파괴검사 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ndt",
         "keyword": "와전류",
-        "query": "와전류 비파괴검사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "와전류 비파괴검사 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ndt",
         "keyword": "용접검사",
-        "query": "용접검사 비파괴검사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "용접검사 비파괴검사 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ndt",
         "keyword": "검사원",
-        "query": "검사원 비파괴검사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "검사원 비파괴검사 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "ndt",
         "keyword": "비파괴검사기사",
-        "query": "비파괴검사기사 비파괴검사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "비파괴검사기사 비파괴검사 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "radiographer",
         "keyword": "방사선사",
-        "query": "방사선사 방사선사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사선사 방사선사 병의원 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "radiographer",
         "keyword": "영상의학",
-        "query": "영상의학 방사선사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "영상의학 방사선사 병의원 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "radiographer",
         "keyword": "일반촬영",
-        "query": "일반촬영 방사선사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "일반촬영 방사선사 병의원 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "radiographer",
         "keyword": "X-ray",
-        "query": "X-ray 방사선사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "X-ray 방사선사 병의원 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "radiographer",
         "keyword": "엑스레이",
-        "query": "엑스레이 방사선사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "엑스레이 방사선사 병의원 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "radiographer",
         "keyword": "CT",
-        "query": "CT 방사선사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "CT 방사선사 병의원 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "radiographer",
         "keyword": "MRI",
-        "query": "MRI 방사선사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "MRI 방사선사 병의원 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "radiographer",
         "keyword": "C-arm",
-        "query": "C-arm 방사선사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "C-arm 방사선사 병의원 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "radiographer",
         "keyword": "씨암",
-        "query": "씨암 방사선사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "씨암 방사선사 병의원 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "radiographer",
         "keyword": "유방촬영",
-        "query": "유방촬영 방사선사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "유방촬영 방사선사 병의원 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "radiographer",
         "keyword": "Mammo",
-        "query": "Mammo 방사선사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "Mammo 방사선사 병의원 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "radiographer",
         "keyword": "핵의학",
-        "query": "핵의학 방사선사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "핵의학 방사선사 병의원 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "radiographer",
         "keyword": "PET-CT",
-        "query": "PET-CT 방사선사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "PET-CT 방사선사 병의원 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "radiographer",
         "keyword": "PET/CT",
-        "query": "PET/CT 방사선사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "PET/CT 방사선사 병의원 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "radiographer",
         "keyword": "감마카메라",
-        "query": "감마카메라 방사선사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "감마카메라 방사선사 병의원 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "radiographer",
         "keyword": "방사선치료",
-        "query": "방사선치료 방사선사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사선치료 방사선사 병의원 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "radiographer",
         "keyword": "선형가속기",
-        "query": "선형가속기 방사선사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "선형가속기 방사선사 병의원 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "radiographer",
         "keyword": "혈관조영",
-        "query": "혈관조영 방사선사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "혈관조영 방사선사 병의원 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "radiographer",
         "keyword": "Angio",
-        "query": "Angio 방사선사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "Angio 방사선사 병의원 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "radiographer",
         "keyword": "건강검진",
-        "query": "건강검진 방사선사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "건강검진 방사선사 병의원 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "radiographer",
         "keyword": "검진센터",
-        "query": "검진센터 방사선사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "검진센터 방사선사 병의원 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "radiographer",
         "keyword": "어플리케이터",
-        "query": "어플리케이터 방사선사 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "어플리케이터 방사선사 병의원 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "sonographer",
         "keyword": "초음파",
-        "query": "초음파 의료 초음파 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "초음파 의료 초음파 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "sonographer",
         "keyword": "초음파사",
-        "query": "초음파사 의료 초음파 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "초음파사 의료 초음파 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "sonographer",
         "keyword": "소노그래퍼",
-        "query": "소노그래퍼 의료 초음파 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "소노그래퍼 의료 초음파 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "sonographer",
         "keyword": "소노그레퍼",
-        "query": "소노그레퍼 의료 초음파 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "소노그레퍼 의료 초음파 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "sonographer",
         "keyword": "심초음파",
-        "query": "심초음파 의료 초음파 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "심초음파 의료 초음파 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "sonographer",
         "keyword": "심장초음파",
-        "query": "심장초음파 의료 초음파 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "심장초음파 의료 초음파 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "sonographer",
         "keyword": "혈관초음파",
-        "query": "혈관초음파 의료 초음파 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "혈관초음파 의료 초음파 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "sonographer",
         "keyword": "복부초음파",
-        "query": "복부초음파 의료 초음파 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "복부초음파 의료 초음파 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "sonographer",
         "keyword": "유방초음파",
-        "query": "유방초음파 의료 초음파 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "유방초음파 의료 초음파 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "sonographer",
         "keyword": "산모초음파",
-        "query": "산모초음파 의료 초음파 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "산모초음파 의료 초음파 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "sonographer",
         "keyword": "산부인과 초음파",
-        "query": "산부인과 초음파 의료 초음파 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "산부인과 초음파 의료 초음파 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "sonographer",
         "keyword": "경동맥",
-        "query": "경동맥 의료 초음파 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "경동맥 의료 초음파 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "sonographer",
         "keyword": "심장생리",
-        "query": "심장생리 의료 초음파 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "심장생리 의료 초음파 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "sonographer",
         "keyword": "sonographer",
-        "query": "sonographer 의료 초음파 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "sonographer 의료 초음파 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "sonographer",
         "keyword": "sonography",
-        "query": "sonography 의료 초음파 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "sonography 의료 초음파 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "sonographer",
         "keyword": "ultrasound",
-        "query": "ultrasound 의료 초음파 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "ultrasound 의료 초음파 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "sonographer",
         "keyword": "ultrasonography",
-        "query": "ultrasonography 의료 초음파 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "ultrasonography 의료 초음파 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "sonographer",
         "keyword": "초음파 임상",
-        "query": "초음파 임상 의료 초음파 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "초음파 임상 의료 초음파 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "sonographer",
         "keyword": "clinical application",
-        "query": "clinical application 의료 초음파 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "clinical application 의료 초음파 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "sonographer",
         "keyword": "초음파 어시스트",
-        "query": "초음파 어시스트 의료 초음파 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "초음파 어시스트 의료 초음파 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "other",
         "keyword": "원자력 영업",
-        "query": "원자력 영업  채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "원자력 영업 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "other",
         "keyword": "방사선 장비 영업",
-        "query": "방사선 장비 영업  채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사선 장비 영업 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "other",
         "keyword": "원전 시공",
-        "query": "원전 시공  채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "원전 시공 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "other",
         "keyword": "원전 정비",
-        "query": "원전 정비  채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "원전 정비 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "other",
         "keyword": "방사성의약품 인사",
-        "query": "방사성의약품 인사  채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사성의약품 인사 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "other",
         "keyword": "연구행정",
-        "query": "연구행정  채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "연구행정 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "other",
         "keyword": "원전 사업관리",
-        "query": "원전 사업관리  채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "원전 사업관리 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "faculty",
         "keyword": "원자력공학과",
-        "query": "원자력공학과 교수 초빙 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "원자력공학과 대학 교수 초빙 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "faculty",
         "keyword": "원자핵공학과",
-        "query": "원자핵공학과 교수 초빙 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "원자핵공학과 대학 교수 초빙 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "faculty",
         "keyword": "방사선학과",
-        "query": "방사선학과 교수 초빙 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사선학과 대학 교수 초빙 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "faculty",
         "keyword": "방사선의과학",
-        "query": "방사선의과학 교수 초빙 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사선의과학 대학 교수 초빙 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "faculty",
         "keyword": "원자력시스템",
-        "query": "원자력시스템 교수 초빙 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "원자력시스템 대학 교수 초빙 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "faculty",
         "keyword": "핵융합",
-        "query": "핵융합 교수 초빙 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "핵융합 대학 교수 초빙 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "faculty",
         "keyword": "의학물리",
-        "query": "의학물리 교수 초빙 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "의학물리 대학 교수 초빙 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "faculty",
         "keyword": "원자로",
-        "query": "원자로 교수 초빙 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "원자로 대학 교수 초빙 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "faculty",
         "keyword": "방사화학",
-        "query": "방사화학 교수 초빙 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사화학 대학 교수 초빙 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "faculty",
         "keyword": "방사성의약품",
-        "query": "방사성의약품 교수 초빙 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사성의약품 대학 교수 초빙 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "faculty",
         "keyword": "교수 초빙",
-        "query": "교수 초빙 교수 초빙 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "교수 초빙 대학 교수 초빙 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "faculty",
         "keyword": "전임교원",
-        "query": "전임교원 교수 초빙 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "전임교원 대학 교수 초빙 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "faculty",
         "keyword": "비전임교원",
-        "query": "비전임교원 교수 초빙 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "비전임교원 대학 교수 초빙 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "faculty",
         "keyword": "연구교수",
-        "query": "연구교수 교수 초빙 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "연구교수 대학 교수 초빙 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "faculty",
         "keyword": "초빙교수",
-        "query": "초빙교수 교수 초빙 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "초빙교수 대학 교수 초빙 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "faculty",
         "keyword": "겸임교수",
-        "query": "겸임교수 교수 초빙 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "겸임교수 대학 교수 초빙 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "faculty",
         "keyword": "강의전담",
-        "query": "강의전담 교수 초빙 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "강의전담 대학 교수 초빙 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "faculty",
         "keyword": "방사선 교수",
-        "query": "방사선 교수 교수 초빙 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "방사선 교수 대학 교수 초빙 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       },
       {
         "topic": "faculty",
         "keyword": "원자력 교수",
-        "query": "원자력 교수 교수 초빙 채용 2026 11월",
-        "method": "공개 웹 검색 색인",
-        "page": 1
+        "query": "원자력 교수 대학 교수 초빙 원자력 방사선 채용 2026 11월 after:2026-11-15",
+        "page": 1,
+        "method": "공개 웹 검색 색인"
       }
     ],
-    "sourceUrlsAttempted": [
-      "https://www.kaeri.re.kr/board?menuId=MENU00428",
-      "https://kins.recruiter.co.kr/app/jobnotice/list",
-      "https://www.kinac.re.kr/menu?menuId=MN0000000498",
-      "https://www.kbsi.re.kr/board?menuId=MENU002051102000000&boardId=BOARD00086",
-      "https://www.kfe.re.kr/board.es?mid=a10304010000&bid=0013",
-      "https://www.ibs.re.kr/prog/recruit/kor/sub04_01/list.do",
-      "https://pal.postech.ac.kr/ko/info/ablemanEmpmn.do",
-      "https://www.kirams.re.kr/board/generalBoardList7.do",
-      "https://diramsjob.recruiter.co.kr/career/home",
-      "https://www.khnp.co.kr/trecruit/",
-      "https://www.kepco-enc.com/board.es?mid=a10106020100&bid=0002",
-      "https://recruit.incruit.com/knfcinsa/job/",
-      "https://www.korad.or.kr/korad/board/index.do?manage_idx=26&menu_idx=438",
-      "https://www.kofons.or.kr/web/cop/bbsWeb/selectBoardList.do?bbsId=BBSMSTR_000000000441",
-      "https://www.kps.co.kr/web/company/recruit/posting/rolling.do",
-      "https://job.alio.go.kr/",
-      "https://www.nssc.go.kr/",
-      "https://www.gojobs.go.kr/",
-      "https://gongmuwon.gosi.kr/",
-      "https://job.cleaneye.go.kr/",
-      "https://www.mnd.go.kr/",
-      "https://armyjob.mil.kr/sites/job/index.do",
-      "https://www.kans.re.kr/bbs/board.php?bo_table=s2_4",
-      "https://www.koara.or.kr/hoiwon/",
-      "https://nisp.kr/rcrutPbanc/list.do",
-      "https://www.saramin.co.kr/",
-      "https://www.jobkorea.co.kr/",
-      "https://www.incruit.com/",
-      "https://www.work24.go.kr/",
-      "https://www.ibric.org/bric/biojob/recruit.do",
-      "https://jobs.ac.kr",
-      "https://www.rndjob.or.kr",
-      "https://k-club.kird.re.kr/prog/hibrain/career/sub04_01_02/list.do",
-      "https://www.hibrain.net/recruitment",
-      "https://www.karp.or.kr/index.php?bo_idx=12&hCode=BOARD",
-      "https://www.kns.org",
-      "https://invite.unist.ac.kr/invite/main.do",
-      "https://mighty.kaist.ac.kr/opening",
-      "https://ilsan.paik.ac.kr/recruit/user/job/view.do?jobId=2056&menuNo=2400004",
-      "https://www.saramin.co.kr/zf_user/jobs/list/job-category?cat_kewd=491",
-      "https://www.comwel.or.kr/recruit/hp/main.do",
-      "https://snubh.recruiter.co.kr/appsite/company/index",
-      "https://snumrc.snu.ac.kr/community/notice",
-      "https://www.medicaljob.co.kr/",
-      "https://nucleng.snu.ac.kr/community/notice?bbsidx=24083&md=v"
+    "queryCount": 200,
+    "sourceUrlsAttempted": 60,
+    "sourceObservations": [
+      {
+        "url": "https://www.kaeri.re.kr/board?menuId=MENU00428",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://kins.recruiter.co.kr/app/jobnotice/list",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://www.kinac.re.kr/menu?menuId=MN0000000498",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://www.kbsi.re.kr/board?menuId=MENU002051102000000&boardId=BOARD00086",
+        "result": "확인 불가"
+      },
+      {
+        "url": "https://www.kfe.re.kr/board.es?mid=a10304010000&bid=0013",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://www.ibs.re.kr/prog/recruit/kor/sub04_01/list.do",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://pal.postech.ac.kr/ko/info/ablemanEmpmn.do",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://www.kirams.re.kr/board/generalBoardList7.do",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://diramsjob.recruiter.co.kr/career/home",
+        "result": "확인 불가"
+      },
+      {
+        "url": "https://www.khnp.co.kr/trecruit/",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://www.kepco-enc.com/board.es?mid=a10106020100&bid=0002",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://recruit.incruit.com/knfcinsa/job/",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://www.korad.or.kr/korad/board/index.do?manage_idx=26&menu_idx=438",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://www.kofons.or.kr/web/cop/bbsWeb/selectBoardList.do?bbsId=BBSMSTR_000000000441",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://www.kps.co.kr/web/company/recruit/posting/rolling.do",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://job.alio.go.kr/",
+        "result": "확인 불가"
+      },
+      {
+        "url": "https://www.nssc.go.kr/",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://www.gojobs.go.kr/",
+        "result": "확인 불가"
+      },
+      {
+        "url": "https://gongmuwon.gosi.kr/",
+        "result": "확인 불가"
+      },
+      {
+        "url": "https://job.cleaneye.go.kr/",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://www.mnd.go.kr/",
+        "result": "확인 불가"
+      },
+      {
+        "url": "https://armyjob.mil.kr/sites/job/index.do",
+        "result": "확인 불가"
+      },
+      {
+        "url": "https://www.kans.re.kr/bbs/board.php?bo_table=s2_4",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://www.koara.or.kr/hoiwon/",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://nisp.kr/rcrutPbanc/list.do",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://www.saramin.co.kr/",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://www.jobkorea.co.kr/",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://www.incruit.com/",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://www.work24.go.kr/",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://www.ibric.org/bric/biojob/recruit.do",
+        "result": "확인 불가"
+      },
+      {
+        "url": "https://jobs.ac.kr",
+        "result": "확인 불가"
+      },
+      {
+        "url": "https://www.rndjob.or.kr",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://k-club.kird.re.kr/prog/hibrain/career/sub04_01_02/list.do",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://www.hibrain.net/recruitment",
+        "result": "확인 불가"
+      },
+      {
+        "url": "https://www.karp.or.kr/index.php?bo_idx=12&hCode=BOARD",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://www.kns.org",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://invite.unist.ac.kr/invite/main.do",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://mighty.kaist.ac.kr/opening",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://ilsan.paik.ac.kr/recruit/user/job/view.do?jobId=2056&menuNo=2400004",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://www.saramin.co.kr/zf_user/jobs/list/job-category?cat_kewd=491",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://www.comwel.or.kr/recruit/hp/main.do",
+        "result": "확인 불가"
+      },
+      {
+        "url": "https://snubh.recruiter.co.kr/appsite/company/index",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://snumrc.snu.ac.kr/community/notice",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://www.medicaljob.co.kr/",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://nucleng.snu.ac.kr/community/notice?bbsidx=24083&md=v",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55496289",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55464972",
+        "result": "확인 불가"
+      },
+      {
+        "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190005314",
+        "result": "확인 불가"
+      },
+      {
+        "url": "https://www.kirams.re.kr/board/generalBoardView7.do?no=23099",
+        "result": "확인 불가"
+      },
+      {
+        "url": "https://kirams.recruiter.co.kr",
+        "result": "확인 불가"
+      },
+      {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306658",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611040000059",
+        "result": "확인 불가"
+      },
+      {
+        "url": "https://gilhospital.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=271964&systemKindCode=MRS2",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55333071",
+        "result": "공개 화면 일부 확인"
+      },
+      {
+        "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55552087",
+        "result": "확인 불가"
+      },
+      {
+        "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55330116",
+        "result": "확인 불가"
+      },
+      {
+        "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55328381",
+        "result": "확인 불가"
+      },
+      {
+        "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55330112",
+        "result": "확인 불가"
+      },
+      {
+        "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55466937",
+        "result": "확인 불가"
+      },
+      {
+        "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55325445",
+        "result": "확인 불가"
+      }
     ],
-    "detailCandidates": 137,
-    "detailOpenReadable": 128,
-    "addedRecords": 29,
-    "mergedRecords": 9,
-    "changedRecords": 10,
-    "expiredRecords": 1,
-    "coverage": "검색어 200개 교차 검색 및 발견 상세 원문 확인. 포털 전수수집 아님. 일부 검색색인은 갱신 지연 가능. 공식 기관 게시판 접속과 채용 상세 검증을 구분.",
+    "extraPlatformQueries": [
+      {
+        "system2_search_query": [
+          {
+            "q": "초음파 방사선사 2026 11월 채용",
+            "domains": [
+              "medijob.cc"
+            ]
+          }
+        ],
+        "n_tokens": 1600
+      },
+      {
+        "system2_search_query": [
+          {
+            "q": "초음파 방사선사 2026 11월 채용",
+            "domains": [
+              "nurscape.net"
+            ]
+          }
+        ],
+        "n_tokens": 1600
+      },
+      {
+        "system2_search_query": [
+          {
+            "q": "초음파 방사선사 2026 11월 채용",
+            "domains": [
+              "hospitaljob.co.kr"
+            ]
+          }
+        ],
+        "n_tokens": 1600
+      },
+      {
+        "system2_search_query": [
+          {
+            "q": "초음파 방사선사 2026 11월 채용",
+            "domains": [
+              "krta.or.kr"
+            ]
+          }
+        ],
+        "n_tokens": 1600
+      },
+      {
+        "system2_search_query": [
+          {
+            "q": "원자력 방사선 11월 채용",
+            "domains": [
+              "wanted.co.kr"
+            ]
+          }
+        ],
+        "n_tokens": 1600
+      },
+      {
+        "system2_search_query": [
+          {
+            "q": "원자력 방사선 11월 채용",
+            "domains": [
+              "rememberapp.co.kr"
+            ]
+          }
+        ],
+        "n_tokens": 1600
+      },
+      {
+        "system2_search_query": [
+          {
+            "q": "원자력 방사선 11월 채용",
+            "domains": [
+              "incruit.com"
+            ]
+          }
+        ],
+        "n_tokens": 1600
+      },
+      {
+        "system2_search_query": [
+          {
+            "q": "원자력 방사선 11월 채용",
+            "domains": [
+              "work24.go.kr"
+            ]
+          }
+        ],
+        "n_tokens": 1600
+      },
+      {
+        "system2_search_query": [
+          {
+            "q": "방사선학과 원자력 교수 2027 초빙",
+            "domains": [
+              "hibrain.net"
+            ]
+          }
+        ],
+        "n_tokens": 1600
+      },
+      {
+        "system2_search_query": [
+          {
+            "q": "방사선학과 원자력 교수 2027 초빙",
+            "domains": [
+              "ac.kr"
+            ]
+          }
+        ],
+        "n_tokens": 1600
+      },
+      {
+        "system2_search_query": [
+          {
+            "q": "군무원 방사선 원자력 경력경쟁 2026 11월",
+            "domains": [
+              "gojobs.go.kr"
+            ]
+          }
+        ],
+        "n_tokens": 1600
+      },
+      {
+        "system2_search_query": [
+          {
+            "q": "군무원 방사선 원자력 경력경쟁 2026 11월",
+            "domains": [
+              "mnd.go.kr"
+            ]
+          }
+        ],
+        "n_tokens": 1600
+      },
+      {
+        "system2_search_query": [
+          {
+            "q": "군무원 방사선 원자력 경력경쟁 2026 11월",
+            "domains": [
+              "gosi.kr"
+            ]
+          }
+        ],
+        "n_tokens": 1600
+      },
+      {
+        "system2_search_query": [
+          {
+            "q": "군무원 방사선 원자력 경력경쟁 2026 11월",
+            "domains": [
+              "go.kr"
+            ]
+          }
+        ],
+        "n_tokens": 1600
+      },
+      {
+        "open": [
+          {
+            "ref_id": "https://www.saramin.co.kr/zf_user/search?searchword=소노그래퍼&recruitPage=2"
+          }
+        ],
+        "n_tokens": 2500
+      },
+      {
+        "open": [
+          {
+            "ref_id": "https://www.jobkorea.co.kr/Search/?stext=비파괴검사&Page_No=2"
+          }
+        ],
+        "n_tokens": 2500
+      }
+    ],
+    "addedRecords": 6,
+    "changedRecords": 13,
+    "expiredRecords": 13,
+    "mergedRecords": 0,
+    "detailVerifiedIds": [
+      "deoksan-267",
+      "eumc-31742",
+      "kbsmc-Y85k7nIM",
+      "gimpo-AXrQnhZ8",
+      "jk-50371312",
+      "sr-55599582"
+    ],
+    "expiredIds": [
+      "sr-55496289",
+      "sr-55464972",
+      "incruit-smr-2610190005314",
+      "kirams-306658-production",
+      "kirams-306658-manufacture",
+      "gil-271964",
+      "sr-55333071",
+      "sr-55552087",
+      "sr-55330116",
+      "sr-55328381",
+      "sr-55330112",
+      "sr-55466937",
+      "sr-55325445"
+    ],
+    "coverage": "검색사전 10개 분야 200개 항목. 등록 출처와 마감일 링크 조회. 잡코리아 비파괴 2~5페이지 열람. 김포우리병원 병원·포털 대조.",
     "limits": [
-      "사람인 2페이지 접근 실패",
-      "잡코리아 비파괴 2~4페이지 접근, 3페이지 읽기 제한",
-      "일부 기관은 홈페이지/목록만 읽혀 통합 첨부 전수검증 불가",
-      "동남권 JOB-ALIO는 웹 도구 실패 후 직접 다운로드로 공식 본문·첨부 12개 검증",
-      "부산시 제14회 임기제 원문/첨부 접속 실패, 나라일터 본문만 확인",
-      "민간 일부 공고는 이미지형 상세 자격·정확한 인원 미확인, 추정하지 않음",
-      "군무원·교수 분야 이번 검색에서 신규 접수중 공고 추가 확정 없음"
-    ],
-    "excluded": [
-      {
-        "id": "55263635",
-        "reason": "기존 모집·최신 재등록과 중복 가능성으로 별도 추가 제외"
-      },
-      {
-        "id": "50220876",
-        "reason": "기존 모집·최신 재등록과 중복 가능성으로 별도 추가 제외"
-      },
-      {
-        "id": "50224366",
-        "reason": "기존 모집·최신 재등록과 중복 가능성으로 별도 추가 제외"
-      }
-    ],
-    "queryCount": 200
+      "잡코리아 후속 페이지 및 사람인 소노그래퍼 2페이지 접근 제한. 동적 게시판·첨부 전체 확인 불가. 사이트별 검색 결과 전수 아님.",
+      "하늘기술검사 인천 RI 재등록 후보 상세 접근 실패, 추가 제외. 대한방사선사협회 robots 제한.",
+      "공무원·군무원·교수 신규 검증 건 없음. 과거 모집 이력은 부분 수집."
+    ]
   },
   "searchStrategy": "search-strategy.json",
   "searchAuditHistory": [
@@ -21259,6 +21884,1491 @@
         "KAIST 10월 기간제 원자력 모집은 접수 종료로 신규 목록 제외",
         "코네스 차폐해석·한화오션 방호·차폐 원문은 접수 종료로 신규 목록 제외"
       ]
+    },
+    {
+      "date": "2026-11-18",
+      "keywordDictionarySize": 200,
+      "independentKeywordsSearched": 200,
+      "queries": [
+        {
+          "topic": "safety",
+          "keyword": "방사선안전",
+          "query": "방사선안전 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "safety",
+          "keyword": "방사성",
+          "query": "방사성 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "safety",
+          "keyword": "방사성동위원소",
+          "query": "방사성동위원소 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "safety",
+          "keyword": "방사선취급감독자",
+          "query": "방사선취급감독자 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "safety",
+          "keyword": "동위원소",
+          "query": "동위원소 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "safety",
+          "keyword": "삼중수소",
+          "query": "삼중수소 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "safety",
+          "keyword": "차폐해석",
+          "query": "차폐해석 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "safety",
+          "keyword": "방사선방호",
+          "query": "방사선방호 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "safety",
+          "keyword": "선량평가",
+          "query": "선량평가 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "safety",
+          "keyword": "피폭관리",
+          "query": "피폭관리 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "safety",
+          "keyword": "보건물리",
+          "query": "보건물리 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "safety",
+          "keyword": "방사선관리기술사",
+          "query": "방사선관리기술사 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "safety",
+          "keyword": "SRI",
+          "query": "SRI 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "safety",
+          "keyword": "RI",
+          "query": "RI 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "safety",
+          "keyword": "누설점검",
+          "query": "누설점검 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "safety",
+          "keyword": "방사선 계측",
+          "query": "방사선 계측 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "safety",
+          "keyword": "방사선 발생장치",
+          "query": "방사선 발생장치 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "safety",
+          "keyword": "안전관리 업무대행",
+          "query": "안전관리 업무대행 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "safety",
+          "keyword": "MCNP",
+          "query": "MCNP 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "safety",
+          "keyword": "PHITS",
+          "query": "PHITS 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "safety",
+          "keyword": "Geant4",
+          "query": "Geant4 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "원자력안전",
+          "query": "원자력안전 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "원전",
+          "query": "원전 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "원자로",
+          "query": "원자로 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "SMR",
+          "query": "SMR 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "인허가",
+          "query": "인허가 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "안전해석",
+          "query": "안전해석 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "열수력",
+          "query": "열수력 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "PSA",
+          "query": "PSA 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "핵연료",
+          "query": "핵연료 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "노심설계",
+          "query": "노심설계 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "규제",
+          "query": "규제 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "안전성평가",
+          "query": "안전성평가 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "확률론적안전성평가",
+          "query": "확률론적안전성평가 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "중대사고",
+          "query": "중대사고 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "KEPIC",
+          "query": "KEPIC 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "기기검증",
+          "query": "기기검증 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "CGID",
+          "query": "CGID 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "품질보증",
+          "query": "품질보증 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "QA",
+          "query": "QA 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "제염",
+          "query": "제염 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "해체",
+          "query": "해체 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "방사성폐기물",
+          "query": "방사성폐기물 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "방폐물",
+          "query": "방폐물 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "nuclear_safety",
+          "keyword": "사용후핵연료",
+          "query": "사용후핵연료 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "accelerator",
+          "keyword": "가속기",
+          "query": "가속기 가속기 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "accelerator",
+          "keyword": "입자가속기",
+          "query": "입자가속기 가속기 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "accelerator",
+          "keyword": "사이클로트론",
+          "query": "사이클로트론 가속기 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "accelerator",
+          "keyword": "선형가속기",
+          "query": "선형가속기 가속기 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "accelerator",
+          "keyword": "LINAC",
+          "query": "LINAC 가속기 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "accelerator",
+          "keyword": "cyclotron",
+          "query": "cyclotron 가속기 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "accelerator",
+          "keyword": "synchrotron",
+          "query": "synchrotron 가속기 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "accelerator",
+          "keyword": "방사광가속기",
+          "query": "방사광가속기 가속기 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "accelerator",
+          "keyword": "중이온가속기",
+          "query": "중이온가속기 가속기 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "accelerator",
+          "keyword": "양성자가속기",
+          "query": "양성자가속기 가속기 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "accelerator",
+          "keyword": "빔라인",
+          "query": "빔라인 가속기 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "accelerator",
+          "keyword": "빔 진단",
+          "query": "빔 진단 가속기 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "accelerator",
+          "keyword": "빔 광학",
+          "query": "빔 광학 가속기 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "accelerator",
+          "keyword": "가속관",
+          "query": "가속관 가속기 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "accelerator",
+          "keyword": "RF",
+          "query": "RF 가속기 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "accelerator",
+          "keyword": "고주파",
+          "query": "고주파 가속기 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "accelerator",
+          "keyword": "진공",
+          "query": "진공 가속기 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "accelerator",
+          "keyword": "가속기 마그네트",
+          "query": "가속기 마그네트 가속기 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "accelerator",
+          "keyword": "초전도자석",
+          "query": "초전도자석 가속기 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "accelerator",
+          "keyword": "EPICS",
+          "query": "EPICS 가속기 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "accelerator",
+          "keyword": "인터록",
+          "query": "인터록 가속기 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "accelerator",
+          "keyword": "가속기 제어",
+          "query": "가속기 제어 가속기 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "research",
+          "keyword": "연구개발",
+          "query": "연구개발 방사선 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "research",
+          "keyword": "R&D",
+          "query": "R&D 방사선 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "research",
+          "keyword": "연구원",
+          "query": "연구원 방사선 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "research",
+          "keyword": "박사후연구원",
+          "query": "박사후연구원 방사선 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "research",
+          "keyword": "Postdoc",
+          "query": "Postdoc 방사선 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "research",
+          "keyword": "방사화학",
+          "query": "방사화학 방사선 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "research",
+          "keyword": "방사성의약품",
+          "query": "방사성의약품 방사선 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "research",
+          "keyword": "동위원소",
+          "query": "동위원소 방사선 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "research",
+          "keyword": "중성자",
+          "query": "중성자 방사선 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "research",
+          "keyword": "가속기",
+          "query": "가속기 방사선 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "research",
+          "keyword": "사이클로트론",
+          "query": "사이클로트론 방사선 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "research",
+          "keyword": "핵융합",
+          "query": "핵융합 방사선 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "research",
+          "keyword": "플라즈마",
+          "query": "플라즈마 방사선 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "research",
+          "keyword": "초전도자석",
+          "query": "초전도자석 방사선 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "research",
+          "keyword": "검출기",
+          "query": "검출기 방사선 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "research",
+          "keyword": "의학물리",
+          "query": "의학물리 방사선 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "research",
+          "keyword": "방사선 계측",
+          "query": "방사선 계측 방사선 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "research",
+          "keyword": "방사선 차폐소재",
+          "query": "방사선 차폐소재 방사선 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "research",
+          "keyword": "X-ray 개발",
+          "query": "X-ray 개발 방사선 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "research",
+          "keyword": "방사선치료",
+          "query": "방사선치료 방사선 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "research",
+          "keyword": "방사성 표지",
+          "query": "방사성 표지 방사선 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "research",
+          "keyword": "핵의학 연구",
+          "query": "핵의학 연구 방사선 원자력 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ic",
+          "keyword": "계측제어",
+          "query": "계측제어 원자력 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ic",
+          "keyword": "I&C",
+          "query": "I&C 원자력 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ic",
+          "keyword": "제어계측",
+          "query": "제어계측 원자력 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ic",
+          "keyword": "방사선 계측",
+          "query": "방사선 계측 원자력 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ic",
+          "keyword": "방사선검출기",
+          "query": "방사선검출기 원자력 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ic",
+          "keyword": "원전 SW",
+          "query": "원전 SW 원자력 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ic",
+          "keyword": "원전 제어",
+          "query": "원전 제어 원자력 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ic",
+          "keyword": "V&V",
+          "query": "V&V 원자력 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ic",
+          "keyword": "SQA",
+          "query": "SQA 원자력 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ic",
+          "keyword": "소프트웨어 검증",
+          "query": "소프트웨어 검증 원자력 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ic",
+          "keyword": "펌웨어",
+          "query": "펌웨어 원자력 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ic",
+          "keyword": "임베디드",
+          "query": "임베디드 원자력 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ic",
+          "keyword": "FPGA",
+          "query": "FPGA 원자력 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ic",
+          "keyword": "PLC",
+          "query": "PLC 원자력 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ic",
+          "keyword": "DCS",
+          "query": "DCS 원자력 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ic",
+          "keyword": "EPICS",
+          "query": "EPICS 원자력 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ic",
+          "keyword": "DAQ",
+          "query": "DAQ 원자력 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ic",
+          "keyword": "데이터 수집",
+          "query": "데이터 수집 원자력 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ic",
+          "keyword": "인터록",
+          "query": "인터록 원자력 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ic",
+          "keyword": "원전 사이버보안",
+          "query": "원전 사이버보안 원자력 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ic",
+          "keyword": "LINAC RF",
+          "query": "LINAC RF 원자력 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ic",
+          "keyword": "빔 진단",
+          "query": "빔 진단 원자력 방사선 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ndt",
+          "keyword": "비파괴",
+          "query": "비파괴 비파괴검사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ndt",
+          "keyword": "비파괴검사",
+          "query": "비파괴검사 비파괴검사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ndt",
+          "keyword": "NDT",
+          "query": "NDT 비파괴검사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ndt",
+          "keyword": "NDE",
+          "query": "NDE 비파괴검사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ndt",
+          "keyword": "RT",
+          "query": "RT 비파괴검사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ndt",
+          "keyword": "방사선투과검사",
+          "query": "방사선투과검사 비파괴검사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ndt",
+          "keyword": "산업방사선",
+          "query": "산업방사선 비파괴검사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ndt",
+          "keyword": "UT",
+          "query": "UT 비파괴검사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ndt",
+          "keyword": "PAUT",
+          "query": "PAUT 비파괴검사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ndt",
+          "keyword": "TOFD",
+          "query": "TOFD 비파괴검사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ndt",
+          "keyword": "초음파탐상",
+          "query": "초음파탐상 비파괴검사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ndt",
+          "keyword": "위상배열",
+          "query": "위상배열 비파괴검사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ndt",
+          "keyword": "MT",
+          "query": "MT 비파괴검사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ndt",
+          "keyword": "PT",
+          "query": "PT 비파괴검사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ndt",
+          "keyword": "ET",
+          "query": "ET 비파괴검사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ndt",
+          "keyword": "자분탐상",
+          "query": "자분탐상 비파괴검사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ndt",
+          "keyword": "침투탐상",
+          "query": "침투탐상 비파괴검사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ndt",
+          "keyword": "와전류",
+          "query": "와전류 비파괴검사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ndt",
+          "keyword": "용접검사",
+          "query": "용접검사 비파괴검사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ndt",
+          "keyword": "검사원",
+          "query": "검사원 비파괴검사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "ndt",
+          "keyword": "비파괴검사기사",
+          "query": "비파괴검사기사 비파괴검사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "radiographer",
+          "keyword": "방사선사",
+          "query": "방사선사 방사선사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "radiographer",
+          "keyword": "영상의학",
+          "query": "영상의학 방사선사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "radiographer",
+          "keyword": "일반촬영",
+          "query": "일반촬영 방사선사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "radiographer",
+          "keyword": "X-ray",
+          "query": "X-ray 방사선사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "radiographer",
+          "keyword": "엑스레이",
+          "query": "엑스레이 방사선사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "radiographer",
+          "keyword": "CT",
+          "query": "CT 방사선사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "radiographer",
+          "keyword": "MRI",
+          "query": "MRI 방사선사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "radiographer",
+          "keyword": "C-arm",
+          "query": "C-arm 방사선사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "radiographer",
+          "keyword": "씨암",
+          "query": "씨암 방사선사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "radiographer",
+          "keyword": "유방촬영",
+          "query": "유방촬영 방사선사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "radiographer",
+          "keyword": "Mammo",
+          "query": "Mammo 방사선사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "radiographer",
+          "keyword": "핵의학",
+          "query": "핵의학 방사선사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "radiographer",
+          "keyword": "PET-CT",
+          "query": "PET-CT 방사선사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "radiographer",
+          "keyword": "PET/CT",
+          "query": "PET/CT 방사선사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "radiographer",
+          "keyword": "감마카메라",
+          "query": "감마카메라 방사선사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "radiographer",
+          "keyword": "방사선치료",
+          "query": "방사선치료 방사선사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "radiographer",
+          "keyword": "선형가속기",
+          "query": "선형가속기 방사선사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "radiographer",
+          "keyword": "혈관조영",
+          "query": "혈관조영 방사선사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "radiographer",
+          "keyword": "Angio",
+          "query": "Angio 방사선사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "radiographer",
+          "keyword": "건강검진",
+          "query": "건강검진 방사선사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "radiographer",
+          "keyword": "검진센터",
+          "query": "검진센터 방사선사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "radiographer",
+          "keyword": "어플리케이터",
+          "query": "어플리케이터 방사선사 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "sonographer",
+          "keyword": "초음파",
+          "query": "초음파 의료 초음파 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "sonographer",
+          "keyword": "초음파사",
+          "query": "초음파사 의료 초음파 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "sonographer",
+          "keyword": "소노그래퍼",
+          "query": "소노그래퍼 의료 초음파 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "sonographer",
+          "keyword": "소노그레퍼",
+          "query": "소노그레퍼 의료 초음파 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "sonographer",
+          "keyword": "심초음파",
+          "query": "심초음파 의료 초음파 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "sonographer",
+          "keyword": "심장초음파",
+          "query": "심장초음파 의료 초음파 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "sonographer",
+          "keyword": "혈관초음파",
+          "query": "혈관초음파 의료 초음파 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "sonographer",
+          "keyword": "복부초음파",
+          "query": "복부초음파 의료 초음파 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "sonographer",
+          "keyword": "유방초음파",
+          "query": "유방초음파 의료 초음파 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "sonographer",
+          "keyword": "산모초음파",
+          "query": "산모초음파 의료 초음파 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "sonographer",
+          "keyword": "산부인과 초음파",
+          "query": "산부인과 초음파 의료 초음파 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "sonographer",
+          "keyword": "경동맥",
+          "query": "경동맥 의료 초음파 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "sonographer",
+          "keyword": "심장생리",
+          "query": "심장생리 의료 초음파 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "sonographer",
+          "keyword": "sonographer",
+          "query": "sonographer 의료 초음파 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "sonographer",
+          "keyword": "sonography",
+          "query": "sonography 의료 초음파 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "sonographer",
+          "keyword": "ultrasound",
+          "query": "ultrasound 의료 초음파 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "sonographer",
+          "keyword": "ultrasonography",
+          "query": "ultrasonography 의료 초음파 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "sonographer",
+          "keyword": "초음파 임상",
+          "query": "초음파 임상 의료 초음파 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "sonographer",
+          "keyword": "clinical application",
+          "query": "clinical application 의료 초음파 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "sonographer",
+          "keyword": "초음파 어시스트",
+          "query": "초음파 어시스트 의료 초음파 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "other",
+          "keyword": "원자력 영업",
+          "query": "원자력 영업  채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "other",
+          "keyword": "방사선 장비 영업",
+          "query": "방사선 장비 영업  채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "other",
+          "keyword": "원전 시공",
+          "query": "원전 시공  채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "other",
+          "keyword": "원전 정비",
+          "query": "원전 정비  채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "other",
+          "keyword": "방사성의약품 인사",
+          "query": "방사성의약품 인사  채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "other",
+          "keyword": "연구행정",
+          "query": "연구행정  채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "other",
+          "keyword": "원전 사업관리",
+          "query": "원전 사업관리  채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "faculty",
+          "keyword": "원자력공학과",
+          "query": "원자력공학과 교수 초빙 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "faculty",
+          "keyword": "원자핵공학과",
+          "query": "원자핵공학과 교수 초빙 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "faculty",
+          "keyword": "방사선학과",
+          "query": "방사선학과 교수 초빙 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "faculty",
+          "keyword": "방사선의과학",
+          "query": "방사선의과학 교수 초빙 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "faculty",
+          "keyword": "원자력시스템",
+          "query": "원자력시스템 교수 초빙 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "faculty",
+          "keyword": "핵융합",
+          "query": "핵융합 교수 초빙 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "faculty",
+          "keyword": "의학물리",
+          "query": "의학물리 교수 초빙 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "faculty",
+          "keyword": "원자로",
+          "query": "원자로 교수 초빙 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "faculty",
+          "keyword": "방사화학",
+          "query": "방사화학 교수 초빙 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "faculty",
+          "keyword": "방사성의약품",
+          "query": "방사성의약품 교수 초빙 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "faculty",
+          "keyword": "교수 초빙",
+          "query": "교수 초빙 교수 초빙 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "faculty",
+          "keyword": "전임교원",
+          "query": "전임교원 교수 초빙 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "faculty",
+          "keyword": "비전임교원",
+          "query": "비전임교원 교수 초빙 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "faculty",
+          "keyword": "연구교수",
+          "query": "연구교수 교수 초빙 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "faculty",
+          "keyword": "초빙교수",
+          "query": "초빙교수 교수 초빙 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "faculty",
+          "keyword": "겸임교수",
+          "query": "겸임교수 교수 초빙 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "faculty",
+          "keyword": "강의전담",
+          "query": "강의전담 교수 초빙 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "faculty",
+          "keyword": "방사선 교수",
+          "query": "방사선 교수 교수 초빙 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        },
+        {
+          "topic": "faculty",
+          "keyword": "원자력 교수",
+          "query": "원자력 교수 교수 초빙 채용 2026 11월",
+          "method": "공개 웹 검색 색인",
+          "page": 1
+        }
+      ],
+      "sourceUrlsAttempted": [
+        "https://www.kaeri.re.kr/board?menuId=MENU00428",
+        "https://kins.recruiter.co.kr/app/jobnotice/list",
+        "https://www.kinac.re.kr/menu?menuId=MN0000000498",
+        "https://www.kbsi.re.kr/board?menuId=MENU002051102000000&boardId=BOARD00086",
+        "https://www.kfe.re.kr/board.es?mid=a10304010000&bid=0013",
+        "https://www.ibs.re.kr/prog/recruit/kor/sub04_01/list.do",
+        "https://pal.postech.ac.kr/ko/info/ablemanEmpmn.do",
+        "https://www.kirams.re.kr/board/generalBoardList7.do",
+        "https://diramsjob.recruiter.co.kr/career/home",
+        "https://www.khnp.co.kr/trecruit/",
+        "https://www.kepco-enc.com/board.es?mid=a10106020100&bid=0002",
+        "https://recruit.incruit.com/knfcinsa/job/",
+        "https://www.korad.or.kr/korad/board/index.do?manage_idx=26&menu_idx=438",
+        "https://www.kofons.or.kr/web/cop/bbsWeb/selectBoardList.do?bbsId=BBSMSTR_000000000441",
+        "https://www.kps.co.kr/web/company/recruit/posting/rolling.do",
+        "https://job.alio.go.kr/",
+        "https://www.nssc.go.kr/",
+        "https://www.gojobs.go.kr/",
+        "https://gongmuwon.gosi.kr/",
+        "https://job.cleaneye.go.kr/",
+        "https://www.mnd.go.kr/",
+        "https://armyjob.mil.kr/sites/job/index.do",
+        "https://www.kans.re.kr/bbs/board.php?bo_table=s2_4",
+        "https://www.koara.or.kr/hoiwon/",
+        "https://nisp.kr/rcrutPbanc/list.do",
+        "https://www.saramin.co.kr/",
+        "https://www.jobkorea.co.kr/",
+        "https://www.incruit.com/",
+        "https://www.work24.go.kr/",
+        "https://www.ibric.org/bric/biojob/recruit.do",
+        "https://jobs.ac.kr",
+        "https://www.rndjob.or.kr",
+        "https://k-club.kird.re.kr/prog/hibrain/career/sub04_01_02/list.do",
+        "https://www.hibrain.net/recruitment",
+        "https://www.karp.or.kr/index.php?bo_idx=12&hCode=BOARD",
+        "https://www.kns.org",
+        "https://invite.unist.ac.kr/invite/main.do",
+        "https://mighty.kaist.ac.kr/opening",
+        "https://ilsan.paik.ac.kr/recruit/user/job/view.do?jobId=2056&menuNo=2400004",
+        "https://www.saramin.co.kr/zf_user/jobs/list/job-category?cat_kewd=491",
+        "https://www.comwel.or.kr/recruit/hp/main.do",
+        "https://snubh.recruiter.co.kr/appsite/company/index",
+        "https://snumrc.snu.ac.kr/community/notice",
+        "https://www.medicaljob.co.kr/",
+        "https://nucleng.snu.ac.kr/community/notice?bbsidx=24083&md=v"
+      ],
+      "detailCandidates": 137,
+      "detailOpenReadable": 128,
+      "addedRecords": 29,
+      "mergedRecords": 9,
+      "changedRecords": 10,
+      "expiredRecords": 1,
+      "coverage": "검색어 200개 교차 검색 및 발견 상세 원문 확인. 포털 전수수집 아님. 일부 검색색인은 갱신 지연 가능. 공식 기관 게시판 접속과 채용 상세 검증을 구분.",
+      "limits": [
+        "사람인 2페이지 접근 실패",
+        "잡코리아 비파괴 2~4페이지 접근, 3페이지 읽기 제한",
+        "일부 기관은 홈페이지/목록만 읽혀 통합 첨부 전수검증 불가",
+        "동남권 JOB-ALIO는 웹 도구 실패 후 직접 다운로드로 공식 본문·첨부 12개 검증",
+        "부산시 제14회 임기제 원문/첨부 접속 실패, 나라일터 본문만 확인",
+        "민간 일부 공고는 이미지형 상세 자격·정확한 인원 미확인, 추정하지 않음",
+        "군무원·교수 분야 이번 검색에서 신규 접수중 공고 추가 확정 없음"
+      ],
+      "excluded": [
+        {
+          "id": "55263635",
+          "reason": "기존 모집·최신 재등록과 중복 가능성으로 별도 추가 제외"
+        },
+        {
+          "id": "50220876",
+          "reason": "기존 모집·최신 재등록과 중복 가능성으로 별도 추가 제외"
+        },
+        {
+          "id": "50224366",
+          "reason": "기존 모집·최신 재등록과 중복 가능성으로 별도 추가 제외"
+        }
+      ],
+      "queryCount": 200
     }
   ],
   "classificationPolicy": "담당업무 기준 주분야 1개 · 산업·직무 탭 중복 없음"
