@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked": "2026-11-19",
-  "coverage": "공개 원문·공공 포털·학회 자료에서 확인한 부분 수집 이력입니다. 국내 전체 채용의 전수 통계가 아닙니다. 2026-11-18: 기존 29개 이력 삭제 없이 재공고 vacancyKey 연결. 신규 공고는 jobs.json에만 추가하고 history에 복제하지 않음. 2026-11-19: 마감 13건은 jobs.json에 원래 ID로 보존. 신규 수록 6건의 모집인원은 미확인. 11/19 누락 보완: KBSI 11/2 통합 공채(마감) 5개 분야만 이력에 추가. 신규 진행 직무는 jobs.json에서 집계. 게시·시작일 미공개 상시채용은 월별로 배정하지 않음. 미수집 월은 채용 0건을 뜻하지 않음.",
+  "checked": "2026-11-20",
+  "coverage": "공개 원문·공공 포털·학회 자료에서 확인한 부분 수집 이력입니다. 국내 전체 채용의 전수 통계가 아닙니다. 2026-11-18: 기존 29개 이력 삭제 없이 재공고 vacancyKey 연결. 신규 공고는 jobs.json에만 추가하고 history에 복제하지 않음. 2026-11-19: 마감 13건은 jobs.json에 원래 ID로 보존. 신규 수록 6건의 모집인원은 미확인. 11/19 누락 보완: KBSI 11/2 통합 공채(마감) 5개 분야만 이력에 추가. 신규 진행 직무는 jobs.json에서 집계. 게시·시작일 미공개 상시채용은 월별로 배정하지 않음. 미수집 월은 채용 0건을 뜻하지 않음. 11/20: 10월 접수 시작 후 마감된 월성 방폐물 처분인도·대전 가속기 실험지원 2건 보완. 기존 모집의 재공고는 같은 vacancyKey로 연결. 미수집 달은 채용 0건을 의미하지 않음.",
   "records": [
     {
       "id": "history-knu-57969",
@@ -735,6 +735,56 @@
         "url": "https://www.kbsi.re.kr/board/view?boardId=BOARD00086&boardStyle=&categoryId=&continent=&country=&menuId=MENU002051102000000&no1=1&pageNum=1&rowCnt=10&schText=&schType=0&titleId=ijuk230JqN"
       },
       "checked": "2026-11-19"
+    },
+    {
+      "id": "history-sr-55283958",
+      "vacancyKey": "sr-55283958",
+      "company": "하나원자력기술",
+      "title": "월성원자력본부 방사성폐기물 처분인도",
+      "date": "2026-10-14",
+      "dateBasis": "start",
+      "start": "2026-10-14T09:00:00+09:00",
+      "end": "2026-11-13T23:59:00+09:00",
+      "status": "closed",
+      "topics": [
+        "nuclear_safety"
+      ],
+      "category": "private",
+      "regions": [
+        "경북"
+      ],
+      "openings": null,
+      "openingsNote": "개별 공고 확정 모집인원 미확인",
+      "source": {
+        "label": "기업 등록 공고 · 접수기간·마감",
+        "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55283958"
+      },
+      "checked": "2026-11-20"
+    },
+    {
+      "id": "history-sr-55290046",
+      "vacancyKey": "sr-55290046",
+      "company": "엠케이브이",
+      "title": "국책연구소 가속기 실험장치 기계·전기·진공 실험지원",
+      "date": "2026-10-14",
+      "dateBasis": "start",
+      "start": "2026-10-14T16:00:00+09:00",
+      "end": "2026-11-13T23:59:00+09:00",
+      "status": "closed",
+      "topics": [
+        "accelerator"
+      ],
+      "category": "private",
+      "regions": [
+        "대전"
+      ],
+      "openings": null,
+      "openingsNote": "개별 공고 확정 모집인원 미확인",
+      "source": {
+        "label": "기업 등록 공고 · 접수기간·마감",
+        "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55290046"
+      },
+      "checked": "2026-11-20"
     }
   ]
 }
